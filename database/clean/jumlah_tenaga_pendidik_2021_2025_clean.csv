@@ -1,0 +1,2245 @@
+﻿region_name,region_code,region_type,year,education_level,school_status,pns_count,pppk_count,private_permanent_count,permanent_subtotal_count,foundation_count,non_permanent_count,permanent_count,total_count,non_permanent_total_count,overall_total_count
+Aceh,11,province,2025,SMA/MA,Negeri,768,255,255,0,0,1023,1023,1587,1587,2610.0
+Aceh,11,province,2025,SMA/MA,Swasta,13,0,0,128,128,141,141,122,122,263.0
+Aceh,11,province,2025,SMA/MA,Negeri dan Swasta,781,255,255,128,128,1164,1164,1709,1709,2873.0
+Sumatera Utara,12,province,2025,SMA/MA,Negeri,307,0,0,0,0,307,307,1787,1787,2094.0
+Sumatera Utara,12,province,2025,SMA/MA,Swasta,0,0,0,701,701,701,701,191,191,892.0
+Sumatera Utara,12,province,2025,SMA/MA,Negeri dan Swasta,307,0,0,701,701,1008,1008,1978,1978,2986.0
+Sumatera Barat,13,province,2025,SMA/MA,Negeri,349,0,0,0,0,349,349,1350,1350,1699.0
+Sumatera Barat,13,province,2025,SMA/MA,Swasta,0,0,0,159,159,159,159,58,58,217.0
+Sumatera Barat,13,province,2025,SMA/MA,Negeri dan Swasta,349,0,0,159,159,508,508,1408,1408,1916.0
+Riau,14,province,2025,SMA/MA,Negeri,224,555,555,0,0,779,779,1131,1131,1910.0
+Riau,14,province,2025,SMA/MA,Swasta,0,0,0,188,188,188,188,74,74,262.0
+Riau,14,province,2025,SMA/MA,Negeri dan Swasta,224,555,555,188,188,967,967,1205,1205,2172.0
+Jambi,15,province,2025,SMA/MA,Negeri,213,15,15,0,0,228,228,948,948,1176.0
+Jambi,15,province,2025,SMA/MA,Swasta,0,0,0,91,91,91,91,28,28,119.0
+Jambi,15,province,2025,SMA/MA,Negeri dan Swasta,213,15,15,91,91,319,319,976,976,1295.0
+Sumatera Selatan,16,province,2025,SMA/MA,Negeri,274,428,428,0,0,702,702,1640,1640,2342.0
+Sumatera Selatan,16,province,2025,SMA/MA,Swasta,1,0,0,351,351,352,352,319,319,671.0
+Sumatera Selatan,16,province,2025,SMA/MA,Negeri dan Swasta,275,428,428,351,351,1054,1054,1959,1959,3013.0
+Bengkulu,17,province,2025,SMA/MA,Negeri,172,14,14,0,0,186,186,827,827,1013.0
+Bengkulu,17,province,2025,SMA/MA,Swasta,0,0,0,33,33,33,33,18,18,51.0
+Bengkulu,17,province,2025,SMA/MA,Negeri dan Swasta,172,14,14,33,33,219,219,845,845,1064.0
+Lampung,18,province,2025,SMA/MA,Negeri,282,804,804,0,0,1086,1086,623,623,1709.0
+Lampung,18,province,2025,SMA/MA,Swasta,0,0,0,389,389,389,389,123,123,512.0
+Lampung,18,province,2025,SMA/MA,Negeri dan Swasta,282,804,804,389,389,1475,1475,746,746,2221.0
+Kepulauan Bangka Belitung,19,province,2025,SMA/MA,Negeri,70,39,39,0,0,109,109,233,233,342.0
+Kepulauan Bangka Belitung,19,province,2025,SMA/MA,Swasta,0,0,0,47,47,47,47,34,34,81.0
+Kepulauan Bangka Belitung,19,province,2025,SMA/MA,Negeri dan Swasta,70,39,39,47,47,156,156,267,267,423.0
+Kepulauan Riau,21,province,2025,SMA/MA,Negeri,110,219,219,0,0,329,329,427,427,756.0
+Kepulauan Riau,21,province,2025,SMA/MA,Swasta,0,0,0,94,94,94,94,28,28,122.0
+Kepulauan Riau,21,province,2025,SMA/MA,Negeri dan Swasta,110,219,219,94,94,423,423,455,455,878.0
+D.K.I. Jakarta,31,province,2025,SMA/MA,Negeri,265,11,11,0,0,276,276,685,685,961.0
+D.K.I. Jakarta,31,province,2025,SMA/MA,Swasta,0,0,0,916,916,916,916,453,453,1369.0
+D.K.I. Jakarta,31,province,2025,SMA/MA,Negeri dan Swasta,265,11,11,916,916,1192,1192,1138,1138,2330.0
+Jawa Barat,32,province,2025,SMA/MA,Negeri,661,54,54,0,0,715,715,5295,5295,6010.0
+Jawa Barat,32,province,2025,SMA/MA,Swasta,0,0,0,2095,2095,2095,2095,941,941,3036.0
+Jawa Barat,32,province,2025,SMA/MA,Negeri dan Swasta,661,54,54,2095,2095,2810,2810,6236,6236,9046.0
+Jawa Tengah,33,province,2025,SMA/MA,Negeri,840,45,45,0,0,885,885,2875,2875,3760.0
+Jawa Tengah,33,province,2025,SMA/MA,Swasta,0,0,0,1121,1121,1121,1121,459,459,1580.0
+Jawa Tengah,33,province,2025,SMA/MA,Negeri dan Swasta,840,45,45,1121,1121,2006,2006,3334,3334,5340.0
+D.I. Yogyakarta,34,province,2025,SMA/MA,Negeri,356,301,301,0,0,657,657,200,200,857.0
+D.I. Yogyakarta,34,province,2025,SMA/MA,Swasta,0,0,0,237,237,237,237,188,188,425.0
+D.I. Yogyakarta,34,province,2025,SMA/MA,Negeri dan Swasta,356,301,301,237,237,894,894,388,388,1282.0
+Jawa Timur,35,province,2025,SMA/MA,Negeri,1003,29,29,0,0,1032,1032,3933,3933,4965.0
+Jawa Timur,35,province,2025,SMA/MA,Swasta,0,0,0,1736,1736,1736,1736,402,402,2138.0
+Jawa Timur,35,province,2025,SMA/MA,Negeri dan Swasta,1003,29,29,1736,1736,2768,2768,4335,4335,7103.0
+Banten,36,province,2025,SMA/MA,Negeri,139,1124,1124,0,0,1263,1263,308,308,1571.0
+Banten,36,province,2025,SMA/MA,Swasta,0,0,0,1032,1032,1032,1032,241,241,1273.0
+Banten,36,province,2025,SMA/MA,Negeri dan Swasta,139,1124,1124,1032,1032,2295,2295,549,549,2844.0
+Bali,51,province,2025,SMA/MA,Negeri,322,284,284,0,0,606,606,1083,1083,1689.0
+Bali,51,province,2025,SMA/MA,Swasta,0,0,0,174,174,174,174,59,59,233.0
+Bali,51,province,2025,SMA/MA,Negeri dan Swasta,322,284,284,174,174,780,780,1142,1142,1922.0
+Nusa Tenggara Barat,52,province,2025,SMA/MA,Negeri,311,33,33,0,0,344,344,1251,1251,1595.0
+Nusa Tenggara Barat,52,province,2025,SMA/MA,Swasta,1,0,0,182,182,183,183,31,31,214.0
+Nusa Tenggara Barat,52,province,2025,SMA/MA,Negeri dan Swasta,312,33,33,182,182,527,527,1282,1282,1809.0
+Nusa Tenggara Timur,53,province,2025,SMA/MA,Negeri,229,156,156,0,0,385,385,1129,1129,1514.0
+Nusa Tenggara Timur,53,province,2025,SMA/MA,Swasta,1,0,0,344,344,345,345,176,176,521.0
+Nusa Tenggara Timur,53,province,2025,SMA/MA,Negeri dan Swasta,230,156,156,344,344,730,730,1305,1305,2035.0
+Kalimantan Barat,61,province,2025,SMA/MA,Negeri,203,0,0,0,0,203,203,593,593,796.0
+Kalimantan Barat,61,province,2025,SMA/MA,Swasta,0,0,0,113,113,113,113,98,98,211.0
+Kalimantan Barat,61,province,2025,SMA/MA,Negeri dan Swasta,203,0,0,113,113,316,316,691,691,1007.0
+Kalimantan Tengah,62,province,2025,SMA/MA,Negeri,73,35,35,0,0,108,108,323,323,431.0
+Kalimantan Tengah,62,province,2025,SMA/MA,Swasta,1,0,0,34,34,35,35,29,29,64.0
+Kalimantan Tengah,62,province,2025,SMA/MA,Negeri dan Swasta,74,35,35,34,34,143,143,352,352,495.0
+Kalimantan Selatan,63,province,2025,SMA/MA,Negeri,212,10,10,0,0,222,222,960,960,1182.0
+Kalimantan Selatan,63,province,2025,SMA/MA,Swasta,0,0,0,121,121,121,121,48,48,169.0
+Kalimantan Selatan,63,province,2025,SMA/MA,Negeri dan Swasta,212,10,10,121,121,343,343,1008,1008,1351.0
+Kalimantan Timur,64,province,2025,SMA/MA,Negeri,144,548,548,0,0,692,692,247,247,939.0
+Kalimantan Timur,64,province,2025,SMA/MA,Swasta,0,0,0,162,162,162,162,70,70,232.0
+Kalimantan Timur,64,province,2025,SMA/MA,Negeri dan Swasta,144,548,548,162,162,854,854,317,317,1171.0
+Kalimantan Utara,65,province,2025,SMA/MA,Negeri,44,131,131,0,0,175,175,75,75,250.0
+Kalimantan Utara,65,province,2025,SMA/MA,Swasta,0,0,0,35,35,35,35,20,20,55.0
+Kalimantan Utara,65,province,2025,SMA/MA,Negeri dan Swasta,44,131,131,35,35,210,210,95,95,305.0
+Sulawesi Utara,71,province,2025,SMA/MA,Negeri,85,449,449,0,0,534,534,62,62,596.0
+Sulawesi Utara,71,province,2025,SMA/MA,Swasta,1,0,0,59,59,60,60,30,30,90.0
+Sulawesi Utara,71,province,2025,SMA/MA,Negeri dan Swasta,86,449,449,59,59,594,594,92,92,686.0
+Sulawesi Tengah,72,province,2025,SMA/MA,Negeri,217,0,0,0,0,217,217,571,571,788.0
+Sulawesi Tengah,72,province,2025,SMA/MA,Swasta,6,0,0,66,66,72,72,45,45,117.0
+Sulawesi Tengah,72,province,2025,SMA/MA,Negeri dan Swasta,223,0,0,66,66,289,289,616,616,905.0
+Sulawesi Selatan,73,province,2025,SMA/MA,Negeri,355,884,884,0,0,1239,1239,663,663,1902.0
+Sulawesi Selatan,73,province,2025,SMA/MA,Swasta,2,0,0,293,293,295,295,75,75,370.0
+Sulawesi Selatan,73,province,2025,SMA/MA,Negeri dan Swasta,357,884,884,293,293,1534,1534,738,738,2272.0
+Sulawesi Tenggara,74,province,2025,SMA/MA,Negeri,133,296,296,0,0,429,429,892,892,1321.0
+Sulawesi Tenggara,74,province,2025,SMA/MA,Swasta,0,0,0,42,42,42,42,17,17,59.0
+Sulawesi Tenggara,74,province,2025,SMA/MA,Negeri dan Swasta,133,296,296,42,42,471,471,909,909,1380.0
+Gorontalo,75,province,2025,SMA/MA,Negeri,68,0,0,0,0,68,68,258,258,326.0
+Gorontalo,75,province,2025,SMA/MA,Swasta,2,0,0,7,7,9,9,16,16,25.0
+Gorontalo,75,province,2025,SMA/MA,Negeri dan Swasta,70,0,0,7,7,77,77,274,274,351.0
+Sulawesi Barat,76,province,2025,SMA/MA,Negeri,111,2,2,0,0,113,113,469,469,582.0
+Sulawesi Barat,76,province,2025,SMA/MA,Swasta,0,0,0,19,19,19,19,1,1,20.0
+Sulawesi Barat,76,province,2025,SMA/MA,Negeri dan Swasta,111,2,2,19,19,132,132,470,470,602.0
+Maluku,81,province,2025,SMA/MA,Negeri,269,0,0,0,0,269,269,519,519,788.0
+Maluku,81,province,2025,SMA/MA,Swasta,15,0,0,61,61,76,76,42,42,118.0
+Maluku,81,province,2025,SMA/MA,Negeri dan Swasta,284,0,0,61,61,345,345,561,561,906.0
+Maluku Utara,82,province,2025,SMA/MA,Negeri,157,130,130,0,0,287,287,187,187,474.0
+Maluku Utara,82,province,2025,SMA/MA,Swasta,3,0,0,21,21,24,24,37,37,61.0
+Maluku Utara,82,province,2025,SMA/MA,Negeri dan Swasta,160,130,130,21,21,311,311,224,224,535.0
+Papua,91,province,2025,SMA/MA,Negeri,143,3,3,0,0,146,146,85,85,231.0
+Papua,91,province,2025,SMA/MA,Swasta,32,0,0,37,37,69,69,59,59,128.0
+Papua,91,province,2025,SMA/MA,Negeri dan Swasta,175,3,3,37,37,215,215,144,144,359.0
+Papua Barat,92,province,2025,SMA/MA,Negeri,25,0,0,0,0,25,25,69,69,94.0
+Papua Barat,92,province,2025,SMA/MA,Swasta,2,0,0,11,11,13,13,31,31,44.0
+Papua Barat,92,province,2025,SMA/MA,Negeri dan Swasta,27,0,0,11,11,38,38,100,100,138.0
+Papua Selatan,93,province,2025,SMA/MA,Negeri,13,1,1,0,0,14,14,50,50,64.0
+Papua Selatan,93,province,2025,SMA/MA,Swasta,3,0,0,11,11,14,14,20,20,34.0
+Papua Selatan,93,province,2025,SMA/MA,Negeri dan Swasta,16,1,1,11,11,28,28,70,70,98.0
+Papua Tengah,94,province,2025,SMA/MA,Negeri,26,0,0,0,0,26,26,25,25,51.0
+Papua Tengah,94,province,2025,SMA/MA,Swasta,4,0,0,14,14,18,18,24,24,42.0
+Papua Tengah,94,province,2025,SMA/MA,Negeri dan Swasta,30,0,0,14,14,44,44,49,49,93.0
+Papua Pegunungan,95,province,2025,SMA/MA,Negeri,1,0,0,0,0,1,1,15,15,16.0
+Papua Pegunungan,95,province,2025,SMA/MA,Swasta,4,0,0,4,4,8,8,3,3,11.0
+Papua Pegunungan,95,province,2025,SMA/MA,Negeri dan Swasta,5,0,0,4,4,9,9,18,18,27.0
+Papua Barat Daya,96,province,2025,SMA/MA,Negeri,12,0,0,0,0,12,12,66,66,78.0
+Papua Barat Daya,96,province,2025,SMA/MA,Swasta,1,0,0,19,19,20,20,12,12,32.0
+Papua Barat Daya,96,province,2025,SMA/MA,Negeri dan Swasta,13,0,0,19,19,32,32,78,78,110.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMA/MA,Negeri,0,0,0,0,0,0,0,4,4,4.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMA/MA,Swasta,0,0,0,1,1,1,1,1,1,2.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMA/MA,Negeri dan Swasta,0,0,0,1,1,1,1,5,5,6.0
+Aceh,11,province,2024,SMA/MA,Negeri,829,0,0,0,0,829,829,1891,1891,2720.0
+Aceh,11,province,2024,SMA/MA,Swasta,12,0,0,110,110,122,122,157,157,279.0
+Aceh,11,province,2024,SMA/MA,Negeri dan Swasta,841,0,0,110,110,951,951,2048,2048,2999.0
+Sumatera Utara,12,province,2024,SMA/MA,Negeri,355,0,0,0,0,355,355,1800,1800,2155.0
+Sumatera Utara,12,province,2024,SMA/MA,Swasta,0,0,0,735,735,735,735,214,214,949.0
+Sumatera Utara,12,province,2024,SMA/MA,Negeri dan Swasta,355,0,0,735,735,1090,1090,2014,2014,3104.0
+Sumatera Barat,13,province,2024,SMA/MA,Negeri,370,0,0,0,0,370,370,1355,1355,1725.0
+Sumatera Barat,13,province,2024,SMA/MA,Swasta,0,0,0,148,148,148,148,58,58,206.0
+Sumatera Barat,13,province,2024,SMA/MA,Negeri dan Swasta,370,0,0,148,148,518,518,1413,1413,1931.0
+Riau,14,province,2024,SMA/MA,Negeri,235,0,0,0,0,235,235,1731,1731,1966.0
+Riau,14,province,2024,SMA/MA,Swasta,0,0,0,182,182,182,182,67,67,249.0
+Riau,14,province,2024,SMA/MA,Negeri dan Swasta,235,0,0,182,182,417,417,1798,1798,2215.0
+Jambi,15,province,2024,SMA/MA,Negeri,231,0,0,0,0,231,231,974,974,1205.0
+Jambi,15,province,2024,SMA/MA,Swasta,0,0,0,79,79,79,79,32,32,111.0
+Jambi,15,province,2024,SMA/MA,Negeri dan Swasta,231,0,0,79,79,310,310,1006,1006,1316.0
+Sumatera Selatan,16,province,2024,SMA/MA,Negeri,282,0,0,0,0,282,282,2067,2067,2349.0
+Sumatera Selatan,16,province,2024,SMA/MA,Swasta,1,0,0,343,343,344,344,326,326,670.0
+Sumatera Selatan,16,province,2024,SMA/MA,Negeri dan Swasta,283,0,0,343,343,626,626,2393,2393,3019.0
+Bengkulu,17,province,2024,SMA/MA,Negeri,177,0,0,0,0,177,177,870,870,1047.0
+Bengkulu,17,province,2024,SMA/MA,Swasta,0,0,0,33,33,33,33,25,25,58.0
+Bengkulu,17,province,2024,SMA/MA,Negeri dan Swasta,177,0,0,33,33,210,210,895,895,1105.0
+Lampung,18,province,2024,SMA/MA,Negeri,323,0,0,0,0,323,323,1436,1436,1759.0
+Lampung,18,province,2024,SMA/MA,Swasta,0,0,0,379,379,379,379,128,128,507.0
+Lampung,18,province,2024,SMA/MA,Negeri dan Swasta,323,0,0,379,379,702,702,1564,1564,2266.0
+Kepulauan Bangka Belitung,19,province,2024,SMA/MA,Negeri,79,0,0,0,0,79,79,288,288,367.0
+Kepulauan Bangka Belitung,19,province,2024,SMA/MA,Swasta,0,0,0,39,39,39,39,40,40,79.0
+Kepulauan Bangka Belitung,19,province,2024,SMA/MA,Negeri dan Swasta,79,0,0,39,39,118,118,328,328,446.0
+Kepulauan Riau,21,province,2024,SMA/MA,Negeri,112,0,0,0,0,112,112,650,650,762.0
+Kepulauan Riau,21,province,2024,SMA/MA,Swasta,0,0,0,85,85,85,85,26,26,111.0
+Kepulauan Riau,21,province,2024,SMA/MA,Negeri dan Swasta,112,0,0,85,85,197,197,676,676,873.0
+D.K.I. Jakarta,31,province,2024,SMA/MA,Negeri,232,0,0,0,0,232,232,724,724,956.0
+D.K.I. Jakarta,31,province,2024,SMA/MA,Swasta,0,0,0,869,869,869,869,459,459,1328.0
+D.K.I. Jakarta,31,province,2024,SMA/MA,Negeri dan Swasta,232,0,0,869,869,1101,1101,1183,1183,2284.0
+Jawa Barat,32,province,2024,SMA/MA,Negeri,731,0,0,0,0,731,731,5576,5576,6307.0
+Jawa Barat,32,province,2024,SMA/MA,Swasta,0,0,0,2013,2013,2013,2013,949,949,2962.0
+Jawa Barat,32,province,2024,SMA/MA,Negeri dan Swasta,731,0,0,2013,2013,2744,2744,6525,6525,9269.0
+Jawa Tengah,33,province,2024,SMA/MA,Negeri,936,0,0,0,0,936,936,3161,3161,4097.0
+Jawa Tengah,33,province,2024,SMA/MA,Swasta,0,0,0,1160,1160,1160,1160,474,474,1634.0
+Jawa Tengah,33,province,2024,SMA/MA,Negeri dan Swasta,936,0,0,1160,1160,2096,2096,3635,3635,5731.0
+D.I. Yogyakarta,34,province,2024,SMA/MA,Negeri,377,0,0,0,0,377,377,474,474,851.0
+D.I. Yogyakarta,34,province,2024,SMA/MA,Swasta,0,0,0,226,226,226,226,190,190,416.0
+D.I. Yogyakarta,34,province,2024,SMA/MA,Negeri dan Swasta,377,0,0,226,226,603,603,664,664,1267.0
+Jawa Timur,35,province,2024,SMA/MA,Negeri,1036,0,0,0,0,1036,1036,4030,4030,5066.0
+Jawa Timur,35,province,2024,SMA/MA,Swasta,0,0,0,1731,1731,1731,1731,411,411,2142.0
+Jawa Timur,35,province,2024,SMA/MA,Negeri dan Swasta,1036,0,0,1731,1731,2767,2767,4441,4441,7208.0
+Banten,36,province,2024,SMA/MA,Negeri,151,0,0,0,0,151,151,1333,1333,1484.0
+Banten,36,province,2024,SMA/MA,Swasta,0,0,0,967,967,967,967,256,256,1223.0
+Banten,36,province,2024,SMA/MA,Negeri dan Swasta,151,0,0,967,967,1118,1118,1589,1589,2707.0
+Bali,51,province,2024,SMA/MA,Negeri,355,0,0,0,0,355,355,1349,1349,1704.0
+Bali,51,province,2024,SMA/MA,Swasta,0,0,0,171,171,171,171,68,68,239.0
+Bali,51,province,2024,SMA/MA,Negeri dan Swasta,355,0,0,171,171,526,526,1417,1417,1943.0
+Nusa Tenggara Barat,52,province,2024,SMA/MA,Negeri,342,0,0,0,0,342,342,1306,1306,1648.0
+Nusa Tenggara Barat,52,province,2024,SMA/MA,Swasta,1,0,0,156,156,157,157,35,35,192.0
+Nusa Tenggara Barat,52,province,2024,SMA/MA,Negeri dan Swasta,343,0,0,156,156,499,499,1341,1341,1840.0
+Nusa Tenggara Timur,53,province,2024,SMA/MA,Negeri,180,0,0,0,0,180,180,1265,1265,1445.0
+Nusa Tenggara Timur,53,province,2024,SMA/MA,Swasta,1,0,0,359,359,360,360,198,198,558.0
+Nusa Tenggara Timur,53,province,2024,SMA/MA,Negeri dan Swasta,181,0,0,359,359,540,540,1463,1463,2003.0
+Kalimantan Barat,61,province,2024,SMA/MA,Negeri,218,0,0,0,0,218,218,609,609,827.0
+Kalimantan Barat,61,province,2024,SMA/MA,Swasta,0,0,0,111,111,111,111,102,102,213.0
+Kalimantan Barat,61,province,2024,SMA/MA,Negeri dan Swasta,218,0,0,111,111,329,329,711,711,1040.0
+Kalimantan Tengah,62,province,2024,SMA/MA,Negeri,79,0,0,0,0,79,79,351,351,430.0
+Kalimantan Tengah,62,province,2024,SMA/MA,Swasta,1,0,0,31,31,32,32,33,33,65.0
+Kalimantan Tengah,62,province,2024,SMA/MA,Negeri dan Swasta,80,0,0,31,31,111,111,384,384,495.0
+Kalimantan Selatan,63,province,2024,SMA/MA,Negeri,220,0,0,0,0,220,220,874,874,1094.0
+Kalimantan Selatan,63,province,2024,SMA/MA,Swasta,0,0,0,104,104,104,104,51,51,155.0
+Kalimantan Selatan,63,province,2024,SMA/MA,Negeri dan Swasta,220,0,0,104,104,324,324,925,925,1249.0
+Kalimantan Timur,64,province,2024,SMA/MA,Negeri,163,0,0,0,0,163,163,794,794,957.0
+Kalimantan Timur,64,province,2024,SMA/MA,Swasta,0,0,0,157,157,157,157,73,73,230.0
+Kalimantan Timur,64,province,2024,SMA/MA,Negeri dan Swasta,163,0,0,157,157,320,320,867,867,1187.0
+Kalimantan Utara,65,province,2024,SMA/MA,Negeri,49,0,0,0,0,49,49,208,208,257.0
+Kalimantan Utara,65,province,2024,SMA/MA,Swasta,0,0,0,37,37,37,37,20,20,57.0
+Kalimantan Utara,65,province,2024,SMA/MA,Negeri dan Swasta,49,0,0,37,37,86,86,228,228,314.0
+Sulawesi Utara,71,province,2024,SMA/MA,Negeri,100,0,0,0,0,100,100,392,392,492.0
+Sulawesi Utara,71,province,2024,SMA/MA,Swasta,1,0,0,52,52,53,53,31,31,84.0
+Sulawesi Utara,71,province,2024,SMA/MA,Negeri dan Swasta,101,0,0,52,52,153,153,423,423,576.0
+Sulawesi Tengah,72,province,2024,SMA/MA,Negeri,236,0,0,0,0,236,236,675,675,911.0
+Sulawesi Tengah,72,province,2024,SMA/MA,Swasta,7,0,0,64,64,71,71,52,52,123.0
+Sulawesi Tengah,72,province,2024,SMA/MA,Negeri dan Swasta,243,0,0,64,64,307,307,727,727,1034.0
+Sulawesi Selatan,73,province,2024,SMA/MA,Negeri,402,0,0,0,0,402,402,1492,1492,1894.0
+Sulawesi Selatan,73,province,2024,SMA/MA,Swasta,2,0,0,284,284,286,286,79,79,365.0
+Sulawesi Selatan,73,province,2024,SMA/MA,Negeri dan Swasta,404,0,0,284,284,688,688,1571,1571,2259.0
+Sulawesi Tenggara,74,province,2024,SMA/MA,Negeri,152,0,0,0,0,152,152,1066,1066,1218.0
+Sulawesi Tenggara,74,province,2024,SMA/MA,Swasta,0,0,0,36,36,36,36,23,23,59.0
+Sulawesi Tenggara,74,province,2024,SMA/MA,Negeri dan Swasta,152,0,0,36,36,188,188,1089,1089,1277.0
+Gorontalo,75,province,2024,SMA/MA,Negeri,71,0,0,0,0,71,71,259,259,330.0
+Gorontalo,75,province,2024,SMA/MA,Swasta,2,0,0,8,8,10,10,12,12,22.0
+Gorontalo,75,province,2024,SMA/MA,Negeri dan Swasta,73,0,0,8,8,81,81,271,271,352.0
+Sulawesi Barat,76,province,2024,SMA/MA,Negeri,109,0,0,0,0,109,109,490,490,599.0
+Sulawesi Barat,76,province,2024,SMA/MA,Swasta,0,0,0,20,20,20,20,1,1,21.0
+Sulawesi Barat,76,province,2024,SMA/MA,Negeri dan Swasta,109,0,0,20,20,129,129,491,491,620.0
+Maluku,81,province,2024,SMA/MA,Negeri,274,0,0,0,0,274,274,502,502,776.0
+Maluku,81,province,2024,SMA/MA,Swasta,15,0,0,61,61,76,76,44,44,120.0
+Maluku,81,province,2024,SMA/MA,Negeri dan Swasta,289,0,0,61,61,350,350,546,546,896.0
+Maluku Utara,82,province,2024,SMA/MA,Negeri,158,0,0,0,0,158,158,310,310,468.0
+Maluku Utara,82,province,2024,SMA/MA,Swasta,7,0,0,12,12,19,19,41,41,60.0
+Maluku Utara,82,province,2024,SMA/MA,Negeri dan Swasta,165,0,0,12,12,177,177,351,351,528.0
+Papua,91,province,2024,SMA/MA,Negeri,134,0,0,0,0,134,134,95,95,229.0
+Papua,91,province,2024,SMA/MA,Swasta,37,0,0,35,35,72,72,59,59,131.0
+Papua,91,province,2024,SMA/MA,Negeri dan Swasta,171,0,0,35,35,206,206,154,154,360.0
+Papua Barat,92,province,2024,SMA/MA,Negeri,24,0,0,0,0,24,24,71,71,95.0
+Papua Barat,92,province,2024,SMA/MA,Swasta,3,0,0,12,12,15,15,29,29,44.0
+Papua Barat,92,province,2024,SMA/MA,Negeri dan Swasta,27,0,0,12,12,39,39,100,100,139.0
+Papua Selatan,93,province,2024,SMA/MA,Negeri,16,0,0,0,0,16,16,55,55,71.0
+Papua Selatan,93,province,2024,SMA/MA,Swasta,3,0,0,13,13,16,16,20,20,36.0
+Papua Selatan,93,province,2024,SMA/MA,Negeri dan Swasta,19,0,0,13,13,32,32,75,75,107.0
+Papua Tengah,94,province,2024,SMA/MA,Negeri,27,0,0,0,0,27,27,22,22,49.0
+Papua Tengah,94,province,2024,SMA/MA,Swasta,5,0,0,12,12,17,17,31,31,48.0
+Papua Tengah,94,province,2024,SMA/MA,Negeri dan Swasta,32,0,0,12,12,44,44,53,53,97.0
+Papua Pegunungan,95,province,2024,SMA/MA,Negeri,1,0,0,0,0,1,1,14,14,15.0
+Papua Pegunungan,95,province,2024,SMA/MA,Swasta,3,0,0,2,2,5,5,3,3,8.0
+Papua Pegunungan,95,province,2024,SMA/MA,Negeri dan Swasta,4,0,0,2,2,6,6,17,17,23.0
+Papua Barat Daya,96,province,2024,SMA/MA,Negeri,13,0,0,0,0,13,13,63,63,76.0
+Papua Barat Daya,96,province,2024,SMA/MA,Swasta,1,0,0,18,18,19,19,14,14,33.0
+Papua Barat Daya,96,province,2024,SMA/MA,Negeri dan Swasta,14,0,0,18,18,32,32,77,77,109.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMA/MA,Negeri,0,0,0,0,0,0,0,3,3,3.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMA/MA,Swasta,0,0,0,1,1,1,1,1,1,2.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMA/MA,Negeri dan Swasta,0,0,0,1,1,1,1,4,4,5.0
+Aceh,11,province,2023,SMA/MA,Negeri,879,0,0,0,0,879,879,1740,1740,2619.0
+Aceh,11,province,2023,SMA/MA,Swasta,13,0,0,97,97,110,110,168,168,278.0
+Aceh,11,province,2023,SMA/MA,Negeri dan Swasta,892,0,0,97,97,989,989,1908,1908,2897.0
+Sumatera Utara,12,province,2023,SMA/MA,Negeri,396,0,0,0,0,396,396,1659,1659,2055.0
+Sumatera Utara,12,province,2023,SMA/MA,Swasta,0,0,0,710,710,710,710,210,210,920.0
+Sumatera Utara,12,province,2023,SMA/MA,Negeri dan Swasta,396,0,0,710,710,1106,1106,1869,1869,2975.0
+Sumatera Barat,13,province,2023,SMA/MA,Negeri,407,0,0,0,0,407,407,1343,1343,1750.0
+Sumatera Barat,13,province,2023,SMA/MA,Swasta,1,0,0,142,142,143,143,60,60,203.0
+Sumatera Barat,13,province,2023,SMA/MA,Negeri dan Swasta,408,0,0,142,142,550,550,1403,1403,1953.0
+Riau,14,province,2023,SMA/MA,Negeri,261,0,0,0,0,261,261,1612,1612,1873.0
+Riau,14,province,2023,SMA/MA,Swasta,0,0,0,174,174,174,174,74,74,248.0
+Riau,14,province,2023,SMA/MA,Negeri dan Swasta,261,0,0,174,174,435,435,1686,1686,2121.0
+Jambi,15,province,2023,SMA/MA,Negeri,230,0,0,0,0,230,230,961,961,1191.0
+Jambi,15,province,2023,SMA/MA,Swasta,0,0,0,84,84,84,84,21,21,105.0
+Jambi,15,province,2023,SMA/MA,Negeri dan Swasta,230,0,0,84,84,314,314,982,982,1296.0
+Sumatera Selatan,16,province,2023,SMA/MA,Negeri,294,0,0,0,0,294,294,2051,2051,2345.0
+Sumatera Selatan,16,province,2023,SMA/MA,Swasta,1,0,0,340,340,341,341,319,319,660.0
+Sumatera Selatan,16,province,2023,SMA/MA,Negeri dan Swasta,295,0,0,340,340,635,635,2370,2370,3005.0
+Bengkulu,17,province,2023,SMA/MA,Negeri,190,0,0,0,0,190,190,798,798,988.0
+Bengkulu,17,province,2023,SMA/MA,Swasta,0,0,0,38,38,38,38,25,25,63.0
+Bengkulu,17,province,2023,SMA/MA,Negeri dan Swasta,190,0,0,38,38,228,228,823,823,1051.0
+Lampung,18,province,2023,SMA/MA,Negeri,380,0,0,0,0,380,380,1367,1367,1747.0
+Lampung,18,province,2023,SMA/MA,Swasta,0,0,0,351,351,351,351,117,117,468.0
+Lampung,18,province,2023,SMA/MA,Negeri dan Swasta,380,0,0,351,351,731,731,1484,1484,2215.0
+Kepulauan Bangka Belitung,19,province,2023,SMA/MA,Negeri,88,0,0,0,0,88,88,294,294,382.0
+Kepulauan Bangka Belitung,19,province,2023,SMA/MA,Swasta,0,0,0,38,38,38,38,40,40,78.0
+Kepulauan Bangka Belitung,19,province,2023,SMA/MA,Negeri dan Swasta,88,0,0,38,38,126,126,334,334,460.0
+Kepulauan Riau,21,province,2023,SMA/MA,Negeri,118,0,0,0,0,118,118,585,585,703.0
+Kepulauan Riau,21,province,2023,SMA/MA,Swasta,0,0,0,81,81,81,81,25,25,106.0
+Kepulauan Riau,21,province,2023,SMA/MA,Negeri dan Swasta,118,0,0,81,81,199,199,610,610,809.0
+D.K.I. Jakarta,31,province,2023,SMA/MA,Negeri,248,0,0,0,0,248,248,781,781,1029.0
+D.K.I. Jakarta,31,province,2023,SMA/MA,Swasta,0,0,0,856,856,856,856,429,429,1285.0
+D.K.I. Jakarta,31,province,2023,SMA/MA,Negeri dan Swasta,248,0,0,856,856,1104,1104,1210,1210,2314.0
+Jawa Barat,32,province,2023,SMA/MA,Negeri,804,0,0,0,0,804,804,5774,5774,6578.0
+Jawa Barat,32,province,2023,SMA/MA,Swasta,0,0,0,1856,1856,1856,1856,924,924,2780.0
+Jawa Barat,32,province,2023,SMA/MA,Negeri dan Swasta,804,0,0,1856,1856,2660,2660,6698,6698,9358.0
+Jawa Tengah,33,province,2023,SMA/MA,Negeri,1043,0,0,0,0,1043,1043,3155,3155,4198.0
+Jawa Tengah,33,province,2023,SMA/MA,Swasta,0,0,0,1158,1158,1158,1158,460,460,1618.0
+Jawa Tengah,33,province,2023,SMA/MA,Negeri dan Swasta,1043,0,0,1158,1158,2201,2201,3615,3615,5816.0
+D.I. Yogyakarta,34,province,2023,SMA/MA,Negeri,417,0,0,0,0,417,417,491,491,908.0
+D.I. Yogyakarta,34,province,2023,SMA/MA,Swasta,0,0,0,229,229,229,229,193,193,422.0
+D.I. Yogyakarta,34,province,2023,SMA/MA,Negeri dan Swasta,417,0,0,229,229,646,646,684,684,1330.0
+Jawa Timur,35,province,2023,SMA/MA,Negeri,1155,0,0,0,0,1155,1155,4116,4116,5271.0
+Jawa Timur,35,province,2023,SMA/MA,Swasta,0,0,0,1754,1754,1754,1754,434,434,2188.0
+Jawa Timur,35,province,2023,SMA/MA,Negeri dan Swasta,1155,0,0,1754,1754,2909,2909,4550,4550,7459.0
+Banten,36,province,2023,SMA/MA,Negeri,172,0,0,0,0,172,172,1393,1393,1565.0
+Banten,36,province,2023,SMA/MA,Swasta,0,0,0,838,838,838,838,247,247,1085.0
+Banten,36,province,2023,SMA/MA,Negeri dan Swasta,172,0,0,838,838,1010,1010,1640,1640,2650.0
+Bali,51,province,2023,SMA/MA,Negeri,377,0,0,0,0,377,377,1338,1338,1715.0
+Bali,51,province,2023,SMA/MA,Swasta,0,0,0,180,180,180,180,74,74,254.0
+Bali,51,province,2023,SMA/MA,Negeri dan Swasta,377,0,0,180,180,557,557,1412,1412,1969.0
+Nusa Tenggara Barat,52,province,2023,SMA/MA,Negeri,376,0,0,0,0,376,376,1294,1294,1670.0
+Nusa Tenggara Barat,52,province,2023,SMA/MA,Swasta,1,0,0,146,146,147,147,37,37,184.0
+Nusa Tenggara Barat,52,province,2023,SMA/MA,Negeri dan Swasta,377,0,0,146,146,523,523,1331,1331,1854.0
+Nusa Tenggara Timur,53,province,2023,SMA/MA,Negeri,183,0,0,0,0,183,183,1238,1238,1421.0
+Nusa Tenggara Timur,53,province,2023,SMA/MA,Swasta,2,0,0,363,363,365,365,193,193,558.0
+Nusa Tenggara Timur,53,province,2023,SMA/MA,Negeri dan Swasta,185,0,0,363,363,548,548,1431,1431,1979.0
+Kalimantan Barat,61,province,2023,SMA/MA,Negeri,230,0,0,0,0,230,230,532,532,762.0
+Kalimantan Barat,61,province,2023,SMA/MA,Swasta,0,0,0,128,128,128,128,97,97,225.0
+Kalimantan Barat,61,province,2023,SMA/MA,Negeri dan Swasta,230,0,0,128,128,358,358,629,629,987.0
+Kalimantan Tengah,62,province,2023,SMA/MA,Negeri,86,0,0,0,0,86,86,341,341,427.0
+Kalimantan Tengah,62,province,2023,SMA/MA,Swasta,0,0,0,28,28,28,28,37,37,65.0
+Kalimantan Tengah,62,province,2023,SMA/MA,Negeri dan Swasta,86,0,0,28,28,114,114,378,378,492.0
+Kalimantan Selatan,63,province,2023,SMA/MA,Negeri,193,0,0,0,0,193,193,740,740,933.0
+Kalimantan Selatan,63,province,2023,SMA/MA,Swasta,0,0,0,82,82,82,82,53,53,135.0
+Kalimantan Selatan,63,province,2023,SMA/MA,Negeri dan Swasta,193,0,0,82,82,275,275,793,793,1068.0
+Kalimantan Timur,64,province,2023,SMA/MA,Negeri,180,0,0,0,0,180,180,767,767,947.0
+Kalimantan Timur,64,province,2023,SMA/MA,Swasta,1,0,0,138,138,139,139,74,74,213.0
+Kalimantan Timur,64,province,2023,SMA/MA,Negeri dan Swasta,181,0,0,138,138,319,319,841,841,1160.0
+Kalimantan Utara,65,province,2023,SMA/MA,Negeri,50,0,0,0,0,50,50,196,196,246.0
+Kalimantan Utara,65,province,2023,SMA/MA,Swasta,0,0,0,31,31,31,31,21,21,52.0
+Kalimantan Utara,65,province,2023,SMA/MA,Negeri dan Swasta,50,0,0,31,31,81,81,217,217,298.0
+Sulawesi Utara,71,province,2023,SMA/MA,Negeri,116,0,0,0,0,116,116,397,397,513.0
+Sulawesi Utara,71,province,2023,SMA/MA,Swasta,2,0,0,55,55,57,57,35,35,92.0
+Sulawesi Utara,71,province,2023,SMA/MA,Negeri dan Swasta,118,0,0,55,55,173,173,432,432,605.0
+Sulawesi Tengah,72,province,2023,SMA/MA,Negeri,239,0,0,0,0,239,239,564,564,803.0
+Sulawesi Tengah,72,province,2023,SMA/MA,Swasta,7,0,0,39,39,46,46,39,39,85.0
+Sulawesi Tengah,72,province,2023,SMA/MA,Negeri dan Swasta,246,0,0,39,39,285,285,603,603,888.0
+Sulawesi Selatan,73,province,2023,SMA/MA,Negeri,485,0,0,0,0,485,485,1454,1454,1939.0
+Sulawesi Selatan,73,province,2023,SMA/MA,Swasta,2,0,0,279,279,281,281,75,75,356.0
+Sulawesi Selatan,73,province,2023,SMA/MA,Negeri dan Swasta,487,0,0,279,279,766,766,1529,1529,2295.0
+Sulawesi Tenggara,74,province,2023,SMA/MA,Negeri,167,0,0,0,0,167,167,637,637,804.0
+Sulawesi Tenggara,74,province,2023,SMA/MA,Swasta,0,0,0,30,30,30,30,27,27,57.0
+Sulawesi Tenggara,74,province,2023,SMA/MA,Negeri dan Swasta,167,0,0,30,30,197,197,664,664,861.0
+Gorontalo,75,province,2023,SMA/MA,Negeri,74,0,0,0,0,74,74,265,265,339.0
+Gorontalo,75,province,2023,SMA/MA,Swasta,2,0,0,8,8,10,10,14,14,24.0
+Gorontalo,75,province,2023,SMA/MA,Negeri dan Swasta,76,0,0,8,8,84,84,279,279,363.0
+Sulawesi Barat,76,province,2023,SMA/MA,Negeri,117,0,0,0,0,117,117,487,487,604.0
+Sulawesi Barat,76,province,2023,SMA/MA,Swasta,0,0,0,14,14,14,14,1,1,15.0
+Sulawesi Barat,76,province,2023,SMA/MA,Negeri dan Swasta,117,0,0,14,14,131,131,488,488,619.0
+Maluku,81,province,2023,SMA/MA,Negeri,284,0,0,0,0,284,284,471,471,755.0
+Maluku,81,province,2023,SMA/MA,Swasta,16,0,0,57,57,73,73,47,47,120.0
+Maluku,81,province,2023,SMA/MA,Negeri dan Swasta,300,0,0,57,57,357,357,518,518,875.0
+Maluku Utara,82,province,2023,SMA/MA,Negeri,162,0,0,0,0,162,162,189,189,351.0
+Maluku Utara,82,province,2023,SMA/MA,Swasta,8,0,0,12,12,20,20,36,36,56.0
+Maluku Utara,82,province,2023,SMA/MA,Negeri dan Swasta,170,0,0,12,12,182,182,225,225,407.0
+Papua,91,province,2023,SMA/MA,Negeri,123,0,0,0,0,123,123,80,80,203.0
+Papua,91,province,2023,SMA/MA,Swasta,30,0,0,28,28,58,58,49,49,107.0
+Papua,91,province,2023,SMA/MA,Negeri dan Swasta,153,0,0,28,28,181,181,129,129,310.0
+Papua Barat,92,province,2023,SMA/MA,Negeri,24,0,0,0,0,24,24,73,73,97.0
+Papua Barat,92,province,2023,SMA/MA,Swasta,4,0,0,9,9,13,13,31,31,44.0
+Papua Barat,92,province,2023,SMA/MA,Negeri dan Swasta,28,0,0,9,9,37,37,104,104,141.0
+Papua Selatan,93,province,2023,SMA/MA,Negeri,15,0,0,0,0,15,15,48,48,63.0
+Papua Selatan,93,province,2023,SMA/MA,Swasta,2,0,0,10,10,12,12,26,26,38.0
+Papua Selatan,93,province,2023,SMA/MA,Negeri dan Swasta,17,0,0,10,10,27,27,74,74,101.0
+Papua Tengah,94,province,2023,SMA/MA,Negeri,27,0,0,0,0,27,27,25,25,52.0
+Papua Tengah,94,province,2023,SMA/MA,Swasta,6,0,0,12,12,18,18,29,29,47.0
+Papua Tengah,94,province,2023,SMA/MA,Negeri dan Swasta,33,0,0,12,12,45,45,54,54,99.0
+Papua Pegunungan,95,province,2023,SMA/MA,Negeri,1,0,0,0,0,1,1,9,9,10.0
+Papua Pegunungan,95,province,2023,SMA/MA,Swasta,2,0,0,2,2,4,4,2,2,6.0
+Papua Pegunungan,95,province,2023,SMA/MA,Negeri dan Swasta,3,0,0,2,2,5,5,11,11,16.0
+Papua Barat Daya,96,province,2023,SMA/MA,Negeri,17,0,0,0,0,17,17,53,53,70.0
+Papua Barat Daya,96,province,2023,SMA/MA,Swasta,1,0,0,24,24,25,25,17,17,42.0
+Papua Barat Daya,96,province,2023,SMA/MA,Negeri dan Swasta,18,0,0,24,24,42,42,70,70,112.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMA/MA,Negeri,0,0,0,0,0,0,0,3,3,3.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMA/MA,Swasta,0,0,0,1,1,1,1,1,1,2.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMA/MA,Negeri dan Swasta,0,0,0,1,1,1,1,4,4,5.0
+Aceh,11,province,2022,SMA/MA,Negeri,932,0,0,0,0,932,932,1789,1789,2721.0
+Aceh,11,province,2022,SMA/MA,Swasta,13,0,0,99,99,112,112,187,187,299.0
+Aceh,11,province,2022,SMA/MA,Negeri dan Swasta,945,0,0,99,99,1044,1044,1976,1976,3020.0
+Sumatera Utara,12,province,2022,SMA/MA,Negeri,447,0,0,0,0,447,447,1568,1568,2015.0
+Sumatera Utara,12,province,2022,SMA/MA,Swasta,0,0,0,703,703,703,703,192,192,895.0
+Sumatera Utara,12,province,2022,SMA/MA,Negeri dan Swasta,447,0,0,703,703,1150,1150,1760,1760,2910.0
+Sumatera Barat,13,province,2022,SMA/MA,Negeri,456,0,0,0,0,456,456,1366,1366,1822.0
+Sumatera Barat,13,province,2022,SMA/MA,Swasta,0,0,0,144,144,144,144,61,61,205.0
+Sumatera Barat,13,province,2022,SMA/MA,Negeri dan Swasta,456,0,0,144,144,600,600,1427,1427,2027.0
+Riau,14,province,2022,SMA/MA,Negeri,295,0,0,0,0,295,295,1512,1512,1807.0
+Riau,14,province,2022,SMA/MA,Swasta,0,0,0,170,170,170,170,72,72,242.0
+Riau,14,province,2022,SMA/MA,Negeri dan Swasta,295,0,0,170,170,465,465,1584,1584,2049.0
+Jambi,15,province,2022,SMA/MA,Negeri,257,0,0,0,0,257,257,923,923,1180.0
+Jambi,15,province,2022,SMA/MA,Swasta,0,0,0,90,90,90,90,26,26,116.0
+Jambi,15,province,2022,SMA/MA,Negeri dan Swasta,257,0,0,90,90,347,347,949,949,1296.0
+Sumatera Selatan,16,province,2022,SMA/MA,Negeri,307,0,0,0,0,307,307,2010,2010,2317.0
+Sumatera Selatan,16,province,2022,SMA/MA,Swasta,1,0,0,337,337,338,338,323,323,661.0
+Sumatera Selatan,16,province,2022,SMA/MA,Negeri dan Swasta,308,0,0,337,337,645,645,2333,2333,2978.0
+Bengkulu,17,province,2022,SMA/MA,Negeri,199,0,0,0,0,199,199,760,760,959.0
+Bengkulu,17,province,2022,SMA/MA,Swasta,0,0,0,35,35,35,35,23,23,58.0
+Bengkulu,17,province,2022,SMA/MA,Negeri dan Swasta,199,0,0,35,35,234,234,783,783,1017.0
+Lampung,18,province,2022,SMA/MA,Negeri,412,0,0,0,0,412,412,1342,1342,1754.0
+Lampung,18,province,2022,SMA/MA,Swasta,0,0,0,335,335,335,335,137,137,472.0
+Lampung,18,province,2022,SMA/MA,Negeri dan Swasta,412,0,0,335,335,747,747,1479,1479,2226.0
+Kepulauan Bangka Belitung,19,province,2022,SMA/MA,Negeri,98,0,0,0,0,98,98,300,300,398.0
+Kepulauan Bangka Belitung,19,province,2022,SMA/MA,Swasta,0,0,0,33,33,33,33,43,43,76.0
+Kepulauan Bangka Belitung,19,province,2022,SMA/MA,Negeri dan Swasta,98,0,0,33,33,131,131,343,343,474.0
+Kepulauan Riau,21,province,2022,SMA/MA,Negeri,120,0,0,0,0,120,120,556,556,676.0
+Kepulauan Riau,21,province,2022,SMA/MA,Swasta,0,0,0,78,78,78,78,25,25,103.0
+Kepulauan Riau,21,province,2022,SMA/MA,Negeri dan Swasta,120,0,0,78,78,198,198,581,581,779.0
+D.K.I. Jakarta,31,province,2022,SMA/MA,Negeri,283,0,0,0,0,283,283,784,784,1067.0
+D.K.I. Jakarta,31,province,2022,SMA/MA,Swasta,0,0,0,855,855,855,855,445,445,1300.0
+D.K.I. Jakarta,31,province,2022,SMA/MA,Negeri dan Swasta,283,0,0,855,855,1138,1138,1229,1229,2367.0
+Jawa Barat,32,province,2022,SMA/MA,Negeri,943,0,0,0,0,943,943,5454,5454,6397.0
+Jawa Barat,32,province,2022,SMA/MA,Swasta,0,0,0,1803,1803,1803,1803,917,917,2720.0
+Jawa Barat,32,province,2022,SMA/MA,Negeri dan Swasta,943,0,0,1803,1803,2746,2746,6371,6371,9117.0
+Jawa Tengah,33,province,2022,SMA/MA,Negeri,1140,0,0,0,0,1140,1140,3200,3200,4340.0
+Jawa Tengah,33,province,2022,SMA/MA,Swasta,0,0,0,1173,1173,1173,1173,458,458,1631.0
+Jawa Tengah,33,province,2022,SMA/MA,Negeri dan Swasta,1140,0,0,1173,1173,2313,2313,3658,3658,5971.0
+D.I. Yogyakarta,34,province,2022,SMA/MA,Negeri,420,0,0,0,0,420,420,501,501,921.0
+D.I. Yogyakarta,34,province,2022,SMA/MA,Swasta,0,0,0,227,227,227,227,177,177,404.0
+D.I. Yogyakarta,34,province,2022,SMA/MA,Negeri dan Swasta,420,0,0,227,227,647,647,678,678,1325.0
+Jawa Timur,35,province,2022,SMA/MA,Negeri,1264,0,0,0,0,1264,1264,3578,3578,4842.0
+Jawa Timur,35,province,2022,SMA/MA,Swasta,0,0,0,1764,1764,1764,1764,405,405,2169.0
+Jawa Timur,35,province,2022,SMA/MA,Negeri dan Swasta,1264,0,0,1764,1764,3028,3028,3983,3983,7011.0
+Banten,36,province,2022,SMA/MA,Negeri,191,0,0,0,0,191,191,1448,1448,1639.0
+Banten,36,province,2022,SMA/MA,Swasta,0,0,0,711,711,711,711,234,234,945.0
+Banten,36,province,2022,SMA/MA,Negeri dan Swasta,191,0,0,711,711,902,902,1682,1682,2584.0
+Bali,51,province,2022,SMA/MA,Negeri,434,0,0,0,0,434,434,1222,1222,1656.0
+Bali,51,province,2022,SMA/MA,Swasta,0,0,0,180,180,180,180,73,73,253.0
+Bali,51,province,2022,SMA/MA,Negeri dan Swasta,434,0,0,180,180,614,614,1295,1295,1909.0
+Nusa Tenggara Barat,52,province,2022,SMA/MA,Negeri,413,0,0,0,0,413,413,1115,1115,1528.0
+Nusa Tenggara Barat,52,province,2022,SMA/MA,Swasta,1,0,0,152,152,153,153,39,39,192.0
+Nusa Tenggara Barat,52,province,2022,SMA/MA,Negeri dan Swasta,414,0,0,152,152,566,566,1154,1154,1720.0
+Nusa Tenggara Timur,53,province,2022,SMA/MA,Negeri,184,0,0,0,0,184,184,1111,1111,1295.0
+Nusa Tenggara Timur,53,province,2022,SMA/MA,Swasta,2,0,0,363,363,365,365,210,210,575.0
+Nusa Tenggara Timur,53,province,2022,SMA/MA,Negeri dan Swasta,186,0,0,363,363,549,549,1321,1321,1870.0
+Kalimantan Barat,61,province,2022,SMA/MA,Negeri,239,0,0,0,0,239,239,480,480,719.0
+Kalimantan Barat,61,province,2022,SMA/MA,Swasta,0,0,0,126,126,126,126,99,99,225.0
+Kalimantan Barat,61,province,2022,SMA/MA,Negeri dan Swasta,239,0,0,126,126,365,365,579,579,944.0
+Kalimantan Tengah,62,province,2022,SMA/MA,Negeri,104,0,0,0,0,104,104,346,346,450.0
+Kalimantan Tengah,62,province,2022,SMA/MA,Swasta,0,0,0,29,29,29,29,33,33,62.0
+Kalimantan Tengah,62,province,2022,SMA/MA,Negeri dan Swasta,104,0,0,29,29,133,133,379,379,512.0
+Kalimantan Selatan,63,province,2022,SMA/MA,Negeri,191,0,0,0,0,191,191,707,707,898.0
+Kalimantan Selatan,63,province,2022,SMA/MA,Swasta,0,0,0,80,80,80,80,51,51,131.0
+Kalimantan Selatan,63,province,2022,SMA/MA,Negeri dan Swasta,191,0,0,80,80,271,271,758,758,1029.0
+Kalimantan Timur,64,province,2022,SMA/MA,Negeri,194,0,0,0,0,194,194,714,714,908.0
+Kalimantan Timur,64,province,2022,SMA/MA,Swasta,1,0,0,125,125,126,126,72,72,198.0
+Kalimantan Timur,64,province,2022,SMA/MA,Negeri dan Swasta,195,0,0,125,125,320,320,786,786,1106.0
+Kalimantan Utara,65,province,2022,SMA/MA,Negeri,49,0,0,0,0,49,49,180,180,229.0
+Kalimantan Utara,65,province,2022,SMA/MA,Swasta,0,0,0,26,26,26,26,25,25,51.0
+Kalimantan Utara,65,province,2022,SMA/MA,Negeri dan Swasta,49,0,0,26,26,75,75,205,205,280.0
+Sulawesi Utara,71,province,2022,SMA/MA,Negeri,132,0,0,0,0,132,132,406,406,538.0
+Sulawesi Utara,71,province,2022,SMA/MA,Swasta,2,0,0,56,56,58,58,40,40,98.0
+Sulawesi Utara,71,province,2022,SMA/MA,Negeri dan Swasta,134,0,0,56,56,190,190,446,446,636.0
+Sulawesi Tengah,72,province,2022,SMA/MA,Negeri,260,0,0,0,0,260,260,591,591,851.0
+Sulawesi Tengah,72,province,2022,SMA/MA,Swasta,8,0,0,40,40,48,48,43,43,91.0
+Sulawesi Tengah,72,province,2022,SMA/MA,Negeri dan Swasta,268,0,0,40,40,308,308,634,634,942.0
+Sulawesi Selatan,73,province,2022,SMA/MA,Negeri,571,0,0,0,0,571,571,1511,1511,2082.0
+Sulawesi Selatan,73,province,2022,SMA/MA,Swasta,2,0,0,282,282,284,284,78,78,362.0
+Sulawesi Selatan,73,province,2022,SMA/MA,Negeri dan Swasta,573,0,0,282,282,855,855,1589,1589,2444.0
+Sulawesi Tenggara,74,province,2022,SMA/MA,Negeri,194,0,0,0,0,194,194,386,386,580.0
+Sulawesi Tenggara,74,province,2022,SMA/MA,Swasta,0,0,0,29,29,29,29,27,27,56.0
+Sulawesi Tenggara,74,province,2022,SMA/MA,Negeri dan Swasta,194,0,0,29,29,223,223,413,413,636.0
+Gorontalo,75,province,2022,SMA/MA,Negeri,78,0,0,0,0,78,78,279,279,357.0
+Gorontalo,75,province,2022,SMA/MA,Swasta,2,0,0,7,7,9,9,14,14,23.0
+Gorontalo,75,province,2022,SMA/MA,Negeri dan Swasta,80,0,0,7,7,87,87,293,293,380.0
+Sulawesi Barat,76,province,2022,SMA/MA,Negeri,128,0,0,0,0,128,128,482,482,610.0
+Sulawesi Barat,76,province,2022,SMA/MA,Swasta,0,0,0,9,9,9,9,7,7,16.0
+Sulawesi Barat,76,province,2022,SMA/MA,Negeri dan Swasta,128,0,0,9,9,137,137,489,489,626.0
+Maluku,81,province,2022,SMA/MA,Negeri,298,0,0,0,0,298,298,421,421,719.0
+Maluku,81,province,2022,SMA/MA,Swasta,17,0,0,48,48,65,65,53,53,118.0
+Maluku,81,province,2022,SMA/MA,Negeri dan Swasta,315,0,0,48,48,363,363,474,474,837.0
+Maluku Utara,82,province,2022,SMA/MA,Negeri,165,0,0,0,0,165,165,183,183,348.0
+Maluku Utara,82,province,2022,SMA/MA,Swasta,8,0,0,13,13,21,21,38,38,59.0
+Maluku Utara,82,province,2022,SMA/MA,Negeri dan Swasta,173,0,0,13,13,186,186,221,221,407.0
+Papua,91,province,2022,SMA/MA,Negeri,182,0,0,0,0,182,182,172,172,354.0
+Papua,91,province,2022,SMA/MA,Swasta,42,0,0,56,56,98,98,89,89,187.0
+Papua,91,province,2022,SMA/MA,Negeri dan Swasta,224,0,0,56,56,280,280,261,261,541.0
+Papua Barat,92,province,2022,SMA/MA,Negeri,45,0,0,0,0,45,45,90,90,135.0
+Papua Barat,92,province,2022,SMA/MA,Swasta,7,0,0,26,26,33,33,44,44,77.0
+Papua Barat,92,province,2022,SMA/MA,Negeri dan Swasta,52,0,0,26,26,78,78,134,134,212.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMA/MA,Negeri,0,0,0,0,0,0,0,3,3,3.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMA/MA,Swasta,0,0,0,1,1,1,1,1,1,2.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMA/MA,Negeri dan Swasta,0,0,0,1,1,1,1,4,4,5.0
+Aceh,11,province,2021,SMA/MA,Negeri,983,0,0,0,0,983,983,1712,1712,2695.0
+Aceh,11,province,2021,SMA/MA,Swasta,12,0,0,75,75,87,87,183,183,270.0
+Aceh,11,province,2021,SMA/MA,Negeri dan Swasta,995,0,0,75,75,1070,1070,1895,1895,2965.0
+Sumatera Utara,12,province,2021,SMA/MA,Negeri,491,0,0,0,0,491,491,1431,1431,1922.0
+Sumatera Utara,12,province,2021,SMA/MA,Swasta,0,0,0,658,658,658,658,188,188,846.0
+Sumatera Utara,12,province,2021,SMA/MA,Negeri dan Swasta,491,0,0,658,658,1149,1149,1619,1619,2768.0
+Sumatera Barat,13,province,2021,SMA/MA,Negeri,447,0,0,0,0,447,447,1379,1379,1826.0
+Sumatera Barat,13,province,2021,SMA/MA,Swasta,1,0,0,147,147,148,148,59,59,207.0
+Sumatera Barat,13,province,2021,SMA/MA,Negeri dan Swasta,448,0,0,147,147,595,595,1438,1438,2033.0
+Riau,14,province,2021,SMA/MA,Negeri,344,0,0,0,0,344,344,1402,1402,1746.0
+Riau,14,province,2021,SMA/MA,Swasta,1,0,0,173,173,174,174,73,73,247.0
+Riau,14,province,2021,SMA/MA,Negeri dan Swasta,345,0,0,173,173,518,518,1475,1475,1993.0
+Jambi,15,province,2021,SMA/MA,Negeri,268,0,0,0,0,268,268,886,886,1154.0
+Jambi,15,province,2021,SMA/MA,Swasta,0,0,0,82,82,82,82,29,29,111.0
+Jambi,15,province,2021,SMA/MA,Negeri dan Swasta,268,0,0,82,82,350,350,915,915,1265.0
+Sumatera Selatan,16,province,2021,SMA/MA,Negeri,329,0,0,0,0,329,329,1939,1939,2268.0
+Sumatera Selatan,16,province,2021,SMA/MA,Swasta,1,0,0,305,305,306,306,336,336,642.0
+Sumatera Selatan,16,province,2021,SMA/MA,Negeri dan Swasta,330,0,0,305,305,635,635,2275,2275,2910.0
+Bengkulu,17,province,2021,SMA/MA,Negeri,191,0,0,0,0,191,191,754,754,945.0
+Bengkulu,17,province,2021,SMA/MA,Swasta,0,0,0,35,35,35,35,16,16,51.0
+Bengkulu,17,province,2021,SMA/MA,Negeri dan Swasta,191,0,0,35,35,226,226,770,770,996.0
+Lampung,18,province,2021,SMA/MA,Negeri,448,0,0,0,0,448,448,1368,1368,1816.0
+Lampung,18,province,2021,SMA/MA,Swasta,0,0,0,318,318,318,318,156,156,474.0
+Lampung,18,province,2021,SMA/MA,Negeri dan Swasta,448,0,0,318,318,766,766,1524,1524,2290.0
+Kepulauan Bangka Belitung,19,province,2021,SMA/MA,Negeri,95,0,0,0,0,95,95,316,316,411.0
+Kepulauan Bangka Belitung,19,province,2021,SMA/MA,Swasta,0,0,0,33,33,33,33,51,51,84.0
+Kepulauan Bangka Belitung,19,province,2021,SMA/MA,Negeri dan Swasta,95,0,0,33,33,128,128,367,367,495.0
+Kepulauan Riau,21,province,2021,SMA/MA,Negeri,126,0,0,0,0,126,126,542,542,668.0
+Kepulauan Riau,21,province,2021,SMA/MA,Swasta,0,0,0,68,68,68,68,26,26,94.0
+Kepulauan Riau,21,province,2021,SMA/MA,Negeri dan Swasta,126,0,0,68,68,194,194,568,568,762.0
+D.K.I. Jakarta,31,province,2021,SMA/MA,Negeri,341,0,0,0,0,341,341,805,805,1146.0
+D.K.I. Jakarta,31,province,2021,SMA/MA,Swasta,0,0,0,795,795,795,795,435,435,1230.0
+D.K.I. Jakarta,31,province,2021,SMA/MA,Negeri dan Swasta,341,0,0,795,795,1136,1136,1240,1240,2376.0
+Jawa Barat,32,province,2021,SMA/MA,Negeri,1074,0,0,0,0,1074,1074,5204,5204,6278.0
+Jawa Barat,32,province,2021,SMA/MA,Swasta,0,0,0,1715,1715,1715,1715,904,904,2619.0
+Jawa Barat,32,province,2021,SMA/MA,Negeri dan Swasta,1074,0,0,1715,1715,2789,2789,6108,6108,8897.0
+Jawa Tengah,33,province,2021,SMA/MA,Negeri,1251,0,0,0,0,1251,1251,3363,3363,4614.0
+Jawa Tengah,33,province,2021,SMA/MA,Swasta,0,0,0,1162,1162,1162,1162,491,491,1653.0
+Jawa Tengah,33,province,2021,SMA/MA,Negeri dan Swasta,1251,0,0,1162,1162,2413,2413,3854,3854,6267.0
+D.I. Yogyakarta,34,province,2021,SMA/MA,Negeri,425,0,0,0,0,425,425,512,512,937.0
+D.I. Yogyakarta,34,province,2021,SMA/MA,Swasta,0,0,0,219,219,219,219,177,177,396.0
+D.I. Yogyakarta,34,province,2021,SMA/MA,Negeri dan Swasta,425,0,0,219,219,644,644,689,689,1333.0
+Jawa Timur,35,province,2021,SMA/MA,Negeri,1390,0,0,0,0,1390,1390,3694,3694,5084.0
+Jawa Timur,35,province,2021,SMA/MA,Swasta,0,0,0,1694,1694,1694,1694,442,442,2136.0
+Jawa Timur,35,province,2021,SMA/MA,Negeri dan Swasta,1390,0,0,1694,1694,3084,3084,4136,4136,7220.0
+Banten,36,province,2021,SMA/MA,Negeri,209,0,0,0,0,209,209,1272,1272,1481.0
+Banten,36,province,2021,SMA/MA,Swasta,0,0,0,544,544,544,544,224,224,768.0
+Banten,36,province,2021,SMA/MA,Negeri dan Swasta,209,0,0,544,544,753,753,1496,1496,2249.0
+Bali,51,province,2021,SMA/MA,Negeri,466,0,0,0,0,466,466,1122,1122,1588.0
+Bali,51,province,2021,SMA/MA,Swasta,0,0,0,163,163,163,163,91,91,254.0
+Bali,51,province,2021,SMA/MA,Negeri dan Swasta,466,0,0,163,163,629,629,1213,1213,1842.0
+Nusa Tenggara Barat,52,province,2021,SMA/MA,Negeri,454,0,0,0,0,454,454,1108,1108,1562.0
+Nusa Tenggara Barat,52,province,2021,SMA/MA,Swasta,3,0,0,145,145,148,148,40,40,188.0
+Nusa Tenggara Barat,52,province,2021,SMA/MA,Negeri dan Swasta,457,0,0,145,145,602,602,1148,1148,1750.0
+Nusa Tenggara Timur,53,province,2021,SMA/MA,Negeri,193,0,0,0,0,193,193,1051,1051,1244.0
+Nusa Tenggara Timur,53,province,2021,SMA/MA,Swasta,2,0,0,348,348,350,350,221,221,571.0
+Nusa Tenggara Timur,53,province,2021,SMA/MA,Negeri dan Swasta,195,0,0,348,348,543,543,1272,1272,1815.0
+Kalimantan Barat,61,province,2021,SMA/MA,Negeri,258,0,0,0,0,258,258,414,414,672.0
+Kalimantan Barat,61,province,2021,SMA/MA,Swasta,0,0,0,123,123,123,123,94,94,217.0
+Kalimantan Barat,61,province,2021,SMA/MA,Negeri dan Swasta,258,0,0,123,123,381,381,508,508,889.0
+Kalimantan Tengah,62,province,2021,SMA/MA,Negeri,118,0,0,0,0,118,118,329,329,447.0
+Kalimantan Tengah,62,province,2021,SMA/MA,Swasta,0,0,0,30,30,30,30,41,41,71.0
+Kalimantan Tengah,62,province,2021,SMA/MA,Negeri dan Swasta,118,0,0,30,30,148,148,370,370,518.0
+Kalimantan Selatan,63,province,2021,SMA/MA,Negeri,211,0,0,1,1,212,212,599,599,811.0
+Kalimantan Selatan,63,province,2021,SMA/MA,Swasta,0,0,0,69,69,69,69,51,51,120.0
+Kalimantan Selatan,63,province,2021,SMA/MA,Negeri dan Swasta,211,0,0,70,70,281,281,650,650,931.0
+Kalimantan Timur,64,province,2021,SMA/MA,Negeri,215,0,0,0,0,215,215,714,714,929.0
+Kalimantan Timur,64,province,2021,SMA/MA,Swasta,1,0,0,106,106,107,107,69,69,176.0
+Kalimantan Timur,64,province,2021,SMA/MA,Negeri dan Swasta,216,0,0,106,106,322,322,783,783,1105.0
+Kalimantan Utara,65,province,2021,SMA/MA,Negeri,48,0,0,0,0,48,48,174,174,222.0
+Kalimantan Utara,65,province,2021,SMA/MA,Swasta,0,0,0,24,24,24,24,22,22,46.0
+Kalimantan Utara,65,province,2021,SMA/MA,Negeri dan Swasta,48,0,0,24,24,72,72,196,196,268.0
+Sulawesi Utara,71,province,2021,SMA/MA,Negeri,149,0,0,0,0,149,149,413,413,562.0
+Sulawesi Utara,71,province,2021,SMA/MA,Swasta,2,0,0,58,58,60,60,46,46,106.0
+Sulawesi Utara,71,province,2021,SMA/MA,Negeri dan Swasta,151,0,0,58,58,209,209,459,459,668.0
+Sulawesi Tengah,72,province,2021,SMA/MA,Negeri,289,0,0,0,0,289,289,535,535,824.0
+Sulawesi Tengah,72,province,2021,SMA/MA,Swasta,8,0,0,31,31,39,39,47,47,86.0
+Sulawesi Tengah,72,province,2021,SMA/MA,Negeri dan Swasta,297,0,0,31,31,328,328,582,582,910.0
+Sulawesi Selatan,73,province,2021,SMA/MA,Negeri,665,0,0,0,0,665,665,1458,1458,2123.0
+Sulawesi Selatan,73,province,2021,SMA/MA,Swasta,2,0,0,264,264,266,266,77,77,343.0
+Sulawesi Selatan,73,province,2021,SMA/MA,Negeri dan Swasta,667,0,0,264,264,931,931,1535,1535,2466.0
+Sulawesi Tenggara,74,province,2021,SMA/MA,Negeri,213,0,0,0,0,213,213,358,358,571.0
+Sulawesi Tenggara,74,province,2021,SMA/MA,Swasta,0,0,0,25,25,25,25,26,26,51.0
+Sulawesi Tenggara,74,province,2021,SMA/MA,Negeri dan Swasta,213,0,0,25,25,238,238,384,384,622.0
+Gorontalo,75,province,2021,SMA/MA,Negeri,80,0,0,0,0,80,80,297,297,377.0
+Gorontalo,75,province,2021,SMA/MA,Swasta,2,0,0,5,5,7,7,14,14,21.0
+Gorontalo,75,province,2021,SMA/MA,Negeri dan Swasta,82,0,0,5,5,87,87,311,311,398.0
+Sulawesi Barat,76,province,2021,SMA/MA,Negeri,135,0,0,0,0,135,135,431,431,566.0
+Sulawesi Barat,76,province,2021,SMA/MA,Swasta,0,0,0,8,8,8,8,7,7,15.0
+Sulawesi Barat,76,province,2021,SMA/MA,Negeri dan Swasta,135,0,0,8,8,143,143,438,438,581.0
+Maluku,81,province,2021,SMA/MA,Negeri,327,0,0,0,0,327,327,271,271,598.0
+Maluku,81,province,2021,SMA/MA,Swasta,18,0,0,39,39,57,57,55,55,112.0
+Maluku,81,province,2021,SMA/MA,Negeri dan Swasta,345,0,0,39,39,384,384,326,326,710.0
+Maluku Utara,82,province,2021,SMA/MA,Negeri,159,0,0,0,0,159,159,172,172,331.0
+Maluku Utara,82,province,2021,SMA/MA,Swasta,10,0,0,9,9,19,19,34,34,53.0
+Maluku Utara,82,province,2021,SMA/MA,Negeri dan Swasta,169,0,0,9,9,178,178,206,206,384.0
+Papua,91,province,2021,SMA/MA,Negeri,199,0,0,0,0,199,199,157,157,356.0
+Papua,91,province,2021,SMA/MA,Swasta,41,0,0,55,55,96,96,103,103,199.0
+Papua,91,province,2021,SMA/MA,Negeri dan Swasta,240,0,0,55,55,295,295,260,260,555.0
+Papua Barat,92,province,2021,SMA/MA,Negeri,45,0,0,0,0,45,45,75,75,120.0
+Papua Barat,92,province,2021,SMA/MA,Swasta,6,0,0,25,25,31,31,36,36,67.0
+Papua Barat,92,province,2021,SMA/MA,Negeri dan Swasta,51,0,0,25,25,76,76,111,111,187.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMA/MA,Negeri,0,0,0,0,0,0,0,3,3,3.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMA/MA,Swasta,0,0,0,1,1,1,1,1,1,2.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMA/MA,Negeri dan Swasta,0,0,0,1,1,1,1,4,4,5.0
+Aceh,11,province,2025,SMP/MTs,Negeri,1236,185,185,0,0,1421,1421,2739,2739,4160.0
+Aceh,11,province,2025,SMP/MTs,Swasta,10,0,0,450,450,460,460,170,170,630.0
+Aceh,11,province,2025,SMP/MTs,Negeri dan Swasta,1246,185,185,450,450,1881,1881,2909,2909,4790.0
+Sumatera Utara,12,province,2025,SMP/MTs,Negeri,542,258,258,0,0,800,800,2361,2361,3161.0
+Sumatera Utara,12,province,2025,SMP/MTs,Swasta,0,0,0,910,910,910,910,367,367,1277.0
+Sumatera Utara,12,province,2025,SMP/MTs,Negeri dan Swasta,542,258,258,910,910,1710,1710,2728,2728,4438.0
+Sumatera Barat,13,province,2025,SMP/MTs,Negeri,391,302,302,0,0,693,693,1626,1626,2319.0
+Sumatera Barat,13,province,2025,SMP/MTs,Swasta,0,0,0,247,247,247,247,94,94,341.0
+Sumatera Barat,13,province,2025,SMP/MTs,Negeri dan Swasta,391,302,302,247,247,940,940,1720,1720,2660.0
+Riau,14,province,2025,SMP/MTs,Negeri,359,222,222,0,0,581,581,2021,2021,2602.0
+Riau,14,province,2025,SMP/MTs,Swasta,0,0,0,432,432,432,432,114,114,546.0
+Riau,14,province,2025,SMP/MTs,Negeri dan Swasta,359,222,222,432,432,1013,1013,2135,2135,3148.0
+Jambi,15,province,2025,SMP/MTs,Negeri,294,523,523,0,0,817,817,966,966,1783.0
+Jambi,15,province,2025,SMP/MTs,Swasta,1,0,0,154,154,155,155,45,45,200.0
+Jambi,15,province,2025,SMP/MTs,Negeri dan Swasta,295,523,523,154,154,972,972,1011,1011,1983.0
+Sumatera Selatan,16,province,2025,SMP/MTs,Negeri,536,976,976,0,0,1512,1512,2261,2261,3773.0
+Sumatera Selatan,16,province,2025,SMP/MTs,Swasta,1,0,0,471,471,472,472,458,458,930.0
+Sumatera Selatan,16,province,2025,SMP/MTs,Negeri dan Swasta,537,976,976,471,471,1984,1984,2719,2719,4703.0
+Bengkulu,17,province,2025,SMP/MTs,Negeri,187,189,189,0,0,376,376,821,821,1197.0
+Bengkulu,17,province,2025,SMP/MTs,Swasta,0,0,0,76,76,76,76,26,26,102.0
+Bengkulu,17,province,2025,SMP/MTs,Negeri dan Swasta,187,189,189,76,76,452,452,847,847,1299.0
+Lampung,18,province,2025,SMP/MTs,Negeri,495,76,76,0,0,571,571,1971,1971,2542.0
+Lampung,18,province,2025,SMP/MTs,Swasta,0,0,0,706,706,706,706,230,230,936.0
+Lampung,18,province,2025,SMP/MTs,Negeri dan Swasta,495,76,76,706,706,1277,1277,2201,2201,3478.0
+Kepulauan Bangka Belitung,19,province,2025,SMP/MTs,Negeri,176,197,197,0,0,373,373,476,476,849.0
+Kepulauan Bangka Belitung,19,province,2025,SMP/MTs,Swasta,0,0,0,90,90,90,90,83,83,173.0
+Kepulauan Bangka Belitung,19,province,2025,SMP/MTs,Negeri dan Swasta,176,197,197,90,90,463,463,559,559,1022.0
+Kepulauan Riau,21,province,2025,SMP/MTs,Negeri,149,289,289,0,0,438,438,390,390,828.0
+Kepulauan Riau,21,province,2025,SMP/MTs,Swasta,0,0,0,185,185,185,185,56,56,241.0
+Kepulauan Riau,21,province,2025,SMP/MTs,Negeri dan Swasta,149,289,289,185,185,623,623,446,446,1069.0
+D.K.I. Jakarta,31,province,2025,SMP/MTs,Negeri,535,36,36,0,0,571,571,1449,1449,2020.0
+D.K.I. Jakarta,31,province,2025,SMP/MTs,Swasta,0,0,0,1188,1188,1188,1188,518,518,1706.0
+D.K.I. Jakarta,31,province,2025,SMP/MTs,Negeri dan Swasta,535,36,36,1188,1188,1759,1759,1967,1967,3726.0
+Jawa Barat,32,province,2025,SMP/MTs,Negeri,1476,1698,1698,0,0,3174,3174,6712,6712,9886.0
+Jawa Barat,32,province,2025,SMP/MTs,Swasta,3,2,2,4897,4897,4902,4902,2063,2063,6965.0
+Jawa Barat,32,province,2025,SMP/MTs,Negeri dan Swasta,1479,1700,1700,4897,4897,8076,8076,8775,8775,16851.0
+Jawa Tengah,33,province,2025,SMP/MTs,Negeri,2579,1606,1606,0,0,4185,4185,4926,4926,9111.0
+Jawa Tengah,33,province,2025,SMP/MTs,Swasta,1,0,0,2526,2526,2527,2527,1099,1099,3626.0
+Jawa Tengah,33,province,2025,SMP/MTs,Negeri dan Swasta,2580,1606,1606,2526,2526,6712,6712,6025,6025,12737.0
+D.I. Yogyakarta,34,province,2025,SMP/MTs,Negeri,278,173,173,0,0,451,451,655,655,1106.0
+D.I. Yogyakarta,34,province,2025,SMP/MTs,Swasta,0,0,0,436,436,436,436,340,340,776.0
+D.I. Yogyakarta,34,province,2025,SMP/MTs,Negeri dan Swasta,278,173,173,436,436,887,887,995,995,1882.0
+Jawa Timur,35,province,2025,SMP/MTs,Negeri,2676,1562,1562,0,0,4238,4238,4892,4892,9130.0
+Jawa Timur,35,province,2025,SMP/MTs,Swasta,0,0,0,3245,3245,3245,3245,783,783,4028.0
+Jawa Timur,35,province,2025,SMP/MTs,Negeri dan Swasta,2676,1562,1562,3245,3245,7483,7483,5675,5675,13158.0
+Banten,36,province,2025,SMP/MTs,Negeri,180,233,233,0,0,413,413,1451,1451,1864.0
+Banten,36,province,2025,SMP/MTs,Swasta,2,0,0,972,972,974,974,366,366,1340.0
+Banten,36,province,2025,SMP/MTs,Negeri dan Swasta,182,233,233,972,972,1387,1387,1817,1817,3204.0
+Bali,51,province,2025,SMP/MTs,Negeri,414,938,938,0,0,1352,1352,918,918,2270.0
+Bali,51,province,2025,SMP/MTs,Swasta,0,0,0,262,262,262,262,131,131,393.0
+Bali,51,province,2025,SMP/MTs,Negeri dan Swasta,414,938,938,262,262,1614,1614,1049,1049,2663.0
+Nusa Tenggara Barat,52,province,2025,SMP/MTs,Negeri,573,413,413,0,0,986,986,2195,2195,3181.0
+Nusa Tenggara Barat,52,province,2025,SMP/MTs,Swasta,0,0,0,273,273,273,273,67,67,340.0
+Nusa Tenggara Barat,52,province,2025,SMP/MTs,Negeri dan Swasta,573,413,413,273,273,1259,1259,2262,2262,3521.0
+Nusa Tenggara Timur,53,province,2025,SMP/MTs,Negeri,349,740,740,0,0,1089,1089,1959,1959,3048.0
+Nusa Tenggara Timur,53,province,2025,SMP/MTs,Swasta,5,3,3,443,443,451,451,254,254,705.0
+Nusa Tenggara Timur,53,province,2025,SMP/MTs,Negeri dan Swasta,354,743,743,443,443,1540,1540,2213,2213,3753.0
+Kalimantan Barat,61,province,2025,SMP/MTs,Negeri,304,434,434,0,0,738,738,852,852,1590.0
+Kalimantan Barat,61,province,2025,SMP/MTs,Swasta,0,0,0,184,184,184,184,143,143,327.0
+Kalimantan Barat,61,province,2025,SMP/MTs,Negeri dan Swasta,304,434,434,184,184,922,922,995,995,1917.0
+Kalimantan Tengah,62,province,2025,SMP/MTs,Negeri,177,167,167,0,0,344,344,389,389,733.0
+Kalimantan Tengah,62,province,2025,SMP/MTs,Swasta,2,0,0,97,97,99,99,38,38,137.0
+Kalimantan Tengah,62,province,2025,SMP/MTs,Negeri dan Swasta,179,167,167,97,97,443,443,427,427,870.0
+Kalimantan Selatan,63,province,2025,SMP/MTs,Negeri,254,328,328,0,0,582,582,532,532,1114.0
+Kalimantan Selatan,63,province,2025,SMP/MTs,Swasta,0,0,0,126,126,126,126,55,55,181.0
+Kalimantan Selatan,63,province,2025,SMP/MTs,Negeri dan Swasta,254,328,328,126,126,708,708,587,587,1295.0
+Kalimantan Timur,64,province,2025,SMP/MTs,Negeri,287,522,522,0,0,809,809,828,828,1637.0
+Kalimantan Timur,64,province,2025,SMP/MTs,Swasta,0,0,0,293,293,293,293,116,116,409.0
+Kalimantan Timur,64,province,2025,SMP/MTs,Negeri dan Swasta,287,522,522,293,293,1102,1102,944,944,2046.0
+Kalimantan Utara,65,province,2025,SMP/MTs,Negeri,102,89,89,0,0,191,191,176,176,367.0
+Kalimantan Utara,65,province,2025,SMP/MTs,Swasta,0,0,0,41,41,41,41,24,24,65.0
+Kalimantan Utara,65,province,2025,SMP/MTs,Negeri dan Swasta,102,89,89,41,41,232,232,200,200,432.0
+Sulawesi Utara,71,province,2025,SMP/MTs,Negeri,231,41,41,0,0,272,272,384,384,656.0
+Sulawesi Utara,71,province,2025,SMP/MTs,Swasta,6,0,0,92,92,98,98,63,63,161.0
+Sulawesi Utara,71,province,2025,SMP/MTs,Negeri dan Swasta,237,41,41,92,92,370,370,447,447,817.0
+Sulawesi Tengah,72,province,2025,SMP/MTs,Negeri,566,449,449,0,0,1015,1015,1543,1543,2558.0
+Sulawesi Tengah,72,province,2025,SMP/MTs,Swasta,12,1,1,74,74,87,87,102,102,189.0
+Sulawesi Tengah,72,province,2025,SMP/MTs,Negeri dan Swasta,578,450,450,74,74,1102,1102,1645,1645,2747.0
+Sulawesi Selatan,73,province,2025,SMP/MTs,Negeri,897,257,257,0,0,1154,1154,3787,3787,4941.0
+Sulawesi Selatan,73,province,2025,SMP/MTs,Swasta,1,0,0,451,451,452,452,151,151,603.0
+Sulawesi Selatan,73,province,2025,SMP/MTs,Negeri dan Swasta,898,257,257,451,451,1606,1606,3938,3938,5544.0
+Sulawesi Tenggara,74,province,2025,SMP/MTs,Negeri,248,115,115,0,0,363,363,1451,1451,1814.0
+Sulawesi Tenggara,74,province,2025,SMP/MTs,Swasta,0,0,0,60,60,60,60,22,22,82.0
+Sulawesi Tenggara,74,province,2025,SMP/MTs,Negeri dan Swasta,248,115,115,60,60,423,423,1473,1473,1896.0
+Gorontalo,75,province,2025,SMP/MTs,Negeri,216,43,43,0,0,259,259,278,278,537.0
+Gorontalo,75,province,2025,SMP/MTs,Swasta,1,0,0,22,22,23,23,5,5,28.0
+Gorontalo,75,province,2025,SMP/MTs,Negeri dan Swasta,217,43,43,22,22,282,282,283,283,565.0
+Sulawesi Barat,76,province,2025,SMP/MTs,Negeri,286,32,32,0,0,318,318,1134,1134,1452.0
+Sulawesi Barat,76,province,2025,SMP/MTs,Swasta,0,0,0,33,33,33,33,30,30,63.0
+Sulawesi Barat,76,province,2025,SMP/MTs,Negeri dan Swasta,286,32,32,33,33,351,351,1164,1164,1515.0
+Maluku,81,province,2025,SMP/MTs,Negeri,457,323,323,0,0,780,780,801,801,1581.0
+Maluku,81,province,2025,SMP/MTs,Swasta,23,1,1,52,52,76,76,65,65,141.0
+Maluku,81,province,2025,SMP/MTs,Negeri dan Swasta,480,324,324,52,52,856,856,866,866,1722.0
+Maluku Utara,82,province,2025,SMP/MTs,Negeri,274,56,56,0,0,330,330,438,438,768.0
+Maluku Utara,82,province,2025,SMP/MTs,Swasta,22,0,0,25,25,47,47,44,44,91.0
+Maluku Utara,82,province,2025,SMP/MTs,Negeri dan Swasta,296,56,56,25,25,377,377,482,482,859.0
+Papua,91,province,2025,SMP/MTs,Negeri,228,17,17,0,0,245,245,178,178,423.0
+Papua,91,province,2025,SMP/MTs,Swasta,18,0,0,38,38,56,56,44,44,100.0
+Papua,91,province,2025,SMP/MTs,Negeri dan Swasta,246,17,17,38,38,301,301,222,222,523.0
+Papua Barat,92,province,2025,SMP/MTs,Negeri,85,2,2,0,0,87,87,86,86,173.0
+Papua Barat,92,province,2025,SMP/MTs,Swasta,22,0,0,13,13,35,35,24,24,59.0
+Papua Barat,92,province,2025,SMP/MTs,Negeri dan Swasta,107,2,2,13,13,122,122,110,110,232.0
+Papua Selatan,93,province,2025,SMP/MTs,Negeri,32,3,3,0,0,35,35,67,67,102.0
+Papua Selatan,93,province,2025,SMP/MTs,Swasta,9,1,1,17,17,27,27,31,31,58.0
+Papua Selatan,93,province,2025,SMP/MTs,Negeri dan Swasta,41,4,4,17,17,62,62,98,98,160.0
+Papua Tengah,94,province,2025,SMP/MTs,Negeri,54,0,0,0,0,54,54,62,62,116.0
+Papua Tengah,94,province,2025,SMP/MTs,Swasta,2,0,0,26,26,28,28,24,24,52.0
+Papua Tengah,94,province,2025,SMP/MTs,Negeri dan Swasta,56,0,0,26,26,82,82,86,86,168.0
+Papua Pegunungan,95,province,2025,SMP/MTs,Negeri,10,0,0,0,0,10,10,22,22,32.0
+Papua Pegunungan,95,province,2025,SMP/MTs,Swasta,4,0,0,9,9,13,13,9,9,22.0
+Papua Pegunungan,95,province,2025,SMP/MTs,Negeri dan Swasta,14,0,0,9,9,23,23,31,31,54.0
+Papua Barat Daya,96,province,2025,SMP/MTs,Negeri,52,0,0,0,0,52,52,57,57,109.0
+Papua Barat Daya,96,province,2025,SMP/MTs,Swasta,1,0,0,21,21,22,22,27,27,49.0
+Papua Barat Daya,96,province,2025,SMP/MTs,Negeri dan Swasta,53,0,0,21,21,74,74,84,84,158.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMP/MTs,Negeri,0,0,0,0,0,0,0,10,10,10.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMP/MTs,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMP/MTs,Negeri dan Swasta,0,0,0,0,0,0,0,10,10,10.0
+Aceh,11,province,2024,SMP/MTs,Negeri,1346,0,0,0,0,1346,1346,2888,2888,4234.0
+Aceh,11,province,2024,SMP/MTs,Swasta,10,0,0,386,386,396,396,169,169,565.0
+Aceh,11,province,2024,SMP/MTs,Negeri dan Swasta,1356,0,0,386,386,1742,1742,3057,3057,4799.0
+Sumatera Utara,12,province,2024,SMP/MTs,Negeri,618,0,0,0,0,618,618,2660,2660,3278.0
+Sumatera Utara,12,province,2024,SMP/MTs,Swasta,0,0,0,906,906,906,906,381,381,1287.0
+Sumatera Utara,12,province,2024,SMP/MTs,Negeri dan Swasta,618,0,0,906,906,1524,1524,3041,3041,4565.0
+Sumatera Barat,13,province,2024,SMP/MTs,Negeri,447,0,0,0,0,447,447,2093,2093,2540.0
+Sumatera Barat,13,province,2024,SMP/MTs,Swasta,0,0,0,226,226,226,226,111,111,337.0
+Sumatera Barat,13,province,2024,SMP/MTs,Negeri dan Swasta,447,0,0,226,226,673,673,2204,2204,2877.0
+Riau,14,province,2024,SMP/MTs,Negeri,395,0,0,0,0,395,395,2317,2317,2712.0
+Riau,14,province,2024,SMP/MTs,Swasta,0,0,0,413,413,413,413,122,122,535.0
+Riau,14,province,2024,SMP/MTs,Negeri dan Swasta,395,0,0,413,413,808,808,2439,2439,3247.0
+Jambi,15,province,2024,SMP/MTs,Negeri,337,0,0,0,0,337,337,1466,1466,1803.0
+Jambi,15,province,2024,SMP/MTs,Swasta,0,0,0,141,141,141,141,55,55,196.0
+Jambi,15,province,2024,SMP/MTs,Negeri dan Swasta,337,0,0,141,141,478,478,1521,1521,1999.0
+Sumatera Selatan,16,province,2024,SMP/MTs,Negeri,613,0,0,0,0,613,613,3281,3281,3894.0
+Sumatera Selatan,16,province,2024,SMP/MTs,Swasta,3,0,0,435,435,438,438,482,482,920.0
+Sumatera Selatan,16,province,2024,SMP/MTs,Negeri dan Swasta,616,0,0,435,435,1051,1051,3763,3763,4814.0
+Bengkulu,17,province,2024,SMP/MTs,Negeri,205,0,0,0,0,205,205,1051,1051,1256.0
+Bengkulu,17,province,2024,SMP/MTs,Swasta,0,0,0,81,81,81,81,26,26,107.0
+Bengkulu,17,province,2024,SMP/MTs,Negeri dan Swasta,205,0,0,81,81,286,286,1077,1077,1363.0
+Lampung,18,province,2024,SMP/MTs,Negeri,572,0,0,0,0,572,572,2100,2100,2672.0
+Lampung,18,province,2024,SMP/MTs,Swasta,0,0,0,639,639,639,639,233,233,872.0
+Lampung,18,province,2024,SMP/MTs,Negeri dan Swasta,572,0,0,639,639,1211,1211,2333,2333,3544.0
+Kepulauan Bangka Belitung,19,province,2024,SMP/MTs,Negeri,190,0,0,0,0,190,190,732,732,922.0
+Kepulauan Bangka Belitung,19,province,2024,SMP/MTs,Swasta,0,0,0,84,84,84,84,84,84,168.0
+Kepulauan Bangka Belitung,19,province,2024,SMP/MTs,Negeri dan Swasta,190,0,0,84,84,274,274,816,816,1090.0
+Kepulauan Riau,21,province,2024,SMP/MTs,Negeri,158,0,0,0,0,158,158,791,791,949.0
+Kepulauan Riau,21,province,2024,SMP/MTs,Swasta,0,0,0,191,191,191,191,51,51,242.0
+Kepulauan Riau,21,province,2024,SMP/MTs,Negeri dan Swasta,158,0,0,191,191,349,349,842,842,1191.0
+D.K.I. Jakarta,31,province,2024,SMP/MTs,Negeri,298,0,0,0,0,298,298,1575,1575,1873.0
+D.K.I. Jakarta,31,province,2024,SMP/MTs,Swasta,2,0,0,1203,1203,1205,1205,539,539,1744.0
+D.K.I. Jakarta,31,province,2024,SMP/MTs,Negeri dan Swasta,300,0,0,1203,1203,1503,1503,2114,2114,3617.0
+Jawa Barat,32,province,2024,SMP/MTs,Negeri,1733,0,0,0,0,1733,1733,8644,8644,10377.0
+Jawa Barat,32,province,2024,SMP/MTs,Swasta,2,0,0,4717,4717,4719,4719,2102,2102,6821.0
+Jawa Barat,32,province,2024,SMP/MTs,Negeri dan Swasta,1735,0,0,4717,4717,6452,6452,10746,10746,17198.0
+Jawa Tengah,33,province,2024,SMP/MTs,Negeri,2907,0,0,0,0,2907,2907,7021,7021,9928.0
+Jawa Tengah,33,province,2024,SMP/MTs,Swasta,1,0,0,2555,2555,2556,2556,1122,1122,3678.0
+Jawa Tengah,33,province,2024,SMP/MTs,Negeri dan Swasta,2908,0,0,2555,2555,5463,5463,8143,8143,13606.0
+D.I. Yogyakarta,34,province,2024,SMP/MTs,Negeri,322,0,0,0,0,322,322,791,791,1113.0
+D.I. Yogyakarta,34,province,2024,SMP/MTs,Swasta,0,0,0,427,427,427,427,356,356,783.0
+D.I. Yogyakarta,34,province,2024,SMP/MTs,Negeri dan Swasta,322,0,0,427,427,749,749,1147,1147,1896.0
+Jawa Timur,35,province,2024,SMP/MTs,Negeri,2932,0,0,0,0,2932,2932,6750,6750,9682.0
+Jawa Timur,35,province,2024,SMP/MTs,Swasta,0,0,0,3202,3202,3202,3202,790,790,3992.0
+Jawa Timur,35,province,2024,SMP/MTs,Negeri dan Swasta,2932,0,0,3202,3202,6134,6134,7540,7540,13674.0
+Banten,36,province,2024,SMP/MTs,Negeri,202,0,0,0,0,202,202,1760,1760,1962.0
+Banten,36,province,2024,SMP/MTs,Swasta,3,0,0,951,951,954,954,367,367,1321.0
+Banten,36,province,2024,SMP/MTs,Negeri dan Swasta,205,0,0,951,951,1156,1156,2127,2127,3283.0
+Bali,51,province,2024,SMP/MTs,Negeri,472,0,0,0,0,472,472,1913,1913,2385.0
+Bali,51,province,2024,SMP/MTs,Swasta,0,0,0,267,267,267,267,127,127,394.0
+Bali,51,province,2024,SMP/MTs,Negeri dan Swasta,472,0,0,267,267,739,739,2040,2040,2779.0
+Nusa Tenggara Barat,52,province,2024,SMP/MTs,Negeri,638,0,0,0,0,638,638,2595,2595,3233.0
+Nusa Tenggara Barat,52,province,2024,SMP/MTs,Swasta,0,0,0,250,250,250,250,57,57,307.0
+Nusa Tenggara Barat,52,province,2024,SMP/MTs,Negeri dan Swasta,638,0,0,250,250,888,888,2652,2652,3540.0
+Nusa Tenggara Timur,53,province,2024,SMP/MTs,Negeri,388,0,0,0,0,388,388,2621,2621,3009.0
+Nusa Tenggara Timur,53,province,2024,SMP/MTs,Swasta,5,0,0,460,460,465,465,258,258,723.0
+Nusa Tenggara Timur,53,province,2024,SMP/MTs,Negeri dan Swasta,393,0,0,460,460,853,853,2879,2879,3732.0
+Kalimantan Barat,61,province,2024,SMP/MTs,Negeri,351,0,0,0,0,351,351,1228,1228,1579.0
+Kalimantan Barat,61,province,2024,SMP/MTs,Swasta,0,0,0,177,177,177,177,134,134,311.0
+Kalimantan Barat,61,province,2024,SMP/MTs,Negeri dan Swasta,351,0,0,177,177,528,528,1362,1362,1890.0
+Kalimantan Tengah,62,province,2024,SMP/MTs,Negeri,197,0,0,0,0,197,197,560,560,757.0
+Kalimantan Tengah,62,province,2024,SMP/MTs,Swasta,3,0,0,92,92,95,95,35,35,130.0
+Kalimantan Tengah,62,province,2024,SMP/MTs,Negeri dan Swasta,200,0,0,92,92,292,292,595,595,887.0
+Kalimantan Selatan,63,province,2024,SMP/MTs,Negeri,293,0,0,0,0,293,293,851,851,1144.0
+Kalimantan Selatan,63,province,2024,SMP/MTs,Swasta,0,0,0,113,113,113,113,59,59,172.0
+Kalimantan Selatan,63,province,2024,SMP/MTs,Negeri dan Swasta,293,0,0,113,113,406,406,910,910,1316.0
+Kalimantan Timur,64,province,2024,SMP/MTs,Negeri,326,0,0,0,0,326,326,1338,1338,1664.0
+Kalimantan Timur,64,province,2024,SMP/MTs,Swasta,0,0,0,276,276,276,276,115,115,391.0
+Kalimantan Timur,64,province,2024,SMP/MTs,Negeri dan Swasta,326,0,0,276,276,602,602,1453,1453,2055.0
+Kalimantan Utara,65,province,2024,SMP/MTs,Negeri,107,0,0,0,0,107,107,281,281,388.0
+Kalimantan Utara,65,province,2024,SMP/MTs,Swasta,0,0,0,38,38,38,38,30,30,68.0
+Kalimantan Utara,65,province,2024,SMP/MTs,Negeri dan Swasta,107,0,0,38,38,145,145,311,311,456.0
+Sulawesi Utara,71,province,2024,SMP/MTs,Negeri,254,0,0,0,0,254,254,408,408,662.0
+Sulawesi Utara,71,province,2024,SMP/MTs,Swasta,7,0,0,83,83,90,90,54,54,144.0
+Sulawesi Utara,71,province,2024,SMP/MTs,Negeri dan Swasta,261,0,0,83,83,344,344,462,462,806.0
+Sulawesi Tengah,72,province,2024,SMP/MTs,Negeri,614,0,0,0,0,614,614,1970,1970,2584.0
+Sulawesi Tengah,72,province,2024,SMP/MTs,Swasta,13,0,0,74,74,87,87,105,105,192.0
+Sulawesi Tengah,72,province,2024,SMP/MTs,Negeri dan Swasta,627,0,0,74,74,701,701,2075,2075,2776.0
+Sulawesi Selatan,73,province,2024,SMP/MTs,Negeri,1035,0,0,0,0,1035,1035,4092,4092,5127.0
+Sulawesi Selatan,73,province,2024,SMP/MTs,Swasta,2,0,0,452,452,454,454,139,139,593.0
+Sulawesi Selatan,73,province,2024,SMP/MTs,Negeri dan Swasta,1037,0,0,452,452,1489,1489,4231,4231,5720.0
+Sulawesi Tenggara,74,province,2024,SMP/MTs,Negeri,281,0,0,0,0,281,281,1549,1549,1830.0
+Sulawesi Tenggara,74,province,2024,SMP/MTs,Swasta,0,0,0,64,64,64,64,18,18,82.0
+Sulawesi Tenggara,74,province,2024,SMP/MTs,Negeri dan Swasta,281,0,0,64,64,345,345,1567,1567,1912.0
+Gorontalo,75,province,2024,SMP/MTs,Negeri,237,0,0,0,0,237,237,368,368,605.0
+Gorontalo,75,province,2024,SMP/MTs,Swasta,2,0,0,11,11,13,13,13,13,26.0
+Gorontalo,75,province,2024,SMP/MTs,Negeri dan Swasta,239,0,0,11,11,250,250,381,381,631.0
+Sulawesi Barat,76,province,2024,SMP/MTs,Negeri,320,0,0,0,0,320,320,1183,1183,1503.0
+Sulawesi Barat,76,province,2024,SMP/MTs,Swasta,0,0,0,27,27,27,27,29,29,56.0
+Sulawesi Barat,76,province,2024,SMP/MTs,Negeri dan Swasta,320,0,0,27,27,347,347,1212,1212,1559.0
+Maluku,81,province,2024,SMP/MTs,Negeri,478,0,0,0,0,478,478,990,990,1468.0
+Maluku,81,province,2024,SMP/MTs,Swasta,22,0,0,47,47,69,69,62,62,131.0
+Maluku,81,province,2024,SMP/MTs,Negeri dan Swasta,500,0,0,47,47,547,547,1052,1052,1599.0
+Maluku Utara,82,province,2024,SMP/MTs,Negeri,265,0,0,0,0,265,265,476,476,741.0
+Maluku Utara,82,province,2024,SMP/MTs,Swasta,23,0,0,22,22,45,45,40,40,85.0
+Maluku Utara,82,province,2024,SMP/MTs,Negeri dan Swasta,288,0,0,22,22,310,310,516,516,826.0
+Papua,91,province,2024,SMP/MTs,Negeri,202,0,0,0,0,202,202,199,199,401.0
+Papua,91,province,2024,SMP/MTs,Swasta,17,0,0,35,35,52,52,44,44,96.0
+Papua,91,province,2024,SMP/MTs,Negeri dan Swasta,219,0,0,35,35,254,254,243,243,497.0
+Papua Barat,92,province,2024,SMP/MTs,Negeri,92,0,0,0,0,92,92,89,89,181.0
+Papua Barat,92,province,2024,SMP/MTs,Swasta,22,0,0,15,15,37,37,25,25,62.0
+Papua Barat,92,province,2024,SMP/MTs,Negeri dan Swasta,114,0,0,15,15,129,129,114,114,243.0
+Papua Selatan,93,province,2024,SMP/MTs,Negeri,36,0,0,0,0,36,36,66,66,102.0
+Papua Selatan,93,province,2024,SMP/MTs,Swasta,10,0,0,15,15,25,25,34,34,59.0
+Papua Selatan,93,province,2024,SMP/MTs,Negeri dan Swasta,46,0,0,15,15,61,61,100,100,161.0
+Papua Tengah,94,province,2024,SMP/MTs,Negeri,57,0,0,0,0,57,57,71,71,128.0
+Papua Tengah,94,province,2024,SMP/MTs,Swasta,4,0,0,27,27,31,31,22,22,53.0
+Papua Tengah,94,province,2024,SMP/MTs,Negeri dan Swasta,61,0,0,27,27,88,88,93,93,181.0
+Papua Pegunungan,95,province,2024,SMP/MTs,Negeri,9,0,0,0,0,9,9,17,17,26.0
+Papua Pegunungan,95,province,2024,SMP/MTs,Swasta,4,0,0,7,7,11,11,9,9,20.0
+Papua Pegunungan,95,province,2024,SMP/MTs,Negeri dan Swasta,13,0,0,7,7,20,20,26,26,46.0
+Papua Barat Daya,96,province,2024,SMP/MTs,Negeri,55,0,0,0,0,55,55,77,77,132.0
+Papua Barat Daya,96,province,2024,SMP/MTs,Swasta,2,0,0,13,13,15,15,29,29,44.0
+Papua Barat Daya,96,province,2024,SMP/MTs,Negeri dan Swasta,57,0,0,13,13,70,70,106,106,176.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMP/MTs,Negeri,0,0,0,0,0,0,0,9,9,9.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMP/MTs,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMP/MTs,Negeri dan Swasta,0,0,0,0,0,0,0,9,9,9.0
+Aceh,11,province,2023,SMP/MTs,Negeri,1426,0,0,0,0,1426,1426,2567,2567,3993.0
+Aceh,11,province,2023,SMP/MTs,Swasta,8,0,0,356,356,364,364,170,170,534.0
+Aceh,11,province,2023,SMP/MTs,Negeri dan Swasta,1434,0,0,356,356,1790,1790,2737,2737,4527.0
+Sumatera Utara,12,province,2023,SMP/MTs,Negeri,725,0,0,0,0,725,725,2545,2545,3270.0
+Sumatera Utara,12,province,2023,SMP/MTs,Swasta,0,0,0,905,905,905,905,395,395,1300.0
+Sumatera Utara,12,province,2023,SMP/MTs,Negeri dan Swasta,725,0,0,905,905,1630,1630,2940,2940,4570.0
+Sumatera Barat,13,province,2023,SMP/MTs,Negeri,544,0,0,0,0,544,544,2019,2019,2563.0
+Sumatera Barat,13,province,2023,SMP/MTs,Swasta,0,0,0,235,235,235,235,102,102,337.0
+Sumatera Barat,13,province,2023,SMP/MTs,Negeri dan Swasta,544,0,0,235,235,779,779,2121,2121,2900.0
+Riau,14,province,2023,SMP/MTs,Negeri,478,0,0,0,0,478,478,2135,2135,2613.0
+Riau,14,province,2023,SMP/MTs,Swasta,0,0,0,390,390,390,390,112,112,502.0
+Riau,14,province,2023,SMP/MTs,Negeri dan Swasta,478,0,0,390,390,868,868,2247,2247,3115.0
+Jambi,15,province,2023,SMP/MTs,Negeri,383,0,0,0,0,383,383,1355,1355,1738.0
+Jambi,15,province,2023,SMP/MTs,Swasta,0,0,0,128,128,128,128,50,50,178.0
+Jambi,15,province,2023,SMP/MTs,Negeri dan Swasta,383,0,0,128,128,511,511,1405,1405,1916.0
+Sumatera Selatan,16,province,2023,SMP/MTs,Negeri,685,0,0,0,0,685,685,3108,3108,3793.0
+Sumatera Selatan,16,province,2023,SMP/MTs,Swasta,5,0,0,400,400,405,405,454,454,859.0
+Sumatera Selatan,16,province,2023,SMP/MTs,Negeri dan Swasta,690,0,0,400,400,1090,1090,3562,3562,4652.0
+Bengkulu,17,province,2023,SMP/MTs,Negeri,233,0,0,0,0,233,233,908,908,1141.0
+Bengkulu,17,province,2023,SMP/MTs,Swasta,0,0,0,67,67,67,67,27,27,94.0
+Bengkulu,17,province,2023,SMP/MTs,Negeri dan Swasta,233,0,0,67,67,300,300,935,935,1235.0
+Lampung,18,province,2023,SMP/MTs,Negeri,678,0,0,0,0,678,678,2007,2007,2685.0
+Lampung,18,province,2023,SMP/MTs,Swasta,0,0,0,587,587,587,587,221,221,808.0
+Lampung,18,province,2023,SMP/MTs,Negeri dan Swasta,678,0,0,587,587,1265,1265,2228,2228,3493.0
+Kepulauan Bangka Belitung,19,province,2023,SMP/MTs,Negeri,205,0,0,0,0,205,205,752,752,957.0
+Kepulauan Bangka Belitung,19,province,2023,SMP/MTs,Swasta,0,0,0,80,80,80,80,79,79,159.0
+Kepulauan Bangka Belitung,19,province,2023,SMP/MTs,Negeri dan Swasta,205,0,0,80,80,285,285,831,831,1116.0
+Kepulauan Riau,21,province,2023,SMP/MTs,Negeri,168,0,0,0,0,168,168,792,792,960.0
+Kepulauan Riau,21,province,2023,SMP/MTs,Swasta,0,0,0,182,182,182,182,53,53,235.0
+Kepulauan Riau,21,province,2023,SMP/MTs,Negeri dan Swasta,168,0,0,182,182,350,350,845,845,1195.0
+D.K.I. Jakarta,31,province,2023,SMP/MTs,Negeri,402,0,0,0,0,402,402,1672,1672,2074.0
+D.K.I. Jakarta,31,province,2023,SMP/MTs,Swasta,3,0,0,1199,1199,1202,1202,531,531,1733.0
+D.K.I. Jakarta,31,province,2023,SMP/MTs,Negeri dan Swasta,405,0,0,1199,1199,1604,1604,2203,2203,3807.0
+Jawa Barat,32,province,2023,SMP/MTs,Negeri,2025,0,0,0,0,2025,2025,8637,8637,10662.0
+Jawa Barat,32,province,2023,SMP/MTs,Swasta,1,0,0,4479,4479,4480,4480,2032,2032,6512.0
+Jawa Barat,32,province,2023,SMP/MTs,Negeri dan Swasta,2026,0,0,4479,4479,6505,6505,10669,10669,17174.0
+Jawa Tengah,33,province,2023,SMP/MTs,Negeri,3241,0,0,0,0,3241,3241,7310,7310,10551.0
+Jawa Tengah,33,province,2023,SMP/MTs,Swasta,1,0,0,2570,2570,2571,2571,1127,1127,3698.0
+Jawa Tengah,33,province,2023,SMP/MTs,Negeri dan Swasta,3242,0,0,2570,2570,5812,5812,8437,8437,14249.0
+D.I. Yogyakarta,34,province,2023,SMP/MTs,Negeri,366,0,0,0,0,366,366,809,809,1175.0
+D.I. Yogyakarta,34,province,2023,SMP/MTs,Swasta,1,0,0,412,412,413,413,374,374,787.0
+D.I. Yogyakarta,34,province,2023,SMP/MTs,Negeri dan Swasta,367,0,0,412,412,779,779,1183,1183,1962.0
+Jawa Timur,35,province,2023,SMP/MTs,Negeri,3293,0,0,0,0,3293,3293,7081,7081,10374.0
+Jawa Timur,35,province,2023,SMP/MTs,Swasta,3,0,0,3033,3033,3036,3036,794,794,3830.0
+Jawa Timur,35,province,2023,SMP/MTs,Negeri dan Swasta,3296,0,0,3033,3033,6329,6329,7875,7875,14204.0
+Banten,36,province,2023,SMP/MTs,Negeri,225,0,0,0,0,225,225,1745,1745,1970.0
+Banten,36,province,2023,SMP/MTs,Swasta,1,0,0,886,886,887,887,374,374,1261.0
+Banten,36,province,2023,SMP/MTs,Negeri dan Swasta,226,0,0,886,886,1112,1112,2119,2119,3231.0
+Bali,51,province,2023,SMP/MTs,Negeri,545,0,0,0,0,545,545,1928,1928,2473.0
+Bali,51,province,2023,SMP/MTs,Swasta,0,0,0,276,276,276,276,126,126,402.0
+Bali,51,province,2023,SMP/MTs,Negeri dan Swasta,545,0,0,276,276,821,821,2054,2054,2875.0
+Nusa Tenggara Barat,52,province,2023,SMP/MTs,Negeri,707,0,0,0,0,707,707,2474,2474,3181.0
+Nusa Tenggara Barat,52,province,2023,SMP/MTs,Swasta,0,0,0,244,244,244,244,59,59,303.0
+Nusa Tenggara Barat,52,province,2023,SMP/MTs,Negeri dan Swasta,707,0,0,244,244,951,951,2533,2533,3484.0
+Nusa Tenggara Timur,53,province,2023,SMP/MTs,Negeri,441,0,0,0,0,441,441,2416,2416,2857.0
+Nusa Tenggara Timur,53,province,2023,SMP/MTs,Swasta,5,0,0,460,460,465,465,253,253,718.0
+Nusa Tenggara Timur,53,province,2023,SMP/MTs,Negeri dan Swasta,446,0,0,460,460,906,906,2669,2669,3575.0
+Kalimantan Barat,61,province,2023,SMP/MTs,Negeri,405,0,0,0,0,405,405,1067,1067,1472.0
+Kalimantan Barat,61,province,2023,SMP/MTs,Swasta,0,0,0,156,156,156,156,138,138,294.0
+Kalimantan Barat,61,province,2023,SMP/MTs,Negeri dan Swasta,405,0,0,156,156,561,561,1205,1205,1766.0
+Kalimantan Tengah,62,province,2023,SMP/MTs,Negeri,223,0,0,0,0,223,223,508,508,731.0
+Kalimantan Tengah,62,province,2023,SMP/MTs,Swasta,3,0,0,70,70,73,73,28,28,101.0
+Kalimantan Tengah,62,province,2023,SMP/MTs,Negeri dan Swasta,226,0,0,70,70,296,296,536,536,832.0
+Kalimantan Selatan,63,province,2023,SMP/MTs,Negeri,353,0,0,0,0,353,353,812,812,1165.0
+Kalimantan Selatan,63,province,2023,SMP/MTs,Swasta,0,0,0,105,105,105,105,56,56,161.0
+Kalimantan Selatan,63,province,2023,SMP/MTs,Negeri dan Swasta,353,0,0,105,105,458,458,868,868,1326.0
+Kalimantan Timur,64,province,2023,SMP/MTs,Negeri,360,0,0,0,0,360,360,1271,1271,1631.0
+Kalimantan Timur,64,province,2023,SMP/MTs,Swasta,1,0,0,239,239,240,240,113,113,353.0
+Kalimantan Timur,64,province,2023,SMP/MTs,Negeri dan Swasta,361,0,0,239,239,600,600,1384,1384,1984.0
+Kalimantan Utara,65,province,2023,SMP/MTs,Negeri,117,0,0,0,0,117,117,266,266,383.0
+Kalimantan Utara,65,province,2023,SMP/MTs,Swasta,0,0,0,31,31,31,31,33,33,64.0
+Kalimantan Utara,65,province,2023,SMP/MTs,Negeri dan Swasta,117,0,0,31,31,148,148,299,299,447.0
+Sulawesi Utara,71,province,2023,SMP/MTs,Negeri,272,0,0,0,0,272,272,347,347,619.0
+Sulawesi Utara,71,province,2023,SMP/MTs,Swasta,7,0,0,76,76,83,83,52,52,135.0
+Sulawesi Utara,71,province,2023,SMP/MTs,Negeri dan Swasta,279,0,0,76,76,355,355,399,399,754.0
+Sulawesi Tengah,72,province,2023,SMP/MTs,Negeri,660,0,0,0,0,660,660,1392,1392,2052.0
+Sulawesi Tengah,72,province,2023,SMP/MTs,Swasta,13,0,0,65,65,78,78,110,110,188.0
+Sulawesi Tengah,72,province,2023,SMP/MTs,Negeri dan Swasta,673,0,0,65,65,738,738,1502,1502,2240.0
+Sulawesi Selatan,73,province,2023,SMP/MTs,Negeri,1198,0,0,0,0,1198,1198,3910,3910,5108.0
+Sulawesi Selatan,73,province,2023,SMP/MTs,Swasta,4,0,0,410,410,414,414,139,139,553.0
+Sulawesi Selatan,73,province,2023,SMP/MTs,Negeri dan Swasta,1202,0,0,410,410,1612,1612,4049,4049,5661.0
+Sulawesi Tenggara,74,province,2023,SMP/MTs,Negeri,315,0,0,0,0,315,315,1207,1207,1522.0
+Sulawesi Tenggara,74,province,2023,SMP/MTs,Swasta,0,0,0,59,59,59,59,21,21,80.0
+Sulawesi Tenggara,74,province,2023,SMP/MTs,Negeri dan Swasta,315,0,0,59,59,374,374,1228,1228,1602.0
+Gorontalo,75,province,2023,SMP/MTs,Negeri,246,0,0,0,0,246,246,357,357,603.0
+Gorontalo,75,province,2023,SMP/MTs,Swasta,2,0,0,11,11,13,13,8,8,21.0
+Gorontalo,75,province,2023,SMP/MTs,Negeri dan Swasta,248,0,0,11,11,259,259,365,365,624.0
+Sulawesi Barat,76,province,2023,SMP/MTs,Negeri,325,0,0,0,0,325,325,1118,1118,1443.0
+Sulawesi Barat,76,province,2023,SMP/MTs,Swasta,1,0,0,25,25,26,26,35,35,61.0
+Sulawesi Barat,76,province,2023,SMP/MTs,Negeri dan Swasta,326,0,0,25,25,351,351,1153,1153,1504.0
+Maluku,81,province,2023,SMP/MTs,Negeri,506,0,0,0,0,506,506,551,551,1057.0
+Maluku,81,province,2023,SMP/MTs,Swasta,24,0,0,49,49,73,73,71,71,144.0
+Maluku,81,province,2023,SMP/MTs,Negeri dan Swasta,530,0,0,49,49,579,579,622,622,1201.0
+Maluku Utara,82,province,2023,SMP/MTs,Negeri,272,0,0,0,0,272,272,311,311,583.0
+Maluku Utara,82,province,2023,SMP/MTs,Swasta,33,0,0,19,19,52,52,44,44,96.0
+Maluku Utara,82,province,2023,SMP/MTs,Negeri dan Swasta,305,0,0,19,19,324,324,355,355,679.0
+Papua,91,province,2023,SMP/MTs,Negeri,216,0,0,0,0,216,216,167,167,383.0
+Papua,91,province,2023,SMP/MTs,Swasta,22,0,0,33,33,55,55,47,47,102.0
+Papua,91,province,2023,SMP/MTs,Negeri dan Swasta,238,0,0,33,33,271,271,214,214,485.0
+Papua Barat,92,province,2023,SMP/MTs,Negeri,97,0,0,0,0,97,97,84,84,181.0
+Papua Barat,92,province,2023,SMP/MTs,Swasta,23,0,0,15,15,38,38,24,24,62.0
+Papua Barat,92,province,2023,SMP/MTs,Negeri dan Swasta,120,0,0,15,15,135,135,108,108,243.0
+Papua Selatan,93,province,2023,SMP/MTs,Negeri,34,0,0,0,0,34,34,59,59,93.0
+Papua Selatan,93,province,2023,SMP/MTs,Swasta,9,0,0,14,14,23,23,31,31,54.0
+Papua Selatan,93,province,2023,SMP/MTs,Negeri dan Swasta,43,0,0,14,14,57,57,90,90,147.0
+Papua Tengah,94,province,2023,SMP/MTs,Negeri,59,0,0,0,0,59,59,60,60,119.0
+Papua Tengah,94,province,2023,SMP/MTs,Swasta,4,0,0,26,26,30,30,19,19,49.0
+Papua Tengah,94,province,2023,SMP/MTs,Negeri dan Swasta,63,0,0,26,26,89,89,79,79,168.0
+Papua Pegunungan,95,province,2023,SMP/MTs,Negeri,11,0,0,0,0,11,11,14,14,25.0
+Papua Pegunungan,95,province,2023,SMP/MTs,Swasta,2,0,0,7,7,9,9,7,7,16.0
+Papua Pegunungan,95,province,2023,SMP/MTs,Negeri dan Swasta,13,0,0,7,7,20,20,21,21,41.0
+Papua Barat Daya,96,province,2023,SMP/MTs,Negeri,56,0,0,0,0,56,56,68,68,124.0
+Papua Barat Daya,96,province,2023,SMP/MTs,Swasta,3,0,0,14,14,17,17,24,24,41.0
+Papua Barat Daya,96,province,2023,SMP/MTs,Negeri dan Swasta,59,0,0,14,14,73,73,92,92,165.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMP/MTs,Negeri,0,0,0,0,0,0,0,8,8,8.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMP/MTs,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMP/MTs,Negeri dan Swasta,0,0,0,0,0,0,0,8,8,8.0
+Aceh,11,province,2022,SMP/MTs,Negeri,1591,0,0,0,0,1591,1591,2717,2717,4308.0
+Aceh,11,province,2022,SMP/MTs,Swasta,7,0,0,332,332,339,339,172,172,511.0
+Aceh,11,province,2022,SMP/MTs,Negeri dan Swasta,1598,0,0,332,332,1930,1930,2889,2889,4819.0
+Sumatera Utara,12,province,2022,SMP/MTs,Negeri,842,0,0,0,0,842,842,2709,2709,3551.0
+Sumatera Utara,12,province,2022,SMP/MTs,Swasta,0,0,0,896,896,896,896,407,407,1303.0
+Sumatera Utara,12,province,2022,SMP/MTs,Negeri dan Swasta,842,0,0,896,896,1738,1738,3116,3116,4854.0
+Sumatera Barat,13,province,2022,SMP/MTs,Negeri,665,0,0,0,0,665,665,2036,2036,2701.0
+Sumatera Barat,13,province,2022,SMP/MTs,Swasta,0,0,0,238,238,238,238,95,95,333.0
+Sumatera Barat,13,province,2022,SMP/MTs,Negeri dan Swasta,665,0,0,238,238,903,903,2131,2131,3034.0
+Riau,14,province,2022,SMP/MTs,Negeri,556,0,0,0,0,556,556,2151,2151,2707.0
+Riau,14,province,2022,SMP/MTs,Swasta,1,0,0,377,377,378,378,120,120,498.0
+Riau,14,province,2022,SMP/MTs,Negeri dan Swasta,557,0,0,377,377,934,934,2271,2271,3205.0
+Jambi,15,province,2022,SMP/MTs,Negeri,442,0,0,0,0,442,442,1373,1373,1815.0
+Jambi,15,province,2022,SMP/MTs,Swasta,0,0,0,120,120,120,120,57,57,177.0
+Jambi,15,province,2022,SMP/MTs,Negeri dan Swasta,442,0,0,120,120,562,562,1430,1430,1992.0
+Sumatera Selatan,16,province,2022,SMP/MTs,Negeri,759,0,0,0,0,759,759,3196,3196,3955.0
+Sumatera Selatan,16,province,2022,SMP/MTs,Swasta,6,0,0,388,388,394,394,440,440,834.0
+Sumatera Selatan,16,province,2022,SMP/MTs,Negeri dan Swasta,765,0,0,388,388,1153,1153,3636,3636,4789.0
+Bengkulu,17,province,2022,SMP/MTs,Negeri,262,0,0,0,0,262,262,954,954,1216.0
+Bengkulu,17,province,2022,SMP/MTs,Swasta,1,0,0,65,65,66,66,27,27,93.0
+Bengkulu,17,province,2022,SMP/MTs,Negeri dan Swasta,263,0,0,65,65,328,328,981,981,1309.0
+Lampung,18,province,2022,SMP/MTs,Negeri,762,0,0,0,0,762,762,2010,2010,2772.0
+Lampung,18,province,2022,SMP/MTs,Swasta,0,0,0,566,566,566,566,232,232,798.0
+Lampung,18,province,2022,SMP/MTs,Negeri dan Swasta,762,0,0,566,566,1328,1328,2242,2242,3570.0
+Kepulauan Bangka Belitung,19,province,2022,SMP/MTs,Negeri,227,0,0,0,0,227,227,760,760,987.0
+Kepulauan Bangka Belitung,19,province,2022,SMP/MTs,Swasta,0,0,0,64,64,64,64,79,79,143.0
+Kepulauan Bangka Belitung,19,province,2022,SMP/MTs,Negeri dan Swasta,227,0,0,64,64,291,291,839,839,1130.0
+Kepulauan Riau,21,province,2022,SMP/MTs,Negeri,179,0,0,0,0,179,179,800,800,979.0
+Kepulauan Riau,21,province,2022,SMP/MTs,Swasta,0,0,0,174,174,174,174,58,58,232.0
+Kepulauan Riau,21,province,2022,SMP/MTs,Negeri dan Swasta,179,0,0,174,174,353,353,858,858,1211.0
+D.K.I. Jakarta,31,province,2022,SMP/MTs,Negeri,475,0,0,0,0,475,475,1716,1716,2191.0
+D.K.I. Jakarta,31,province,2022,SMP/MTs,Swasta,3,0,0,1230,1230,1233,1233,538,538,1771.0
+D.K.I. Jakarta,31,province,2022,SMP/MTs,Negeri dan Swasta,478,0,0,1230,1230,1708,1708,2254,2254,3962.0
+Jawa Barat,32,province,2022,SMP/MTs,Negeri,2370,0,0,0,0,2370,2370,8781,8781,11151.0
+Jawa Barat,32,province,2022,SMP/MTs,Swasta,2,0,0,4221,4221,4223,4223,2018,2018,6241.0
+Jawa Barat,32,province,2022,SMP/MTs,Negeri dan Swasta,2372,0,0,4221,4221,6593,6593,10799,10799,17392.0
+Jawa Tengah,33,province,2022,SMP/MTs,Negeri,3676,0,0,0,0,3676,3676,7411,7411,11087.0
+Jawa Tengah,33,province,2022,SMP/MTs,Swasta,1,0,0,2608,2608,2609,2609,1093,1093,3702.0
+Jawa Tengah,33,province,2022,SMP/MTs,Negeri dan Swasta,3677,0,0,2608,2608,6285,6285,8504,8504,14789.0
+D.I. Yogyakarta,34,province,2022,SMP/MTs,Negeri,434,0,0,0,0,434,434,824,824,1258.0
+D.I. Yogyakarta,34,province,2022,SMP/MTs,Swasta,1,0,0,412,412,413,413,403,403,816.0
+D.I. Yogyakarta,34,province,2022,SMP/MTs,Negeri dan Swasta,435,0,0,412,412,847,847,1227,1227,2074.0
+Jawa Timur,35,province,2022,SMP/MTs,Negeri,3637,0,0,0,0,3637,3637,7350,7350,10987.0
+Jawa Timur,35,province,2022,SMP/MTs,Swasta,4,0,0,2941,2941,2945,2945,810,810,3755.0
+Jawa Timur,35,province,2022,SMP/MTs,Negeri dan Swasta,3641,0,0,2941,2941,6582,6582,8160,8160,14742.0
+Banten,36,province,2022,SMP/MTs,Negeri,257,0,0,0,0,257,257,1800,1800,2057.0
+Banten,36,province,2022,SMP/MTs,Swasta,0,0,0,855,855,855,855,372,372,1227.0
+Banten,36,province,2022,SMP/MTs,Negeri dan Swasta,257,0,0,855,855,1112,1112,2172,2172,3284.0
+Bali,51,province,2022,SMP/MTs,Negeri,651,0,0,0,0,651,651,1914,1914,2565.0
+Bali,51,province,2022,SMP/MTs,Swasta,0,0,0,301,301,301,301,132,132,433.0
+Bali,51,province,2022,SMP/MTs,Negeri dan Swasta,651,0,0,301,301,952,952,2046,2046,2998.0
+Nusa Tenggara Barat,52,province,2022,SMP/MTs,Negeri,779,0,0,0,0,779,779,2503,2503,3282.0
+Nusa Tenggara Barat,52,province,2022,SMP/MTs,Swasta,0,0,0,231,231,231,231,63,63,294.0
+Nusa Tenggara Barat,52,province,2022,SMP/MTs,Negeri dan Swasta,779,0,0,231,231,1010,1010,2566,2566,3576.0
+Nusa Tenggara Timur,53,province,2022,SMP/MTs,Negeri,506,0,0,0,0,506,506,2373,2373,2879.0
+Nusa Tenggara Timur,53,province,2022,SMP/MTs,Swasta,5,0,0,458,458,463,463,269,269,732.0
+Nusa Tenggara Timur,53,province,2022,SMP/MTs,Negeri dan Swasta,511,0,0,458,458,969,969,2642,2642,3611.0
+Kalimantan Barat,61,province,2022,SMP/MTs,Negeri,457,0,0,0,0,457,457,1004,1004,1461.0
+Kalimantan Barat,61,province,2022,SMP/MTs,Swasta,0,0,0,155,155,155,155,137,137,292.0
+Kalimantan Barat,61,province,2022,SMP/MTs,Negeri dan Swasta,457,0,0,155,155,612,612,1141,1141,1753.0
+Kalimantan Tengah,62,province,2022,SMP/MTs,Negeri,273,0,0,0,0,273,273,504,504,777.0
+Kalimantan Tengah,62,province,2022,SMP/MTs,Swasta,3,0,0,73,73,76,76,27,27,103.0
+Kalimantan Tengah,62,province,2022,SMP/MTs,Negeri dan Swasta,276,0,0,73,73,349,349,531,531,880.0
+Kalimantan Selatan,63,province,2022,SMP/MTs,Negeri,400,0,0,0,0,400,400,795,795,1195.0
+Kalimantan Selatan,63,province,2022,SMP/MTs,Swasta,0,0,0,101,101,101,101,60,60,161.0
+Kalimantan Selatan,63,province,2022,SMP/MTs,Negeri dan Swasta,400,0,0,101,101,501,501,855,855,1356.0
+Kalimantan Timur,64,province,2022,SMP/MTs,Negeri,395,0,0,0,0,395,395,1304,1304,1699.0
+Kalimantan Timur,64,province,2022,SMP/MTs,Swasta,1,0,0,243,243,244,244,114,114,358.0
+Kalimantan Timur,64,province,2022,SMP/MTs,Negeri dan Swasta,396,0,0,243,243,639,639,1418,1418,2057.0
+Kalimantan Utara,65,province,2022,SMP/MTs,Negeri,118,0,0,0,0,118,118,267,267,385.0
+Kalimantan Utara,65,province,2022,SMP/MTs,Swasta,0,0,0,22,22,22,22,32,32,54.0
+Kalimantan Utara,65,province,2022,SMP/MTs,Negeri dan Swasta,118,0,0,22,22,140,140,299,299,439.0
+Sulawesi Utara,71,province,2022,SMP/MTs,Negeri,309,0,0,0,0,309,309,352,352,661.0
+Sulawesi Utara,71,province,2022,SMP/MTs,Swasta,8,0,0,79,79,87,87,54,54,141.0
+Sulawesi Utara,71,province,2022,SMP/MTs,Negeri dan Swasta,317,0,0,79,79,396,396,406,406,802.0
+Sulawesi Tengah,72,province,2022,SMP/MTs,Negeri,718,0,0,0,0,718,718,1516,1516,2234.0
+Sulawesi Tengah,72,province,2022,SMP/MTs,Swasta,15,0,0,66,66,81,81,110,110,191.0
+Sulawesi Tengah,72,province,2022,SMP/MTs,Negeri dan Swasta,733,0,0,66,66,799,799,1626,1626,2425.0
+Sulawesi Selatan,73,province,2022,SMP/MTs,Negeri,1364,0,0,0,0,1364,1364,4158,4158,5522.0
+Sulawesi Selatan,73,province,2022,SMP/MTs,Swasta,6,0,0,415,415,421,421,135,135,556.0
+Sulawesi Selatan,73,province,2022,SMP/MTs,Negeri dan Swasta,1370,0,0,415,415,1785,1785,4293,4293,6078.0
+Sulawesi Tenggara,74,province,2022,SMP/MTs,Negeri,353,0,0,0,0,353,353,1239,1239,1592.0
+Sulawesi Tenggara,74,province,2022,SMP/MTs,Swasta,0,0,0,58,58,58,58,22,22,80.0
+Sulawesi Tenggara,74,province,2022,SMP/MTs,Negeri dan Swasta,353,0,0,58,58,411,411,1261,1261,1672.0
+Gorontalo,75,province,2022,SMP/MTs,Negeri,247,0,0,0,0,247,247,379,379,626.0
+Gorontalo,75,province,2022,SMP/MTs,Swasta,3,0,0,14,14,17,17,8,8,25.0
+Gorontalo,75,province,2022,SMP/MTs,Negeri dan Swasta,250,0,0,14,14,264,264,387,387,651.0
+Sulawesi Barat,76,province,2022,SMP/MTs,Negeri,348,0,0,0,0,348,348,1175,1175,1523.0
+Sulawesi Barat,76,province,2022,SMP/MTs,Swasta,1,0,0,31,31,32,32,36,36,68.0
+Sulawesi Barat,76,province,2022,SMP/MTs,Negeri dan Swasta,349,0,0,31,31,380,380,1211,1211,1591.0
+Maluku,81,province,2022,SMP/MTs,Negeri,549,0,0,0,0,549,549,539,539,1088.0
+Maluku,81,province,2022,SMP/MTs,Swasta,24,0,0,44,44,68,68,71,71,139.0
+Maluku,81,province,2022,SMP/MTs,Negeri dan Swasta,573,0,0,44,44,617,617,610,610,1227.0
+Maluku Utara,82,province,2022,SMP/MTs,Negeri,293,0,0,0,0,293,293,325,325,618.0
+Maluku Utara,82,province,2022,SMP/MTs,Swasta,33,0,0,17,17,50,50,45,45,95.0
+Maluku Utara,82,province,2022,SMP/MTs,Negeri dan Swasta,326,0,0,17,17,343,343,370,370,713.0
+Papua,91,province,2022,SMP/MTs,Negeri,354,0,0,0,0,354,354,321,321,675.0
+Papua,91,province,2022,SMP/MTs,Swasta,40,0,0,84,84,124,124,94,94,218.0
+Papua,91,province,2022,SMP/MTs,Negeri dan Swasta,394,0,0,84,84,478,478,415,415,893.0
+Papua Barat,92,province,2022,SMP/MTs,Negeri,167,0,0,0,0,167,167,145,145,312.0
+Papua Barat,92,province,2022,SMP/MTs,Swasta,28,0,0,28,28,56,56,41,41,97.0
+Papua Barat,92,province,2022,SMP/MTs,Negeri dan Swasta,195,0,0,28,28,223,223,186,186,409.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMP/MTs,Negeri,0,0,0,0,0,0,0,5,5,5.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMP/MTs,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMP/MTs,Negeri dan Swasta,0,0,0,0,0,0,0,5,5,5.0
+Aceh,11,province,2021,SMP/MTs,Negeri,1718,0,0,0,0,1718,1718,2668,2668,4386.0
+Aceh,11,province,2021,SMP/MTs,Swasta,11,0,0,295,295,306,306,175,175,481.0
+Aceh,11,province,2021,SMP/MTs,Negeri dan Swasta,1729,0,0,295,295,2024,2024,2843,2843,4867.0
+Sumatera Utara,12,province,2021,SMP/MTs,Negeri,997,0,0,0,0,997,997,2727,2727,3724.0
+Sumatera Utara,12,province,2021,SMP/MTs,Swasta,0,0,0,918,918,918,918,477,477,1395.0
+Sumatera Utara,12,province,2021,SMP/MTs,Negeri dan Swasta,997,0,0,918,918,1915,1915,3204,3204,5119.0
+Sumatera Barat,13,province,2021,SMP/MTs,Negeri,789,0,0,0,0,789,789,1993,1993,2782.0
+Sumatera Barat,13,province,2021,SMP/MTs,Swasta,0,0,0,212,212,212,212,118,118,330.0
+Sumatera Barat,13,province,2021,SMP/MTs,Negeri dan Swasta,789,0,0,212,212,1001,1001,2111,2111,3112.0
+Riau,14,province,2021,SMP/MTs,Negeri,647,0,0,0,0,647,647,2044,2044,2691.0
+Riau,14,province,2021,SMP/MTs,Swasta,0,0,0,360,360,360,360,124,124,484.0
+Riau,14,province,2021,SMP/MTs,Negeri dan Swasta,647,0,0,360,360,1007,1007,2168,2168,3175.0
+Jambi,15,province,2021,SMP/MTs,Negeri,486,0,0,0,0,486,486,1357,1357,1843.0
+Jambi,15,province,2021,SMP/MTs,Swasta,0,0,0,120,120,120,120,56,56,176.0
+Jambi,15,province,2021,SMP/MTs,Negeri dan Swasta,486,0,0,120,120,606,606,1413,1413,2019.0
+Sumatera Selatan,16,province,2021,SMP/MTs,Negeri,830,0,0,0,0,830,830,3104,3104,3934.0
+Sumatera Selatan,16,province,2021,SMP/MTs,Swasta,6,0,0,384,384,390,390,451,451,841.0
+Sumatera Selatan,16,province,2021,SMP/MTs,Negeri dan Swasta,836,0,0,384,384,1220,1220,3555,3555,4775.0
+Bengkulu,17,province,2021,SMP/MTs,Negeri,291,0,0,0,0,291,291,916,916,1207.0
+Bengkulu,17,province,2021,SMP/MTs,Swasta,1,0,0,57,57,58,58,24,24,82.0
+Bengkulu,17,province,2021,SMP/MTs,Negeri dan Swasta,292,0,0,57,57,349,349,940,940,1289.0
+Lampung,18,province,2021,SMP/MTs,Negeri,842,0,0,0,0,842,842,1952,1952,2794.0
+Lampung,18,province,2021,SMP/MTs,Swasta,1,0,0,530,530,531,531,255,255,786.0
+Lampung,18,province,2021,SMP/MTs,Negeri dan Swasta,843,0,0,530,530,1373,1373,2207,2207,3580.0
+Kepulauan Bangka Belitung,19,province,2021,SMP/MTs,Negeri,233,0,0,0,0,233,233,752,752,985.0
+Kepulauan Bangka Belitung,19,province,2021,SMP/MTs,Swasta,0,0,0,62,62,62,62,91,91,153.0
+Kepulauan Bangka Belitung,19,province,2021,SMP/MTs,Negeri dan Swasta,233,0,0,62,62,295,295,843,843,1138.0
+Kepulauan Riau,21,province,2021,SMP/MTs,Negeri,192,0,0,0,0,192,192,777,777,969.0
+Kepulauan Riau,21,province,2021,SMP/MTs,Swasta,0,0,0,180,180,180,180,70,70,250.0
+Kepulauan Riau,21,province,2021,SMP/MTs,Negeri dan Swasta,192,0,0,180,180,372,372,847,847,1219.0
+D.K.I. Jakarta,31,province,2021,SMP/MTs,Negeri,496,0,0,0,0,496,496,1713,1713,2209.0
+D.K.I. Jakarta,31,province,2021,SMP/MTs,Swasta,2,0,0,1232,1232,1234,1234,545,545,1779.0
+D.K.I. Jakarta,31,province,2021,SMP/MTs,Negeri dan Swasta,498,0,0,1232,1232,1730,1730,2258,2258,3988.0
+Jawa Barat,32,province,2021,SMP/MTs,Negeri,2733,0,0,0,0,2733,2733,8737,8737,11470.0
+Jawa Barat,32,province,2021,SMP/MTs,Swasta,1,0,0,3928,3928,3929,3929,2127,2127,6056.0
+Jawa Barat,32,province,2021,SMP/MTs,Negeri dan Swasta,2734,0,0,3928,3928,6662,6662,10864,10864,17526.0
+Jawa Tengah,33,province,2021,SMP/MTs,Negeri,3957,0,0,0,0,3957,3957,7593,7593,11550.0
+Jawa Tengah,33,province,2021,SMP/MTs,Swasta,1,0,0,2564,2564,2565,2565,1172,1172,3737.0
+Jawa Tengah,33,province,2021,SMP/MTs,Negeri dan Swasta,3958,0,0,2564,2564,6522,6522,8765,8765,15287.0
+D.I. Yogyakarta,34,province,2021,SMP/MTs,Negeri,508,0,0,0,0,508,508,820,820,1328.0
+D.I. Yogyakarta,34,province,2021,SMP/MTs,Swasta,1,0,0,397,397,398,398,436,436,834.0
+D.I. Yogyakarta,34,province,2021,SMP/MTs,Negeri dan Swasta,509,0,0,397,397,906,906,1256,1256,2162.0
+Jawa Timur,35,province,2021,SMP/MTs,Negeri,4082,0,0,0,0,4082,4082,7445,7445,11527.0
+Jawa Timur,35,province,2021,SMP/MTs,Swasta,9,0,0,2903,2903,2912,2912,882,882,3794.0
+Jawa Timur,35,province,2021,SMP/MTs,Negeri dan Swasta,4091,0,0,2903,2903,6994,6994,8327,8327,15321.0
+Banten,36,province,2021,SMP/MTs,Negeri,310,0,0,0,0,310,310,1830,1830,2140.0
+Banten,36,province,2021,SMP/MTs,Swasta,2,0,0,847,847,849,849,426,426,1275.0
+Banten,36,province,2021,SMP/MTs,Negeri dan Swasta,312,0,0,847,847,1159,1159,2256,2256,3415.0
+Bali,51,province,2021,SMP/MTs,Negeri,726,0,0,0,0,726,726,1800,1800,2526.0
+Bali,51,province,2021,SMP/MTs,Swasta,0,0,0,335,335,335,335,142,142,477.0
+Bali,51,province,2021,SMP/MTs,Negeri dan Swasta,726,0,0,335,335,1061,1061,1942,1942,3003.0
+Nusa Tenggara Barat,52,province,2021,SMP/MTs,Negeri,840,0,0,0,0,840,840,2489,2489,3329.0
+Nusa Tenggara Barat,52,province,2021,SMP/MTs,Swasta,0,0,0,212,212,212,212,70,70,282.0
+Nusa Tenggara Barat,52,province,2021,SMP/MTs,Negeri dan Swasta,840,0,0,212,212,1052,1052,2559,2559,3611.0
+Nusa Tenggara Timur,53,province,2021,SMP/MTs,Negeri,565,0,0,0,0,565,565,2323,2323,2888.0
+Nusa Tenggara Timur,53,province,2021,SMP/MTs,Swasta,3,0,0,436,436,439,439,317,317,756.0
+Nusa Tenggara Timur,53,province,2021,SMP/MTs,Negeri dan Swasta,568,0,0,436,436,1004,1004,2640,2640,3644.0
+Kalimantan Barat,61,province,2021,SMP/MTs,Negeri,513,0,0,0,0,513,513,965,965,1478.0
+Kalimantan Barat,61,province,2021,SMP/MTs,Swasta,0,0,0,146,146,146,146,146,146,292.0
+Kalimantan Barat,61,province,2021,SMP/MTs,Negeri dan Swasta,513,0,0,146,146,659,659,1111,1111,1770.0
+Kalimantan Tengah,62,province,2021,SMP/MTs,Negeri,313,0,0,0,0,313,313,524,524,837.0
+Kalimantan Tengah,62,province,2021,SMP/MTs,Swasta,3,0,0,77,77,80,80,26,26,106.0
+Kalimantan Tengah,62,province,2021,SMP/MTs,Negeri dan Swasta,316,0,0,77,77,393,393,550,550,943.0
+Kalimantan Selatan,63,province,2021,SMP/MTs,Negeri,463,0,0,0,0,463,463,803,803,1266.0
+Kalimantan Selatan,63,province,2021,SMP/MTs,Swasta,1,0,0,87,87,88,88,67,67,155.0
+Kalimantan Selatan,63,province,2021,SMP/MTs,Negeri dan Swasta,464,0,0,87,87,551,551,870,870,1421.0
+Kalimantan Timur,64,province,2021,SMP/MTs,Negeri,440,0,0,0,0,440,440,1271,1271,1711.0
+Kalimantan Timur,64,province,2021,SMP/MTs,Swasta,1,0,0,249,249,250,250,116,116,366.0
+Kalimantan Timur,64,province,2021,SMP/MTs,Negeri dan Swasta,441,0,0,249,249,690,690,1387,1387,2077.0
+Kalimantan Utara,65,province,2021,SMP/MTs,Negeri,115,0,0,0,0,115,115,260,260,375.0
+Kalimantan Utara,65,province,2021,SMP/MTs,Swasta,0,0,0,20,20,20,20,32,32,52.0
+Kalimantan Utara,65,province,2021,SMP/MTs,Negeri dan Swasta,115,0,0,20,20,135,135,292,292,427.0
+Sulawesi Utara,71,province,2021,SMP/MTs,Negeri,376,0,0,0,0,376,376,349,349,725.0
+Sulawesi Utara,71,province,2021,SMP/MTs,Swasta,8,0,0,81,81,89,89,58,58,147.0
+Sulawesi Utara,71,province,2021,SMP/MTs,Negeri dan Swasta,384,0,0,81,81,465,465,407,407,872.0
+Sulawesi Tengah,72,province,2021,SMP/MTs,Negeri,771,0,0,0,0,771,771,1502,1502,2273.0
+Sulawesi Tengah,72,province,2021,SMP/MTs,Swasta,15,0,0,71,71,86,86,103,103,189.0
+Sulawesi Tengah,72,province,2021,SMP/MTs,Negeri dan Swasta,786,0,0,71,71,857,857,1605,1605,2462.0
+Sulawesi Selatan,73,province,2021,SMP/MTs,Negeri,1497,0,0,0,0,1497,1497,3950,3950,5447.0
+Sulawesi Selatan,73,province,2021,SMP/MTs,Swasta,5,0,0,415,415,420,420,156,156,576.0
+Sulawesi Selatan,73,province,2021,SMP/MTs,Negeri dan Swasta,1502,0,0,415,415,1917,1917,4106,4106,6023.0
+Sulawesi Tenggara,74,province,2021,SMP/MTs,Negeri,428,0,0,0,0,428,428,1070,1070,1498.0
+Sulawesi Tenggara,74,province,2021,SMP/MTs,Swasta,0,0,0,54,54,54,54,19,19,73.0
+Sulawesi Tenggara,74,province,2021,SMP/MTs,Negeri dan Swasta,428,0,0,54,54,482,482,1089,1089,1571.0
+Gorontalo,75,province,2021,SMP/MTs,Negeri,275,0,0,0,0,275,275,369,369,644.0
+Gorontalo,75,province,2021,SMP/MTs,Swasta,3,0,0,12,12,15,15,10,10,25.0
+Gorontalo,75,province,2021,SMP/MTs,Negeri dan Swasta,278,0,0,12,12,290,290,379,379,669.0
+Sulawesi Barat,76,province,2021,SMP/MTs,Negeri,364,0,0,0,0,364,364,1046,1046,1410.0
+Sulawesi Barat,76,province,2021,SMP/MTs,Swasta,1,0,0,36,36,37,37,27,27,64.0
+Sulawesi Barat,76,province,2021,SMP/MTs,Negeri dan Swasta,365,0,0,36,36,401,401,1073,1073,1474.0
+Maluku,81,province,2021,SMP/MTs,Negeri,605,0,0,0,0,605,605,503,503,1108.0
+Maluku,81,province,2021,SMP/MTs,Swasta,27,0,0,35,35,62,62,72,72,134.0
+Maluku,81,province,2021,SMP/MTs,Negeri dan Swasta,632,0,0,35,35,667,667,575,575,1242.0
+Maluku Utara,82,province,2021,SMP/MTs,Negeri,308,0,0,0,0,308,308,323,323,631.0
+Maluku Utara,82,province,2021,SMP/MTs,Swasta,33,0,0,19,19,52,52,56,56,108.0
+Maluku Utara,82,province,2021,SMP/MTs,Negeri dan Swasta,341,0,0,19,19,360,360,379,379,739.0
+Papua,91,province,2021,SMP/MTs,Negeri,393,0,0,0,0,393,393,294,294,687.0
+Papua,91,province,2021,SMP/MTs,Swasta,49,0,0,72,72,121,121,108,108,229.0
+Papua,91,province,2021,SMP/MTs,Negeri dan Swasta,442,0,0,72,72,514,514,402,402,916.0
+Papua Barat,92,province,2021,SMP/MTs,Negeri,158,0,0,0,0,158,158,118,118,276.0
+Papua Barat,92,province,2021,SMP/MTs,Swasta,31,0,0,24,24,55,55,40,40,95.0
+Papua Barat,92,province,2021,SMP/MTs,Negeri dan Swasta,189,0,0,24,24,213,213,158,158,371.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMP/MTs,Negeri,1,0,0,0,0,1,1,7,7,8.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMP/MTs,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMP/MTs,Negeri dan Swasta,1,0,0,0,0,1,1,7,7,8.0
+Aceh,11,province,2025,SD/MI,Negeri,366,563,563,0,0,929,929,3650,3650,4579.0
+Aceh,11,province,2025,SD/MI,Swasta,0,0,0,253,253,253,253,59,59,312.0
+Aceh,11,province,2025,SD/MI,Negeri dan Swasta,366,563,563,253,253,1182,1182,3709,3709,4891.0
+Sumatera Utara,12,province,2025,SD/MI,Negeri,213,256,256,0,0,469,469,6301,6301,6770.0
+Sumatera Utara,12,province,2025,SD/MI,Swasta,1,0,0,994,994,995,995,359,359,1354.0
+Sumatera Utara,12,province,2025,SD/MI,Negeri dan Swasta,214,256,256,994,994,1464,1464,6660,6660,8124.0
+Sumatera Barat,13,province,2025,SD/MI,Negeri,122,933,933,0,0,1055,1055,4258,4258,5313.0
+Sumatera Barat,13,province,2025,SD/MI,Swasta,1,0,0,453,453,454,454,179,179,633.0
+Sumatera Barat,13,province,2025,SD/MI,Negeri dan Swasta,123,933,933,453,453,1509,1509,4437,4437,5946.0
+Riau,14,province,2025,SD/MI,Negeri,104,454,454,0,0,558,558,3738,3738,4296.0
+Riau,14,province,2025,SD/MI,Swasta,0,0,0,567,567,567,567,152,152,719.0
+Riau,14,province,2025,SD/MI,Negeri dan Swasta,104,454,454,567,567,1125,1125,3890,3890,5015.0
+Jambi,15,province,2025,SD/MI,Negeri,67,1455,1455,0,0,1522,1522,1887,1887,3409.0
+Jambi,15,province,2025,SD/MI,Swasta,0,0,0,175,175,175,175,48,48,223.0
+Jambi,15,province,2025,SD/MI,Negeri dan Swasta,67,1455,1455,175,175,1697,1697,1935,1935,3632.0
+Sumatera Selatan,16,province,2025,SD/MI,Negeri,89,2954,2954,0,0,3043,3043,4408,4408,7451.0
+Sumatera Selatan,16,province,2025,SD/MI,Swasta,0,0,0,430,430,430,430,298,298,728.0
+Sumatera Selatan,16,province,2025,SD/MI,Negeri dan Swasta,89,2954,2954,430,430,3473,3473,4706,4706,8179.0
+Bengkulu,17,province,2025,SD/MI,Negeri,29,181,181,0,0,210,210,1334,1334,1544.0
+Bengkulu,17,province,2025,SD/MI,Swasta,0,0,0,133,133,133,133,38,38,171.0
+Bengkulu,17,province,2025,SD/MI,Negeri dan Swasta,29,181,181,133,133,343,343,1372,1372,1715.0
+Lampung,18,province,2025,SD/MI,Negeri,87,241,241,0,0,328,328,3438,3438,3766.0
+Lampung,18,province,2025,SD/MI,Swasta,0,0,0,359,359,359,359,140,140,499.0
+Lampung,18,province,2025,SD/MI,Negeri dan Swasta,87,241,241,359,359,687,687,3578,3578,4265.0
+Kepulauan Bangka Belitung,19,province,2025,SD/MI,Negeri,36,400,400,0,0,436,436,1388,1388,1824.0
+Kepulauan Bangka Belitung,19,province,2025,SD/MI,Swasta,0,0,0,95,95,95,95,102,102,197.0
+Kepulauan Bangka Belitung,19,province,2025,SD/MI,Negeri dan Swasta,36,400,400,95,95,531,531,1490,1490,2021.0
+Kepulauan Riau,21,province,2025,SD/MI,Negeri,109,820,820,0,0,929,929,875,875,1804.0
+Kepulauan Riau,21,province,2025,SD/MI,Swasta,0,0,0,291,291,291,291,83,83,374.0
+Kepulauan Riau,21,province,2025,SD/MI,Negeri dan Swasta,109,820,820,291,291,1220,1220,958,958,2178.0
+D.K.I. Jakarta,31,province,2025,SD/MI,Negeri,281,5,5,0,0,286,286,2232,2232,2518.0
+D.K.I. Jakarta,31,province,2025,SD/MI,Swasta,0,0,0,1446,1446,1446,1446,415,415,1861.0
+D.K.I. Jakarta,31,province,2025,SD/MI,Negeri dan Swasta,281,5,5,1446,1446,1732,1732,2647,2647,4379.0
+Jawa Barat,32,province,2025,SD/MI,Negeri,348,2412,2412,0,0,2760,2760,10316,10316,13076.0
+Jawa Barat,32,province,2025,SD/MI,Swasta,0,0,0,3209,3209,3209,3209,901,901,4110.0
+Jawa Barat,32,province,2025,SD/MI,Negeri dan Swasta,348,2412,2412,3209,3209,5969,5969,11217,11217,17186.0
+Jawa Tengah,33,province,2025,SD/MI,Negeri,821,1441,1441,0,0,2262,2262,7786,7786,10048.0
+Jawa Tengah,33,province,2025,SD/MI,Swasta,1,0,0,1412,1412,1413,1413,572,572,1985.0
+Jawa Tengah,33,province,2025,SD/MI,Negeri dan Swasta,822,1441,1441,1412,1412,3675,3675,8358,8358,12033.0
+D.I. Yogyakarta,34,province,2025,SD/MI,Negeri,38,61,61,0,0,99,99,1570,1570,1669.0
+D.I. Yogyakarta,34,province,2025,SD/MI,Swasta,0,0,0,434,434,434,434,405,405,839.0
+D.I. Yogyakarta,34,province,2025,SD/MI,Negeri dan Swasta,38,61,61,434,434,533,533,1975,1975,2508.0
+Jawa Timur,35,province,2025,SD/MI,Negeri,1015,2424,2424,0,0,3439,3439,6817,6817,10256.0
+Jawa Timur,35,province,2025,SD/MI,Swasta,2,0,0,1896,1896,1898,1898,424,424,2322.0
+Jawa Timur,35,province,2025,SD/MI,Negeri dan Swasta,1017,2424,2424,1896,1896,5337,5337,7241,7241,12578.0
+Banten,36,province,2025,SD/MI,Negeri,28,586,586,0,0,614,614,3033,3033,3647.0
+Banten,36,province,2025,SD/MI,Swasta,0,0,0,900,900,900,900,221,221,1121.0
+Banten,36,province,2025,SD/MI,Negeri dan Swasta,28,586,586,900,900,1514,1514,3254,3254,4768.0
+Bali,51,province,2025,SD/MI,Negeri,202,1972,1972,0,0,2174,2174,1361,1361,3535.0
+Bali,51,province,2025,SD/MI,Swasta,2,0,0,243,243,245,245,84,84,329.0
+Bali,51,province,2025,SD/MI,Negeri dan Swasta,204,1972,1972,243,243,2419,2419,1445,1445,3864.0
+Nusa Tenggara Barat,52,province,2025,SD/MI,Negeri,79,529,529,0,0,608,608,2254,2254,2862.0
+Nusa Tenggara Barat,52,province,2025,SD/MI,Swasta,0,0,0,198,198,198,198,48,48,246.0
+Nusa Tenggara Barat,52,province,2025,SD/MI,Negeri dan Swasta,79,529,529,198,198,806,806,2302,2302,3108.0
+Nusa Tenggara Timur,53,province,2025,SD/MI,Negeri,151,1082,1082,0,0,1233,1233,3139,3139,4372.0
+Nusa Tenggara Timur,53,province,2025,SD/MI,Swasta,11,9,9,773,773,793,793,923,923,1716.0
+Nusa Tenggara Timur,53,province,2025,SD/MI,Negeri dan Swasta,162,1091,1091,773,773,2026,2026,4062,4062,6088.0
+Kalimantan Barat,61,province,2025,SD/MI,Negeri,151,892,892,0,0,1043,1043,2164,2164,3207.0
+Kalimantan Barat,61,province,2025,SD/MI,Swasta,0,0,0,170,170,170,170,146,146,316.0
+Kalimantan Barat,61,province,2025,SD/MI,Negeri dan Swasta,151,892,892,170,170,1213,1213,2310,2310,3523.0
+Kalimantan Tengah,62,province,2025,SD/MI,Negeri,64,420,420,0,0,484,484,869,869,1353.0
+Kalimantan Tengah,62,province,2025,SD/MI,Swasta,0,0,0,163,163,163,163,31,31,194.0
+Kalimantan Tengah,62,province,2025,SD/MI,Negeri dan Swasta,64,420,420,163,163,647,647,900,900,1547.0
+Kalimantan Selatan,63,province,2025,SD/MI,Negeri,130,762,762,0,0,892,892,1779,1779,2671.0
+Kalimantan Selatan,63,province,2025,SD/MI,Swasta,0,1,1,169,169,170,170,70,70,240.0
+Kalimantan Selatan,63,province,2025,SD/MI,Negeri dan Swasta,130,763,763,169,169,1062,1062,1849,1849,2911.0
+Kalimantan Timur,64,province,2025,SD/MI,Negeri,193,1398,1398,0,0,1591,1591,1758,1758,3349.0
+Kalimantan Timur,64,province,2025,SD/MI,Swasta,1,0,0,376,376,377,377,138,138,515.0
+Kalimantan Timur,64,province,2025,SD/MI,Negeri dan Swasta,194,1398,1398,376,376,1968,1968,1896,1896,3864.0
+Kalimantan Utara,65,province,2025,SD/MI,Negeri,113,215,215,0,0,328,328,359,359,687.0
+Kalimantan Utara,65,province,2025,SD/MI,Swasta,0,0,0,56,56,56,56,30,30,86.0
+Kalimantan Utara,65,province,2025,SD/MI,Negeri dan Swasta,113,215,215,56,56,384,384,389,389,773.0
+Sulawesi Utara,71,province,2025,SD/MI,Negeri,26,75,75,0,0,101,101,441,441,542.0
+Sulawesi Utara,71,province,2025,SD/MI,Swasta,3,1,1,114,114,118,118,96,96,214.0
+Sulawesi Utara,71,province,2025,SD/MI,Negeri dan Swasta,29,76,76,114,114,219,219,537,537,756.0
+Sulawesi Tengah,72,province,2025,SD/MI,Negeri,390,1318,1318,0,0,1708,1708,4643,4643,6351.0
+Sulawesi Tengah,72,province,2025,SD/MI,Swasta,7,0,0,95,95,102,102,144,144,246.0
+Sulawesi Tengah,72,province,2025,SD/MI,Negeri dan Swasta,397,1318,1318,95,95,1810,1810,4787,4787,6597.0
+Sulawesi Selatan,73,province,2025,SD/MI,Negeri,192,469,469,0,0,661,661,6525,6525,7186.0
+Sulawesi Selatan,73,province,2025,SD/MI,Swasta,0,0,0,313,313,313,313,92,92,405.0
+Sulawesi Selatan,73,province,2025,SD/MI,Negeri dan Swasta,192,469,469,313,313,974,974,6617,6617,7591.0
+Sulawesi Tenggara,74,province,2025,SD/MI,Negeri,116,174,174,0,0,290,290,2469,2469,2759.0
+Sulawesi Tenggara,74,province,2025,SD/MI,Swasta,0,0,0,66,66,66,66,25,25,91.0
+Sulawesi Tenggara,74,province,2025,SD/MI,Negeri dan Swasta,116,174,174,66,66,356,356,2494,2494,2850.0
+Gorontalo,75,province,2025,SD/MI,Negeri,7,147,147,0,0,154,154,799,799,953.0
+Gorontalo,75,province,2025,SD/MI,Swasta,1,0,0,22,22,23,23,12,12,35.0
+Gorontalo,75,province,2025,SD/MI,Negeri dan Swasta,8,147,147,22,22,177,177,811,811,988.0
+Sulawesi Barat,76,province,2025,SD/MI,Negeri,113,80,80,0,0,193,193,2251,2251,2444.0
+Sulawesi Barat,76,province,2025,SD/MI,Swasta,0,0,0,33,33,33,33,23,23,56.0
+Sulawesi Barat,76,province,2025,SD/MI,Negeri dan Swasta,113,80,80,33,33,226,226,2274,2274,2500.0
+Maluku,81,province,2025,SD/MI,Negeri,176,552,552,0,0,728,728,1165,1165,1893.0
+Maluku,81,province,2025,SD/MI,Swasta,17,1,1,43,43,61,61,140,140,201.0
+Maluku,81,province,2025,SD/MI,Negeri dan Swasta,193,553,553,43,43,789,789,1305,1305,2094.0
+Maluku Utara,82,province,2025,SD/MI,Negeri,175,113,113,0,0,288,288,1033,1033,1321.0
+Maluku Utara,82,province,2025,SD/MI,Swasta,14,0,0,23,23,37,37,41,41,78.0
+Maluku Utara,82,province,2025,SD/MI,Negeri dan Swasta,189,113,113,23,23,325,325,1074,1074,1399.0
+Papua,91,province,2025,SD/MI,Negeri,138,11,11,0,0,149,149,200,200,349.0
+Papua,91,province,2025,SD/MI,Swasta,25,2,2,55,55,82,82,114,114,196.0
+Papua,91,province,2025,SD/MI,Negeri dan Swasta,163,13,13,55,55,231,231,314,314,545.0
+Papua Barat,92,province,2025,SD/MI,Negeri,58,0,0,0,0,58,58,110,110,168.0
+Papua Barat,92,province,2025,SD/MI,Swasta,15,0,0,20,20,35,35,39,39,74.0
+Papua Barat,92,province,2025,SD/MI,Negeri dan Swasta,73,0,0,20,20,93,93,149,149,242.0
+Papua Selatan,93,province,2025,SD/MI,Negeri,29,6,6,0,0,35,35,97,97,132.0
+Papua Selatan,93,province,2025,SD/MI,Swasta,5,8,8,13,13,26,26,55,55,81.0
+Papua Selatan,93,province,2025,SD/MI,Negeri dan Swasta,34,14,14,13,13,61,61,152,152,213.0
+Papua Tengah,94,province,2025,SD/MI,Negeri,26,0,0,0,0,26,26,54,54,80.0
+Papua Tengah,94,province,2025,SD/MI,Swasta,2,0,0,43,43,45,45,25,25,70.0
+Papua Tengah,94,province,2025,SD/MI,Negeri dan Swasta,28,0,0,43,43,71,71,79,79,150.0
+Papua Pegunungan,95,province,2025,SD/MI,Negeri,11,0,0,0,0,11,11,43,43,54.0
+Papua Pegunungan,95,province,2025,SD/MI,Swasta,10,0,0,6,6,16,16,17,17,33.0
+Papua Pegunungan,95,province,2025,SD/MI,Negeri dan Swasta,21,0,0,6,6,27,27,60,60,87.0
+Papua Barat Daya,96,province,2025,SD/MI,Negeri,11,0,0,0,0,11,11,94,94,105.0
+Papua Barat Daya,96,province,2025,SD/MI,Swasta,9,0,0,20,20,29,29,59,59,88.0
+Papua Barat Daya,96,province,2025,SD/MI,Negeri dan Swasta,20,0,0,20,20,40,40,153,153,193.0
+Sekolah Indonesia Luar Negeri,,special,2025,SD/MI,Negeri,2,0,0,0,0,2,2,10,10,12.0
+Sekolah Indonesia Luar Negeri,,special,2025,SD/MI,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2025,SD/MI,Negeri dan Swasta,2,0,0,0,0,2,2,10,10,12.0
+Aceh,11,province,2024,SD/MI,Negeri,406,0,0,0,0,406,406,3729,3729,4135.0
+Aceh,11,province,2024,SD/MI,Swasta,0,0,0,233,233,233,233,54,54,287.0
+Aceh,11,province,2024,SD/MI,Negeri dan Swasta,406,0,0,233,233,639,639,3783,3783,4422.0
+Sumatera Utara,12,province,2024,SD/MI,Negeri,228,0,0,5,5,233,233,6429,6429,6662.0
+Sumatera Utara,12,province,2024,SD/MI,Swasta,1,0,0,980,980,981,981,369,369,1350.0
+Sumatera Utara,12,province,2024,SD/MI,Negeri dan Swasta,229,0,0,985,985,1214,1214,6798,6798,8012.0
+Sumatera Barat,13,province,2024,SD/MI,Negeri,136,0,0,4,4,140,140,5329,5329,5469.0
+Sumatera Barat,13,province,2024,SD/MI,Swasta,1,0,0,418,418,419,419,173,173,592.0
+Sumatera Barat,13,province,2024,SD/MI,Negeri dan Swasta,137,0,0,422,422,559,559,5502,5502,6061.0
+Riau,14,province,2024,SD/MI,Negeri,112,0,0,1,1,113,113,4116,4116,4229.0
+Riau,14,province,2024,SD/MI,Swasta,0,0,0,538,538,538,538,167,167,705.0
+Riau,14,province,2024,SD/MI,Negeri dan Swasta,112,0,0,539,539,651,651,4283,4283,4934.0
+Jambi,15,province,2024,SD/MI,Negeri,79,0,0,1,1,80,80,2884,2884,2964.0
+Jambi,15,province,2024,SD/MI,Swasta,0,0,0,158,158,158,158,39,39,197.0
+Jambi,15,province,2024,SD/MI,Negeri dan Swasta,79,0,0,159,159,238,238,2923,2923,3161.0
+Sumatera Selatan,16,province,2024,SD/MI,Negeri,103,0,0,3,3,106,106,5948,5948,6054.0
+Sumatera Selatan,16,province,2024,SD/MI,Swasta,0,0,0,404,404,404,404,295,295,699.0
+Sumatera Selatan,16,province,2024,SD/MI,Negeri dan Swasta,103,0,0,407,407,510,510,6243,6243,6753.0
+Bengkulu,17,province,2024,SD/MI,Negeri,31,0,0,1,1,32,32,1557,1557,1589.0
+Bengkulu,17,province,2024,SD/MI,Swasta,0,0,0,119,119,119,119,43,43,162.0
+Bengkulu,17,province,2024,SD/MI,Negeri dan Swasta,31,0,0,120,120,151,151,1600,1600,1751.0
+Lampung,18,province,2024,SD/MI,Negeri,108,0,0,2,2,110,110,3445,3445,3555.0
+Lampung,18,province,2024,SD/MI,Swasta,0,0,0,333,333,333,333,144,144,477.0
+Lampung,18,province,2024,SD/MI,Negeri dan Swasta,108,0,0,335,335,443,443,3589,3589,4032.0
+Kepulauan Bangka Belitung,19,province,2024,SD/MI,Negeri,32,0,0,0,0,32,32,1810,1810,1842.0
+Kepulauan Bangka Belitung,19,province,2024,SD/MI,Swasta,0,0,0,101,101,101,101,114,114,215.0
+Kepulauan Bangka Belitung,19,province,2024,SD/MI,Negeri dan Swasta,32,0,0,101,101,133,133,1924,1924,2057.0
+Kepulauan Riau,21,province,2024,SD/MI,Negeri,110,0,0,2,2,112,112,1685,1685,1797.0
+Kepulauan Riau,21,province,2024,SD/MI,Swasta,0,0,0,298,298,298,298,88,88,386.0
+Kepulauan Riau,21,province,2024,SD/MI,Negeri dan Swasta,110,0,0,300,300,410,410,1773,1773,2183.0
+D.K.I. Jakarta,31,province,2024,SD/MI,Negeri,26,0,0,0,0,26,26,2322,2322,2348.0
+D.K.I. Jakarta,31,province,2024,SD/MI,Swasta,0,0,0,1379,1379,1379,1379,436,436,1815.0
+D.K.I. Jakarta,31,province,2024,SD/MI,Negeri dan Swasta,26,0,0,1379,1379,1405,1405,2758,2758,4163.0
+Jawa Barat,32,province,2024,SD/MI,Negeri,411,0,0,1,1,412,412,12056,12056,12468.0
+Jawa Barat,32,province,2024,SD/MI,Swasta,0,0,0,3086,3086,3086,3086,943,943,4029.0
+Jawa Barat,32,province,2024,SD/MI,Negeri dan Swasta,411,0,0,3087,3087,3498,3498,12999,12999,16497.0
+Jawa Tengah,33,province,2024,SD/MI,Negeri,809,0,0,0,0,809,809,8988,8988,9797.0
+Jawa Tengah,33,province,2024,SD/MI,Swasta,1,0,0,1353,1353,1354,1354,580,580,1934.0
+Jawa Tengah,33,province,2024,SD/MI,Negeri dan Swasta,810,0,0,1353,1353,2163,2163,9568,9568,11731.0
+D.I. Yogyakarta,34,province,2024,SD/MI,Negeri,56,0,0,0,0,56,56,1813,1813,1869.0
+D.I. Yogyakarta,34,province,2024,SD/MI,Swasta,1,0,0,410,410,411,411,412,412,823.0
+D.I. Yogyakarta,34,province,2024,SD/MI,Negeri dan Swasta,57,0,0,410,410,467,467,2225,2225,2692.0
+Jawa Timur,35,province,2024,SD/MI,Negeri,1130,0,0,1,1,1131,1131,8709,8709,9840.0
+Jawa Timur,35,province,2024,SD/MI,Swasta,2,0,0,1850,1850,1852,1852,432,432,2284.0
+Jawa Timur,35,province,2024,SD/MI,Negeri dan Swasta,1132,0,0,1851,1851,2983,2983,9141,9141,12124.0
+Banten,36,province,2024,SD/MI,Negeri,38,0,0,2,2,40,40,3432,3432,3472.0
+Banten,36,province,2024,SD/MI,Swasta,0,0,0,843,843,843,843,220,220,1063.0
+Banten,36,province,2024,SD/MI,Negeri dan Swasta,38,0,0,845,845,883,883,3652,3652,4535.0
+Bali,51,province,2024,SD/MI,Negeri,233,0,0,0,0,233,233,3460,3460,3693.0
+Bali,51,province,2024,SD/MI,Swasta,2,0,0,234,234,236,236,87,87,323.0
+Bali,51,province,2024,SD/MI,Negeri dan Swasta,235,0,0,234,234,469,469,3547,3547,4016.0
+Nusa Tenggara Barat,52,province,2024,SD/MI,Negeri,94,0,0,0,0,94,94,2595,2595,2689.0
+Nusa Tenggara Barat,52,province,2024,SD/MI,Swasta,0,0,0,182,182,182,182,58,58,240.0
+Nusa Tenggara Barat,52,province,2024,SD/MI,Negeri dan Swasta,94,0,0,182,182,276,276,2653,2653,2929.0
+Nusa Tenggara Timur,53,province,2024,SD/MI,Negeri,174,0,0,3,3,177,177,3935,3935,4112.0
+Nusa Tenggara Timur,53,province,2024,SD/MI,Swasta,10,0,0,732,732,742,742,937,937,1679.0
+Nusa Tenggara Timur,53,province,2024,SD/MI,Negeri dan Swasta,184,0,0,735,735,919,919,4872,4872,5791.0
+Kalimantan Barat,61,province,2024,SD/MI,Negeri,162,0,0,2,2,164,164,2821,2821,2985.0
+Kalimantan Barat,61,province,2024,SD/MI,Swasta,0,0,0,171,171,171,171,146,146,317.0
+Kalimantan Barat,61,province,2024,SD/MI,Negeri dan Swasta,162,0,0,173,173,335,335,2967,2967,3302.0
+Kalimantan Tengah,62,province,2024,SD/MI,Negeri,71,0,0,0,0,71,71,1092,1092,1163.0
+Kalimantan Tengah,62,province,2024,SD/MI,Swasta,0,0,0,169,169,169,169,37,37,206.0
+Kalimantan Tengah,62,province,2024,SD/MI,Negeri dan Swasta,71,0,0,169,169,240,240,1129,1129,1369.0
+Kalimantan Selatan,63,province,2024,SD/MI,Negeri,147,0,0,0,0,147,147,2365,2365,2512.0
+Kalimantan Selatan,63,province,2024,SD/MI,Swasta,0,0,0,158,158,158,158,71,71,229.0
+Kalimantan Selatan,63,province,2024,SD/MI,Negeri dan Swasta,147,0,0,158,158,305,305,2436,2436,2741.0
+Kalimantan Timur,64,province,2024,SD/MI,Negeri,210,0,0,0,0,210,210,2845,2845,3055.0
+Kalimantan Timur,64,province,2024,SD/MI,Swasta,1,0,0,331,331,332,332,145,145,477.0
+Kalimantan Timur,64,province,2024,SD/MI,Negeri dan Swasta,211,0,0,331,331,542,542,2990,2990,3532.0
+Kalimantan Utara,65,province,2024,SD/MI,Negeri,117,0,0,0,0,117,117,530,530,647.0
+Kalimantan Utara,65,province,2024,SD/MI,Swasta,0,0,0,54,54,54,54,31,31,85.0
+Kalimantan Utara,65,province,2024,SD/MI,Negeri dan Swasta,117,0,0,54,54,171,171,561,561,732.0
+Sulawesi Utara,71,province,2024,SD/MI,Negeri,30,0,0,0,0,30,30,481,481,511.0
+Sulawesi Utara,71,province,2024,SD/MI,Swasta,3,0,0,81,81,84,84,89,89,173.0
+Sulawesi Utara,71,province,2024,SD/MI,Negeri dan Swasta,33,0,0,81,81,114,114,570,570,684.0
+Sulawesi Tengah,72,province,2024,SD/MI,Negeri,396,0,0,9,9,405,405,5642,5642,6047.0
+Sulawesi Tengah,72,province,2024,SD/MI,Swasta,6,0,0,81,81,87,87,138,138,225.0
+Sulawesi Tengah,72,province,2024,SD/MI,Negeri dan Swasta,402,0,0,90,90,492,492,5780,5780,6272.0
+Sulawesi Selatan,73,province,2024,SD/MI,Negeri,215,0,0,0,0,215,215,6777,6777,6992.0
+Sulawesi Selatan,73,province,2024,SD/MI,Swasta,0,0,0,291,291,291,291,83,83,374.0
+Sulawesi Selatan,73,province,2024,SD/MI,Negeri dan Swasta,215,0,0,291,291,506,506,6860,6860,7366.0
+Sulawesi Tenggara,74,province,2024,SD/MI,Negeri,118,0,0,3,3,121,121,2503,2503,2624.0
+Sulawesi Tenggara,74,province,2024,SD/MI,Swasta,0,0,0,56,56,56,56,26,26,82.0
+Sulawesi Tenggara,74,province,2024,SD/MI,Negeri dan Swasta,118,0,0,59,59,177,177,2529,2529,2706.0
+Gorontalo,75,province,2024,SD/MI,Negeri,4,0,0,0,0,4,4,918,918,922.0
+Gorontalo,75,province,2024,SD/MI,Swasta,1,0,0,16,16,17,17,17,17,34.0
+Gorontalo,75,province,2024,SD/MI,Negeri dan Swasta,5,0,0,16,16,21,21,935,935,956.0
+Sulawesi Barat,76,province,2024,SD/MI,Negeri,114,0,0,0,0,114,114,2276,2276,2390.0
+Sulawesi Barat,76,province,2024,SD/MI,Swasta,0,0,0,23,23,23,23,29,29,52.0
+Sulawesi Barat,76,province,2024,SD/MI,Negeri dan Swasta,114,0,0,23,23,137,137,2305,2305,2442.0
+Maluku,81,province,2024,SD/MI,Negeri,186,0,0,3,3,189,189,1605,1605,1794.0
+Maluku,81,province,2024,SD/MI,Swasta,15,0,0,45,45,60,60,114,114,174.0
+Maluku,81,province,2024,SD/MI,Negeri dan Swasta,201,0,0,48,48,249,249,1719,1719,1968.0
+Maluku Utara,82,province,2024,SD/MI,Negeri,165,0,0,0,0,165,165,997,997,1162.0
+Maluku Utara,82,province,2024,SD/MI,Swasta,12,0,0,20,20,32,32,35,35,67.0
+Maluku Utara,82,province,2024,SD/MI,Negeri dan Swasta,177,0,0,20,20,197,197,1032,1032,1229.0
+Papua,91,province,2024,SD/MI,Negeri,75,0,0,0,0,75,75,216,216,291.0
+Papua,91,province,2024,SD/MI,Swasta,24,0,0,51,51,75,75,98,98,173.0
+Papua,91,province,2024,SD/MI,Negeri dan Swasta,99,0,0,51,51,150,150,314,314,464.0
+Papua Barat,92,province,2024,SD/MI,Negeri,58,0,0,0,0,58,58,113,113,171.0
+Papua Barat,92,province,2024,SD/MI,Swasta,15,0,0,15,15,30,30,41,41,71.0
+Papua Barat,92,province,2024,SD/MI,Negeri dan Swasta,73,0,0,15,15,88,88,154,154,242.0
+Papua Selatan,93,province,2024,SD/MI,Negeri,27,0,0,0,0,27,27,100,100,127.0
+Papua Selatan,93,province,2024,SD/MI,Swasta,5,0,0,11,11,16,16,64,64,80.0
+Papua Selatan,93,province,2024,SD/MI,Negeri dan Swasta,32,0,0,11,11,43,43,164,164,207.0
+Papua Tengah,94,province,2024,SD/MI,Negeri,28,0,0,0,0,28,28,71,71,99.0
+Papua Tengah,94,province,2024,SD/MI,Swasta,1,0,0,45,45,46,46,21,21,67.0
+Papua Tengah,94,province,2024,SD/MI,Negeri dan Swasta,29,0,0,45,45,74,74,92,92,166.0
+Papua Pegunungan,95,province,2024,SD/MI,Negeri,13,0,0,0,0,13,13,46,46,59.0
+Papua Pegunungan,95,province,2024,SD/MI,Swasta,12,0,0,5,5,17,17,16,16,33.0
+Papua Pegunungan,95,province,2024,SD/MI,Negeri dan Swasta,25,0,0,5,5,30,30,62,62,92.0
+Papua Barat Daya,96,province,2024,SD/MI,Negeri,14,0,0,0,0,14,14,94,94,108.0
+Papua Barat Daya,96,province,2024,SD/MI,Swasta,9,0,0,25,25,34,34,62,62,96.0
+Papua Barat Daya,96,province,2024,SD/MI,Negeri dan Swasta,23,0,0,25,25,48,48,156,156,204.0
+Sekolah Indonesia Luar Negeri,,special,2024,SD/MI,Negeri,1,0,0,0,0,1,1,9,9,10.0
+Sekolah Indonesia Luar Negeri,,special,2024,SD/MI,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2024,SD/MI,Negeri dan Swasta,1,0,0,0,0,1,1,9,9,10.0
+Aceh,11,province,2023,SD/MI,Negeri,411,0,0,0,0,411,411,2903,2903,3314.0
+Aceh,11,province,2023,SD/MI,Swasta,0,0,0,194,194,194,194,52,52,246.0
+Aceh,11,province,2023,SD/MI,Negeri dan Swasta,411,0,0,194,194,605,605,2955,2955,3560.0
+Sumatera Utara,12,province,2023,SD/MI,Negeri,245,0,0,0,0,245,245,5562,5562,5807.0
+Sumatera Utara,12,province,2023,SD/MI,Swasta,1,0,0,908,908,909,909,370,370,1279.0
+Sumatera Utara,12,province,2023,SD/MI,Negeri dan Swasta,246,0,0,908,908,1154,1154,5932,5932,7086.0
+Sumatera Barat,13,province,2023,SD/MI,Negeri,174,0,0,0,0,174,174,4871,4871,5045.0
+Sumatera Barat,13,province,2023,SD/MI,Swasta,1,0,0,380,380,381,381,179,179,560.0
+Sumatera Barat,13,province,2023,SD/MI,Negeri dan Swasta,175,0,0,380,380,555,555,5050,5050,5605.0
+Riau,14,province,2023,SD/MI,Negeri,121,0,0,0,0,121,121,3503,3503,3624.0
+Riau,14,province,2023,SD/MI,Swasta,0,0,0,523,523,523,523,168,168,691.0
+Riau,14,province,2023,SD/MI,Negeri dan Swasta,121,0,0,523,523,644,644,3671,3671,4315.0
+Jambi,15,province,2023,SD/MI,Negeri,96,0,0,0,0,96,96,2385,2385,2481.0
+Jambi,15,province,2023,SD/MI,Swasta,0,0,0,159,159,159,159,38,38,197.0
+Jambi,15,province,2023,SD/MI,Negeri dan Swasta,96,0,0,159,159,255,255,2423,2423,2678.0
+Sumatera Selatan,16,province,2023,SD/MI,Negeri,118,0,0,0,0,118,118,4954,4954,5072.0
+Sumatera Selatan,16,province,2023,SD/MI,Swasta,0,0,0,352,352,352,352,286,286,638.0
+Sumatera Selatan,16,province,2023,SD/MI,Negeri dan Swasta,118,0,0,352,352,470,470,5240,5240,5710.0
+Bengkulu,17,province,2023,SD/MI,Negeri,39,0,0,0,0,39,39,1196,1196,1235.0
+Bengkulu,17,province,2023,SD/MI,Swasta,0,0,0,103,103,103,103,45,45,148.0
+Bengkulu,17,province,2023,SD/MI,Negeri dan Swasta,39,0,0,103,103,142,142,1241,1241,1383.0
+Lampung,18,province,2023,SD/MI,Negeri,136,0,0,0,0,136,136,3110,3110,3246.0
+Lampung,18,province,2023,SD/MI,Swasta,0,0,0,323,323,323,323,136,136,459.0
+Lampung,18,province,2023,SD/MI,Negeri dan Swasta,136,0,0,323,323,459,459,3246,3246,3705.0
+Kepulauan Bangka Belitung,19,province,2023,SD/MI,Negeri,22,0,0,0,0,22,22,1804,1804,1826.0
+Kepulauan Bangka Belitung,19,province,2023,SD/MI,Swasta,0,0,0,95,95,95,95,109,109,204.0
+Kepulauan Bangka Belitung,19,province,2023,SD/MI,Negeri dan Swasta,22,0,0,95,95,117,117,1913,1913,2030.0
+Kepulauan Riau,21,province,2023,SD/MI,Negeri,104,0,0,0,0,104,104,1568,1568,1672.0
+Kepulauan Riau,21,province,2023,SD/MI,Swasta,1,0,0,303,303,304,304,87,87,391.0
+Kepulauan Riau,21,province,2023,SD/MI,Negeri dan Swasta,105,0,0,303,303,408,408,1655,1655,2063.0
+D.K.I. Jakarta,31,province,2023,SD/MI,Negeri,34,0,0,0,0,34,34,2409,2409,2443.0
+D.K.I. Jakarta,31,province,2023,SD/MI,Swasta,0,0,0,1364,1364,1364,1364,461,461,1825.0
+D.K.I. Jakarta,31,province,2023,SD/MI,Negeri dan Swasta,34,0,0,1364,1364,1398,1398,2870,2870,4268.0
+Jawa Barat,32,province,2023,SD/MI,Negeri,468,0,0,0,0,468,468,11303,11303,11771.0
+Jawa Barat,32,province,2023,SD/MI,Swasta,0,0,0,2761,2761,2761,2761,888,888,3649.0
+Jawa Barat,32,province,2023,SD/MI,Negeri dan Swasta,468,0,0,2761,2761,3229,3229,12191,12191,15420.0
+Jawa Tengah,33,province,2023,SD/MI,Negeri,918,0,0,0,0,918,918,9078,9078,9996.0
+Jawa Tengah,33,province,2023,SD/MI,Swasta,1,0,0,1325,1325,1326,1326,577,577,1903.0
+Jawa Tengah,33,province,2023,SD/MI,Negeri dan Swasta,919,0,0,1325,1325,2244,2244,9655,9655,11899.0
+D.I. Yogyakarta,34,province,2023,SD/MI,Negeri,74,0,0,0,0,74,74,1826,1826,1900.0
+D.I. Yogyakarta,34,province,2023,SD/MI,Swasta,1,0,0,384,384,385,385,416,416,801.0
+D.I. Yogyakarta,34,province,2023,SD/MI,Negeri dan Swasta,75,0,0,384,384,459,459,2242,2242,2701.0
+Jawa Timur,35,province,2023,SD/MI,Negeri,1256,0,0,0,0,1256,1256,9026,9026,10282.0
+Jawa Timur,35,province,2023,SD/MI,Swasta,1,0,0,1761,1761,1762,1762,423,423,2185.0
+Jawa Timur,35,province,2023,SD/MI,Negeri dan Swasta,1257,0,0,1761,1761,3018,3018,9449,9449,12467.0
+Banten,36,province,2023,SD/MI,Negeri,44,0,0,0,0,44,44,2998,2998,3042.0
+Banten,36,province,2023,SD/MI,Swasta,0,0,0,772,772,772,772,211,211,983.0
+Banten,36,province,2023,SD/MI,Negeri dan Swasta,44,0,0,772,772,816,816,3209,3209,4025.0
+Bali,51,province,2023,SD/MI,Negeri,246,0,0,0,0,246,246,3528,3528,3774.0
+Bali,51,province,2023,SD/MI,Swasta,2,0,0,220,220,222,222,81,81,303.0
+Bali,51,province,2023,SD/MI,Negeri dan Swasta,248,0,0,220,220,468,468,3609,3609,4077.0
+Nusa Tenggara Barat,52,province,2023,SD/MI,Negeri,120,0,0,0,0,120,120,2305,2305,2425.0
+Nusa Tenggara Barat,52,province,2023,SD/MI,Swasta,0,0,0,154,154,154,154,51,51,205.0
+Nusa Tenggara Barat,52,province,2023,SD/MI,Negeri dan Swasta,120,0,0,154,154,274,274,2356,2356,2630.0
+Nusa Tenggara Timur,53,province,2023,SD/MI,Negeri,175,0,0,0,0,175,175,3219,3219,3394.0
+Nusa Tenggara Timur,53,province,2023,SD/MI,Swasta,10,0,0,672,672,682,682,940,940,1622.0
+Nusa Tenggara Timur,53,province,2023,SD/MI,Negeri dan Swasta,185,0,0,672,672,857,857,4159,4159,5016.0
+Kalimantan Barat,61,province,2023,SD/MI,Negeri,167,0,0,0,0,167,167,1950,1950,2117.0
+Kalimantan Barat,61,province,2023,SD/MI,Swasta,0,0,0,163,163,163,163,140,140,303.0
+Kalimantan Barat,61,province,2023,SD/MI,Negeri dan Swasta,167,0,0,163,163,330,330,2090,2090,2420.0
+Kalimantan Tengah,62,province,2023,SD/MI,Negeri,87,0,0,0,0,87,87,882,882,969.0
+Kalimantan Tengah,62,province,2023,SD/MI,Swasta,0,0,0,154,154,154,154,35,35,189.0
+Kalimantan Tengah,62,province,2023,SD/MI,Negeri dan Swasta,87,0,0,154,154,241,241,917,917,1158.0
+Kalimantan Selatan,63,province,2023,SD/MI,Negeri,165,0,0,0,0,165,165,2140,2140,2305.0
+Kalimantan Selatan,63,province,2023,SD/MI,Swasta,0,0,0,142,142,142,142,67,67,209.0
+Kalimantan Selatan,63,province,2023,SD/MI,Negeri dan Swasta,165,0,0,142,142,307,307,2207,2207,2514.0
+Kalimantan Timur,64,province,2023,SD/MI,Negeri,224,0,0,0,0,224,224,2653,2653,2877.0
+Kalimantan Timur,64,province,2023,SD/MI,Swasta,1,0,0,290,290,291,291,139,139,430.0
+Kalimantan Timur,64,province,2023,SD/MI,Negeri dan Swasta,225,0,0,290,290,515,515,2792,2792,3307.0
+Kalimantan Utara,65,province,2023,SD/MI,Negeri,132,0,0,0,0,132,132,466,466,598.0
+Kalimantan Utara,65,province,2023,SD/MI,Swasta,0,0,0,46,46,46,46,31,31,77.0
+Kalimantan Utara,65,province,2023,SD/MI,Negeri dan Swasta,132,0,0,46,46,178,178,497,497,675.0
+Sulawesi Utara,71,province,2023,SD/MI,Negeri,26,0,0,0,0,26,26,328,328,354.0
+Sulawesi Utara,71,province,2023,SD/MI,Swasta,2,0,0,61,61,63,63,83,83,146.0
+Sulawesi Utara,71,province,2023,SD/MI,Negeri dan Swasta,28,0,0,61,61,89,89,411,411,500.0
+Sulawesi Tengah,72,province,2023,SD/MI,Negeri,413,0,0,0,0,413,413,3313,3313,3726.0
+Sulawesi Tengah,72,province,2023,SD/MI,Swasta,7,0,0,70,70,77,77,129,129,206.0
+Sulawesi Tengah,72,province,2023,SD/MI,Negeri dan Swasta,420,0,0,70,70,490,490,3442,3442,3932.0
+Sulawesi Selatan,73,province,2023,SD/MI,Negeri,249,0,0,0,0,249,249,6389,6389,6638.0
+Sulawesi Selatan,73,province,2023,SD/MI,Swasta,0,0,0,249,249,249,249,96,96,345.0
+Sulawesi Selatan,73,province,2023,SD/MI,Negeri dan Swasta,249,0,0,249,249,498,498,6485,6485,6983.0
+Sulawesi Tenggara,74,province,2023,SD/MI,Negeri,115,0,0,0,0,115,115,1764,1764,1879.0
+Sulawesi Tenggara,74,province,2023,SD/MI,Swasta,0,0,0,48,48,48,48,22,22,70.0
+Sulawesi Tenggara,74,province,2023,SD/MI,Negeri dan Swasta,115,0,0,48,48,163,163,1786,1786,1949.0
+Gorontalo,75,province,2023,SD/MI,Negeri,1,0,0,0,0,1,1,820,820,821.0
+Gorontalo,75,province,2023,SD/MI,Swasta,1,0,0,14,14,15,15,18,18,33.0
+Gorontalo,75,province,2023,SD/MI,Negeri dan Swasta,2,0,0,14,14,16,16,838,838,854.0
+Sulawesi Barat,76,province,2023,SD/MI,Negeri,114,0,0,0,0,114,114,1968,1968,2082.0
+Sulawesi Barat,76,province,2023,SD/MI,Swasta,0,0,0,21,21,21,21,23,23,44.0
+Sulawesi Barat,76,province,2023,SD/MI,Negeri dan Swasta,114,0,0,21,21,135,135,1991,1991,2126.0
+Maluku,81,province,2023,SD/MI,Negeri,184,0,0,0,0,184,184,837,837,1021.0
+Maluku,81,province,2023,SD/MI,Swasta,16,0,0,43,43,59,59,140,140,199.0
+Maluku,81,province,2023,SD/MI,Negeri dan Swasta,200,0,0,43,43,243,243,977,977,1220.0
+Maluku Utara,82,province,2023,SD/MI,Negeri,134,0,0,0,0,134,134,578,578,712.0
+Maluku Utara,82,province,2023,SD/MI,Swasta,14,0,0,22,22,36,36,40,40,76.0
+Maluku Utara,82,province,2023,SD/MI,Negeri dan Swasta,148,0,0,22,22,170,170,618,618,788.0
+Papua,91,province,2023,SD/MI,Negeri,75,0,0,0,0,75,75,168,168,243.0
+Papua,91,province,2023,SD/MI,Swasta,26,0,0,54,54,80,80,102,102,182.0
+Papua,91,province,2023,SD/MI,Negeri dan Swasta,101,0,0,54,54,155,155,270,270,425.0
+Papua Barat,92,province,2023,SD/MI,Negeri,58,0,0,0,0,58,58,103,103,161.0
+Papua Barat,92,province,2023,SD/MI,Swasta,21,0,0,9,9,30,30,40,40,70.0
+Papua Barat,92,province,2023,SD/MI,Negeri dan Swasta,79,0,0,9,9,88,88,143,143,231.0
+Papua Selatan,93,province,2023,SD/MI,Negeri,24,0,0,0,0,24,24,58,58,82.0
+Papua Selatan,93,province,2023,SD/MI,Swasta,3,0,0,10,10,13,13,53,53,66.0
+Papua Selatan,93,province,2023,SD/MI,Negeri dan Swasta,27,0,0,10,10,37,37,111,111,148.0
+Papua Tengah,94,province,2023,SD/MI,Negeri,29,0,0,0,0,29,29,49,49,78.0
+Papua Tengah,94,province,2023,SD/MI,Swasta,1,0,0,40,40,41,41,19,19,60.0
+Papua Tengah,94,province,2023,SD/MI,Negeri dan Swasta,30,0,0,40,40,70,70,68,68,138.0
+Papua Pegunungan,95,province,2023,SD/MI,Negeri,15,0,0,0,0,15,15,38,38,53.0
+Papua Pegunungan,95,province,2023,SD/MI,Swasta,12,0,0,7,7,19,19,14,14,33.0
+Papua Pegunungan,95,province,2023,SD/MI,Negeri dan Swasta,27,0,0,7,7,34,34,52,52,86.0
+Papua Barat Daya,96,province,2023,SD/MI,Negeri,14,0,0,0,0,14,14,74,74,88.0
+Papua Barat Daya,96,province,2023,SD/MI,Swasta,9,0,0,26,26,35,35,58,58,93.0
+Papua Barat Daya,96,province,2023,SD/MI,Negeri dan Swasta,23,0,0,26,26,49,49,132,132,181.0
+Sekolah Indonesia Luar Negeri,,special,2023,SD/MI,Negeri,0,0,0,0,0,0,0,10,10,10.0
+Sekolah Indonesia Luar Negeri,,special,2023,SD/MI,Swasta,0,0,0,0,0,0,0,0,0,0.0
+Sekolah Indonesia Luar Negeri,,special,2023,SD/MI,Negeri dan Swasta,0,0,0,0,0,0,0,10,10,10.0
+Aceh,11,province,2022,SD/MI,Negeri,483,0,0,0,0,483,483,3089,3089,3572.0
+Aceh,11,province,2022,SD/MI,Swasta,0,0,0,190,190,190,190,58,58,248.0
+Aceh,11,province,2022,SD/MI,Negeri dan Swasta,483,0,0,190,190,673,673,3147,3147,3820.0
+Sumatera Utara,12,province,2022,SD/MI,Negeri,353,0,0,0,0,353,353,6455,6455,6808.0
+Sumatera Utara,12,province,2022,SD/MI,Swasta,1,0,0,924,924,925,925,422,422,1347.0
+Sumatera Utara,12,province,2022,SD/MI,Negeri dan Swasta,354,0,0,924,924,1278,1278,6877,6877,8155.0
+Sumatera Barat,13,province,2022,SD/MI,Negeri,224,0,0,0,0,224,224,5339,5339,5563.0
+Sumatera Barat,13,province,2022,SD/MI,Swasta,1,0,0,365,365,366,366,170,170,536.0
+Sumatera Barat,13,province,2022,SD/MI,Negeri dan Swasta,225,0,0,365,365,590,590,5509,5509,6099.0
+Riau,14,province,2022,SD/MI,Negeri,158,0,0,0,0,158,158,3678,3678,3836.0
+Riau,14,province,2022,SD/MI,Swasta,0,0,0,514,514,514,514,163,163,677.0
+Riau,14,province,2022,SD/MI,Negeri dan Swasta,158,0,0,514,514,672,672,3841,3841,4513.0
+Jambi,15,province,2022,SD/MI,Negeri,123,0,0,0,0,123,123,2571,2571,2694.0
+Jambi,15,province,2022,SD/MI,Swasta,0,0,0,156,156,156,156,40,40,196.0
+Jambi,15,province,2022,SD/MI,Negeri dan Swasta,123,0,0,156,156,279,279,2611,2611,2890.0
+Sumatera Selatan,16,province,2022,SD/MI,Negeri,152,0,0,0,0,152,152,5621,5621,5773.0
+Sumatera Selatan,16,province,2022,SD/MI,Swasta,0,0,0,342,342,342,342,300,300,642.0
+Sumatera Selatan,16,province,2022,SD/MI,Negeri dan Swasta,152,0,0,342,342,494,494,5921,5921,6415.0
+Bengkulu,17,province,2022,SD/MI,Negeri,60,0,0,0,0,60,60,1319,1319,1379.0
+Bengkulu,17,province,2022,SD/MI,Swasta,0,0,0,103,103,103,103,55,55,158.0
+Bengkulu,17,province,2022,SD/MI,Negeri dan Swasta,60,0,0,103,103,163,163,1374,1374,1537.0
+Lampung,18,province,2022,SD/MI,Negeri,220,0,0,0,0,220,220,3376,3376,3596.0
+Lampung,18,province,2022,SD/MI,Swasta,1,0,0,328,328,329,329,147,147,476.0
+Lampung,18,province,2022,SD/MI,Negeri dan Swasta,221,0,0,328,328,549,549,3523,3523,4072.0
+Kepulauan Bangka Belitung,19,province,2022,SD/MI,Negeri,27,0,0,0,0,27,27,1789,1789,1816.0
+Kepulauan Bangka Belitung,19,province,2022,SD/MI,Swasta,0,0,0,76,76,76,76,103,103,179.0
+Kepulauan Bangka Belitung,19,province,2022,SD/MI,Negeri dan Swasta,27,0,0,76,76,103,103,1892,1892,1995.0
+Kepulauan Riau,21,province,2022,SD/MI,Negeri,106,0,0,0,0,106,106,1595,1595,1701.0
+Kepulauan Riau,21,province,2022,SD/MI,Swasta,1,0,0,320,320,321,321,90,90,411.0
+Kepulauan Riau,21,province,2022,SD/MI,Negeri dan Swasta,107,0,0,320,320,427,427,1685,1685,2112.0
+D.K.I. Jakarta,31,province,2022,SD/MI,Negeri,48,0,0,0,0,48,48,2479,2479,2527.0
+D.K.I. Jakarta,31,province,2022,SD/MI,Swasta,0,0,0,1462,1462,1462,1462,487,487,1949.0
+D.K.I. Jakarta,31,province,2022,SD/MI,Negeri dan Swasta,48,0,0,1462,1462,1510,1510,2966,2966,4476.0
+Jawa Barat,32,province,2022,SD/MI,Negeri,706,0,0,0,0,706,706,12265,12265,12971.0
+Jawa Barat,32,province,2022,SD/MI,Swasta,1,0,0,2742,2742,2743,2743,923,923,3666.0
+Jawa Barat,32,province,2022,SD/MI,Negeri dan Swasta,707,0,0,2742,2742,3449,3449,13188,13188,16637.0
+Jawa Tengah,33,province,2022,SD/MI,Negeri,1431,0,0,0,0,1431,1431,11110,11110,12541.0
+Jawa Tengah,33,province,2022,SD/MI,Swasta,2,0,0,1326,1326,1328,1328,604,604,1932.0
+Jawa Tengah,33,province,2022,SD/MI,Negeri dan Swasta,1433,0,0,1326,1326,2759,2759,11714,11714,14473.0
+D.I. Yogyakarta,34,province,2022,SD/MI,Negeri,95,0,0,0,0,95,95,1988,1988,2083.0
+D.I. Yogyakarta,34,province,2022,SD/MI,Swasta,1,0,0,377,377,378,378,455,455,833.0
+D.I. Yogyakarta,34,province,2022,SD/MI,Negeri dan Swasta,96,0,0,377,377,473,473,2443,2443,2916.0
+Jawa Timur,35,province,2022,SD/MI,Negeri,1877,0,0,0,0,1877,1877,11058,11058,12935.0
+Jawa Timur,35,province,2022,SD/MI,Swasta,1,0,0,1800,1800,1801,1801,478,478,2279.0
+Jawa Timur,35,province,2022,SD/MI,Negeri dan Swasta,1878,0,0,1800,1800,3678,3678,11536,11536,15214.0
+Banten,36,province,2022,SD/MI,Negeri,79,0,0,0,0,79,79,3243,3243,3322.0
+Banten,36,province,2022,SD/MI,Swasta,0,0,0,734,734,734,734,199,199,933.0
+Banten,36,province,2022,SD/MI,Negeri dan Swasta,79,0,0,734,734,813,813,3442,3442,4255.0
+Bali,51,province,2022,SD/MI,Negeri,288,0,0,0,0,288,288,3518,3518,3806.0
+Bali,51,province,2022,SD/MI,Swasta,2,0,0,225,225,227,227,91,91,318.0
+Bali,51,province,2022,SD/MI,Negeri dan Swasta,290,0,0,225,225,515,515,3609,3609,4124.0
+Nusa Tenggara Barat,52,province,2022,SD/MI,Negeri,162,0,0,0,0,162,162,2671,2671,2833.0
+Nusa Tenggara Barat,52,province,2022,SD/MI,Swasta,1,0,0,170,170,171,171,51,51,222.0
+Nusa Tenggara Barat,52,province,2022,SD/MI,Negeri dan Swasta,163,0,0,170,170,333,333,2722,2722,3055.0
+Nusa Tenggara Timur,53,province,2022,SD/MI,Negeri,222,0,0,0,0,222,222,3345,3345,3567.0
+Nusa Tenggara Timur,53,province,2022,SD/MI,Swasta,17,0,0,649,649,666,666,1121,1121,1787.0
+Nusa Tenggara Timur,53,province,2022,SD/MI,Negeri dan Swasta,239,0,0,649,649,888,888,4466,4466,5354.0
+Kalimantan Barat,61,province,2022,SD/MI,Negeri,260,0,0,0,0,260,260,1989,1989,2249.0
+Kalimantan Barat,61,province,2022,SD/MI,Swasta,0,0,0,156,156,156,156,157,157,313.0
+Kalimantan Barat,61,province,2022,SD/MI,Negeri dan Swasta,260,0,0,156,156,416,416,2146,2146,2562.0
+Kalimantan Tengah,62,province,2022,SD/MI,Negeri,135,0,0,0,0,135,135,977,977,1112.0
+Kalimantan Tengah,62,province,2022,SD/MI,Swasta,0,0,0,147,147,147,147,42,42,189.0
+Kalimantan Tengah,62,province,2022,SD/MI,Negeri dan Swasta,135,0,0,147,147,282,282,1019,1019,1301.0
+Kalimantan Selatan,63,province,2022,SD/MI,Negeri,205,0,0,0,0,205,205,2238,2238,2443.0
+Kalimantan Selatan,63,province,2022,SD/MI,Swasta,1,0,0,132,132,133,133,77,77,210.0
+Kalimantan Selatan,63,province,2022,SD/MI,Negeri dan Swasta,206,0,0,132,132,338,338,2315,2315,2653.0
+Kalimantan Timur,64,province,2022,SD/MI,Negeri,245,0,0,0,0,245,245,2762,2762,3007.0
+Kalimantan Timur,64,province,2022,SD/MI,Swasta,1,0,0,302,302,303,303,144,144,447.0
+Kalimantan Timur,64,province,2022,SD/MI,Negeri dan Swasta,246,0,0,302,302,548,548,2906,2906,3454.0
+Kalimantan Utara,65,province,2022,SD/MI,Negeri,147,0,0,0,0,147,147,469,469,616.0
+Kalimantan Utara,65,province,2022,SD/MI,Swasta,0,0,0,41,41,41,41,34,34,75.0
+Kalimantan Utara,65,province,2022,SD/MI,Negeri dan Swasta,147,0,0,41,41,188,188,503,503,691.0
+Sulawesi Utara,71,province,2022,SD/MI,Negeri,33,0,0,0,0,33,33,453,453,486.0
+Sulawesi Utara,71,province,2022,SD/MI,Swasta,4,0,0,70,70,74,74,114,114,188.0
+Sulawesi Utara,71,province,2022,SD/MI,Negeri dan Swasta,37,0,0,70,70,107,107,567,567,674.0
+Sulawesi Tengah,72,province,2022,SD/MI,Negeri,431,0,0,0,0,431,431,3621,3621,4052.0
+Sulawesi Tengah,72,province,2022,SD/MI,Swasta,9,0,0,60,60,69,69,140,140,209.0
+Sulawesi Tengah,72,province,2022,SD/MI,Negeri dan Swasta,440,0,0,60,60,500,500,3761,3761,4261.0
+Sulawesi Selatan,73,province,2022,SD/MI,Negeri,305,0,0,0,0,305,305,7068,7068,7373.0
+Sulawesi Selatan,73,province,2022,SD/MI,Swasta,0,0,0,250,250,250,250,104,104,354.0
+Sulawesi Selatan,73,province,2022,SD/MI,Negeri dan Swasta,305,0,0,250,250,555,555,7172,7172,7727.0
+Sulawesi Tenggara,74,province,2022,SD/MI,Negeri,145,0,0,0,0,145,145,2004,2004,2149.0
+Sulawesi Tenggara,74,province,2022,SD/MI,Swasta,0,0,0,56,56,56,56,27,27,83.0
+Sulawesi Tenggara,74,province,2022,SD/MI,Negeri dan Swasta,145,0,0,56,56,201,201,2031,2031,2232.0
+Gorontalo,75,province,2022,SD/MI,Negeri,6,0,0,0,0,6,6,819,819,825.0
+Gorontalo,75,province,2022,SD/MI,Swasta,1,0,0,12,12,13,13,16,16,29.0
+Gorontalo,75,province,2022,SD/MI,Negeri dan Swasta,7,0,0,12,12,19,19,835,835,854.0
+Sulawesi Barat,76,province,2022,SD/MI,Negeri,117,0,0,0,0,117,117,2094,2094,2211.0
+Sulawesi Barat,76,province,2022,SD/MI,Swasta,1,0,0,17,17,18,18,23,23,41.0
+Sulawesi Barat,76,province,2022,SD/MI,Negeri dan Swasta,118,0,0,17,17,135,135,2117,2117,2252.0
+Maluku,81,province,2022,SD/MI,Negeri,217,0,0,0,0,217,217,954,954,1171.0
+Maluku,81,province,2022,SD/MI,Swasta,21,0,0,53,53,74,74,191,191,265.0
+Maluku,81,province,2022,SD/MI,Negeri dan Swasta,238,0,0,53,53,291,291,1145,1145,1436.0
+Maluku Utara,82,province,2022,SD/MI,Negeri,138,0,0,0,0,138,138,704,704,842.0
+Maluku Utara,82,province,2022,SD/MI,Swasta,18,0,0,20,20,38,38,64,64,102.0
+Maluku Utara,82,province,2022,SD/MI,Negeri dan Swasta,156,0,0,20,20,176,176,768,768,944.0
+Papua,91,province,2022,SD/MI,Negeri,171,0,0,0,0,171,171,394,394,565.0
+Papua,91,province,2022,SD/MI,Swasta,50,0,0,124,124,174,174,235,235,409.0
+Papua,91,province,2022,SD/MI,Negeri dan Swasta,221,0,0,124,124,345,345,629,629,974.0
+Papua Barat,92,province,2022,SD/MI,Negeri,93,0,0,0,0,93,93,209,209,302.0
+Papua Barat,92,province,2022,SD/MI,Swasta,36,0,0,39,39,75,75,120,120,195.0
+Papua Barat,92,province,2022,SD/MI,Negeri dan Swasta,129,0,0,39,39,168,168,329,329,497.0
+Sekolah Indonesia Luar Negeri,,special,2022,SD/MI,Negeri,2,0,0,0,0,2,2,11,11,13.0
+Sekolah Indonesia Luar Negeri,,special,2022,SD/MI,Swasta,0,0,0,0,0,0,0,1,1,1.0
+Sekolah Indonesia Luar Negeri,,special,2022,SD/MI,Negeri dan Swasta,2,0,0,0,0,2,2,12,12,14.0
+Aceh,11,province,2021,SD/MI,Negeri,499,0,0,2,2,501,501,2695,2695,3196.0
+Aceh,11,province,2021,SD/MI,Swasta,1,0,0,163,163,164,164,55,55,219.0
+Aceh,11,province,2021,SD/MI,Negeri dan Swasta,500,0,0,165,165,665,665,2750,2750,3415.0
+Sumatera Utara,12,province,2021,SD/MI,Negeri,399,0,0,1,1,400,400,5449,5449,5849.0
+Sumatera Utara,12,province,2021,SD/MI,Swasta,0,0,0,807,807,807,807,432,432,1239.0
+Sumatera Utara,12,province,2021,SD/MI,Negeri dan Swasta,399,0,0,808,808,1207,1207,5881,5881,7088.0
+Sumatera Barat,13,province,2021,SD/MI,Negeri,262,0,0,1,1,263,263,5122,5122,5385.0
+Sumatera Barat,13,province,2021,SD/MI,Swasta,1,0,0,312,312,313,313,159,159,472.0
+Sumatera Barat,13,province,2021,SD/MI,Negeri dan Swasta,263,0,0,313,313,576,576,5281,5281,5857.0
+Riau,14,province,2021,SD/MI,Negeri,164,0,0,4,4,168,168,3283,3283,3451.0
+Riau,14,province,2021,SD/MI,Swasta,0,0,0,474,474,474,474,161,161,635.0
+Riau,14,province,2021,SD/MI,Negeri dan Swasta,164,0,0,478,478,642,642,3444,3444,4086.0
+Jambi,15,province,2021,SD/MI,Negeri,142,0,0,0,0,142,142,2378,2378,2520.0
+Jambi,15,province,2021,SD/MI,Swasta,0,0,0,149,149,149,149,35,35,184.0
+Jambi,15,province,2021,SD/MI,Negeri dan Swasta,142,0,0,149,149,291,291,2413,2413,2704.0
+Sumatera Selatan,16,province,2021,SD/MI,Negeri,170,0,0,1,1,171,171,5067,5067,5238.0
+Sumatera Selatan,16,province,2021,SD/MI,Swasta,0,0,0,317,317,317,317,273,273,590.0
+Sumatera Selatan,16,province,2021,SD/MI,Negeri dan Swasta,170,0,0,318,318,488,488,5340,5340,5828.0
+Bengkulu,17,province,2021,SD/MI,Negeri,70,0,0,1,1,71,71,1137,1137,1208.0
+Bengkulu,17,province,2021,SD/MI,Swasta,0,0,0,92,92,92,92,59,59,151.0
+Bengkulu,17,province,2021,SD/MI,Negeri dan Swasta,70,0,0,93,93,163,163,1196,1196,1359.0
+Lampung,18,province,2021,SD/MI,Negeri,241,0,0,1,1,242,242,2625,2625,2867.0
+Lampung,18,province,2021,SD/MI,Swasta,1,0,0,267,267,268,268,146,146,414.0
+Lampung,18,province,2021,SD/MI,Negeri dan Swasta,242,0,0,268,268,510,510,2771,2771,3281.0
+Kepulauan Bangka Belitung,19,province,2021,SD/MI,Negeri,36,0,0,0,0,36,36,1763,1763,1799.0
+Kepulauan Bangka Belitung,19,province,2021,SD/MI,Swasta,0,0,0,63,63,63,63,102,102,165.0
+Kepulauan Bangka Belitung,19,province,2021,SD/MI,Negeri dan Swasta,36,0,0,63,63,99,99,1865,1865,1964.0
+Kepulauan Riau,21,province,2021,SD/MI,Negeri,101,0,0,0,0,101,101,1481,1481,1582.0
+Kepulauan Riau,21,province,2021,SD/MI,Swasta,1,0,0,296,296,297,297,94,94,391.0
+Kepulauan Riau,21,province,2021,SD/MI,Negeri dan Swasta,102,0,0,296,296,398,398,1575,1575,1973.0
+D.K.I. Jakarta,31,province,2021,SD/MI,Negeri,67,0,0,0,0,67,67,2513,2513,2580.0
+D.K.I. Jakarta,31,province,2021,SD/MI,Swasta,0,0,0,1354,1354,1354,1354,485,485,1839.0
+D.K.I. Jakarta,31,province,2021,SD/MI,Negeri dan Swasta,67,0,0,1354,1354,1421,1421,2998,2998,4419.0
+Jawa Barat,32,province,2021,SD/MI,Negeri,758,0,0,5,5,763,763,10794,10794,11557.0
+Jawa Barat,32,province,2021,SD/MI,Swasta,1,0,0,2426,2426,2427,2427,901,901,3328.0
+Jawa Barat,32,province,2021,SD/MI,Negeri dan Swasta,759,0,0,2431,2431,3190,3190,11695,11695,14885.0
+Jawa Tengah,33,province,2021,SD/MI,Negeri,1509,0,0,0,0,1509,1509,10683,10683,12192.0
+Jawa Tengah,33,province,2021,SD/MI,Swasta,2,0,0,1201,1201,1203,1203,596,596,1799.0
+Jawa Tengah,33,province,2021,SD/MI,Negeri dan Swasta,1511,0,0,1201,1201,2712,2712,11279,11279,13991.0
+D.I. Yogyakarta,34,province,2021,SD/MI,Negeri,117,0,0,0,0,117,117,1949,1949,2066.0
+D.I. Yogyakarta,34,province,2021,SD/MI,Swasta,1,0,0,365,365,366,366,437,437,803.0
+D.I. Yogyakarta,34,province,2021,SD/MI,Negeri dan Swasta,118,0,0,365,365,483,483,2386,2386,2869.0
+Jawa Timur,35,province,2021,SD/MI,Negeri,1986,0,0,4,4,1990,1990,10061,10061,12051.0
+Jawa Timur,35,province,2021,SD/MI,Swasta,1,0,0,1631,1631,1632,1632,477,477,2109.0
+Jawa Timur,35,province,2021,SD/MI,Negeri dan Swasta,1987,0,0,1635,1635,3622,3622,10538,10538,14160.0
+Banten,36,province,2021,SD/MI,Negeri,84,0,0,1,1,85,85,2858,2858,2943.0
+Banten,36,province,2021,SD/MI,Swasta,0,0,0,653,653,653,653,200,200,853.0
+Banten,36,province,2021,SD/MI,Negeri dan Swasta,84,0,0,654,654,738,738,3058,3058,3796.0
+Bali,51,province,2021,SD/MI,Negeri,313,0,0,0,0,313,313,3205,3205,3518.0
+Bali,51,province,2021,SD/MI,Swasta,2,0,0,232,232,234,234,96,96,330.0
+Bali,51,province,2021,SD/MI,Negeri dan Swasta,315,0,0,232,232,547,547,3301,3301,3848.0
+Nusa Tenggara Barat,52,province,2021,SD/MI,Negeri,186,0,0,1,1,187,187,2372,2372,2559.0
+Nusa Tenggara Barat,52,province,2021,SD/MI,Swasta,1,0,0,144,144,145,145,43,43,188.0
+Nusa Tenggara Barat,52,province,2021,SD/MI,Negeri dan Swasta,187,0,0,145,145,332,332,2415,2415,2747.0
+Nusa Tenggara Timur,53,province,2021,SD/MI,Negeri,243,0,0,2,2,245,245,2943,2943,3188.0
+Nusa Tenggara Timur,53,province,2021,SD/MI,Swasta,17,0,0,495,495,512,512,1125,1125,1637.0
+Nusa Tenggara Timur,53,province,2021,SD/MI,Negeri dan Swasta,260,0,0,497,497,757,757,4068,4068,4825.0
+Kalimantan Barat,61,province,2021,SD/MI,Negeri,265,0,0,0,0,265,265,1646,1646,1911.0
+Kalimantan Barat,61,province,2021,SD/MI,Swasta,0,0,0,148,148,148,148,142,142,290.0
+Kalimantan Barat,61,province,2021,SD/MI,Negeri dan Swasta,265,0,0,148,148,413,413,1788,1788,2201.0
+Kalimantan Tengah,62,province,2021,SD/MI,Negeri,135,0,0,1,1,136,136,828,828,964.0
+Kalimantan Tengah,62,province,2021,SD/MI,Swasta,0,0,0,126,126,126,126,37,37,163.0
+Kalimantan Tengah,62,province,2021,SD/MI,Negeri dan Swasta,135,0,0,127,127,262,262,865,865,1127.0
+Kalimantan Selatan,63,province,2021,SD/MI,Negeri,207,0,0,0,0,207,207,2121,2121,2328.0
+Kalimantan Selatan,63,province,2021,SD/MI,Swasta,1,0,0,111,111,112,112,80,80,192.0
+Kalimantan Selatan,63,province,2021,SD/MI,Negeri dan Swasta,208,0,0,111,111,319,319,2201,2201,2520.0
+Kalimantan Timur,64,province,2021,SD/MI,Negeri,264,0,0,0,0,264,264,2648,2648,2912.0
+Kalimantan Timur,64,province,2021,SD/MI,Swasta,1,0,0,286,286,287,287,134,134,421.0
+Kalimantan Timur,64,province,2021,SD/MI,Negeri dan Swasta,265,0,0,286,286,551,551,2782,2782,3333.0
+Kalimantan Utara,65,province,2021,SD/MI,Negeri,145,0,0,0,0,145,145,457,457,602.0
+Kalimantan Utara,65,province,2021,SD/MI,Swasta,0,0,0,31,31,31,31,31,31,62.0
+Kalimantan Utara,65,province,2021,SD/MI,Negeri dan Swasta,145,0,0,31,31,176,176,488,488,664.0
+Sulawesi Utara,71,province,2021,SD/MI,Negeri,30,0,0,0,0,30,30,371,371,401.0
+Sulawesi Utara,71,province,2021,SD/MI,Swasta,5,0,0,60,60,65,65,110,110,175.0
+Sulawesi Utara,71,province,2021,SD/MI,Negeri dan Swasta,35,0,0,60,60,95,95,481,481,576.0
+Sulawesi Tengah,72,province,2021,SD/MI,Negeri,457,0,0,2,2,459,459,3358,3358,3817.0
+Sulawesi Tengah,72,province,2021,SD/MI,Swasta,10,0,0,54,54,64,64,122,122,186.0
+Sulawesi Tengah,72,province,2021,SD/MI,Negeri dan Swasta,467,0,0,56,56,523,523,3480,3480,4003.0
+Sulawesi Selatan,73,province,2021,SD/MI,Negeri,302,0,0,4,4,306,306,6678,6678,6984.0
+Sulawesi Selatan,73,province,2021,SD/MI,Swasta,1,0,0,225,225,226,226,95,95,321.0
+Sulawesi Selatan,73,province,2021,SD/MI,Negeri dan Swasta,303,0,0,229,229,532,532,6773,6773,7305.0
+Sulawesi Tenggara,74,province,2021,SD/MI,Negeri,150,0,0,0,0,150,150,1322,1322,1472.0
+Sulawesi Tenggara,74,province,2021,SD/MI,Swasta,0,0,0,52,52,52,52,15,15,67.0
+Sulawesi Tenggara,74,province,2021,SD/MI,Negeri dan Swasta,150,0,0,52,52,202,202,1337,1337,1539.0
+Gorontalo,75,province,2021,SD/MI,Negeri,8,0,0,0,0,8,8,677,677,685.0
+Gorontalo,75,province,2021,SD/MI,Swasta,1,0,0,13,13,14,14,18,18,32.0
+Gorontalo,75,province,2021,SD/MI,Negeri dan Swasta,9,0,0,13,13,22,22,695,695,717.0
+Sulawesi Barat,76,province,2021,SD/MI,Negeri,128,0,0,0,0,128,128,1594,1594,1722.0
+Sulawesi Barat,76,province,2021,SD/MI,Swasta,1,0,0,16,16,17,17,24,24,41.0
+Sulawesi Barat,76,province,2021,SD/MI,Negeri dan Swasta,129,0,0,16,16,145,145,1618,1618,1763.0
+Maluku,81,province,2021,SD/MI,Negeri,219,0,0,1,1,220,220,816,816,1036.0
+Maluku,81,province,2021,SD/MI,Swasta,24,0,0,30,30,54,54,182,182,236.0
+Maluku,81,province,2021,SD/MI,Negeri dan Swasta,243,0,0,31,31,274,274,998,998,1272.0
+Maluku Utara,82,province,2021,SD/MI,Negeri,137,0,0,0,0,137,137,549,549,686.0
+Maluku Utara,82,province,2021,SD/MI,Swasta,17,0,0,20,20,37,37,61,61,98.0
+Maluku Utara,82,province,2021,SD/MI,Negeri dan Swasta,154,0,0,20,20,174,174,610,610,784.0
+Papua,91,province,2021,SD/MI,Negeri,169,0,0,1,1,170,170,323,323,493.0
+Papua,91,province,2021,SD/MI,Swasta,51,0,0,96,96,147,147,202,202,349.0
+Papua,91,province,2021,SD/MI,Negeri dan Swasta,220,0,0,97,97,317,317,525,525,842.0
+Papua Barat,92,province,2021,SD/MI,Negeri,86,0,0,0,0,86,86,138,138,224.0
+Papua Barat,92,province,2021,SD/MI,Swasta,33,0,0,25,25,58,58,81,81,139.0
+Papua Barat,92,province,2021,SD/MI,Negeri dan Swasta,119,0,0,25,25,144,144,219,219,363.0
+Sekolah Indonesia Luar Negeri,,special,2021,SD/MI,Negeri,1,0,0,0,0,1,1,11,11,12.0
+Sekolah Indonesia Luar Negeri,,special,2021,SD/MI,Swasta,0,0,0,0,0,0,0,1,1,1.0
+Sekolah Indonesia Luar Negeri,,special,2021,SD/MI,Negeri dan Swasta,1,0,0,0,0,1,1,12,12,13.0
+Aceh,11,province,2025,SMK/MAK,Negeri,363,99,99,0,0,462,462,813,813,1275.0
+Aceh,11,province,2025,SMK/MAK,Swasta,4,0,0,73,73,77,77,77,77,154.0
+Aceh,11,province,2025,SMK/MAK,Negeri dan Swasta,367,99,99,73,73,539,539,890,890,1429.0
+Sumatera Utara,12,province,2025,SMK/MAK,Negeri,138,0,0,0,0,138,138,1129,1129,1267.0
+Sumatera Utara,12,province,2025,SMK/MAK,Swasta,0,0,0,866,866,866,866,202,202,1068.0
+Sumatera Utara,12,province,2025,SMK/MAK,Negeri dan Swasta,138,0,0,866,866,1004,1004,1331,1331,2335.0
+Sumatera Barat,13,province,2025,SMK/MAK,Negeri,188,18,18,0,0,206,206,821,821,1027.0
+Sumatera Barat,13,province,2025,SMK/MAK,Swasta,0,0,0,160,160,160,160,40,40,200.0
+Sumatera Barat,13,province,2025,SMK/MAK,Negeri dan Swasta,188,18,18,160,160,366,366,861,861,1227.0
+Riau,14,province,2025,SMK/MAK,Negeri,94,239,239,0,0,333,333,583,583,916.0
+Riau,14,province,2025,SMK/MAK,Swasta,0,0,0,320,320,320,320,101,101,421.0
+Riau,14,province,2025,SMK/MAK,Negeri dan Swasta,94,239,239,320,320,653,653,684,684,1337.0
+Jambi,15,province,2025,SMK/MAK,Negeri,112,3,3,0,0,115,115,715,715,830.0
+Jambi,15,province,2025,SMK/MAK,Swasta,0,0,0,119,119,119,119,29,29,148.0
+Jambi,15,province,2025,SMK/MAK,Negeri dan Swasta,112,3,3,119,119,234,234,744,744,978.0
+Sumatera Selatan,16,province,2025,SMK/MAK,Negeri,112,70,70,0,0,182,182,1016,1016,1198.0
+Sumatera Selatan,16,province,2025,SMK/MAK,Swasta,0,0,0,217,217,217,217,376,376,593.0
+Sumatera Selatan,16,province,2025,SMK/MAK,Negeri dan Swasta,112,70,70,217,217,399,399,1392,1392,1791.0
+Bengkulu,17,province,2025,SMK/MAK,Negeri,76,6,6,0,0,82,82,471,471,553.0
+Bengkulu,17,province,2025,SMK/MAK,Swasta,2,0,0,43,43,45,45,18,18,63.0
+Bengkulu,17,province,2025,SMK/MAK,Negeri dan Swasta,78,6,6,43,43,127,127,489,489,616.0
+Lampung,18,province,2025,SMK/MAK,Negeri,168,404,404,0,0,572,572,540,540,1112.0
+Lampung,18,province,2025,SMK/MAK,Swasta,0,0,0,761,761,761,761,225,225,986.0
+Lampung,18,province,2025,SMK/MAK,Negeri dan Swasta,168,404,404,761,761,1333,1333,765,765,2098.0
+Kepulauan Bangka Belitung,19,province,2025,SMK/MAK,Negeri,59,28,28,0,0,87,87,230,230,317.0
+Kepulauan Bangka Belitung,19,province,2025,SMK/MAK,Swasta,0,0,0,34,34,34,34,64,64,98.0
+Kepulauan Bangka Belitung,19,province,2025,SMK/MAK,Negeri dan Swasta,59,28,28,34,34,121,121,294,294,415.0
+Kepulauan Riau,21,province,2025,SMK/MAK,Negeri,32,136,136,0,0,168,168,293,293,461.0
+Kepulauan Riau,21,province,2025,SMK/MAK,Swasta,0,0,0,98,98,98,98,21,21,119.0
+Kepulauan Riau,21,province,2025,SMK/MAK,Negeri dan Swasta,32,136,136,98,98,266,266,314,314,580.0
+D.K.I. Jakarta,31,province,2025,SMK/MAK,Negeri,203,0,0,0,0,203,203,504,504,707.0
+D.K.I. Jakarta,31,province,2025,SMK/MAK,Swasta,0,0,0,883,883,883,883,748,748,1631.0
+D.K.I. Jakarta,31,province,2025,SMK/MAK,Negeri dan Swasta,203,0,0,883,883,1086,1086,1252,1252,2338.0
+Jawa Barat,32,province,2025,SMK/MAK,Negeri,427,42,42,0,0,469,469,4123,4123,4592.0
+Jawa Barat,32,province,2025,SMK/MAK,Swasta,1,2,2,5247,5247,5250,5250,2537,2537,7787.0
+Jawa Barat,32,province,2025,SMK/MAK,Negeri dan Swasta,428,44,44,5247,5247,5719,5719,6660,6660,12379.0
+Jawa Tengah,33,province,2025,SMK/MAK,Negeri,418,57,57,0,0,475,475,2624,2624,3099.0
+Jawa Tengah,33,province,2025,SMK/MAK,Swasta,0,0,0,4202,4202,4202,4202,2092,2092,6294.0
+Jawa Tengah,33,province,2025,SMK/MAK,Negeri dan Swasta,418,57,57,4202,4202,4677,4677,4716,4716,9393.0
+D.I. Yogyakarta,34,province,2025,SMK/MAK,Negeri,325,378,378,0,0,703,703,220,220,923.0
+D.I. Yogyakarta,34,province,2025,SMK/MAK,Swasta,0,0,0,492,492,492,492,237,237,729.0
+D.I. Yogyakarta,34,province,2025,SMK/MAK,Negeri dan Swasta,325,378,378,492,492,1195,1195,457,457,1652.0
+Jawa Timur,35,province,2025,SMK/MAK,Negeri,656,13,13,0,0,669,669,4203,4203,4872.0
+Jawa Timur,35,province,2025,SMK/MAK,Swasta,2,0,0,3412,3412,3414,3414,742,742,4156.0
+Jawa Timur,35,province,2025,SMK/MAK,Negeri dan Swasta,658,13,13,3412,3412,4083,4083,4945,4945,9028.0
+Banten,36,province,2025,SMK/MAK,Negeri,58,816,816,0,0,874,874,398,398,1272.0
+Banten,36,province,2025,SMK/MAK,Swasta,0,0,0,1741,1741,1741,1741,689,689,2430.0
+Banten,36,province,2025,SMK/MAK,Negeri dan Swasta,58,816,816,1741,1741,2615,2615,1087,1087,3702.0
+Bali,51,province,2025,SMK/MAK,Negeri,182,172,172,0,0,354,354,602,602,956.0
+Bali,51,province,2025,SMK/MAK,Swasta,0,0,0,284,284,284,284,132,132,416.0
+Bali,51,province,2025,SMK/MAK,Negeri dan Swasta,182,172,172,284,284,638,638,734,734,1372.0
+Nusa Tenggara Barat,52,province,2025,SMK/MAK,Negeri,223,20,20,0,0,243,243,954,954,1197.0
+Nusa Tenggara Barat,52,province,2025,SMK/MAK,Swasta,0,0,0,158,158,158,158,21,21,179.0
+Nusa Tenggara Barat,52,province,2025,SMK/MAK,Negeri dan Swasta,223,20,20,158,158,401,401,975,975,1376.0
+Nusa Tenggara Timur,53,province,2025,SMK/MAK,Negeri,157,57,57,0,0,214,214,519,519,733.0
+Nusa Tenggara Timur,53,province,2025,SMK/MAK,Swasta,0,0,0,206,206,206,206,96,96,302.0
+Nusa Tenggara Timur,53,province,2025,SMK/MAK,Negeri dan Swasta,157,57,57,206,206,420,420,615,615,1035.0
+Kalimantan Barat,61,province,2025,SMK/MAK,Negeri,106,6,6,0,0,112,112,371,371,483.0
+Kalimantan Barat,61,province,2025,SMK/MAK,Swasta,0,0,0,103,103,103,103,96,96,199.0
+Kalimantan Barat,61,province,2025,SMK/MAK,Negeri dan Swasta,106,6,6,103,103,215,215,467,467,682.0
+Kalimantan Tengah,62,province,2025,SMK/MAK,Negeri,63,13,13,0,0,76,76,201,201,277.0
+Kalimantan Tengah,62,province,2025,SMK/MAK,Swasta,0,0,0,33,33,33,33,27,27,60.0
+Kalimantan Tengah,62,province,2025,SMK/MAK,Negeri dan Swasta,63,13,13,33,33,109,109,228,228,337.0
+Kalimantan Selatan,63,province,2025,SMK/MAK,Negeri,152,8,8,0,0,160,160,809,809,969.0
+Kalimantan Selatan,63,province,2025,SMK/MAK,Swasta,0,0,0,133,133,133,133,115,115,248.0
+Kalimantan Selatan,63,province,2025,SMK/MAK,Negeri dan Swasta,152,8,8,133,133,293,293,924,924,1217.0
+Kalimantan Timur,64,province,2025,SMK/MAK,Negeri,103,353,353,0,0,456,456,301,301,757.0
+Kalimantan Timur,64,province,2025,SMK/MAK,Swasta,0,0,0,339,339,339,339,133,133,472.0
+Kalimantan Timur,64,province,2025,SMK/MAK,Negeri dan Swasta,103,353,353,339,339,795,795,434,434,1229.0
+Kalimantan Utara,65,province,2025,SMK/MAK,Negeri,26,84,84,0,0,110,110,46,46,156.0
+Kalimantan Utara,65,province,2025,SMK/MAK,Swasta,0,0,0,15,15,15,15,8,8,23.0
+Kalimantan Utara,65,province,2025,SMK/MAK,Negeri dan Swasta,26,84,84,15,15,125,125,54,54,179.0
+Sulawesi Utara,71,province,2025,SMK/MAK,Negeri,58,351,351,0,0,409,409,80,80,489.0
+Sulawesi Utara,71,province,2025,SMK/MAK,Swasta,5,0,0,83,83,88,88,30,30,118.0
+Sulawesi Utara,71,province,2025,SMK/MAK,Negeri dan Swasta,63,351,351,83,83,497,497,110,110,607.0
+Sulawesi Tengah,72,province,2025,SMK/MAK,Negeri,98,0,0,0,0,98,98,325,325,423.0
+Sulawesi Tengah,72,province,2025,SMK/MAK,Swasta,4,1,1,118,118,123,123,63,63,186.0
+Sulawesi Tengah,72,province,2025,SMK/MAK,Negeri dan Swasta,102,1,1,118,118,221,221,388,388,609.0
+Sulawesi Selatan,73,province,2025,SMK/MAK,Negeri,215,453,453,0,0,668,668,411,411,1079.0
+Sulawesi Selatan,73,province,2025,SMK/MAK,Swasta,0,0,0,334,334,334,334,75,75,409.0
+Sulawesi Selatan,73,province,2025,SMK/MAK,Negeri dan Swasta,215,453,453,334,334,1002,1002,486,486,1488.0
+Sulawesi Tenggara,74,province,2025,SMK/MAK,Negeri,67,98,98,0,0,165,165,353,353,518.0
+Sulawesi Tenggara,74,province,2025,SMK/MAK,Swasta,1,0,0,68,68,69,69,27,27,96.0
+Sulawesi Tenggara,74,province,2025,SMK/MAK,Negeri dan Swasta,68,98,98,68,68,234,234,380,380,614.0
+Gorontalo,75,province,2025,SMK/MAK,Negeri,58,0,0,0,0,58,58,156,156,214.0
+Gorontalo,75,province,2025,SMK/MAK,Swasta,0,0,0,19,19,19,19,37,37,56.0
+Gorontalo,75,province,2025,SMK/MAK,Negeri dan Swasta,58,0,0,19,19,77,77,193,193,270.0
+Sulawesi Barat,76,province,2025,SMK/MAK,Negeri,83,1,1,0,0,84,84,467,467,551.0
+Sulawesi Barat,76,province,2025,SMK/MAK,Swasta,0,0,0,114,114,114,114,25,25,139.0
+Sulawesi Barat,76,province,2025,SMK/MAK,Negeri dan Swasta,83,1,1,114,114,198,198,492,492,690.0
+Maluku,81,province,2025,SMK/MAK,Negeri,146,0,0,0,0,146,146,188,188,334.0
+Maluku,81,province,2025,SMK/MAK,Swasta,4,0,0,41,41,45,45,14,14,59.0
+Maluku,81,province,2025,SMK/MAK,Negeri dan Swasta,150,0,0,41,41,191,191,202,202,393.0
+Maluku Utara,82,province,2025,SMK/MAK,Negeri,81,46,46,0,0,127,127,64,64,191.0
+Maluku Utara,82,province,2025,SMK/MAK,Swasta,5,0,0,24,24,29,29,45,45,74.0
+Maluku Utara,82,province,2025,SMK/MAK,Negeri dan Swasta,86,46,46,24,24,156,156,109,109,265.0
+Papua,91,province,2025,SMK/MAK,Negeri,88,2,2,0,0,90,90,67,67,157.0
+Papua,91,province,2025,SMK/MAK,Swasta,12,0,0,15,15,27,27,23,23,50.0
+Papua,91,province,2025,SMK/MAK,Negeri dan Swasta,100,2,2,15,15,117,117,90,90,207.0
+Papua Barat,92,province,2025,SMK/MAK,Negeri,13,0,0,0,0,13,13,28,28,41.0
+Papua Barat,92,province,2025,SMK/MAK,Swasta,2,0,0,2,2,4,4,5,5,9.0
+Papua Barat,92,province,2025,SMK/MAK,Negeri dan Swasta,15,0,0,2,2,17,17,33,33,50.0
+Papua Selatan,93,province,2025,SMK/MAK,Negeri,15,1,1,0,0,16,16,32,32,48.0
+Papua Selatan,93,province,2025,SMK/MAK,Swasta,0,0,0,1,1,1,1,6,6,7.0
+Papua Selatan,93,province,2025,SMK/MAK,Negeri dan Swasta,15,1,1,1,1,17,17,38,38,55.0
+Papua Tengah,94,province,2025,SMK/MAK,Negeri,15,0,0,0,0,15,15,25,25,40.0
+Papua Tengah,94,province,2025,SMK/MAK,Swasta,7,0,0,35,35,42,42,11,11,53.0
+Papua Tengah,94,province,2025,SMK/MAK,Negeri dan Swasta,22,0,0,35,35,57,57,36,36,93.0
+Papua Pegunungan,95,province,2025,SMK/MAK,Negeri,0,0,0,0,0,0,0,1,1,1.0
+Papua Pegunungan,95,province,2025,SMK/MAK,Swasta,6,0,0,2,2,8,8,3,3,11.0
+Papua Pegunungan,95,province,2025,SMK/MAK,Negeri dan Swasta,6,0,0,2,2,8,8,4,4,12.0
+Papua Barat Daya,96,province,2025,SMK/MAK,Negeri,9,0,0,0,0,9,9,39,39,48.0
+Papua Barat Daya,96,province,2025,SMK/MAK,Swasta,2,0,0,10,10,12,12,28,28,40.0
+Papua Barat Daya,96,province,2025,SMK/MAK,Negeri dan Swasta,11,0,0,10,10,21,21,67,67,88.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMK/MAK,Negeri,0,0,0,0,0,0,0,1,1,1.0
+Sekolah Indonesia Luar Negeri,,special,2025,SMK/MAK,Swasta,0,0,0,0,0,0,0,0,0,
+Sekolah Indonesia Luar Negeri,,special,2025,SMK/MAK,Negeri dan Swasta,0,0,0,0,0,1,1,1,1,
+Aceh,11,province,2024,SMK/MAK,Negeri,380,0,0,0,0,380,380,1023,1023,1403.0
+Aceh,11,province,2024,SMK/MAK,Swasta,4,0,0,63,63,67,67,98,98,165.0
+Aceh,11,province,2024,SMK/MAK,Negeri dan Swasta,384,0,0,63,63,447,447,1121,1121,1568.0
+Sumatera Utara,12,province,2024,SMK/MAK,Negeri,152,0,0,0,0,152,152,1144,1144,1296.0
+Sumatera Utara,12,province,2024,SMK/MAK,Swasta,0,0,0,914,914,914,914,223,223,1137.0
+Sumatera Utara,12,province,2024,SMK/MAK,Negeri dan Swasta,152,0,0,914,914,1066,1066,1367,1367,2433.0
+Sumatera Barat,13,province,2024,SMK/MAK,Negeri,197,0,0,0,0,197,197,833,833,1030.0
+Sumatera Barat,13,province,2024,SMK/MAK,Swasta,0,0,0,176,176,176,176,46,46,222.0
+Sumatera Barat,13,province,2024,SMK/MAK,Negeri dan Swasta,197,0,0,176,176,373,373,879,879,1252.0
+Riau,14,province,2024,SMK/MAK,Negeri,102,0,0,0,0,102,102,829,829,931.0
+Riau,14,province,2024,SMK/MAK,Swasta,0,0,0,331,331,331,331,106,106,437.0
+Riau,14,province,2024,SMK/MAK,Negeri dan Swasta,102,0,0,331,331,433,433,935,935,1368.0
+Jambi,15,province,2024,SMK/MAK,Negeri,121,0,0,0,0,121,121,690,690,811.0
+Jambi,15,province,2024,SMK/MAK,Swasta,0,0,0,123,123,123,123,31,31,154.0
+Jambi,15,province,2024,SMK/MAK,Negeri dan Swasta,121,0,0,123,123,244,244,721,721,965.0
+Sumatera Selatan,16,province,2024,SMK/MAK,Negeri,127,0,0,0,0,127,127,1135,1135,1262.0
+Sumatera Selatan,16,province,2024,SMK/MAK,Swasta,0,0,0,207,207,207,207,374,374,581.0
+Sumatera Selatan,16,province,2024,SMK/MAK,Negeri dan Swasta,127,0,0,207,207,334,334,1509,1509,1843.0
+Bengkulu,17,province,2024,SMK/MAK,Negeri,79,0,0,0,0,79,79,488,488,567.0
+Bengkulu,17,province,2024,SMK/MAK,Swasta,2,0,0,50,50,52,52,23,23,75.0
+Bengkulu,17,province,2024,SMK/MAK,Negeri dan Swasta,81,0,0,50,50,131,131,511,511,642.0
+Lampung,18,province,2024,SMK/MAK,Negeri,186,0,0,0,0,186,186,1002,1002,1188.0
+Lampung,18,province,2024,SMK/MAK,Swasta,0,0,0,742,742,742,742,245,245,987.0
+Lampung,18,province,2024,SMK/MAK,Negeri dan Swasta,186,0,0,742,742,928,928,1247,1247,2175.0
+Kepulauan Bangka Belitung,19,province,2024,SMK/MAK,Negeri,60,0,0,0,0,60,60,282,282,342.0
+Kepulauan Bangka Belitung,19,province,2024,SMK/MAK,Swasta,0,0,0,35,35,35,35,68,68,103.0
+Kepulauan Bangka Belitung,19,province,2024,SMK/MAK,Negeri dan Swasta,60,0,0,35,35,95,95,350,350,445.0
+Kepulauan Riau,21,province,2024,SMK/MAK,Negeri,35,0,0,0,0,35,35,446,446,481.0
+Kepulauan Riau,21,province,2024,SMK/MAK,Swasta,0,0,0,99,99,99,99,28,28,127.0
+Kepulauan Riau,21,province,2024,SMK/MAK,Negeri dan Swasta,35,0,0,99,99,134,134,474,474,608.0
+D.K.I. Jakarta,31,province,2024,SMK/MAK,Negeri,152,0,0,0,0,152,152,525,525,677.0
+D.K.I. Jakarta,31,province,2024,SMK/MAK,Swasta,1,0,0,905,905,906,906,760,760,1666.0
+D.K.I. Jakarta,31,province,2024,SMK/MAK,Negeri dan Swasta,153,0,0,905,905,1058,1058,1285,1285,2343.0
+Jawa Barat,32,province,2024,SMK/MAK,Negeri,478,0,0,0,0,478,478,4289,4289,4767.0
+Jawa Barat,32,province,2024,SMK/MAK,Swasta,0,0,0,5301,5301,5301,5301,2669,2669,7970.0
+Jawa Barat,32,province,2024,SMK/MAK,Negeri dan Swasta,478,0,0,5301,5301,5779,5779,6958,6958,12737.0
+Jawa Tengah,33,province,2024,SMK/MAK,Negeri,468,0,0,0,0,468,468,2856,2856,3324.0
+Jawa Tengah,33,province,2024,SMK/MAK,Swasta,0,0,0,4273,4273,4273,4273,2062,2062,6335.0
+Jawa Tengah,33,province,2024,SMK/MAK,Negeri dan Swasta,468,0,0,4273,4273,4741,4741,4918,4918,9659.0
+D.I. Yogyakarta,34,province,2024,SMK/MAK,Negeri,293,0,0,0,0,293,293,599,599,892.0
+D.I. Yogyakarta,34,province,2024,SMK/MAK,Swasta,0,0,0,494,494,494,494,282,282,776.0
+D.I. Yogyakarta,34,province,2024,SMK/MAK,Negeri dan Swasta,293,0,0,494,494,787,787,881,881,1668.0
+Jawa Timur,35,province,2024,SMK/MAK,Negeri,673,0,0,0,0,673,673,4272,4272,4945.0
+Jawa Timur,35,province,2024,SMK/MAK,Swasta,2,0,0,3526,3526,3528,3528,783,783,4311.0
+Jawa Timur,35,province,2024,SMK/MAK,Negeri dan Swasta,675,0,0,3526,3526,4201,4201,5055,5055,9256.0
+Banten,36,province,2024,SMK/MAK,Negeri,61,0,0,0,0,61,61,1120,1120,1181.0
+Banten,36,province,2024,SMK/MAK,Swasta,0,0,0,1722,1722,1722,1722,686,686,2408.0
+Banten,36,province,2024,SMK/MAK,Negeri dan Swasta,61,0,0,1722,1722,1783,1783,1806,1806,3589.0
+Bali,51,province,2024,SMK/MAK,Negeri,199,0,0,0,0,199,199,785,785,984.0
+Bali,51,province,2024,SMK/MAK,Swasta,0,0,0,310,310,310,310,137,137,447.0
+Bali,51,province,2024,SMK/MAK,Negeri dan Swasta,199,0,0,310,310,509,509,922,922,1431.0
+Nusa Tenggara Barat,52,province,2024,SMK/MAK,Negeri,236,0,0,0,0,236,236,984,984,1220.0
+Nusa Tenggara Barat,52,province,2024,SMK/MAK,Swasta,0,0,0,156,156,156,156,22,22,178.0
+Nusa Tenggara Barat,52,province,2024,SMK/MAK,Negeri dan Swasta,236,0,0,156,156,392,392,1006,1006,1398.0
+Nusa Tenggara Timur,53,province,2024,SMK/MAK,Negeri,120,0,0,0,0,120,120,559,559,679.0
+Nusa Tenggara Timur,53,province,2024,SMK/MAK,Swasta,1,0,0,225,225,226,226,91,91,317.0
+Nusa Tenggara Timur,53,province,2024,SMK/MAK,Negeri dan Swasta,121,0,0,225,225,346,346,650,650,996.0
+Kalimantan Barat,61,province,2024,SMK/MAK,Negeri,105,0,0,0,0,105,105,378,378,483.0
+Kalimantan Barat,61,province,2024,SMK/MAK,Swasta,0,0,0,98,98,98,98,96,96,194.0
+Kalimantan Barat,61,province,2024,SMK/MAK,Negeri dan Swasta,105,0,0,98,98,203,203,474,474,677.0
+Kalimantan Tengah,62,province,2024,SMK/MAK,Negeri,66,0,0,0,0,66,66,190,190,256.0
+Kalimantan Tengah,62,province,2024,SMK/MAK,Swasta,0,0,0,30,30,30,30,27,27,57.0
+Kalimantan Tengah,62,province,2024,SMK/MAK,Negeri dan Swasta,66,0,0,30,30,96,96,217,217,313.0
+Kalimantan Selatan,63,province,2024,SMK/MAK,Negeri,162,0,0,0,0,162,162,687,687,849.0
+Kalimantan Selatan,63,province,2024,SMK/MAK,Swasta,0,0,0,136,136,136,136,109,109,245.0
+Kalimantan Selatan,63,province,2024,SMK/MAK,Negeri dan Swasta,162,0,0,136,136,298,298,796,796,1094.0
+Kalimantan Timur,64,province,2024,SMK/MAK,Negeri,110,0,0,1,1,111,111,674,674,785.0
+Kalimantan Timur,64,province,2024,SMK/MAK,Swasta,0,0,0,349,349,349,349,133,133,482.0
+Kalimantan Timur,64,province,2024,SMK/MAK,Negeri dan Swasta,110,0,0,350,350,460,460,807,807,1267.0
+Kalimantan Utara,65,province,2024,SMK/MAK,Negeri,26,0,0,0,0,26,26,139,139,165.0
+Kalimantan Utara,65,province,2024,SMK/MAK,Swasta,0,0,0,14,14,14,14,6,6,20.0
+Kalimantan Utara,65,province,2024,SMK/MAK,Negeri dan Swasta,26,0,0,14,14,40,40,145,145,185.0
+Sulawesi Utara,71,province,2024,SMK/MAK,Negeri,63,0,0,0,0,63,63,311,311,374.0
+Sulawesi Utara,71,province,2024,SMK/MAK,Swasta,5,0,0,68,68,73,73,34,34,107.0
+Sulawesi Utara,71,province,2024,SMK/MAK,Negeri dan Swasta,68,0,0,68,68,136,136,345,345,481.0
+Sulawesi Tengah,72,province,2024,SMK/MAK,Negeri,107,0,0,0,0,107,107,390,390,497.0
+Sulawesi Tengah,72,province,2024,SMK/MAK,Swasta,4,0,0,123,123,127,127,82,82,209.0
+Sulawesi Tengah,72,province,2024,SMK/MAK,Negeri dan Swasta,111,0,0,123,123,234,234,472,472,706.0
+Sulawesi Selatan,73,province,2024,SMK/MAK,Negeri,228,0,0,0,0,228,228,840,840,1068.0
+Sulawesi Selatan,73,province,2024,SMK/MAK,Swasta,0,0,0,318,318,318,318,74,74,392.0
+Sulawesi Selatan,73,province,2024,SMK/MAK,Negeri dan Swasta,228,0,0,318,318,546,546,914,914,1460.0
+Sulawesi Tenggara,74,province,2024,SMK/MAK,Negeri,73,0,0,0,0,73,73,393,393,466.0
+Sulawesi Tenggara,74,province,2024,SMK/MAK,Swasta,0,0,0,62,62,62,62,15,15,77.0
+Sulawesi Tenggara,74,province,2024,SMK/MAK,Negeri dan Swasta,73,0,0,62,62,135,135,408,408,543.0
+Gorontalo,75,province,2024,SMK/MAK,Negeri,59,0,0,0,0,59,59,161,161,220.0
+Gorontalo,75,province,2024,SMK/MAK,Swasta,0,0,0,15,15,15,15,38,38,53.0
+Gorontalo,75,province,2024,SMK/MAK,Negeri dan Swasta,59,0,0,15,15,74,74,199,199,273.0
+Sulawesi Barat,76,province,2024,SMK/MAK,Negeri,85,0,0,0,0,85,85,480,480,565.0
+Sulawesi Barat,76,province,2024,SMK/MAK,Swasta,0,0,0,111,111,111,111,28,28,139.0
+Sulawesi Barat,76,province,2024,SMK/MAK,Negeri dan Swasta,85,0,0,111,111,196,196,508,508,704.0
+Maluku,81,province,2024,SMK/MAK,Negeri,143,0,0,0,0,143,143,181,181,324.0
+Maluku,81,province,2024,SMK/MAK,Swasta,4,0,0,36,36,40,40,14,14,54.0
+Maluku,81,province,2024,SMK/MAK,Negeri dan Swasta,147,0,0,36,36,183,183,195,195,378.0
+Maluku Utara,82,province,2024,SMK/MAK,Negeri,84,0,0,0,0,84,84,104,104,188.0
+Maluku Utara,82,province,2024,SMK/MAK,Swasta,8,0,0,16,16,24,24,54,54,78.0
+Maluku Utara,82,province,2024,SMK/MAK,Negeri dan Swasta,92,0,0,16,16,108,108,158,158,266.0
+Papua,91,province,2024,SMK/MAK,Negeri,86,0,0,0,0,86,86,67,67,153.0
+Papua,91,province,2024,SMK/MAK,Swasta,11,0,0,16,16,27,27,22,22,49.0
+Papua,91,province,2024,SMK/MAK,Negeri dan Swasta,97,0,0,16,16,113,113,89,89,202.0
+Papua Barat,92,province,2024,SMK/MAK,Negeri,14,0,0,0,0,14,14,29,29,43.0
+Papua Barat,92,province,2024,SMK/MAK,Swasta,2,0,0,2,2,4,4,5,5,9.0
+Papua Barat,92,province,2024,SMK/MAK,Negeri dan Swasta,16,0,0,2,2,18,18,34,34,52.0
+Papua Selatan,93,province,2024,SMK/MAK,Negeri,15,0,0,0,0,15,15,35,35,50.0
+Papua Selatan,93,province,2024,SMK/MAK,Swasta,0,0,0,0,0,0,0,7,7,7.0
+Papua Selatan,93,province,2024,SMK/MAK,Negeri dan Swasta,15,0,0,0,0,15,15,42,42,57.0
+Papua Tengah,94,province,2024,SMK/MAK,Negeri,11,0,0,0,0,11,11,25,25,36.0
+Papua Tengah,94,province,2024,SMK/MAK,Swasta,7,0,0,34,34,41,41,16,16,57.0
+Papua Tengah,94,province,2024,SMK/MAK,Negeri dan Swasta,18,0,0,34,34,52,52,41,41,93.0
+Papua Pegunungan,95,province,2024,SMK/MAK,Negeri,0,0,0,0,0,0,0,2,2,2.0
+Papua Pegunungan,95,province,2024,SMK/MAK,Swasta,6,0,0,1,1,7,7,2,2,9.0
+Papua Pegunungan,95,province,2024,SMK/MAK,Negeri dan Swasta,6,0,0,1,1,7,7,4,4,11.0
+Papua Barat Daya,96,province,2024,SMK/MAK,Negeri,10,0,0,0,0,10,10,41,41,51.0
+Papua Barat Daya,96,province,2024,SMK/MAK,Swasta,2,0,0,9,9,11,11,25,25,36.0
+Papua Barat Daya,96,province,2024,SMK/MAK,Negeri dan Swasta,12,0,0,9,9,21,21,66,66,87.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMK/MAK,Negeri,0,0,0,0,0,0,0,1,1,1.0
+Sekolah Indonesia Luar Negeri,,special,2024,SMK/MAK,Swasta,0,0,0,0,0,0,0,0,0,
+Sekolah Indonesia Luar Negeri,,special,2024,SMK/MAK,Negeri dan Swasta,0,0,0,0,0,1,1,1,1,
+Aceh,11,province,2023,SMK/MAK,Negeri,429,0,0,0,0,429,429,960,960,1389.0
+Aceh,11,province,2023,SMK/MAK,Swasta,6,0,0,55,55,61,61,100,100,161.0
+Aceh,11,province,2023,SMK/MAK,Negeri dan Swasta,435,0,0,55,55,490,490,1060,1060,1550.0
+Sumatera Utara,12,province,2023,SMK/MAK,Negeri,173,0,0,0,0,173,173,1035,1035,1208.0
+Sumatera Utara,12,province,2023,SMK/MAK,Swasta,0,0,0,889,889,889,889,236,236,1125.0
+Sumatera Utara,12,province,2023,SMK/MAK,Negeri dan Swasta,173,0,0,889,889,1062,1062,1271,1271,2333.0
+Sumatera Barat,13,province,2023,SMK/MAK,Negeri,222,0,0,0,0,222,222,840,840,1062.0
+Sumatera Barat,13,province,2023,SMK/MAK,Swasta,0,0,0,188,188,188,188,44,44,232.0
+Sumatera Barat,13,province,2023,SMK/MAK,Negeri dan Swasta,222,0,0,188,188,410,410,884,884,1294.0
+Riau,14,province,2023,SMK/MAK,Negeri,109,0,0,0,0,109,109,812,812,921.0
+Riau,14,province,2023,SMK/MAK,Swasta,0,0,0,323,323,323,323,91,91,414.0
+Riau,14,province,2023,SMK/MAK,Negeri dan Swasta,109,0,0,323,323,432,432,903,903,1335.0
+Jambi,15,province,2023,SMK/MAK,Negeri,114,0,0,0,0,114,114,682,682,796.0
+Jambi,15,province,2023,SMK/MAK,Swasta,0,0,0,115,115,115,115,35,35,150.0
+Jambi,15,province,2023,SMK/MAK,Negeri dan Swasta,114,0,0,115,115,229,229,717,717,946.0
+Sumatera Selatan,16,province,2023,SMK/MAK,Negeri,133,0,0,0,0,133,133,1091,1091,1224.0
+Sumatera Selatan,16,province,2023,SMK/MAK,Swasta,0,0,0,211,211,211,211,341,341,552.0
+Sumatera Selatan,16,province,2023,SMK/MAK,Negeri dan Swasta,133,0,0,211,211,344,344,1432,1432,1776.0
+Bengkulu,17,province,2023,SMK/MAK,Negeri,86,0,0,0,0,86,86,441,441,527.0
+Bengkulu,17,province,2023,SMK/MAK,Swasta,2,0,0,54,54,56,56,26,26,82.0
+Bengkulu,17,province,2023,SMK/MAK,Negeri dan Swasta,88,0,0,54,54,142,142,467,467,609.0
+Lampung,18,province,2023,SMK/MAK,Negeri,202,0,0,0,0,202,202,915,915,1117.0
+Lampung,18,province,2023,SMK/MAK,Swasta,0,0,0,710,710,710,710,249,249,959.0
+Lampung,18,province,2023,SMK/MAK,Negeri dan Swasta,202,0,0,710,710,912,912,1164,1164,2076.0
+Kepulauan Bangka Belitung,19,province,2023,SMK/MAK,Negeri,65,0,0,0,0,65,65,282,282,347.0
+Kepulauan Bangka Belitung,19,province,2023,SMK/MAK,Swasta,0,0,0,37,37,37,37,68,68,105.0
+Kepulauan Bangka Belitung,19,province,2023,SMK/MAK,Negeri dan Swasta,65,0,0,37,37,102,102,350,350,452.0
+Kepulauan Riau,21,province,2023,SMK/MAK,Negeri,37,0,0,0,0,37,37,410,410,447.0
+Kepulauan Riau,21,province,2023,SMK/MAK,Swasta,0,0,0,85,85,85,85,35,35,120.0
+Kepulauan Riau,21,province,2023,SMK/MAK,Negeri dan Swasta,37,0,0,85,85,122,122,445,445,567.0
+D.K.I. Jakarta,31,province,2023,SMK/MAK,Negeri,139,0,0,0,0,139,139,563,563,702.0
+D.K.I. Jakarta,31,province,2023,SMK/MAK,Swasta,1,0,0,903,903,904,904,777,777,1681.0
+D.K.I. Jakarta,31,province,2023,SMK/MAK,Negeri dan Swasta,140,0,0,903,903,1043,1043,1340,1340,2383.0
+Jawa Barat,32,province,2023,SMK/MAK,Negeri,511,0,0,0,0,511,511,4419,4419,4930.0
+Jawa Barat,32,province,2023,SMK/MAK,Swasta,0,0,0,4989,4989,4989,4989,2595,2595,7584.0
+Jawa Barat,32,province,2023,SMK/MAK,Negeri dan Swasta,511,0,0,4989,4989,5500,5500,7014,7014,12514.0
+Jawa Tengah,33,province,2023,SMK/MAK,Negeri,500,0,0,0,0,500,500,2858,2858,3358.0
+Jawa Tengah,33,province,2023,SMK/MAK,Swasta,0,0,0,4176,4176,4176,4176,2025,2025,6201.0
+Jawa Tengah,33,province,2023,SMK/MAK,Negeri dan Swasta,500,0,0,4176,4176,4676,4676,4883,4883,9559.0
+D.I. Yogyakarta,34,province,2023,SMK/MAK,Negeri,300,0,0,0,0,300,300,591,591,891.0
+D.I. Yogyakarta,34,province,2023,SMK/MAK,Swasta,0,0,0,515,515,515,515,310,310,825.0
+D.I. Yogyakarta,34,province,2023,SMK/MAK,Negeri dan Swasta,300,0,0,515,515,815,815,901,901,1716.0
+Jawa Timur,35,province,2023,SMK/MAK,Negeri,726,0,0,0,0,726,726,4285,4285,5011.0
+Jawa Timur,35,province,2023,SMK/MAK,Swasta,2,0,0,3591,3591,3593,3593,850,850,4443.0
+Jawa Timur,35,province,2023,SMK/MAK,Negeri dan Swasta,728,0,0,3591,3591,4319,4319,5135,5135,9454.0
+Banten,36,province,2023,SMK/MAK,Negeri,69,0,0,0,0,69,69,1105,1105,1174.0
+Banten,36,province,2023,SMK/MAK,Swasta,0,0,0,1547,1547,1547,1547,693,693,2240.0
+Banten,36,province,2023,SMK/MAK,Negeri dan Swasta,69,0,0,1547,1547,1616,1616,1798,1798,3414.0
+Bali,51,province,2023,SMK/MAK,Negeri,209,0,0,0,0,209,209,797,797,1006.0
+Bali,51,province,2023,SMK/MAK,Swasta,0,0,0,306,306,306,306,140,140,446.0
+Bali,51,province,2023,SMK/MAK,Negeri dan Swasta,209,0,0,306,306,515,515,937,937,1452.0
+Nusa Tenggara Barat,52,province,2023,SMK/MAK,Negeri,250,0,0,0,0,250,250,961,961,1211.0
+Nusa Tenggara Barat,52,province,2023,SMK/MAK,Swasta,0,0,0,160,160,160,160,17,17,177.0
+Nusa Tenggara Barat,52,province,2023,SMK/MAK,Negeri dan Swasta,250,0,0,160,160,410,410,978,978,1388.0
+Nusa Tenggara Timur,53,province,2023,SMK/MAK,Negeri,125,0,0,0,0,125,125,531,531,656.0
+Nusa Tenggara Timur,53,province,2023,SMK/MAK,Swasta,0,0,0,207,207,207,207,78,78,285.0
+Nusa Tenggara Timur,53,province,2023,SMK/MAK,Negeri dan Swasta,125,0,0,207,207,332,332,609,609,941.0
+Kalimantan Barat,61,province,2023,SMK/MAK,Negeri,100,0,0,0,0,100,100,333,333,433.0
+Kalimantan Barat,61,province,2023,SMK/MAK,Swasta,0,0,0,102,102,102,102,81,81,183.0
+Kalimantan Barat,61,province,2023,SMK/MAK,Negeri dan Swasta,100,0,0,102,102,202,202,414,414,616.0
+Kalimantan Tengah,62,province,2023,SMK/MAK,Negeri,69,0,0,0,0,69,69,179,179,248.0
+Kalimantan Tengah,62,province,2023,SMK/MAK,Swasta,0,0,0,27,27,27,27,26,26,53.0
+Kalimantan Tengah,62,province,2023,SMK/MAK,Negeri dan Swasta,69,0,0,27,27,96,96,205,205,301.0
+Kalimantan Selatan,63,province,2023,SMK/MAK,Negeri,163,0,0,0,0,163,163,634,634,797.0
+Kalimantan Selatan,63,province,2023,SMK/MAK,Swasta,0,0,0,139,139,139,139,112,112,251.0
+Kalimantan Selatan,63,province,2023,SMK/MAK,Negeri dan Swasta,163,0,0,139,139,302,302,746,746,1048.0
+Kalimantan Timur,64,province,2023,SMK/MAK,Negeri,120,0,0,0,0,120,120,646,646,766.0
+Kalimantan Timur,64,province,2023,SMK/MAK,Swasta,0,0,0,343,343,343,343,134,134,477.0
+Kalimantan Timur,64,province,2023,SMK/MAK,Negeri dan Swasta,120,0,0,343,343,463,463,780,780,1243.0
+Kalimantan Utara,65,province,2023,SMK/MAK,Negeri,28,0,0,0,0,28,28,133,133,161.0
+Kalimantan Utara,65,province,2023,SMK/MAK,Swasta,0,0,0,13,13,13,13,8,8,21.0
+Kalimantan Utara,65,province,2023,SMK/MAK,Negeri dan Swasta,28,0,0,13,13,41,41,141,141,182.0
+Sulawesi Utara,71,province,2023,SMK/MAK,Negeri,69,0,0,0,0,69,69,295,295,364.0
+Sulawesi Utara,71,province,2023,SMK/MAK,Swasta,5,0,0,71,71,76,76,37,37,113.0
+Sulawesi Utara,71,province,2023,SMK/MAK,Negeri dan Swasta,74,0,0,71,71,145,145,332,332,477.0
+Sulawesi Tengah,72,province,2023,SMK/MAK,Negeri,109,0,0,0,0,109,109,307,307,416.0
+Sulawesi Tengah,72,province,2023,SMK/MAK,Swasta,3,0,0,84,84,87,87,56,56,143.0
+Sulawesi Tengah,72,province,2023,SMK/MAK,Negeri dan Swasta,112,0,0,84,84,196,196,363,363,559.0
+Sulawesi Selatan,73,province,2023,SMK/MAK,Negeri,254,0,0,0,0,254,254,807,807,1061.0
+Sulawesi Selatan,73,province,2023,SMK/MAK,Swasta,2,0,0,345,345,347,347,83,83,430.0
+Sulawesi Selatan,73,province,2023,SMK/MAK,Negeri dan Swasta,256,0,0,345,345,601,601,890,890,1491.0
+Sulawesi Tenggara,74,province,2023,SMK/MAK,Negeri,88,0,0,0,0,88,88,215,215,303.0
+Sulawesi Tenggara,74,province,2023,SMK/MAK,Swasta,1,0,0,41,41,42,42,9,9,51.0
+Sulawesi Tenggara,74,province,2023,SMK/MAK,Negeri dan Swasta,89,0,0,41,41,130,130,224,224,354.0
+Gorontalo,75,province,2023,SMK/MAK,Negeri,61,0,0,0,0,61,61,166,166,227.0
+Gorontalo,75,province,2023,SMK/MAK,Swasta,0,0,0,12,12,12,12,39,39,51.0
+Gorontalo,75,province,2023,SMK/MAK,Negeri dan Swasta,61,0,0,12,12,73,73,205,205,278.0
+Sulawesi Barat,76,province,2023,SMK/MAK,Negeri,91,0,0,0,0,91,91,488,488,579.0
+Sulawesi Barat,76,province,2023,SMK/MAK,Swasta,0,0,0,115,115,115,115,32,32,147.0
+Sulawesi Barat,76,province,2023,SMK/MAK,Negeri dan Swasta,91,0,0,115,115,206,206,520,520,726.0
+Maluku,81,province,2023,SMK/MAK,Negeri,144,0,0,0,0,144,144,162,162,306.0
+Maluku,81,province,2023,SMK/MAK,Swasta,4,0,0,27,27,31,31,14,14,45.0
+Maluku,81,province,2023,SMK/MAK,Negeri dan Swasta,148,0,0,27,27,175,175,176,176,351.0
+Maluku Utara,82,province,2023,SMK/MAK,Negeri,85,0,0,0,0,85,85,70,70,155.0
+Maluku Utara,82,province,2023,SMK/MAK,Swasta,8,0,0,20,20,28,28,34,34,62.0
+Maluku Utara,82,province,2023,SMK/MAK,Negeri dan Swasta,93,0,0,20,20,113,113,104,104,217.0
+Papua,91,province,2023,SMK/MAK,Negeri,91,0,0,0,0,91,91,62,62,153.0
+Papua,91,province,2023,SMK/MAK,Swasta,10,0,0,14,14,24,24,26,26,50.0
+Papua,91,province,2023,SMK/MAK,Negeri dan Swasta,101,0,0,14,14,115,115,88,88,203.0
+Papua Barat,92,province,2023,SMK/MAK,Negeri,13,0,0,0,0,13,13,26,26,39.0
+Papua Barat,92,province,2023,SMK/MAK,Swasta,3,0,0,4,4,7,7,7,7,14.0
+Papua Barat,92,province,2023,SMK/MAK,Negeri dan Swasta,16,0,0,4,4,20,20,33,33,53.0
+Papua Selatan,93,province,2023,SMK/MAK,Negeri,14,0,0,0,0,14,14,24,24,38.0
+Papua Selatan,93,province,2023,SMK/MAK,Swasta,0,0,0,1,1,1,1,9,9,10.0
+Papua Selatan,93,province,2023,SMK/MAK,Negeri dan Swasta,14,0,0,1,1,15,15,33,33,48.0
+Papua Tengah,94,province,2023,SMK/MAK,Negeri,12,0,0,0,0,12,12,18,18,30.0
+Papua Tengah,94,province,2023,SMK/MAK,Swasta,8,0,0,36,36,44,44,19,19,63.0
+Papua Tengah,94,province,2023,SMK/MAK,Negeri dan Swasta,20,0,0,36,36,56,56,37,37,93.0
+Papua Pegunungan,95,province,2023,SMK/MAK,Negeri,0,0,0,0,0,0,0,1,1,1.0
+Papua Pegunungan,95,province,2023,SMK/MAK,Swasta,6,0,0,2,2,8,8,3,3,11.0
+Papua Pegunungan,95,province,2023,SMK/MAK,Negeri dan Swasta,6,0,0,2,2,8,8,4,4,12.0
+Papua Barat Daya,96,province,2023,SMK/MAK,Negeri,10,0,0,0,0,10,10,34,34,44.0
+Papua Barat Daya,96,province,2023,SMK/MAK,Swasta,2,0,0,10,10,12,12,21,21,33.0
+Papua Barat Daya,96,province,2023,SMK/MAK,Negeri dan Swasta,12,0,0,10,10,22,22,55,55,77.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMK/MAK,Negeri,0,0,0,0,0,0,0,1,1,1.0
+Sekolah Indonesia Luar Negeri,,special,2023,SMK/MAK,Swasta,0,0,0,0,0,0,0,0,0,
+Sekolah Indonesia Luar Negeri,,special,2023,SMK/MAK,Negeri dan Swasta,0,0,0,0,0,1,1,1,1,
+Aceh,11,province,2022,SMK/MAK,Negeri,416,0,0,0,0,416,416,969,969,1385.0
+Aceh,11,province,2022,SMK/MAK,Swasta,6,0,0,48,48,54,54,109,109,163.0
+Aceh,11,province,2022,SMK/MAK,Negeri dan Swasta,422,0,0,48,48,470,470,1078,1078,1548.0
+Sumatera Utara,12,province,2022,SMK/MAK,Negeri,191,0,0,0,0,191,191,951,951,1142.0
+Sumatera Utara,12,province,2022,SMK/MAK,Swasta,0,0,0,891,891,891,891,236,236,1127.0
+Sumatera Utara,12,province,2022,SMK/MAK,Negeri dan Swasta,191,0,0,891,891,1082,1082,1187,1187,2269.0
+Sumatera Barat,13,province,2022,SMK/MAK,Negeri,250,0,0,0,0,250,250,821,821,1071.0
+Sumatera Barat,13,province,2022,SMK/MAK,Swasta,0,0,0,190,190,190,190,47,47,237.0
+Sumatera Barat,13,province,2022,SMK/MAK,Negeri dan Swasta,250,0,0,190,190,440,440,868,868,1308.0
+Riau,14,province,2022,SMK/MAK,Negeri,124,0,0,0,0,124,124,765,765,889.0
+Riau,14,province,2022,SMK/MAK,Swasta,0,0,0,326,326,326,326,105,105,431.0
+Riau,14,province,2022,SMK/MAK,Negeri dan Swasta,124,0,0,326,326,450,450,870,870,1320.0
+Jambi,15,province,2022,SMK/MAK,Negeri,122,0,0,0,0,122,122,644,644,766.0
+Jambi,15,province,2022,SMK/MAK,Swasta,0,0,0,134,134,134,134,36,36,170.0
+Jambi,15,province,2022,SMK/MAK,Negeri dan Swasta,122,0,0,134,134,256,256,680,680,936.0
+Sumatera Selatan,16,province,2022,SMK/MAK,Negeri,145,0,0,0,0,145,145,1016,1016,1161.0
+Sumatera Selatan,16,province,2022,SMK/MAK,Swasta,0,0,0,210,210,210,210,333,333,543.0
+Sumatera Selatan,16,province,2022,SMK/MAK,Negeri dan Swasta,145,0,0,210,210,355,355,1349,1349,1704.0
+Bengkulu,17,province,2022,SMK/MAK,Negeri,88,0,0,0,0,88,88,431,431,519.0
+Bengkulu,17,province,2022,SMK/MAK,Swasta,2,0,0,61,61,63,63,27,27,90.0
+Bengkulu,17,province,2022,SMK/MAK,Negeri dan Swasta,90,0,0,61,61,151,151,458,458,609.0
+Lampung,18,province,2022,SMK/MAK,Negeri,213,0,0,0,0,213,213,827,827,1040.0
+Lampung,18,province,2022,SMK/MAK,Swasta,0,0,0,653,653,653,653,266,266,919.0
+Lampung,18,province,2022,SMK/MAK,Negeri dan Swasta,213,0,0,653,653,866,866,1093,1093,1959.0
+Kepulauan Bangka Belitung,19,province,2022,SMK/MAK,Negeri,68,0,0,0,0,68,68,284,284,352.0
+Kepulauan Bangka Belitung,19,province,2022,SMK/MAK,Swasta,0,0,0,41,41,41,41,67,67,108.0
+Kepulauan Bangka Belitung,19,province,2022,SMK/MAK,Negeri dan Swasta,68,0,0,41,41,109,109,351,351,460.0
+Kepulauan Riau,21,province,2022,SMK/MAK,Negeri,40,0,0,0,0,40,40,390,390,430.0
+Kepulauan Riau,21,province,2022,SMK/MAK,Swasta,0,0,0,81,81,81,81,41,41,122.0
+Kepulauan Riau,21,province,2022,SMK/MAK,Negeri dan Swasta,40,0,0,81,81,121,121,431,431,552.0
+D.K.I. Jakarta,31,province,2022,SMK/MAK,Negeri,135,0,0,0,0,135,135,576,576,711.0
+D.K.I. Jakarta,31,province,2022,SMK/MAK,Swasta,1,0,0,967,967,968,968,791,791,1759.0
+D.K.I. Jakarta,31,province,2022,SMK/MAK,Negeri dan Swasta,136,0,0,967,967,1103,1103,1367,1367,2470.0
+Jawa Barat,32,province,2022,SMK/MAK,Negeri,588,0,0,0,0,588,588,4175,4175,4763.0
+Jawa Barat,32,province,2022,SMK/MAK,Swasta,1,0,0,4944,4944,4945,4945,2679,2679,7624.0
+Jawa Barat,32,province,2022,SMK/MAK,Negeri dan Swasta,589,0,0,4944,4944,5533,5533,6854,6854,12387.0
+Jawa Tengah,33,province,2022,SMK/MAK,Negeri,579,0,0,0,0,579,579,2887,2887,3466.0
+Jawa Tengah,33,province,2022,SMK/MAK,Swasta,0,0,0,4242,4242,4242,4242,1936,1936,6178.0
+Jawa Tengah,33,province,2022,SMK/MAK,Negeri dan Swasta,579,0,0,4242,4242,4821,4821,4823,4823,9644.0
+D.I. Yogyakarta,34,province,2022,SMK/MAK,Negeri,315,0,0,0,0,315,315,598,598,913.0
+D.I. Yogyakarta,34,province,2022,SMK/MAK,Swasta,0,0,0,521,521,521,521,328,328,849.0
+D.I. Yogyakarta,34,province,2022,SMK/MAK,Negeri dan Swasta,315,0,0,521,521,836,836,926,926,1762.0
+Jawa Timur,35,province,2022,SMK/MAK,Negeri,790,0,0,0,0,790,790,3802,3802,4592.0
+Jawa Timur,35,province,2022,SMK/MAK,Swasta,5,0,0,3570,3570,3575,3575,895,895,4470.0
+Jawa Timur,35,province,2022,SMK/MAK,Negeri dan Swasta,795,0,0,3570,3570,4365,4365,4697,4697,9062.0
+Banten,36,province,2022,SMK/MAK,Negeri,78,0,0,0,0,78,78,1065,1065,1143.0
+Banten,36,province,2022,SMK/MAK,Swasta,0,0,0,1383,1383,1383,1383,674,674,2057.0
+Banten,36,province,2022,SMK/MAK,Negeri dan Swasta,78,0,0,1383,1383,1461,1461,1739,1739,3200.0
+Bali,51,province,2022,SMK/MAK,Negeri,231,0,0,0,0,231,231,778,778,1009.0
+Bali,51,province,2022,SMK/MAK,Swasta,0,0,0,311,311,311,311,150,150,461.0
+Bali,51,province,2022,SMK/MAK,Negeri dan Swasta,231,0,0,311,311,542,542,928,928,1470.0
+Nusa Tenggara Barat,52,province,2022,SMK/MAK,Negeri,271,0,0,0,0,271,271,770,770,1041.0
+Nusa Tenggara Barat,52,province,2022,SMK/MAK,Swasta,0,0,0,165,165,165,165,18,18,183.0
+Nusa Tenggara Barat,52,province,2022,SMK/MAK,Negeri dan Swasta,271,0,0,165,165,436,436,788,788,1224.0
+Nusa Tenggara Timur,53,province,2022,SMK/MAK,Negeri,136,0,0,0,0,136,136,469,469,605.0
+Nusa Tenggara Timur,53,province,2022,SMK/MAK,Swasta,0,0,0,188,188,188,188,87,87,275.0
+Nusa Tenggara Timur,53,province,2022,SMK/MAK,Negeri dan Swasta,136,0,0,188,188,324,324,556,556,880.0
+Kalimantan Barat,61,province,2022,SMK/MAK,Negeri,121,0,0,0,0,121,121,275,275,396.0
+Kalimantan Barat,61,province,2022,SMK/MAK,Swasta,0,0,0,103,103,103,103,84,84,187.0
+Kalimantan Barat,61,province,2022,SMK/MAK,Negeri dan Swasta,121,0,0,103,103,224,224,359,359,583.0
+Kalimantan Tengah,62,province,2022,SMK/MAK,Negeri,80,0,0,0,0,80,80,176,176,256.0
+Kalimantan Tengah,62,province,2022,SMK/MAK,Swasta,0,0,0,26,26,26,26,31,31,57.0
+Kalimantan Tengah,62,province,2022,SMK/MAK,Negeri dan Swasta,80,0,0,26,26,106,106,207,207,313.0
+Kalimantan Selatan,63,province,2022,SMK/MAK,Negeri,154,0,0,0,0,154,154,581,581,735.0
+Kalimantan Selatan,63,province,2022,SMK/MAK,Swasta,0,0,0,136,136,136,136,111,111,247.0
+Kalimantan Selatan,63,province,2022,SMK/MAK,Negeri dan Swasta,154,0,0,136,136,290,290,692,692,982.0
+Kalimantan Timur,64,province,2022,SMK/MAK,Negeri,138,0,0,0,0,138,138,588,588,726.0
+Kalimantan Timur,64,province,2022,SMK/MAK,Swasta,0,0,0,329,329,329,329,109,109,438.0
+Kalimantan Timur,64,province,2022,SMK/MAK,Negeri dan Swasta,138,0,0,329,329,467,467,697,697,1164.0
+Kalimantan Utara,65,province,2022,SMK/MAK,Negeri,29,0,0,0,0,29,29,125,125,154.0
+Kalimantan Utara,65,province,2022,SMK/MAK,Swasta,0,0,0,13,13,13,13,5,5,18.0
+Kalimantan Utara,65,province,2022,SMK/MAK,Negeri dan Swasta,29,0,0,13,13,42,42,130,130,172.0
+Sulawesi Utara,71,province,2022,SMK/MAK,Negeri,86,0,0,0,0,86,86,296,296,382.0
+Sulawesi Utara,71,province,2022,SMK/MAK,Swasta,6,0,0,75,75,81,81,36,36,117.0
+Sulawesi Utara,71,province,2022,SMK/MAK,Negeri dan Swasta,92,0,0,75,75,167,167,332,332,499.0
+Sulawesi Tengah,72,province,2022,SMK/MAK,Negeri,121,0,0,0,0,121,121,328,328,449.0
+Sulawesi Tengah,72,province,2022,SMK/MAK,Swasta,5,0,0,86,86,91,91,63,63,154.0
+Sulawesi Tengah,72,province,2022,SMK/MAK,Negeri dan Swasta,126,0,0,86,86,212,212,391,391,603.0
+Sulawesi Selatan,73,province,2022,SMK/MAK,Negeri,290,0,0,0,0,290,290,835,835,1125.0
+Sulawesi Selatan,73,province,2022,SMK/MAK,Swasta,3,0,0,351,351,354,354,91,91,445.0
+Sulawesi Selatan,73,province,2022,SMK/MAK,Negeri dan Swasta,293,0,0,351,351,644,644,926,926,1570.0
+Sulawesi Tenggara,74,province,2022,SMK/MAK,Negeri,95,0,0,0,0,95,95,112,112,207.0
+Sulawesi Tenggara,74,province,2022,SMK/MAK,Swasta,2,0,0,36,36,38,38,9,9,47.0
+Sulawesi Tenggara,74,province,2022,SMK/MAK,Negeri dan Swasta,97,0,0,36,36,133,133,121,121,254.0
+Gorontalo,75,province,2022,SMK/MAK,Negeri,64,0,0,0,0,64,64,167,167,231.0
+Gorontalo,75,province,2022,SMK/MAK,Swasta,0,0,0,23,23,23,23,40,40,63.0
+Gorontalo,75,province,2022,SMK/MAK,Negeri dan Swasta,64,0,0,23,23,87,87,207,207,294.0
+Sulawesi Barat,76,province,2022,SMK/MAK,Negeri,94,0,0,0,0,94,94,526,526,620.0
+Sulawesi Barat,76,province,2022,SMK/MAK,Swasta,0,0,0,107,107,107,107,31,31,138.0
+Sulawesi Barat,76,province,2022,SMK/MAK,Negeri dan Swasta,94,0,0,107,107,201,201,557,557,758.0
+Maluku,81,province,2022,SMK/MAK,Negeri,152,0,0,0,0,152,152,152,152,304.0
+Maluku,81,province,2022,SMK/MAK,Swasta,4,0,0,30,30,34,34,16,16,50.0
+Maluku,81,province,2022,SMK/MAK,Negeri dan Swasta,156,0,0,30,30,186,186,168,168,354.0
+Maluku Utara,82,province,2022,SMK/MAK,Negeri,79,0,0,0,0,79,79,69,69,148.0
+Maluku Utara,82,province,2022,SMK/MAK,Swasta,8,0,0,15,15,23,23,34,34,57.0
+Maluku Utara,82,province,2022,SMK/MAK,Negeri dan Swasta,87,0,0,15,15,102,102,103,103,205.0
+Papua,91,province,2022,SMK/MAK,Negeri,128,0,0,0,0,128,128,117,117,245.0
+Papua,91,province,2022,SMK/MAK,Swasta,24,0,0,59,59,83,83,61,61,144.0
+Papua,91,province,2022,SMK/MAK,Negeri dan Swasta,152,0,0,59,59,211,211,178,178,389.0
+Papua Barat,92,province,2022,SMK/MAK,Negeri,24,0,0,0,0,24,24,52,52,76.0
+Papua Barat,92,province,2022,SMK/MAK,Swasta,5,0,0,7,7,12,12,32,32,44.0
+Papua Barat,92,province,2022,SMK/MAK,Negeri dan Swasta,29,0,0,7,7,36,36,84,84,120.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMK/MAK,Negeri,0,0,0,0,0,0,0,1,1,1.0
+Sekolah Indonesia Luar Negeri,,special,2022,SMK/MAK,Swasta,0,0,0,0,0,0,0,0,0,
+Sekolah Indonesia Luar Negeri,,special,2022,SMK/MAK,Negeri dan Swasta,0,0,0,0,0,1,1,1,1,
+Aceh,11,province,2021,SMK/MAK,Negeri,421,0,0,0,0,421,421,909,909,1330.0
+Aceh,11,province,2021,SMK/MAK,Swasta,6,0,0,45,45,51,51,109,109,160.0
+Aceh,11,province,2021,SMK/MAK,Negeri dan Swasta,427,0,0,45,45,472,472,1018,1018,1490.0
+Sumatera Utara,12,province,2021,SMK/MAK,Negeri,211,0,0,0,0,211,211,889,889,1100.0
+Sumatera Utara,12,province,2021,SMK/MAK,Swasta,0,0,0,909,909,909,909,261,261,1170.0
+Sumatera Utara,12,province,2021,SMK/MAK,Negeri dan Swasta,211,0,0,909,909,1120,1120,1150,1150,2270.0
+Sumatera Barat,13,province,2021,SMK/MAK,Negeri,246,0,0,0,0,246,246,800,800,1046.0
+Sumatera Barat,13,province,2021,SMK/MAK,Swasta,0,0,0,195,195,195,195,49,49,244.0
+Sumatera Barat,13,province,2021,SMK/MAK,Negeri dan Swasta,246,0,0,195,195,441,441,849,849,1290.0
+Riau,14,province,2021,SMK/MAK,Negeri,134,0,0,0,0,134,134,729,729,863.0
+Riau,14,province,2021,SMK/MAK,Swasta,0,0,0,322,322,322,322,119,119,441.0
+Riau,14,province,2021,SMK/MAK,Negeri dan Swasta,134,0,0,322,322,456,456,848,848,1304.0
+Jambi,15,province,2021,SMK/MAK,Negeri,132,0,0,0,0,132,132,614,614,746.0
+Jambi,15,province,2021,SMK/MAK,Swasta,0,0,0,135,135,135,135,42,42,177.0
+Jambi,15,province,2021,SMK/MAK,Negeri dan Swasta,132,0,0,135,135,267,267,656,656,923.0
+Sumatera Selatan,16,province,2021,SMK/MAK,Negeri,154,0,0,0,0,154,154,925,925,1079.0
+Sumatera Selatan,16,province,2021,SMK/MAK,Swasta,0,0,0,214,214,214,214,349,349,563.0
+Sumatera Selatan,16,province,2021,SMK/MAK,Negeri dan Swasta,154,0,0,214,214,368,368,1274,1274,1642.0
+Bengkulu,17,province,2021,SMK/MAK,Negeri,88,0,0,0,0,88,88,397,397,485.0
+Bengkulu,17,province,2021,SMK/MAK,Swasta,2,0,0,59,59,61,61,38,38,99.0
+Bengkulu,17,province,2021,SMK/MAK,Negeri dan Swasta,90,0,0,59,59,149,149,435,435,584.0
+Lampung,18,province,2021,SMK/MAK,Negeri,222,0,0,0,0,222,222,847,847,1069.0
+Lampung,18,province,2021,SMK/MAK,Swasta,0,0,0,585,585,585,585,303,303,888.0
+Lampung,18,province,2021,SMK/MAK,Negeri dan Swasta,222,0,0,585,585,807,807,1150,1150,1957.0
+Kepulauan Bangka Belitung,19,province,2021,SMK/MAK,Negeri,67,0,0,0,0,67,67,309,309,376.0
+Kepulauan Bangka Belitung,19,province,2021,SMK/MAK,Swasta,0,0,0,39,39,39,39,67,67,106.0
+Kepulauan Bangka Belitung,19,province,2021,SMK/MAK,Negeri dan Swasta,67,0,0,39,39,106,106,376,376,482.0
+Kepulauan Riau,21,province,2021,SMK/MAK,Negeri,46,0,0,0,0,46,46,363,363,409.0
+Kepulauan Riau,21,province,2021,SMK/MAK,Swasta,0,0,0,85,85,85,85,40,40,125.0
+Kepulauan Riau,21,province,2021,SMK/MAK,Negeri dan Swasta,46,0,0,85,85,131,131,403,403,534.0
+D.K.I. Jakarta,31,province,2021,SMK/MAK,Negeri,137,0,0,0,0,137,137,573,573,710.0
+D.K.I. Jakarta,31,province,2021,SMK/MAK,Swasta,0,0,0,954,954,954,954,863,863,1817.0
+D.K.I. Jakarta,31,province,2021,SMK/MAK,Negeri dan Swasta,137,0,0,954,954,1091,1091,1436,1436,2527.0
+Jawa Barat,32,province,2021,SMK/MAK,Negeri,662,0,0,0,0,662,662,4084,4084,4746.0
+Jawa Barat,32,province,2021,SMK/MAK,Swasta,1,0,0,4852,4852,4853,4853,2676,2676,7529.0
+Jawa Barat,32,province,2021,SMK/MAK,Negeri dan Swasta,663,0,0,4852,4852,5515,5515,6760,6760,12275.0
+Jawa Tengah,33,province,2021,SMK/MAK,Negeri,649,0,0,0,0,649,649,2995,2995,3644.0
+Jawa Tengah,33,province,2021,SMK/MAK,Swasta,0,0,0,4174,4174,4174,4174,1992,1992,6166.0
+Jawa Tengah,33,province,2021,SMK/MAK,Negeri dan Swasta,649,0,0,4174,4174,4823,4823,4987,4987,9810.0
+D.I. Yogyakarta,34,province,2021,SMK/MAK,Negeri,314,0,0,0,0,314,314,550,550,864.0
+D.I. Yogyakarta,34,province,2021,SMK/MAK,Swasta,0,0,0,533,533,533,533,353,353,886.0
+D.I. Yogyakarta,34,province,2021,SMK/MAK,Negeri dan Swasta,314,0,0,533,533,847,847,903,903,1750.0
+Jawa Timur,35,province,2021,SMK/MAK,Negeri,837,0,0,0,0,837,837,3886,3886,4723.0
+Jawa Timur,35,province,2021,SMK/MAK,Swasta,5,0,0,3383,3383,3388,3388,966,966,4354.0
+Jawa Timur,35,province,2021,SMK/MAK,Negeri dan Swasta,842,0,0,3383,3383,4225,4225,4852,4852,9077.0
+Banten,36,province,2021,SMK/MAK,Negeri,82,0,0,0,0,82,82,997,997,1079.0
+Banten,36,province,2021,SMK/MAK,Swasta,2,0,0,1163,1163,1165,1165,726,726,1891.0
+Banten,36,province,2021,SMK/MAK,Negeri dan Swasta,84,0,0,1163,1163,1247,1247,1723,1723,2970.0
+Bali,51,province,2021,SMK/MAK,Negeri,256,0,0,0,0,256,256,768,768,1024.0
+Bali,51,province,2021,SMK/MAK,Swasta,0,0,0,303,303,303,303,169,169,472.0
+Bali,51,province,2021,SMK/MAK,Negeri dan Swasta,256,0,0,303,303,559,559,937,937,1496.0
+Nusa Tenggara Barat,52,province,2021,SMK/MAK,Negeri,281,0,0,0,0,281,281,738,738,1019.0
+Nusa Tenggara Barat,52,province,2021,SMK/MAK,Swasta,0,0,0,196,196,196,196,35,35,231.0
+Nusa Tenggara Barat,52,province,2021,SMK/MAK,Negeri dan Swasta,281,0,0,196,196,477,477,773,773,1250.0
+Nusa Tenggara Timur,53,province,2021,SMK/MAK,Negeri,144,0,0,0,0,144,144,454,454,598.0
+Nusa Tenggara Timur,53,province,2021,SMK/MAK,Swasta,0,0,0,188,188,188,188,89,89,277.0
+Nusa Tenggara Timur,53,province,2021,SMK/MAK,Negeri dan Swasta,144,0,0,188,188,332,332,543,543,875.0
+Kalimantan Barat,61,province,2021,SMK/MAK,Negeri,126,0,0,0,0,126,126,229,229,355.0
+Kalimantan Barat,61,province,2021,SMK/MAK,Swasta,0,0,0,91,91,91,91,80,80,171.0
+Kalimantan Barat,61,province,2021,SMK/MAK,Negeri dan Swasta,126,0,0,91,91,217,217,309,309,526.0
+Kalimantan Tengah,62,province,2021,SMK/MAK,Negeri,83,0,0,0,0,83,83,183,183,266.0
+Kalimantan Tengah,62,province,2021,SMK/MAK,Swasta,0,0,0,28,28,28,28,33,33,61.0
+Kalimantan Tengah,62,province,2021,SMK/MAK,Negeri dan Swasta,83,0,0,28,28,111,111,216,216,327.0
+Kalimantan Selatan,63,province,2021,SMK/MAK,Negeri,157,0,0,0,0,157,157,517,517,674.0
+Kalimantan Selatan,63,province,2021,SMK/MAK,Swasta,0,0,0,120,120,120,120,137,137,257.0
+Kalimantan Selatan,63,province,2021,SMK/MAK,Negeri dan Swasta,157,0,0,120,120,277,277,654,654,931.0
+Kalimantan Timur,64,province,2021,SMK/MAK,Negeri,154,0,0,0,0,154,154,551,551,705.0
+Kalimantan Timur,64,province,2021,SMK/MAK,Swasta,0,0,0,297,297,297,297,130,130,427.0
+Kalimantan Timur,64,province,2021,SMK/MAK,Negeri dan Swasta,154,0,0,297,297,451,451,681,681,1132.0
+Kalimantan Utara,65,province,2021,SMK/MAK,Negeri,27,0,0,0,0,27,27,119,119,146.0
+Kalimantan Utara,65,province,2021,SMK/MAK,Swasta,0,0,0,10,10,10,10,5,5,15.0
+Kalimantan Utara,65,province,2021,SMK/MAK,Negeri dan Swasta,27,0,0,10,10,37,37,124,124,161.0
+Sulawesi Utara,71,province,2021,SMK/MAK,Negeri,93,0,0,0,0,93,93,278,278,371.0
+Sulawesi Utara,71,province,2021,SMK/MAK,Swasta,6,0,0,78,78,84,84,42,42,126.0
+Sulawesi Utara,71,province,2021,SMK/MAK,Negeri dan Swasta,99,0,0,78,78,177,177,320,320,497.0
+Sulawesi Tengah,72,province,2021,SMK/MAK,Negeri,129,0,0,0,0,129,129,307,307,436.0
+Sulawesi Tengah,72,province,2021,SMK/MAK,Swasta,8,0,0,75,75,83,83,75,75,158.0
+Sulawesi Tengah,72,province,2021,SMK/MAK,Negeri dan Swasta,137,0,0,75,75,212,212,382,382,594.0
+Sulawesi Selatan,73,province,2021,SMK/MAK,Negeri,314,0,0,0,0,314,314,791,791,1105.0
+Sulawesi Selatan,73,province,2021,SMK/MAK,Swasta,3,0,0,369,369,372,372,109,109,481.0
+Sulawesi Selatan,73,province,2021,SMK/MAK,Negeri dan Swasta,317,0,0,369,369,686,686,900,900,1586.0
+Sulawesi Tenggara,74,province,2021,SMK/MAK,Negeri,110,0,0,0,0,110,110,118,118,228.0
+Sulawesi Tenggara,74,province,2021,SMK/MAK,Swasta,0,0,0,36,36,36,36,13,13,49.0
+Sulawesi Tenggara,74,province,2021,SMK/MAK,Negeri dan Swasta,110,0,0,36,36,146,146,131,131,277.0
+Gorontalo,75,province,2021,SMK/MAK,Negeri,66,0,0,0,0,66,66,167,167,233.0
+Gorontalo,75,province,2021,SMK/MAK,Swasta,0,0,0,18,18,18,18,39,39,57.0
+Gorontalo,75,province,2021,SMK/MAK,Negeri dan Swasta,66,0,0,18,18,84,84,206,206,290.0
+Sulawesi Barat,76,province,2021,SMK/MAK,Negeri,99,0,0,0,0,99,99,481,481,580.0
+Sulawesi Barat,76,province,2021,SMK/MAK,Swasta,0,0,0,100,100,100,100,38,38,138.0
+Sulawesi Barat,76,province,2021,SMK/MAK,Negeri dan Swasta,99,0,0,100,100,199,199,519,519,718.0
+Maluku,81,province,2021,SMK/MAK,Negeri,158,0,0,0,0,158,158,115,115,273.0
+Maluku,81,province,2021,SMK/MAK,Swasta,4,0,0,33,33,37,37,20,20,57.0
+Maluku,81,province,2021,SMK/MAK,Negeri dan Swasta,162,0,0,33,33,195,195,135,135,330.0
+Maluku Utara,82,province,2021,SMK/MAK,Negeri,78,0,0,0,0,78,78,68,68,146.0
+Maluku Utara,82,province,2021,SMK/MAK,Swasta,8,0,0,13,13,21,21,44,44,65.0
+Maluku Utara,82,province,2021,SMK/MAK,Negeri dan Swasta,86,0,0,13,13,99,99,112,112,211.0
+Papua,91,province,2021,SMK/MAK,Negeri,134,0,0,0,0,134,134,118,118,252.0
+Papua,91,province,2021,SMK/MAK,Swasta,25,0,0,65,65,90,90,70,70,160.0
+Papua,91,province,2021,SMK/MAK,Negeri dan Swasta,159,0,0,65,65,224,224,188,188,412.0
+Papua Barat,92,province,2021,SMK/MAK,Negeri,30,0,0,0,0,30,30,45,45,75.0
+Papua Barat,92,province,2021,SMK/MAK,Swasta,4,0,0,4,4,8,8,28,28,36.0
+Papua Barat,92,province,2021,SMK/MAK,Negeri dan Swasta,34,0,0,4,4,38,38,73,73,111.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMK/MAK,Negeri,0,0,0,0,0,0,0,1,1,1.0
+Sekolah Indonesia Luar Negeri,,special,2021,SMK/MAK,Swasta,0,0,0,0,0,0,0,0,0,
+Sekolah Indonesia Luar Negeri,,special,2021,SMK/MAK,Negeri dan Swasta,0,0,0,0,0,1,1,1,1,
