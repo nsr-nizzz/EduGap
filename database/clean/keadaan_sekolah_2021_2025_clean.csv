@@ -1,0 +1,2245 @@
+﻿region_name,region_code,region_type,year,education_level,school_status,school_count,student_count,repeater_count,dropout_count,school_heads_teachers_count,education_staff_count,class_group_count,classroom_count
+Aceh,11.0,province,2021,SD/MI,Negeri,3335,454603,0,742,41819,3196,23538,27320
+Aceh,11.0,province,2021,SD/MI,Negeri dan Swasta,3513,488831,0,801,44074,3415,25055,29068
+Aceh,11.0,province,2021,SD/MI,Swasta,178,34228,0,59,2255,219,1517,1748
+Aceh,11.0,province,2021,SMA/MA,Negeri,395,112307,0,482,11872,2695,4246,5885
+Aceh,11.0,province,2021,SMA/MA,Negeri dan Swasta,529,130229,0,693,13448,2965,5014,6841
+Aceh,11.0,province,2021,SMA/MA,Swasta,134,17922,0,211,1576,270,768,956
+Aceh,11.0,province,2021,SMK/MAK,Negeri,152,49422,0,251,5633,1330,2193,2526
+Aceh,11.0,province,2021,SMK/MAK,Negeri dan Swasta,220,56994,0,312,6395,1490,2582,3007
+Aceh,11.0,province,2021,SMK/MAK,Swasta,68,7572,0,61,762,160,389,481
+Aceh,11.0,province,2021,SMP/MTs,Negeri,897,160011,0,307,19266,4386,6114,9531
+Aceh,11.0,province,2021,SMP/MTs,Negeri dan Swasta,1213,204545,0,376,22411,4867,7819,11559
+Aceh,11.0,province,2021,SMP/MTs,Swasta,316,44534,0,69,3145,481,1705,2028
+Bali,51.0,province,2021,SD/MI,Negeri,2274,348481,0,83,21022,3518,15713,16482
+Bali,51.0,province,2021,SD/MI,Negeri dan Swasta,2417,387586,0,92,23398,3848,17327,18214
+Bali,51.0,province,2021,SD/MI,Swasta,143,39105,0,9,2376,330,1614,1732
+Bali,51.0,province,2021,SMA/MA,Negeri,83,74671,0,9,4258,1588,2170,2134
+Bali,51.0,province,2021,SMA/MA,Negeri dan Swasta,158,90935,0,15,5447,1842,2757,3013
+Bali,51.0,province,2021,SMA/MA,Swasta,75,16264,0,6,1189,254,587,879
+Bali,51.0,province,2021,SMK/MAK,Negeri,53,55479,0,12,3246,1024,1594,1321
+Bali,51.0,province,2021,SMK/MAK,Negeri dan Swasta,166,96778,0,30,5704,1496,3032,3001
+Bali,51.0,province,2021,SMK/MAK,Swasta,113,41299,0,18,2458,472,1438,1680
+Bali,51.0,province,2021,SMP/MTs,Negeri,272,160516,0,31,9233,2526,4902,4984
+Bali,51.0,province,2021,SMP/MTs,Negeri dan Swasta,408,191052,0,35,11133,3003,5935,6470
+Bali,51.0,province,2021,SMP/MTs,Swasta,136,30536,0,4,1900,477,1033,1486
+Banten,36.0,province,2021,SD/MI,Negeri,3912,993246,0,1015,41490,2943,35098,33084
+Banten,36.0,province,2021,SD/MI,Negeri dan Swasta,4630,1179892,0,1205,52297,3796,42863,41898
+Banten,36.0,province,2021,SD/MI,Swasta,718,186646,0,190,10807,853,7765,8814
+Banten,36.0,province,2021,SMA/MA,Negeri,152,135170,0,66,6306,1481,3728,3849
+Banten,36.0,province,2021,SMA/MA,Negeri dan Swasta,576,211195,0,366,11243,2249,6614,7515
+Banten,36.0,province,2021,SMA/MA,Swasta,424,76025,0,300,4937,768,2886,3666
+Banten,36.0,province,2021,SMK/MAK,Negeri,81,90570,0,73,4103,1079,2477,2278
+Banten,36.0,province,2021,SMK/MAK,Negeri dan Swasta,734,258435,0,377,12893,2970,8499,9605
+Banten,36.0,province,2021,SMK/MAK,Swasta,653,167865,0,304,8790,1891,6022,7327
+Banten,36.0,province,2021,SMP/MTs,Negeri,573,268113,0,159,12349,2140,8006,9443
+Banten,36.0,province,2021,SMP/MTs,Negeri dan Swasta,1567,437874,0,454,21781,3415,14034,17362
+Banten,36.0,province,2021,SMP/MTs,Swasta,994,169761,0,295,9432,1275,6028,7919
+Bengkulu,17.0,province,2021,SD/MI,Negeri,1304,179930,0,290,12830,1208,9502,10642
+Bengkulu,17.0,province,2021,SD/MI,Negeri dan Swasta,1397,199278,0,308,14309,1359,10394,11672
+Bengkulu,17.0,province,2021,SD/MI,Swasta,93,19348,0,18,1479,151,892,1030
+Bengkulu,17.0,province,2021,SMA/MA,Negeri,109,49702,0,170,3741,945,1634,1867
+Bengkulu,17.0,province,2021,SMA/MA,Negeri dan Swasta,143,52169,0,175,4014,996,1778,2078
+Bengkulu,17.0,province,2021,SMA/MA,Swasta,34,2467,0,5,273,51,144,211
+Bengkulu,17.0,province,2021,SMK/MAK,Negeri,64,30559,0,47,2392,485,1100,1289
+Bengkulu,17.0,province,2021,SMK/MAK,Negeri dan Swasta,105,34821,0,61,2879,584,1343,1592
+Bengkulu,17.0,province,2021,SMK/MAK,Swasta,41,4262,0,14,487,99,243,303
+Bengkulu,17.0,province,2021,SMP/MTs,Negeri,381,79778,0,77,6695,1207,2995,3846
+Bengkulu,17.0,province,2021,SMP/MTs,Negeri dan Swasta,439,87122,0,89,7297,1289,3292,4207
+Bengkulu,17.0,province,2021,SMP/MTs,Swasta,58,7344,0,12,602,82,297,361
+D.I. Yogyakarta,34.0,province,2021,SD/MI,Negeri,1425,195795,0,60,13394,2066,9891,10606
+D.I. Yogyakarta,34.0,province,2021,SD/MI,Negeri dan Swasta,1847,279958,0,97,18644,2869,13729,14733
+D.I. Yogyakarta,34.0,province,2021,SD/MI,Swasta,422,84163,0,37,5250,803,3838,4127
+D.I. Yogyakarta,34.0,province,2021,SMA/MA,Negeri,69,42315,0,2,2699,937,1237,1394
+D.I. Yogyakarta,34.0,province,2021,SMA/MA,Negeri dan Swasta,169,58555,0,8,4293,1333,1982,2334
+D.I. Yogyakarta,34.0,province,2021,SMA/MA,Swasta,100,16240,0,6,1594,396,745,940
+D.I. Yogyakarta,34.0,province,2021,SMK/MAK,Negeri,50,56795,0,34,3303,864,1537,1466
+D.I. Yogyakarta,34.0,province,2021,SMK/MAK,Negeri dan Swasta,214,96953,0,68,6686,1750,3246,3526
+D.I. Yogyakarta,34.0,province,2021,SMK/MAK,Swasta,164,40158,0,34,3383,886,1709,2060
+D.I. Yogyakarta,34.0,province,2021,SMP/MTs,Negeri,214,92678,0,6,5461,1328,2959,3252
+D.I. Yogyakarta,34.0,province,2021,SMP/MTs,Negeri dan Swasta,448,133825,0,16,8717,2162,4556,5200
+D.I. Yogyakarta,34.0,province,2021,SMP/MTs,Swasta,234,41147,0,10,3256,834,1597,1948
+D.K.I. Jakarta,31.0,province,2021,SD/MI,Negeri,1447,558320,0,1179,22906,2580,18682,19163
+D.K.I. Jakarta,31.0,province,2021,SD/MI,Negeri dan Swasta,2368,782454,0,1491,37647,4419,28407,30726
+D.K.I. Jakarta,31.0,province,2021,SD/MI,Swasta,921,224134,0,312,14741,1839,9725,11563
+D.K.I. Jakarta,31.0,province,2021,SMA/MA,Negeri,117,91776,0,339,5018,1146,2488,2649
+D.K.I. Jakarta,31.0,province,2021,SMA/MA,Negeri dan Swasta,489,181583,0,414,11162,2376,5849,6761
+D.K.I. Jakarta,31.0,province,2021,SMA/MA,Swasta,372,89807,0,75,6144,1230,3361,4112
+D.K.I. Jakarta,31.0,province,2021,SMK/MAK,Negeri,73,59956,0,208,3086,710,1657,1698
+D.K.I. Jakarta,31.0,province,2021,SMK/MAK,Negeri dan Swasta,576,207479,0,459,11414,2527,6860,8605
+D.K.I. Jakarta,31.0,province,2021,SMK/MAK,Swasta,503,147523,0,251,8328,1817,5203,6907
+D.K.I. Jakarta,31.0,province,2021,SMP/MTs,Negeri,293,222930,0,181,9693,2209,6043,6228
+D.K.I. Jakarta,31.0,province,2021,SMP/MTs,Negeri dan Swasta,1077,361856,0,336,18639,3988,11139,13351
+D.K.I. Jakarta,31.0,province,2021,SMP/MTs,Swasta,784,138926,0,155,8946,1779,5096,7123
+Gorontalo,75.0,province,2021,SD/MI,Negeri,896,105713,0,394,7141,685,5812,6939
+Gorontalo,75.0,province,2021,SD/MI,Negeri dan Swasta,926,109501,0,403,7381,717,6008,7142
+Gorontalo,75.0,province,2021,SD/MI,Swasta,30,3788,0,9,240,32,196,203
+Gorontalo,75.0,province,2021,SMA/MA,Negeri,61,30186,0,108,1781,377,986,1068
+Gorontalo,75.0,province,2021,SMA/MA,Negeri dan Swasta,69,31553,0,108,1883,398,1037,1132
+Gorontalo,75.0,province,2021,SMA/MA,Swasta,8,1367,0,0,102,21,51,64
+Gorontalo,75.0,province,2021,SMK/MAK,Negeri,40,17037,0,129,1450,233,722,839
+Gorontalo,75.0,province,2021,SMK/MAK,Negeri dan Swasta,58,19788,0,151,1751,290,854,983
+Gorontalo,75.0,province,2021,SMK/MAK,Swasta,18,2751,0,22,301,57,132,144
+Gorontalo,75.0,province,2021,SMP/MTs,Negeri,312,43670,0,159,3625,644,1797,2399
+Gorontalo,75.0,province,2021,SMP/MTs,Negeri dan Swasta,338,46259,0,167,3826,669,1911,2555
+Gorontalo,75.0,province,2021,SMP/MTs,Swasta,26,2589,0,8,201,25,114,156
+Jambi,15.0,province,2021,SD/MI,Negeri,2316,339955,0,516,23012,2520,17248,19254
+Jambi,15.0,province,2021,SD/MI,Negeri dan Swasta,2464,371924,0,588,24918,2704,18660,20925
+Jambi,15.0,province,2021,SD/MI,Swasta,148,31969,0,72,1906,184,1412,1671
+Jambi,15.0,province,2021,SMA/MA,Negeri,161,68504,0,183,5120,1154,2282,2716
+Jambi,15.0,province,2021,SMA/MA,Negeri dan Swasta,235,77582,0,203,5835,1265,2666,3207
+Jambi,15.0,province,2021,SMA/MA,Swasta,74,9078,0,20,715,111,384,491
+Jambi,15.0,province,2021,SMK/MAK,Negeri,104,42467,0,99,3385,746,1610,1775
+Jambi,15.0,province,2021,SMK/MAK,Negeri dan Swasta,177,53700,0,152,4303,923,2130,2404
+Jambi,15.0,province,2021,SMK/MAK,Swasta,73,11233,0,53,918,177,520,629
+Jambi,15.0,province,2021,SMP/MTs,Negeri,557,102206,0,205,9717,1843,3899,5204
+Jambi,15.0,province,2021,SMP/MTs,Negeri dan Swasta,693,122419,0,241,10962,2019,4662,6150
+Jambi,15.0,province,2021,SMP/MTs,Swasta,136,20213,0,36,1245,176,763,946
+Jawa Barat,32.0,province,2021,SD/MI,Negeri,17424,3903979,0,5485,161443,11557,141995,132115
+Jawa Barat,32.0,province,2021,SD/MI,Negeri dan Swasta,19639,4452979,0,6106,193412,14885,164873,157702
+Jawa Barat,32.0,province,2021,SD/MI,Swasta,2215,549000,0,621,31969,3328,22878,25587
+Jawa Barat,32.0,province,2021,SMA/MA,Negeri,512,486621,0,206,22366,6278,14053,15506
+Jawa Barat,32.0,province,2021,SMA/MA,Negeri dan Swasta,1667,763630,0,712,37825,8897,23671,27121
+Jawa Barat,32.0,province,2021,SMA/MA,Swasta,1155,277009,0,506,15459,2619,9618,11615
+Jawa Barat,32.0,province,2021,SMK/MAK,Negeri,288,342636,0,154,15715,4746,9776,9499
+Jawa Barat,32.0,province,2021,SMK/MAK,Negeri dan Swasta,2907,1146910,0,1663,55476,12275,37735,41777
+Jawa Barat,32.0,province,2021,SMK/MAK,Swasta,2619,804274,0,1509,39761,7529,27959,32278
+Jawa Barat,32.0,province,2021,SMP/MTs,Negeri,1969,1113690,0,502,52541,11470,33594,38750
+Jawa Barat,32.0,province,2021,SMP/MTs,Negeri dan Swasta,5684,1801160,0,1618,90455,17526,57549,68281
+Jawa Barat,32.0,province,2021,SMP/MTs,Swasta,3715,687467,0,1116,37914,6056,23955,29531
+Jawa Tengah,33.0,province,2021,SD/MI,Negeri,17547,2378205,0,2013,140464,12192,114684,122046
+Jawa Tengah,33.0,province,2021,SD/MI,Negeri dan Swasta,18784,2683715,0,2196,156864,13991,127484,135776
+Jawa Tengah,33.0,province,2021,SD/MI,Swasta,1237,305510,0,183,16400,1799,12800,13730
+Jawa Tengah,33.0,province,2021,SMA/MA,Negeri,360,330165,0,29,17465,4614,9490,9896
+Jawa Tengah,33.0,province,2021,SMA/MA,Negeri dan Swasta,848,429686,0,126,24842,6267,13369,14854
+Jawa Tengah,33.0,province,2021,SMA/MA,Swasta,488,99521,0,97,7377,1653,3879,4958
+Jawa Tengah,33.0,province,2021,SMK/MAK,Negeri,237,313603,0,89,15533,3644,8402,7314
+Jawa Tengah,33.0,province,2021,SMK/MAK,Negeri dan Swasta,1551,838417,0,919,44942,9810,26674,27867
+Jawa Tengah,33.0,province,2021,SMK/MAK,Swasta,1314,524814,0,830,29409,6166,18272,20553
+Jawa Tengah,33.0,province,2021,SMP/MTs,Negeri,1769,919373,0,405,50090,11550,29887,33242
+Jawa Tengah,33.0,province,2021,SMP/MTs,Negeri dan Swasta,3382,1200890,0,621,68856,15287,40547,46935
+Jawa Tengah,33.0,province,2021,SMP/MTs,Swasta,1613,281513,0,216,18766,3737,10660,13693
+Jawa Timur,35.0,province,2021,SD/MI,Negeri,17105,2258842,0,1971,148814,12051,117206,124470
+Jawa Timur,35.0,province,2021,SD/MI,Negeri dan Swasta,19057,2651792,0,2468,171715,14160,135064,143609
+Jawa Timur,35.0,province,2021,SD/MI,Swasta,1952,392950,0,497,22901,2109,17858,19139
+Jawa Timur,35.0,province,2021,SMA/MA,Negeri,423,340730,0,137,18932,5084,10234,10922
+Jawa Timur,35.0,province,2021,SMA/MA,Negeri dan Swasta,1521,537251,0,734,32643,7220,17870,20282
+Jawa Timur,35.0,province,2021,SMA/MA,Swasta,1098,196521,0,597,13711,2136,7636,9360
+Jawa Timur,35.0,province,2021,SMK/MAK,Negeri,297,368701,0,394,18682,4723,10583,9139
+Jawa Timur,35.0,province,2021,SMK/MAK,Negeri dan Swasta,2131,816366,0,1765,46137,9077,27516,27792
+Jawa Timur,35.0,province,2021,SMK/MAK,Swasta,1834,447665,0,1371,27455,4354,16933,18653
+Jawa Timur,35.0,province,2021,SMP/MTs,Negeri,1729,829308,0,516,47839,11527,27071,31506
+Jawa Timur,35.0,province,2021,SMP/MTs,Negeri dan Swasta,4865,1240030,0,2438,77368,15321,43411,51528
+Jawa Timur,35.0,province,2021,SMP/MTs,Swasta,3136,410719,0,1922,29529,3794,16340,20022
+Kalimantan Barat,61.0,province,2021,SD/MI,Negeri,4132,512806,0,795,31389,1911,28455,30055
+Kalimantan Barat,61.0,province,2021,SD/MI,Negeri dan Swasta,4418,571964,0,939,34304,2201,30921,32733
+Kalimantan Barat,61.0,province,2021,SD/MI,Swasta,286,59158,0,144,2915,290,2466,2678
+Kalimantan Barat,61.0,province,2021,SMA/MA,Negeri,267,100510,0,200,5309,672,3208,3564
+Kalimantan Barat,61.0,province,2021,SMA/MA,Negeri dan Swasta,448,131194,0,333,7276,889,4327,4994
+Kalimantan Barat,61.0,province,2021,SMA/MA,Swasta,181,30684,0,133,1967,217,1119,1430
+Kalimantan Barat,61.0,province,2021,SMK/MAK,Negeri,107,62165,0,171,2831,355,1891,1742
+Kalimantan Barat,61.0,province,2021,SMK/MAK,Negeri dan Swasta,221,84346,0,258,4187,526,2764,2822
+Kalimantan Barat,61.0,province,2021,SMK/MAK,Swasta,114,22181,0,87,1356,171,873,1080
+Kalimantan Barat,61.0,province,2021,SMP/MTs,Negeri,1018,187216,0,265,12878,1478,6902,8098
+Kalimantan Barat,61.0,province,2021,SMP/MTs,Negeri dan Swasta,1351,230851,0,422,15363,1770,8555,10243
+Kalimantan Barat,61.0,province,2021,SMP/MTs,Swasta,333,43635,0,157,2485,292,1653,2145
+Kalimantan Selatan,63.0,province,2021,SD/MI,Negeri,2769,332296,0,495,25299,2328,19369,20994
+Kalimantan Selatan,63.0,province,2021,SD/MI,Negeri dan Swasta,2938,365957,0,536,27499,2520,20853,22633
+Kalimantan Selatan,63.0,province,2021,SD/MI,Swasta,169,33661,0,41,2200,192,1484,1639
+Kalimantan Selatan,63.0,province,2021,SMA/MA,Negeri,141,59912,0,90,4067,811,2010,2180
+Kalimantan Selatan,63.0,province,2021,SMA/MA,Negeri dan Swasta,202,66914,0,112,4770,931,2318,2627
+Kalimantan Selatan,63.0,province,2021,SMA/MA,Swasta,61,7002,0,22,703,120,308,447
+Kalimantan Selatan,63.0,province,2021,SMK/MAK,Negeri,63,47437,0,120,2834,674,1461,1371
+Kalimantan Selatan,63.0,province,2021,SMK/MAK,Negeri dan Swasta,127,61515,0,140,3927,931,2054,2073
+Kalimantan Selatan,63.0,province,2021,SMK/MAK,Swasta,64,14078,0,20,1093,257,593,702
+Kalimantan Selatan,63.0,province,2021,SMP/MTs,Negeri,522,99185,0,179,7786,1266,3780,5006
+Kalimantan Selatan,63.0,province,2021,SMP/MTs,Negeri dan Swasta,619,112915,0,248,8853,1421,4330,5676
+Kalimantan Selatan,63.0,province,2021,SMP/MTs,Swasta,97,13730,0,69,1067,155,550,670
+Kalimantan Tengah,62.0,province,2021,SD/MI,Negeri,2416,234534,0,338,20677,964,15651,17501
+Kalimantan Tengah,62.0,province,2021,SD/MI,Negeri dan Swasta,2639,276514,0,408,22910,1127,17442,19485
+Kalimantan Tengah,62.0,province,2021,SD/MI,Swasta,223,41980,0,70,2233,163,1791,1984
+Kalimantan Tengah,62.0,province,2021,SMA/MA,Negeri,181,54893,0,92,4202,447,1945,2259
+Kalimantan Tengah,62.0,province,2021,SMA/MA,Negeri dan Swasta,241,60634,0,95,4825,518,2255,2677
+Kalimantan Tengah,62.0,province,2021,SMA/MA,Swasta,60,5741,0,3,623,71,310,418
+Kalimantan Tengah,62.0,province,2021,SMK/MAK,Negeri,93,30495,0,99,2375,266,1172,1225
+Kalimantan Tengah,62.0,province,2021,SMK/MAK,Negeri dan Swasta,137,36817,0,119,2956,327,1461,1587
+Kalimantan Tengah,62.0,province,2021,SMK/MAK,Swasta,44,6322,0,20,581,61,289,362
+Kalimantan Tengah,62.0,province,2021,SMP/MTs,Negeri,708,89891,0,185,7918,837,3712,4939
+Kalimantan Tengah,62.0,province,2021,SMP/MTs,Negeri dan Swasta,845,107792,0,218,9144,943,4420,5791
+Kalimantan Tengah,62.0,province,2021,SMP/MTs,Swasta,137,17901,0,33,1226,106,708,852
+Kalimantan Timur,64.0,province,2021,SD/MI,Negeri,1650,347886,0,610,20798,2912,15446,15725
+Kalimantan Timur,64.0,province,2021,SD/MI,Negeri dan Swasta,1901,411321,0,668,24113,3333,18065,18708
+Kalimantan Timur,64.0,province,2021,SD/MI,Swasta,251,63435,0,58,3315,421,2619,2983
+Kalimantan Timur,64.0,province,2021,SMA/MA,Negeri,142,65859,0,48,3908,929,2069,2552
+Kalimantan Timur,64.0,province,2021,SMA/MA,Negeri dan Swasta,228,78764,0,130,4852,1105,2588,3214
+Kalimantan Timur,64.0,province,2021,SMA/MA,Swasta,86,12905,0,82,944,176,519,662
+Kalimantan Timur,64.0,province,2021,SMK/MAK,Negeri,87,57403,0,24,3218,705,1707,1834
+Kalimantan Timur,64.0,province,2021,SMK/MAK,Negeri dan Swasta,218,86491,0,56,4993,1132,2968,3436
+Kalimantan Timur,64.0,province,2021,SMK/MAK,Swasta,131,29088,0,32,1775,427,1261,1602
+Kalimantan Timur,64.0,province,2021,SMP/MTs,Negeri,447,127778,0,110,8198,1711,4351,5005
+Kalimantan Timur,64.0,province,2021,SMP/MTs,Negeri dan Swasta,668,160442,0,132,10255,2077,5634,6649
+Kalimantan Timur,64.0,province,2021,SMP/MTs,Swasta,221,32664,0,22,2057,366,1283,1644
+Kalimantan Utara,65.0,province,2021,SD/MI,Negeri,435,69898,0,223,5106,602,3656,3796
+Kalimantan Utara,65.0,province,2021,SD/MI,Negeri dan Swasta,481,78857,0,242,5637,664,4058,4268
+Kalimantan Utara,65.0,province,2021,SD/MI,Swasta,46,8959,0,19,531,62,402,472
+Kalimantan Utara,65.0,province,2021,SMA/MA,Negeri,44,14828,0,19,1107,222,515,551
+Kalimantan Utara,65.0,province,2021,SMA/MA,Negeri dan Swasta,66,17662,0,20,1350,268,642,716
+Kalimantan Utara,65.0,province,2021,SMA/MA,Swasta,22,2834,0,1,243,46,127,165
+Kalimantan Utara,65.0,province,2021,SMK/MAK,Negeri,21,10286,0,31,702,146,331,395
+Kalimantan Utara,65.0,province,2021,SMK/MAK,Negeri dan Swasta,32,11405,0,36,833,161,383,476
+Kalimantan Utara,65.0,province,2021,SMK/MAK,Swasta,11,1119,0,5,131,15,52,81
+Kalimantan Utara,65.0,province,2021,SMP/MTs,Negeri,153,29669,0,40,2279,375,1109,1293
+Kalimantan Utara,65.0,province,2021,SMP/MTs,Negeri dan Swasta,186,33282,0,84,2580,427,1260,1492
+Kalimantan Utara,65.0,province,2021,SMP/MTs,Swasta,33,3613,0,44,301,52,151,199
+Kepulauan Bangka Belitung,19.0,province,2021,SD/MI,Negeri,760,147951,0,268,7886,1799,6106,7649
+Kepulauan Bangka Belitung,19.0,province,2021,SD/MI,Negeri dan Swasta,826,163694,0,287,8799,1964,6739,8385
+Kepulauan Bangka Belitung,19.0,province,2021,SD/MI,Swasta,66,15743,0,19,913,165,633,736
+Kepulauan Bangka Belitung,19.0,province,2021,SMA/MA,Negeri,45,25447,0,16,1376,411,782,791
+Kepulauan Bangka Belitung,19.0,province,2021,SMA/MA,Negeri dan Swasta,70,29413,0,23,1663,495,942,1027
+Kepulauan Bangka Belitung,19.0,province,2021,SMA/MA,Swasta,25,3966,0,7,287,84,160,236
+Kepulauan Bangka Belitung,19.0,province,2021,SMK/MAK,Negeri,36,21046,0,49,1298,376,658,792
+Kepulauan Bangka Belitung,19.0,province,2021,SMK/MAK,Negeri dan Swasta,59,26827,0,82,1662,482,869,1053
+Kepulauan Bangka Belitung,19.0,province,2021,SMK/MAK,Swasta,23,5781,0,33,364,106,211,261
+Kepulauan Bangka Belitung,19.0,province,2021,SMP/MTs,Negeri,161,53168,0,39,3029,985,1723,2060
+Kepulauan Bangka Belitung,19.0,province,2021,SMP/MTs,Negeri dan Swasta,223,61936,0,47,3602,1138,2053,2558
+Kepulauan Bangka Belitung,19.0,province,2021,SMP/MTs,Swasta,62,8768,0,8,573,153,330,498
+Kepulauan Riau,21.0,province,2021,SD/MI,Negeri,683,155760,0,133,8728,1582,6638,6468
+Kepulauan Riau,21.0,province,2021,SD/MI,Negeri dan Swasta,968,226451,0,179,12905,1973,9624,10003
+Kepulauan Riau,21.0,province,2021,SD/MI,Swasta,285,70691,0,46,4177,391,2986,3535
+Kepulauan Riau,21.0,province,2021,SMA/MA,Negeri,93,44499,0,21,2695,668,1340,1428
+Kepulauan Riau,21.0,province,2021,SMA/MA,Negeri dan Swasta,152,52258,0,31,3345,762,1697,1886
+Kepulauan Riau,21.0,province,2021,SMA/MA,Swasta,59,7759,0,10,650,94,357,458
+Kepulauan Riau,21.0,province,2021,SMK/MAK,Negeri,36,26467,0,41,1477,409,799,747
+Kepulauan Riau,21.0,province,2021,SMK/MAK,Negeri dan Swasta,111,37701,0,74,2326,534,1366,1676
+Kepulauan Riau,21.0,province,2021,SMK/MAK,Swasta,75,11234,0,33,849,125,567,929
+Kepulauan Riau,21.0,province,2021,SMP/MTs,Negeri,234,74328,0,21,4101,969,2298,2605
+Kepulauan Riau,21.0,province,2021,SMP/MTs,Negeri dan Swasta,399,96711,0,29,5738,1219,3190,3764
+Kepulauan Riau,21.0,province,2021,SMP/MTs,Swasta,165,22383,0,8,1637,250,892,1159
+Lampung,18.0,province,2021,SD/MI,Negeri,4337,736382,0,712,46589,2867,34354,36390
+Lampung,18.0,province,2021,SD/MI,Negeri dan Swasta,4731,813915,0,878,51378,3281,37927,40445
+Lampung,18.0,province,2021,SD/MI,Swasta,394,77533,0,166,4789,414,3573,4055
+Lampung,18.0,province,2021,SMA/MA,Negeri,238,121056,0,110,8111,1816,3779,4134
+Lampung,18.0,province,2021,SMA/MA,Negeri dan Swasta,512,160094,0,225,11082,2290,5355,6169
+Lampung,18.0,province,2021,SMA/MA,Swasta,274,39038,0,115,2971,474,1576,2035
+Lampung,18.0,province,2021,SMK/MAK,Negeri,111,73851,0,46,4753,1069,2339,2330
+Lampung,18.0,province,2021,SMK/MAK,Negeri dan Swasta,488,159826,0,130,10511,1957,5752,6029
+Lampung,18.0,province,2021,SMK/MAK,Swasta,377,85975,0,84,5758,888,3413,3699
+Lampung,18.0,province,2021,SMP/MTs,Negeri,710,240771,0,103,16560,2794,8148,9954
+Lampung,18.0,province,2021,SMP/MTs,Negeri dan Swasta,1412,329301,0,291,22885,3580,11667,14539
+Lampung,18.0,province,2021,SMP/MTs,Swasta,702,88530,0,188,6325,786,3519,4585
+Maluku,81.0,province,2021,SD/MI,Negeri,1273,149799,0,707,11875,1036,8376,9680
+Maluku,81.0,province,2021,SD/MI,Negeri dan Swasta,1804,209328,0,802,15663,1272,11743,13775
+Maluku,81.0,province,2021,SD/MI,Swasta,531,59529,0,95,3788,236,3367,4095
+Maluku,81.0,province,2021,SMA/MA,Negeri,209,58221,0,221,4974,598,2120,2795
+Maluku,81.0,province,2021,SMA/MA,Negeri dan Swasta,282,70203,0,299,6181,710,2654,3552
+Maluku,81.0,province,2021,SMA/MA,Swasta,73,11982,0,78,1207,112,534,757
+Maluku,81.0,province,2021,SMK/MAK,Negeri,82,16965,0,46,1998,273,820,951
+Maluku,81.0,province,2021,SMK/MAK,Negeri dan Swasta,115,23213,0,59,2541,330,1100,1296
+Maluku,81.0,province,2021,SMK/MAK,Swasta,33,6248,0,13,543,57,280,345
+Maluku,81.0,province,2021,SMP/MTs,Negeri,534,74124,0,116,7423,1108,2939,4282
+Maluku,81.0,province,2021,SMP/MTs,Negeri dan Swasta,674,91810,0,152,8907,1242,3645,5368
+Maluku,81.0,province,2021,SMP/MTs,Swasta,140,17686,0,36,1484,134,706,1086
+Maluku Utara,82.0,province,2021,SD/MI,Negeri,1106,117453,0,629,8757,686,7064,8068
+Maluku Utara,82.0,province,2021,SD/MI,Negeri dan Swasta,1310,140056,0,684,10084,784,8342,9434
+Maluku Utara,82.0,province,2021,SD/MI,Swasta,204,22603,0,55,1327,98,1278,1366
+Maluku Utara,82.0,province,2021,SMA/MA,Negeri,139,34275,0,125,2663,331,1248,1644
+Maluku Utara,82.0,province,2021,SMA/MA,Negeri dan Swasta,215,42479,0,167,3358,384,1625,2135
+Maluku Utara,82.0,province,2021,SMA/MA,Swasta,76,8204,0,42,695,53,377,491
+Maluku Utara,82.0,province,2021,SMK/MAK,Negeri,63,10574,0,32,1092,146,548,727
+Maluku Utara,82.0,province,2021,SMK/MAK,Negeri dan Swasta,146,19432,0,104,1842,211,990,1337
+Maluku Utara,82.0,province,2021,SMK/MAK,Swasta,83,8858,0,72,750,65,442,610
+Maluku Utara,82.0,province,2021,SMP/MTs,Negeri,363,46659,0,175,4803,631,1841,2528
+Maluku Utara,82.0,province,2021,SMP/MTs,Negeri dan Swasta,502,60346,0,193,5906,739,2421,3279
+Maluku Utara,82.0,province,2021,SMP/MTs,Swasta,139,13687,0,18,1103,108,580,751
+Nusa Tenggara Barat,52.0,province,2021,SD/MI,Negeri,3012,477686,0,1185,34525,2559,21342,23135
+Nusa Tenggara Barat,52.0,province,2021,SD/MI,Negeri dan Swasta,3269,511511,0,1325,36848,2747,23109,25102
+Nusa Tenggara Barat,52.0,province,2021,SD/MI,Swasta,257,33825,0,140,2323,188,1767,1967
+Nusa Tenggara Barat,52.0,province,2021,SMA/MA,Negeri,154,91365,0,212,6721,1562,2784,3221
+Nusa Tenggara Barat,52.0,province,2021,SMA/MA,Negeri dan Swasta,333,111388,0,390,8761,1750,3584,4271
+Nusa Tenggara Barat,52.0,province,2021,SMA/MA,Swasta,179,20023,0,178,2040,188,800,1050
+Nusa Tenggara Barat,52.0,province,2021,SMK/MAK,Negeri,99,63075,0,172,4740,1019,2190,2115
+Nusa Tenggara Barat,52.0,province,2021,SMK/MAK,Negeri dan Swasta,322,86830,0,473,7121,1250,3221,3353
+Nusa Tenggara Barat,52.0,province,2021,SMK/MAK,Swasta,223,23755,0,301,2381,231,1031,1238
+Nusa Tenggara Barat,52.0,province,2021,SMP/MTs,Negeri,605,136326,0,320,16136,3329,5071,6782
+Nusa Tenggara Barat,52.0,province,2021,SMP/MTs,Negeri dan Swasta,989,172624,0,577,19568,3611,6657,8652
+Nusa Tenggara Barat,52.0,province,2021,SMP/MTs,Swasta,384,36298,0,257,3432,282,1586,1870
+Nusa Tenggara Timur,53.0,province,2021,SD/MI,Negeri,3365,427555,0,1237,31652,3188,23402,29411
+Nusa Tenggara Timur,53.0,province,2021,SD/MI,Negeri dan Swasta,5184,682962,0,1865,47703,4825,36328,46191
+Nusa Tenggara Timur,53.0,province,2021,SD/MI,Swasta,1819,255407,0,628,16051,1637,12926,16780
+Nusa Tenggara Timur,53.0,province,2021,SMA/MA,Negeri,370,141300,0,378,10454,1244,4880,5970
+Nusa Tenggara Timur,53.0,province,2021,SMA/MA,Negeri dan Swasta,580,203633,0,658,14669,1815,7149,8879
+Nusa Tenggara Timur,53.0,province,2021,SMA/MA,Swasta,210,62333,0,280,4215,571,2269,2909
+Nusa Tenggara Timur,53.0,province,2021,SMK/MAK,Negeri,158,63022,0,199,5128,598,2278,2512
+Nusa Tenggara Timur,53.0,province,2021,SMK/MAK,Negeri dan Swasta,312,108544,0,644,7836,875,3959,4368
+Nusa Tenggara Timur,53.0,province,2021,SMK/MAK,Swasta,154,45522,0,445,2708,277,1681,1856
+Nusa Tenggara Timur,53.0,province,2021,SMP/MTs,Negeri,1354,265042,0,572,21687,2888,9636,12661
+Nusa Tenggara Timur,53.0,province,2021,SMP/MTs,Negeri dan Swasta,1782,345222,0,927,27128,3644,12549,16708
+Nusa Tenggara Timur,53.0,province,2021,SMP/MTs,Swasta,428,80180,0,355,5441,756,2913,4047
+Papua,91.0,province,2021,SD/MI,Negeri,1629,276662,0,1150,10321,493,11006,12413
+Papua,91.0,province,2021,SD/MI,Negeri dan Swasta,2596,451559,0,1994,16719,842,17866,20067
+Papua,91.0,province,2021,SD/MI,Swasta,967,174897,0,844,6398,349,6860,7654
+Papua,91.0,province,2021,SMA/MA,Negeri,141,49288,0,243,3039,356,1539,1752
+Papua,91.0,province,2021,SMA/MA,Negeri dan Swasta,246,69780,0,586,4517,555,2347,2783
+Papua,91.0,province,2021,SMA/MA,Swasta,105,20492,0,343,1478,199,808,1031
+Papua,91.0,province,2021,SMK/MAK,Negeri,79,23665,0,125,1864,252,954,1076
+Papua,91.0,province,2021,SMK/MAK,Negeri dan Swasta,139,37089,0,248,2793,412,1491,1697
+Papua,91.0,province,2021,SMK/MAK,Swasta,60,13424,0,123,929,160,537,621
+Papua,91.0,province,2021,SMP/MTs,Negeri,507,103457,0,414,6417,687,3357,4167
+Papua,91.0,province,2021,SMP/MTs,Negeri dan Swasta,721,139034,0,554,8430,916,4566,5865
+Papua,91.0,province,2021,SMP/MTs,Swasta,214,35577,0,140,2013,229,1209,1698
+Papua Barat,92.0,province,2021,SD/MI,Negeri,686,82623,0,401,5069,224,4751,4910
+Papua Barat,92.0,province,2021,SD/MI,Negeri dan Swasta,1088,130617,0,589,7825,363,7455,7755
+Papua Barat,92.0,province,2021,SD/MI,Swasta,402,47994,0,188,2756,139,2704,2845
+Papua Barat,92.0,province,2021,SMA/MA,Negeri,81,22377,0,70,1463,120,802,912
+Papua Barat,92.0,province,2021,SMA/MA,Negeri dan Swasta,129,29367,0,91,2139,187,1131,1305
+Papua Barat,92.0,province,2021,SMA/MA,Swasta,48,6990,0,21,676,67,329,393
+Papua Barat,92.0,province,2021,SMK/MAK,Negeri,33,12239,0,46,834,75,498,513
+Papua Barat,92.0,province,2021,SMK/MAK,Negeri dan Swasta,57,16963,0,52,1188,111,698,721
+Papua Barat,92.0,province,2021,SMK/MAK,Swasta,24,4724,0,6,354,36,200,208
+Papua Barat,92.0,province,2021,SMP/MTs,Negeri,229,36396,0,56,3123,276,1398,1714
+Papua Barat,92.0,province,2021,SMP/MTs,Negeri dan Swasta,323,49591,0,116,4159,371,1913,2359
+Papua Barat,92.0,province,2021,SMP/MTs,Swasta,94,13195,0,60,1036,95,515,645
+Riau,14.0,province,2021,SD/MI,Negeri,3210,643438,0,907,39714,3451,28733,31019
+Riau,14.0,province,2021,SD/MI,Negeri dan Swasta,3754,777851,0,1100,47381,4086,34356,37298
+Riau,14.0,province,2021,SD/MI,Swasta,544,134413,0,193,7667,635,5623,6279
+Riau,14.0,province,2021,SMA/MA,Negeri,303,142397,0,330,9566,1746,4545,4964
+Riau,14.0,province,2021,SMA/MA,Negeri dan Swasta,447,164971,0,389,11441,1993,5438,6206
+Riau,14.0,province,2021,SMA/MA,Swasta,144,22574,0,59,1875,247,893,1242
+Riau,14.0,province,2021,SMK/MAK,Negeri,128,70631,0,118,4983,863,2335,2565
+Riau,14.0,province,2021,SMK/MAK,Negeri dan Swasta,301,110206,0,317,8083,1304,4063,4647
+Riau,14.0,province,2021,SMK/MAK,Swasta,173,39575,0,199,3100,441,1728,2082
+Riau,14.0,province,2021,SMP/MTs,Negeri,855,206252,0,254,15257,2691,7204,9316
+Riau,14.0,province,2021,SMP/MTs,Negeri dan Swasta,1230,261110,0,483,19307,3175,9311,12076
+Riau,14.0,province,2021,SMP/MTs,Swasta,375,54858,0,229,4050,484,2107,2760
+Sekolah Indonesia Luar Negeri,,special,2021,SD/MI,Negeri,87,10666,0,59,346,12,612,613
+Sekolah Indonesia Luar Negeri,,special,2021,SD/MI,Negeri dan Swasta,129,15497,0,83,485,13,874,835
+Sekolah Indonesia Luar Negeri,,special,2021,SD/MI,Swasta,42,4831,0,24,139,1,262,222
+Sekolah Indonesia Luar Negeri,,special,2021,SMA/MA,Negeri,11,734,0,0,76,3,64,74
+Sekolah Indonesia Luar Negeri,,special,2021,SMA/MA,Negeri dan Swasta,12,831,0,0,91,5,70,80
+Sekolah Indonesia Luar Negeri,,special,2021,SMA/MA,Swasta,1,97,0,0,15,2,6,6
+Sekolah Indonesia Luar Negeri,,special,2021,SMK/MAK,Negeri,1,171,0,0,4,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2021,SMK/MAK,Negeri dan Swasta,1,171,0,0,4,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2021,SMK/MAK,Swasta,0,0,0,0,0,0,0,0
+Sekolah Indonesia Luar Negeri,,special,2021,SMP/MTs,Negeri,46,4607,0,63,179,8,212,343
+Sekolah Indonesia Luar Negeri,,special,2021,SMP/MTs,Negeri dan Swasta,59,6030,0,70,237,8,266,442
+Sekolah Indonesia Luar Negeri,,special,2021,SMP/MTs,Swasta,13,1423,0,7,58,0,54,99
+Sulawesi Barat,76.0,province,2021,SD/MI,Negeri,1297,140669,0,334,11623,1722,8611,9582
+Sulawesi Barat,76.0,province,2021,SD/MI,Negeri dan Swasta,1325,144640,0,346,11852,1763,8827,9804
+Sulawesi Barat,76.0,province,2021,SD/MI,Swasta,28,3971,0,12,229,41,216,222
+Sulawesi Barat,76.0,province,2021,SMA/MA,Negeri,76,28047,0,59,2086,566,938,1186
+Sulawesi Barat,76.0,province,2021,SMA/MA,Negeri dan Swasta,88,29186,0,60,2154,581,990,1251
+Sulawesi Barat,76.0,province,2021,SMA/MA,Swasta,12,1139,0,1,68,15,52,65
+Sulawesi Barat,76.0,province,2021,SMK/MAK,Negeri,59,21654,0,61,1697,580,822,937
+Sulawesi Barat,76.0,province,2021,SMK/MAK,Negeri dan Swasta,131,28931,0,101,2333,718,1201,1405
+Sulawesi Barat,76.0,province,2021,SMK/MAK,Swasta,72,7277,0,40,636,138,379,468
+Sulawesi Barat,76.0,province,2021,SMP/MTs,Negeri,318,51302,0,131,4658,1410,1994,2744
+Sulawesi Barat,76.0,province,2021,SMP/MTs,Negeri dan Swasta,377,56502,0,155,5068,1474,2226,3031
+Sulawesi Barat,76.0,province,2021,SMP/MTs,Swasta,59,5200,0,24,410,64,232,287
+Sulawesi Selatan,73.0,province,2021,SD/MI,Negeri,6087,817052,0,1488,59355,6984,43011,45149
+Sulawesi Selatan,73.0,province,2021,SD/MI,Negeri dan Swasta,6408,881483,0,1542,63473,7305,45947,48388
+Sulawesi Selatan,73.0,province,2021,SD/MI,Swasta,321,64431,0,54,4118,321,2936,3239
+Sulawesi Selatan,73.0,province,2021,SMA/MA,Negeri,335,193797,0,586,12575,2123,6099,7487
+Sulawesi Selatan,73.0,province,2021,SMA/MA,Negeri dan Swasta,595,229715,0,771,15192,2466,7610,9462
+Sulawesi Selatan,73.0,province,2021,SMA/MA,Swasta,260,35918,0,185,2617,343,1511,1975
+Sulawesi Selatan,73.0,province,2021,SMK/MAK,Negeri,169,98586,0,230,7056,1105,3441,3817
+Sulawesi Selatan,73.0,province,2021,SMK/MAK,Negeri dan Swasta,416,135100,0,503,10041,1586,5387,6238
+Sulawesi Selatan,73.0,province,2021,SMK/MAK,Swasta,247,36514,0,273,2985,481,1946,2421
+Sulawesi Selatan,73.0,province,2021,SMP/MTs,Negeri,1265,295626,0,550,24602,5447,10888,14230
+Sulawesi Selatan,73.0,province,2021,SMP/MTs,Negeri dan Swasta,1694,349895,0,765,28583,6023,13091,17111
+Sulawesi Selatan,73.0,province,2021,SMP/MTs,Swasta,429,54269,0,215,3981,576,2203,2881
+Sulawesi Tengah,72.0,province,2021,SD/MI,Negeri,2671,281699,0,758,21863,3817,17190,20851
+Sulawesi Tengah,72.0,province,2021,SD/MI,Negeri dan Swasta,2914,306410,0,818,23781,4003,18811,22611
+Sulawesi Tengah,72.0,province,2021,SD/MI,Swasta,243,24711,0,60,1918,186,1621,1760
+Sulawesi Tengah,72.0,province,2021,SMA/MA,Negeri,175,73134,0,182,4577,824,2382,2764
+Sulawesi Tengah,72.0,province,2021,SMA/MA,Negeri dan Swasta,227,79520,0,207,5163,910,2685,3194
+Sulawesi Tengah,72.0,province,2021,SMA/MA,Swasta,52,6386,0,25,586,86,303,430
+Sulawesi Tengah,72.0,province,2021,SMK/MAK,Negeri,106,35101,0,131,2745,436,1380,1756
+Sulawesi Tengah,72.0,province,2021,SMK/MAK,Negeri dan Swasta,184,46501,0,177,3708,594,1944,2479
+Sulawesi Tengah,72.0,province,2021,SMK/MAK,Swasta,78,11400,0,46,963,158,564,723
+Sulawesi Tengah,72.0,province,2021,SMP/MTs,Negeri,731,112116,0,362,9734,2273,4414,6291
+Sulawesi Tengah,72.0,province,2021,SMP/MTs,Negeri dan Swasta,860,123629,0,454,10726,2462,4943,6980
+Sulawesi Tengah,72.0,province,2021,SMP/MTs,Swasta,129,11513,0,92,992,189,529,689
+Sulawesi Tenggara,74.0,province,2021,SD/MI,Negeri,2255,280749,0,629,21387,1472,15712,18095
+Sulawesi Tenggara,74.0,province,2021,SD/MI,Negeri dan Swasta,2332,292013,0,641,22087,1539,16287,18684
+Sulawesi Tenggara,74.0,province,2021,SD/MI,Swasta,77,11264,0,12,700,67,575,589
+Sulawesi Tenggara,74.0,province,2021,SMA/MA,Negeri,245,89174,0,188,6247,571,3095,4081
+Sulawesi Tenggara,74.0,province,2021,SMA/MA,Negeri dan Swasta,305,94467,0,238,6755,622,3365,4445
+Sulawesi Tenggara,74.0,province,2021,SMA/MA,Swasta,60,5293,0,50,508,51,270,364
+Sulawesi Tenggara,74.0,province,2021,SMK/MAK,Negeri,102,32677,0,61,2616,228,1378,1585
+Sulawesi Tenggara,74.0,province,2021,SMK/MAK,Negeri dan Swasta,165,39032,0,87,3278,277,1719,2093
+Sulawesi Tenggara,74.0,province,2021,SMK/MAK,Swasta,63,6355,0,26,662,49,341,508
+Sulawesi Tenggara,74.0,province,2021,SMP/MTs,Negeri,691,116819,0,212,11223,1498,4606,6397
+Sulawesi Tenggara,74.0,province,2021,SMP/MTs,Negeri dan Swasta,774,124828,0,235,11929,1571,4965,6839
+Sulawesi Tenggara,74.0,province,2021,SMP/MTs,Swasta,83,8009,0,23,706,73,359,442
+Sulawesi Utara,71.0,province,2021,SD/MI,Negeri,1361,131692,0,415,10830,401,8725,9463
+Sulawesi Utara,71.0,province,2021,SD/MI,Negeri dan Swasta,2215,214539,0,607,16187,576,14173,15382
+Sulawesi Utara,71.0,province,2021,SD/MI,Swasta,854,82847,0,192,5357,175,5448,5919
+Sulawesi Utara,71.0,province,2021,SMA/MA,Negeri,121,48789,0,96,3610,562,1816,2078
+Sulawesi Utara,71.0,province,2021,SMA/MA,Negeri dan Swasta,229,62858,0,142,4661,668,2530,2992
+Sulawesi Utara,71.0,province,2021,SMA/MA,Swasta,108,14069,0,46,1051,106,714,914
+Sulawesi Utara,71.0,province,2021,SMK/MAK,Negeri,91,38050,0,149,2893,371,1596,1645
+Sulawesi Utara,71.0,province,2021,SMK/MAK,Negeri dan Swasta,187,53224,0,188,4122,497,2446,2686
+Sulawesi Utara,71.0,province,2021,SMK/MAK,Swasta,96,15174,0,39,1229,126,850,1041
+Sulawesi Utara,71.0,province,2021,SMP/MTs,Negeri,474,80137,0,192,6517,725,3113,4203
+Sulawesi Utara,71.0,province,2021,SMP/MTs,Negeri dan Swasta,727,107259,0,244,8361,872,4268,5735
+Sulawesi Utara,71.0,province,2021,SMP/MTs,Swasta,253,27122,0,52,1844,147,1155,1532
+Sumatera Barat,13.0,province,2021,SD/MI,Negeri,3981,548253,0,962,38071,5385,28327,30998
+Sumatera Barat,13.0,province,2021,SD/MI,Negeri dan Swasta,4245,608926,0,1034,41786,5857,30971,34037
+Sumatera Barat,13.0,province,2021,SD/MI,Swasta,264,60673,0,72,3715,472,2644,3039
+Sumatera Barat,13.0,province,2021,SMA/MA,Negeri,236,137426,0,148,9834,1826,4353,4934
+Sumatera Barat,13.0,province,2021,SMA/MA,Negeri dan Swasta,331,151414,0,212,11190,2033,4946,5750
+Sumatera Barat,13.0,province,2021,SMA/MA,Swasta,95,13988,0,64,1356,207,593,816
+Sumatera Barat,13.0,province,2021,SMK/MAK,Negeri,114,83668,0,214,6119,1046,2727,2510
+Sumatera Barat,13.0,province,2021,SMK/MAK,Negeri dan Swasta,212,98966,0,281,7622,1290,3493,3513
+Sumatera Barat,13.0,province,2021,SMK/MAK,Swasta,98,15298,0,67,1503,244,766,1003
+Sumatera Barat,13.0,province,2021,SMP/MTs,Negeri,674,184026,0,506,15330,2782,6607,8468
+Sumatera Barat,13.0,province,2021,SMP/MTs,Negeri dan Swasta,845,207605,0,530,17371,3112,7572,9807
+Sumatera Barat,13.0,province,2021,SMP/MTs,Swasta,171,23579,0,24,2041,330,965,1339
+Sumatera Selatan,16.0,province,2021,SD/MI,Negeri,4262,812885,0,1761,49240,5238,35817,36767
+Sumatera Selatan,16.0,province,2021,SD/MI,Negeri dan Swasta,4685,896170,0,1873,54276,5828,39604,40828
+Sumatera Selatan,16.0,province,2021,SD/MI,Swasta,423,83285,0,112,5036,590,3787,4061
+Sumatera Selatan,16.0,province,2021,SMA/MA,Negeri,329,163305,0,158,10914,2268,5022,5303
+Sumatera Selatan,16.0,province,2021,SMA/MA,Negeri dan Swasta,599,210175,0,340,14033,2910,6733,7684
+Sumatera Selatan,16.0,province,2021,SMA/MA,Swasta,270,46870,0,182,3119,642,1711,2381
+Sumatera Selatan,16.0,province,2021,SMK/MAK,Negeri,118,77946,0,142,4958,1079,2419,2115
+Sumatera Selatan,16.0,province,2021,SMK/MAK,Negeri dan Swasta,305,129647,0,360,7952,1642,4304,4288
+Sumatera Selatan,16.0,province,2021,SMK/MAK,Swasta,187,51701,0,218,2994,563,1885,2173
+Sumatera Selatan,16.0,province,2021,SMP/MTs,Negeri,901,287828,0,260,20851,3934,9738,11123
+Sumatera Selatan,16.0,province,2021,SMP/MTs,Negeri dan Swasta,1382,359328,0,441,25398,4775,12432,14569
+Sumatera Selatan,16.0,province,2021,SMP/MTs,Swasta,481,71500,0,181,4547,841,2694,3446
+Sumatera Utara,12.0,province,2021,SD/MI,Negeri,8262,1247205,0,2699,81414,5849,60519,65146
+Sumatera Utara,12.0,province,2021,SD/MI,Negeri dan Swasta,9790,1587108,0,3521,98483,7088,74280,80260
+Sumatera Utara,12.0,province,2021,SD/MI,Swasta,1528,339903,0,822,17069,1239,13761,15114
+Sumatera Utara,12.0,province,2021,SMA/MA,Negeri,427,246573,0,553,15106,1922,7376,8008
+Sumatera Utara,12.0,province,2021,SMA/MA,Negeri dan Swasta,1066,384886,0,982,22710,2768,12104,13860
+Sumatera Utara,12.0,province,2021,SMA/MA,Swasta,639,138313,0,429,7604,846,4728,5852
+Sumatera Utara,12.0,province,2021,SMK/MAK,Negeri,269,144571,0,381,9821,1100,4707,5034
+Sumatera Utara,12.0,province,2021,SMK/MAK,Negeri dan Swasta,974,327691,0,1617,19741,2270,11465,13505
+Sumatera Utara,12.0,province,2021,SMK/MAK,Swasta,705,183120,0,1236,9920,1170,6758,8471
+Sumatera Utara,12.0,province,2021,SMP/MTs,Negeri,1331,433519,0,666,30475,3724,14653,17620
+Sumatera Utara,12.0,province,2021,SMP/MTs,Negeri dan Swasta,2646,654889,0,1284,43016,5119,22570,27563
+Sumatera Utara,12.0,province,2021,SMP/MTs,Swasta,1315,221370,0,618,12541,1395,7917,9943
+Aceh,11.0,province,2022,SD/MI,Negeri,3336,451027,0,993,42509,3572,23750,24534
+Aceh,11.0,province,2022,SD/MI,Negeri dan Swasta,3529,486958,0,1060,45047,3820,25385,26226
+Aceh,11.0,province,2022,SD/MI,Swasta,193,35931,0,67,2538,248,1635,1692
+Aceh,11.0,province,2022,SMA/MA,Negeri,394,112810,0,237,11803,2721,4235,5474
+Aceh,11.0,province,2022,SMA/MA,Negeri dan Swasta,535,131271,0,299,13356,3020,5035,6364
+Aceh,11.0,province,2022,SMA/MA,Swasta,141,18461,0,62,1553,299,800,890
+Aceh,11.0,province,2022,SMK/MAK,Negeri,153,45444,0,148,5973,1385,2197,2278
+Aceh,11.0,province,2022,SMK/MAK,Negeri dan Swasta,220,52939,0,169,6699,1548,2586,2713
+Aceh,11.0,province,2022,SMK/MAK,Swasta,67,7495,0,21,726,163,389,435
+Aceh,11.0,province,2022,SMP/MTs,Negeri,902,153499,0,329,19326,4308,6002,8520
+Aceh,11.0,province,2022,SMP/MTs,Negeri dan Swasta,1261,200088,0,440,22788,4819,7861,10577
+Aceh,11.0,province,2022,SMP/MTs,Swasta,359,46589,0,111,3462,511,1859,2057
+Bali,51.0,province,2022,SD/MI,Negeri,2265,343632,0,154,20906,3806,15696,15715
+Bali,51.0,province,2022,SD/MI,Negeri dan Swasta,2416,382864,0,168,23318,4124,17353,17443
+Bali,51.0,province,2022,SD/MI,Swasta,151,39232,0,14,2412,318,1657,1728
+Bali,51.0,province,2022,SMA/MA,Negeri,88,79732,0,17,4470,1656,2280,2121
+Bali,51.0,province,2022,SMA/MA,Negeri dan Swasta,163,94025,0,21,5564,1909,2813,2962
+Bali,51.0,province,2022,SMA/MA,Swasta,75,14293,0,4,1094,253,533,841
+Bali,51.0,province,2022,SMK/MAK,Negeri,54,52391,0,9,3384,1009,1652,1280
+Bali,51.0,province,2022,SMK/MAK,Negeri dan Swasta,171,87999,0,34,5725,1470,2985,2851
+Bali,51.0,province,2022,SMK/MAK,Swasta,117,35608,0,25,2341,461,1333,1571
+Bali,51.0,province,2022,SMP/MTs,Negeri,273,160227,0,42,9127,2565,4886,4570
+Bali,51.0,province,2022,SMP/MTs,Negeri dan Swasta,403,187545,0,46,10865,2998,5837,5860
+Bali,51.0,province,2022,SMP/MTs,Swasta,130,27318,0,4,1738,433,951,1290
+Banten,36.0,province,2022,SD/MI,Negeri,3895,996698,0,1221,41415,3322,35440,31242
+Banten,36.0,province,2022,SD/MI,Negeri dan Swasta,4634,1185883,0,1397,52347,4255,43404,40001
+Banten,36.0,province,2022,SD/MI,Swasta,739,189185,0,176,10932,933,7964,8759
+Banten,36.0,province,2022,SMA/MA,Negeri,161,139369,0,93,6645,1639,3817,3739
+Banten,36.0,province,2022,SMA/MA,Negeri dan Swasta,603,217386,0,342,11951,2584,6792,7321
+Banten,36.0,province,2022,SMA/MA,Swasta,442,78017,0,249,5306,945,2975,3582
+Banten,36.0,province,2022,SMK/MAK,Negeri,91,88794,0,292,4338,1143,2556,2146
+Banten,36.0,province,2022,SMK/MAK,Negeri dan Swasta,739,249367,0,580,13091,3200,8535,9060
+Banten,36.0,province,2022,SMK/MAK,Swasta,648,160573,0,288,8753,2057,5979,6914
+Banten,36.0,province,2022,SMP/MTs,Negeri,573,268385,0,212,13154,2057,8072,8565
+Banten,36.0,province,2022,SMP/MTs,Negeri dan Swasta,1581,434388,0,471,22364,3284,14074,15971
+Banten,36.0,province,2022,SMP/MTs,Swasta,1008,166003,0,259,9210,1227,6002,7406
+Bengkulu,17.0,province,2022,SD/MI,Negeri,1290,173543,0,266,13072,1379,9439,10155
+Bengkulu,17.0,province,2022,SD/MI,Negeri dan Swasta,1398,194381,0,286,14656,1537,10419,11158
+Bengkulu,17.0,province,2022,SD/MI,Swasta,108,20838,0,20,1584,158,980,1003
+Bengkulu,17.0,province,2022,SMA/MA,Negeri,109,49781,0,115,3776,959,1644,1719
+Bengkulu,17.0,province,2022,SMA/MA,Negeri dan Swasta,146,52613,0,119,4059,1017,1801,1909
+Bengkulu,17.0,province,2022,SMA/MA,Swasta,37,2832,0,4,283,58,157,190
+Bengkulu,17.0,province,2022,SMK/MAK,Negeri,64,26402,0,186,2501,519,1103,1053
+Bengkulu,17.0,province,2022,SMK/MAK,Negeri dan Swasta,104,30208,0,198,2955,609,1335,1327
+Bengkulu,17.0,province,2022,SMK/MAK,Swasta,40,3806,0,12,454,90,232,274
+Bengkulu,17.0,province,2022,SMP/MTs,Negeri,380,77696,0,90,6883,1216,2959,3558
+Bengkulu,17.0,province,2022,SMP/MTs,Negeri dan Swasta,448,85610,0,91,7601,1309,3294,3954
+Bengkulu,17.0,province,2022,SMP/MTs,Swasta,68,7914,0,1,718,93,335,396
+D.I. Yogyakarta,34.0,province,2022,SD/MI,Negeri,1423,190728,0,51,13372,2083,9849,10235
+D.I. Yogyakarta,34.0,province,2022,SD/MI,Negeri dan Swasta,1848,274438,0,99,18626,2916,13739,14291
+D.I. Yogyakarta,34.0,province,2022,SD/MI,Swasta,425,83710,0,48,5254,833,3890,4056
+D.I. Yogyakarta,34.0,province,2022,SMA/MA,Negeri,69,42808,0,1,2604,921,1243,1313
+D.I. Yogyakarta,34.0,province,2022,SMA/MA,Negeri dan Swasta,173,60040,0,5,4263,1325,2019,2270
+D.I. Yogyakarta,34.0,province,2022,SMA/MA,Swasta,104,17232,0,4,1659,404,776,957
+D.I. Yogyakarta,34.0,province,2022,SMK/MAK,Negeri,50,50598,0,6,3226,913,1543,1323
+D.I. Yogyakarta,34.0,province,2022,SMK/MAK,Negeri dan Swasta,212,86885,0,20,6513,1762,3253,3239
+D.I. Yogyakarta,34.0,province,2022,SMK/MAK,Swasta,162,36287,0,14,3287,849,1710,1916
+D.I. Yogyakarta,34.0,province,2022,SMP/MTs,Negeri,214,92111,0,9,5525,1258,2966,3137
+D.I. Yogyakarta,34.0,province,2022,SMP/MTs,Negeri dan Swasta,451,133137,0,14,8657,2074,4566,4948
+D.I. Yogyakarta,34.0,province,2022,SMP/MTs,Swasta,237,41026,0,5,3132,816,1600,1811
+D.K.I. Jakarta,31.0,province,2022,SD/MI,Negeri,1308,546713,0,457,23488,2527,18523,17044
+D.K.I. Jakarta,31.0,province,2022,SD/MI,Negeri dan Swasta,2239,765090,0,815,38149,4476,28219,27989
+D.K.I. Jakarta,31.0,province,2022,SD/MI,Swasta,931,218377,0,358,14661,1949,9696,10945
+D.K.I. Jakarta,31.0,province,2022,SMA/MA,Negeri,117,90825,0,231,5029,1067,2487,2556
+D.K.I. Jakarta,31.0,province,2022,SMA/MA,Negeri dan Swasta,492,189887,0,337,11314,2367,6060,6718
+D.K.I. Jakarta,31.0,province,2022,SMA/MA,Swasta,375,99062,0,106,6285,1300,3573,4162
+D.K.I. Jakarta,31.0,province,2022,SMK/MAK,Negeri,73,56768,0,49,3228,711,1667,1647
+D.K.I. Jakarta,31.0,province,2022,SMK/MAK,Negeri dan Swasta,572,195974,0,192,11257,2470,6764,8089
+D.K.I. Jakarta,31.0,province,2022,SMK/MAK,Swasta,499,139206,0,143,8029,1759,5097,6442
+D.K.I. Jakarta,31.0,province,2022,SMP/MTs,Negeri,293,219543,0,188,9842,2191,6024,5968
+D.K.I. Jakarta,31.0,province,2022,SMP/MTs,Negeri dan Swasta,1078,349766,0,272,18680,3962,10906,12590
+D.K.I. Jakarta,31.0,province,2022,SMP/MTs,Swasta,785,130223,0,84,8838,1771,4882,6622
+Gorontalo,75.0,province,2022,SD/MI,Negeri,896,103914,0,514,7213,825,5827,6402
+Gorontalo,75.0,province,2022,SD/MI,Negeri dan Swasta,928,108142,0,518,7466,854,6042,6616
+Gorontalo,75.0,province,2022,SD/MI,Swasta,32,4228,0,4,253,29,215,214
+Gorontalo,75.0,province,2022,SMA/MA,Negeri,61,29992,0,157,1898,357,980,1010
+Gorontalo,75.0,province,2022,SMA/MA,Negeri dan Swasta,70,31262,0,168,2017,380,1032,1072
+Gorontalo,75.0,province,2022,SMA/MA,Swasta,9,1270,0,11,119,23,52,62
+Gorontalo,75.0,province,2022,SMK/MAK,Negeri,40,15543,0,120,1491,231,724,748
+Gorontalo,75.0,province,2022,SMK/MAK,Negeri dan Swasta,58,18033,0,149,1750,294,856,896
+Gorontalo,75.0,province,2022,SMK/MAK,Swasta,18,2490,0,29,259,63,132,148
+Gorontalo,75.0,province,2022,SMP/MTs,Negeri,312,40483,0,177,3740,626,1727,2155
+Gorontalo,75.0,province,2022,SMP/MTs,Negeri dan Swasta,340,43046,0,183,3969,651,1847,2288
+Gorontalo,75.0,province,2022,SMP/MTs,Swasta,28,2563,0,6,229,25,120,133
+Jambi,15.0,province,2022,SD/MI,Negeri,2308,335196,0,626,22834,2694,17282,17215
+Jambi,15.0,province,2022,SD/MI,Negeri dan Swasta,2463,368694,0,664,24865,2890,18780,18742
+Jambi,15.0,province,2022,SD/MI,Swasta,155,33498,0,38,2031,196,1498,1527
+Jambi,15.0,province,2022,SMA/MA,Negeri,162,69152,0,173,5203,1180,2300,2499
+Jambi,15.0,province,2022,SMA/MA,Negeri dan Swasta,239,78445,0,191,5923,1296,2693,2991
+Jambi,15.0,province,2022,SMA/MA,Swasta,77,9293,0,18,720,116,393,492
+Jambi,15.0,province,2022,SMK/MAK,Negeri,104,39326,0,38,3437,766,1583,1533
+Jambi,15.0,province,2022,SMK/MAK,Negeri dan Swasta,179,50064,0,68,4309,936,2105,2127
+Jambi,15.0,province,2022,SMK/MAK,Swasta,75,10738,0,30,872,170,522,594
+Jambi,15.0,province,2022,SMP/MTs,Negeri,560,97895,0,124,9656,1815,3821,4820
+Jambi,15.0,province,2022,SMP/MTs,Negeri dan Swasta,703,118271,0,160,10974,1992,4613,5728
+Jambi,15.0,province,2022,SMP/MTs,Swasta,143,20376,0,36,1318,177,792,908
+Jawa Barat,32.0,province,2022,SD/MI,Negeri,17302,3883339,0,4767,160813,12971,141935,125154
+Jawa Barat,32.0,province,2022,SD/MI,Negeri dan Swasta,19659,4450934,0,5272,194148,16637,165987,150970
+Jawa Barat,32.0,province,2022,SD/MI,Swasta,2357,567595,0,505,33335,3666,24052,25816
+Jawa Barat,32.0,province,2022,SMA/MA,Negeri,514,508679,0,159,24988,6397,14727,13761
+Jawa Barat,32.0,province,2022,SMA/MA,Negeri dan Swasta,1711,792927,0,688,40560,9117,24671,24751
+Jawa Barat,32.0,province,2022,SMA/MA,Swasta,1197,284248,0,529,15572,2720,9944,10990
+Jawa Barat,32.0,province,2022,SMK/MAK,Negeri,288,330779,0,90,17257,4763,10142,8531
+Jawa Barat,32.0,province,2022,SMK/MAK,Negeri dan Swasta,2905,1076445,0,1595,55618,12387,37488,39029
+Jawa Barat,32.0,province,2022,SMK/MAK,Swasta,2617,745666,0,1505,38361,7624,27346,30498
+Jawa Barat,32.0,province,2022,SMP/MTs,Negeri,1982,1108220,0,513,52596,11151,33519,35898
+Jawa Barat,32.0,province,2022,SMP/MTs,Negeri dan Swasta,5825,1781490,0,1217,90904,17392,57509,64105
+Jawa Barat,32.0,province,2022,SMP/MTs,Swasta,3843,673266,0,704,38308,6241,23990,28207
+Jawa Tengah,33.0,province,2022,SD/MI,Negeri,17472,2322013,0,2043,139771,12541,114300,117530
+Jawa Tengah,33.0,province,2022,SD/MI,Negeri dan Swasta,18760,2631174,0,2212,155928,14473,127512,131443
+Jawa Tengah,33.0,province,2022,SD/MI,Swasta,1288,309161,0,169,16157,1932,13212,13913
+Jawa Tengah,33.0,province,2022,SMA/MA,Negeri,361,335227,0,77,18116,4340,9567,9581
+Jawa Tengah,33.0,province,2022,SMA/MA,Negeri dan Swasta,854,438529,0,166,25363,5971,13459,14380
+Jawa Tengah,33.0,province,2022,SMA/MA,Swasta,493,103302,0,89,7247,1631,3892,4799
+Jawa Tengah,33.0,province,2022,SMK/MAK,Negeri,237,292022,0,93,16682,3466,8462,6906
+Jawa Tengah,33.0,province,2022,SMK/MAK,Negeri dan Swasta,1549,790135,0,652,44656,9644,26730,25995
+Jawa Tengah,33.0,province,2022,SMK/MAK,Swasta,1312,498113,0,559,27974,6178,18268,19089
+Jawa Tengah,33.0,province,2022,SMP/MTs,Negeri,1771,913433,0,243,50220,11087,29841,31171
+Jawa Tengah,33.0,province,2022,SMP/MTs,Negeri dan Swasta,3411,1192070,0,464,67706,14789,40524,44208
+Jawa Tengah,33.0,province,2022,SMP/MTs,Swasta,1640,278633,0,221,17486,3702,10683,13037
+Jawa Timur,35.0,province,2022,SD/MI,Negeri,16980,2184504,0,2155,146145,12935,116523,119014
+Jawa Timur,35.0,province,2022,SD/MI,Negeri dan Swasta,19007,2579913,0,2654,169022,15214,134833,138139
+Jawa Timur,35.0,province,2022,SD/MI,Swasta,2027,395409,0,499,22877,2279,18310,19125
+Jawa Timur,35.0,province,2022,SMA/MA,Negeri,423,343552,0,188,19349,4842,10291,10419
+Jawa Timur,35.0,province,2022,SMA/MA,Negeri dan Swasta,1518,537715,0,842,32984,7011,17784,19396
+Jawa Timur,35.0,province,2022,SMA/MA,Swasta,1095,194163,0,654,13635,2169,7493,8977
+Jawa Timur,35.0,province,2022,SMK/MAK,Negeri,297,343774,0,234,19829,4592,10671,8599
+Jawa Timur,35.0,province,2022,SMK/MAK,Negeri dan Swasta,2149,770230,0,1645,46840,9062,27738,26487
+Jawa Timur,35.0,province,2022,SMK/MAK,Swasta,1852,426456,0,1411,27011,4470,17067,17888
+Jawa Timur,35.0,province,2022,SMP/MTs,Negeri,1731,809355,0,423,47594,10987,26762,29516
+Jawa Timur,35.0,province,2022,SMP/MTs,Negeri dan Swasta,4941,1222120,0,1792,76420,14742,43414,48607
+Jawa Timur,35.0,province,2022,SMP/MTs,Swasta,3210,412770,0,1369,28826,3755,16652,19091
+Kalimantan Barat,61.0,province,2022,SD/MI,Negeri,4139,504176,0,977,32505,2249,28585,27334
+Kalimantan Barat,61.0,province,2022,SD/MI,Negeri dan Swasta,4438,565648,0,1092,35561,2562,31168,30003
+Kalimantan Barat,61.0,province,2022,SD/MI,Swasta,299,61472,0,115,3056,313,2583,2669
+Kalimantan Barat,61.0,province,2022,SMA/MA,Negeri,273,100690,0,104,5810,719,3250,3236
+Kalimantan Barat,61.0,province,2022,SMA/MA,Negeri dan Swasta,459,130240,0,167,7689,944,4361,4596
+Kalimantan Barat,61.0,province,2022,SMA/MA,Swasta,186,29550,0,63,1879,225,1111,1360
+Kalimantan Barat,61.0,province,2022,SMK/MAK,Negeri,110,56239,0,148,3053,396,1946,1564
+Kalimantan Barat,61.0,province,2022,SMK/MAK,Negeri dan Swasta,228,75902,0,223,4352,583,2809,2549
+Kalimantan Barat,61.0,province,2022,SMK/MAK,Swasta,118,19663,0,75,1299,187,863,985
+Kalimantan Barat,61.0,province,2022,SMP/MTs,Negeri,1023,184443,0,303,13076,1461,6885,7574
+Kalimantan Barat,61.0,province,2022,SMP/MTs,Negeri dan Swasta,1363,228075,0,384,15508,1753,8566,9608
+Kalimantan Barat,61.0,province,2022,SMP/MTs,Swasta,340,43632,0,81,2432,292,1681,2034
+Kalimantan Selatan,63.0,province,2022,SD/MI,Negeri,2740,323293,0,515,25204,2443,19179,19697
+Kalimantan Selatan,63.0,province,2022,SD/MI,Negeri dan Swasta,2915,356919,0,534,27439,2653,20723,21346
+Kalimantan Selatan,63.0,province,2022,SD/MI,Swasta,175,33626,0,19,2235,210,1544,1649
+Kalimantan Selatan,63.0,province,2022,SMA/MA,Negeri,142,59613,0,45,4137,898,2001,2120
+Kalimantan Selatan,63.0,province,2022,SMA/MA,Negeri dan Swasta,205,66465,0,62,4840,1029,2312,2546
+Kalimantan Selatan,63.0,province,2022,SMA/MA,Swasta,63,6852,0,17,703,131,311,426
+Kalimantan Selatan,63.0,province,2022,SMK/MAK,Negeri,63,42514,0,85,2984,735,1477,1323
+Kalimantan Selatan,63.0,province,2022,SMK/MAK,Negeri dan Swasta,126,55319,0,121,4024,982,2059,1996
+Kalimantan Selatan,63.0,province,2022,SMK/MAK,Swasta,63,12805,0,36,1040,247,582,673
+Kalimantan Selatan,63.0,province,2022,SMP/MTs,Negeri,523,97661,0,166,7733,1195,3749,4683
+Kalimantan Selatan,63.0,province,2022,SMP/MTs,Negeri dan Swasta,625,111622,0,183,8775,1356,4320,5354
+Kalimantan Selatan,63.0,province,2022,SMP/MTs,Swasta,102,13961,0,17,1042,161,571,671
+Kalimantan Tengah,62.0,province,2022,SD/MI,Negeri,2412,232282,0,459,20698,1112,15682,16032
+Kalimantan Tengah,62.0,province,2022,SD/MI,Negeri dan Swasta,2648,275040,0,549,23026,1301,17545,17982
+Kalimantan Tengah,62.0,province,2022,SD/MI,Swasta,236,42758,0,90,2328,189,1863,1950
+Kalimantan Tengah,62.0,province,2022,SMA/MA,Negeri,181,54913,0,94,4296,450,1952,2082
+Kalimantan Tengah,62.0,province,2022,SMA/MA,Negeri dan Swasta,242,61114,0,104,4900,512,2279,2443
+Kalimantan Tengah,62.0,province,2022,SMA/MA,Swasta,61,6201,0,10,604,62,327,361
+Kalimantan Tengah,62.0,province,2022,SMK/MAK,Negeri,94,27875,0,92,2475,256,1164,1191
+Kalimantan Tengah,62.0,province,2022,SMK/MAK,Negeri dan Swasta,139,33922,0,105,3049,313,1457,1519
+Kalimantan Tengah,62.0,province,2022,SMK/MAK,Swasta,45,6047,0,13,574,57,293,328
+Kalimantan Tengah,62.0,province,2022,SMP/MTs,Negeri,710,87292,0,204,8108,777,3694,4446
+Kalimantan Tengah,62.0,province,2022,SMP/MTs,Negeri dan Swasta,858,105422,0,220,9383,880,4426,5260
+Kalimantan Tengah,62.0,province,2022,SMP/MTs,Swasta,148,18130,0,16,1275,103,732,814
+Kalimantan Timur,64.0,province,2022,SD/MI,Negeri,1652,346884,0,567,20778,3007,15572,14270
+Kalimantan Timur,64.0,province,2022,SD/MI,Negeri dan Swasta,1919,412229,0,639,24222,3454,18338,17163
+Kalimantan Timur,64.0,province,2022,SD/MI,Swasta,267,65345,0,72,3444,447,2766,2893
+Kalimantan Timur,64.0,province,2022,SMA/MA,Negeri,143,66986,0,59,4008,908,2076,2101
+Kalimantan Timur,64.0,province,2022,SMA/MA,Negeri dan Swasta,233,80220,0,75,4977,1106,2607,2742
+Kalimantan Timur,64.0,province,2022,SMA/MA,Swasta,90,13234,0,16,969,198,531,641
+Kalimantan Timur,64.0,province,2022,SMK/MAK,Negeri,87,52654,0,25,3321,726,1723,1504
+Kalimantan Timur,64.0,province,2022,SMK/MAK,Negeri dan Swasta,216,80736,0,55,5059,1164,2973,2904
+Kalimantan Timur,64.0,province,2022,SMK/MAK,Swasta,129,28082,0,30,1738,438,1250,1400
+Kalimantan Timur,64.0,province,2022,SMP/MTs,Negeri,451,127561,0,165,8218,1699,4355,4696
+Kalimantan Timur,64.0,province,2022,SMP/MTs,Negeri dan Swasta,683,160291,0,184,10270,2057,5648,6259
+Kalimantan Timur,64.0,province,2022,SMP/MTs,Swasta,232,32730,0,19,2052,358,1293,1563
+Kalimantan Utara,65.0,province,2022,SD/MI,Negeri,437,69072,0,138,5076,616,3683,3443
+Kalimantan Utara,65.0,province,2022,SD/MI,Negeri dan Swasta,485,78529,0,162,5634,691,4109,3861
+Kalimantan Utara,65.0,province,2022,SD/MI,Swasta,48,9457,0,24,558,75,426,418
+Kalimantan Utara,65.0,province,2022,SMA/MA,Negeri,44,15292,0,14,1108,229,528,530
+Kalimantan Utara,65.0,province,2022,SMA/MA,Negeri dan Swasta,67,18215,0,16,1351,280,655,692
+Kalimantan Utara,65.0,province,2022,SMA/MA,Swasta,23,2923,0,2,243,51,127,162
+Kalimantan Utara,65.0,province,2022,SMK/MAK,Negeri,21,9409,0,13,720,154,345,349
+Kalimantan Utara,65.0,province,2022,SMK/MAK,Negeri dan Swasta,32,10449,0,16,838,172,393,416
+Kalimantan Utara,65.0,province,2022,SMK/MAK,Swasta,11,1040,0,3,118,18,48,67
+Kalimantan Utara,65.0,province,2022,SMP/MTs,Negeri,156,29278,0,37,2340,385,1125,1170
+Kalimantan Utara,65.0,province,2022,SMP/MTs,Negeri dan Swasta,192,32962,0,39,2639,439,1280,1350
+Kalimantan Utara,65.0,province,2022,SMP/MTs,Swasta,36,3684,0,2,299,54,155,180
+Kepulauan Bangka Belitung,19.0,province,2022,SD/MI,Negeri,760,146317,0,219,7932,1816,6122,6527
+Kepulauan Bangka Belitung,19.0,province,2022,SD/MI,Negeri dan Swasta,832,162722,0,231,8867,1995,6796,7235
+Kepulauan Bangka Belitung,19.0,province,2022,SD/MI,Swasta,72,16405,0,12,935,179,674,708
+Kepulauan Bangka Belitung,19.0,province,2022,SMA/MA,Negeri,47,26033,0,18,1418,398,808,796
+Kepulauan Bangka Belitung,19.0,province,2022,SMA/MA,Negeri dan Swasta,71,29996,0,23,1694,474,960,1018
+Kepulauan Bangka Belitung,19.0,province,2022,SMA/MA,Swasta,24,3963,0,5,276,76,152,222
+Kepulauan Bangka Belitung,19.0,province,2022,SMK/MAK,Negeri,36,19335,0,49,1323,352,648,696
+Kepulauan Bangka Belitung,19.0,province,2022,SMK/MAK,Negeri dan Swasta,59,24934,0,51,1686,460,863,963
+Kepulauan Bangka Belitung,19.0,province,2022,SMK/MAK,Swasta,23,5599,0,2,363,108,215,267
+Kepulauan Bangka Belitung,19.0,province,2022,SMP/MTs,Negeri,163,52727,0,27,3043,987,1721,1879
+Kepulauan Bangka Belitung,19.0,province,2022,SMP/MTs,Negeri dan Swasta,225,61789,0,31,3625,1130,2062,2313
+Kepulauan Bangka Belitung,19.0,province,2022,SMP/MTs,Swasta,62,9062,0,4,582,143,341,434
+Kepulauan Riau,21.0,province,2022,SD/MI,Negeri,684,154066,0,167,8810,1701,6704,5698
+Kepulauan Riau,21.0,province,2022,SD/MI,Negeri dan Swasta,973,225575,0,271,13078,2112,9743,9062
+Kepulauan Riau,21.0,province,2022,SD/MI,Swasta,289,71509,0,104,4268,411,3039,3364
+Kepulauan Riau,21.0,province,2022,SMA/MA,Negeri,93,46609,0,59,2740,676,1383,1400
+Kepulauan Riau,21.0,province,2022,SMA/MA,Negeri dan Swasta,163,54434,0,61,3397,779,1763,1837
+Kepulauan Riau,21.0,province,2022,SMA/MA,Swasta,70,7825,0,2,657,103,380,437
+Kepulauan Riau,21.0,province,2022,SMK/MAK,Negeri,36,26053,0,3,1651,430,840,574
+Kepulauan Riau,21.0,province,2022,SMK/MAK,Negeri dan Swasta,110,36092,0,8,2447,552,1396,1334
+Kepulauan Riau,21.0,province,2022,SMK/MAK,Swasta,74,10039,0,5,796,122,556,760
+Kepulauan Riau,21.0,province,2022,SMP/MTs,Negeri,235,74360,0,14,4170,979,2306,2356
+Kepulauan Riau,21.0,province,2022,SMP/MTs,Negeri dan Swasta,410,97597,0,19,5959,1211,3241,3454
+Kepulauan Riau,21.0,province,2022,SMP/MTs,Swasta,175,23237,0,5,1789,232,935,1098
+Lampung,18.0,province,2022,SD/MI,Negeri,4314,719438,0,775,48403,3596,34428,33290
+Lampung,18.0,province,2022,SD/MI,Negeri dan Swasta,4732,799619,0,849,53297,4072,38178,37185
+Lampung,18.0,province,2022,SD/MI,Swasta,418,80181,0,74,4894,476,3750,3895
+Lampung,18.0,province,2022,SMA/MA,Negeri,239,123644,0,171,8083,1754,3878,4016
+Lampung,18.0,province,2022,SMA/MA,Negeri dan Swasta,519,164751,0,261,11060,2226,5534,5936
+Lampung,18.0,province,2022,SMA/MA,Swasta,280,41107,0,90,2977,472,1656,1920
+Lampung,18.0,province,2022,SMK/MAK,Negeri,111,67956,0,34,4755,1040,2360,2185
+Lampung,18.0,province,2022,SMK/MAK,Negeri dan Swasta,492,149719,0,127,10291,1959,5782,5868
+Lampung,18.0,province,2022,SMK/MAK,Swasta,381,81763,0,93,5536,919,3422,3683
+Lampung,18.0,province,2022,SMP/MTs,Negeri,709,239170,0,105,16672,2772,8174,8831
+Lampung,18.0,province,2022,SMP/MTs,Negeri dan Swasta,1435,329962,0,199,22868,3570,11803,13177
+Lampung,18.0,province,2022,SMP/MTs,Swasta,726,90792,0,94,6196,798,3629,4346
+Maluku,81.0,province,2022,SD/MI,Negeri,1276,148988,0,465,12262,1171,8423,8682
+Maluku,81.0,province,2022,SD/MI,Negeri dan Swasta,1812,207996,0,654,16216,1436,11806,12257
+Maluku,81.0,province,2022,SD/MI,Swasta,536,59008,0,189,3954,265,3383,3575
+Maluku,81.0,province,2022,SMA/MA,Negeri,211,57923,0,215,5175,719,2121,2307
+Maluku,81.0,province,2022,SMA/MA,Negeri dan Swasta,284,69542,0,262,6411,837,2639,2893
+Maluku,81.0,province,2022,SMA/MA,Swasta,73,11619,0,47,1236,118,518,586
+Maluku,81.0,province,2022,SMK/MAK,Negeri,82,16110,0,34,2084,304,825,857
+Maluku,81.0,province,2022,SMK/MAK,Negeri dan Swasta,115,21571,0,49,2640,354,1120,1129
+Maluku,81.0,province,2022,SMK/MAK,Swasta,33,5461,0,15,556,50,295,272
+Maluku,81.0,province,2022,SMP/MTs,Negeri,542,72347,0,172,7900,1088,2929,3507
+Maluku,81.0,province,2022,SMP/MTs,Negeri dan Swasta,685,89268,0,211,9501,1227,3619,4378
+Maluku,81.0,province,2022,SMP/MTs,Swasta,143,16921,0,39,1601,139,690,871
+Maluku Utara,82.0,province,2022,SD/MI,Negeri,1110,117634,0,493,9338,842,7100,7315
+Maluku Utara,82.0,province,2022,SD/MI,Negeri dan Swasta,1315,140564,0,534,10736,944,8381,8621
+Maluku Utara,82.0,province,2022,SD/MI,Swasta,205,22930,0,41,1398,102,1281,1306
+Maluku Utara,82.0,province,2022,SMA/MA,Negeri,139,34566,0,79,2708,348,1264,1341
+Maluku Utara,82.0,province,2022,SMA/MA,Negeri dan Swasta,217,43105,0,103,3424,407,1650,1731
+Maluku Utara,82.0,province,2022,SMA/MA,Swasta,78,8539,0,24,716,59,386,390
+Maluku Utara,82.0,province,2022,SMK/MAK,Negeri,63,9804,0,40,1121,148,547,572
+Maluku Utara,82.0,province,2022,SMK/MAK,Negeri dan Swasta,150,18771,0,107,1873,205,1010,1034
+Maluku Utara,82.0,province,2022,SMK/MAK,Swasta,87,8967,0,67,752,57,463,462
+Maluku Utara,82.0,province,2022,SMP/MTs,Negeri,369,45773,0,100,5026,618,1844,2279
+Maluku Utara,82.0,province,2022,SMP/MTs,Negeri dan Swasta,510,58898,0,144,6127,713,2420,2930
+Maluku Utara,82.0,province,2022,SMP/MTs,Swasta,141,13125,0,44,1101,95,576,651
+Nusa Tenggara Barat,52.0,province,2022,SD/MI,Negeri,3011,472110,0,944,36365,2833,21664,20622
+Nusa Tenggara Barat,52.0,province,2022,SD/MI,Negeri dan Swasta,3309,509469,0,1093,38970,3055,23644,22499
+Nusa Tenggara Barat,52.0,province,2022,SD/MI,Swasta,298,37359,0,149,2605,222,1980,1877
+Nusa Tenggara Barat,52.0,province,2022,SMA/MA,Negeri,150,90179,0,317,7127,1528,2894,2832
+Nusa Tenggara Barat,52.0,province,2022,SMA/MA,Negeri dan Swasta,343,110215,0,919,9075,1720,3739,3806
+Nusa Tenggara Barat,52.0,province,2022,SMA/MA,Swasta,193,20036,0,602,1948,192,845,974
+Nusa Tenggara Barat,52.0,province,2022,SMK/MAK,Negeri,99,55150,0,210,5202,1041,2184,1902
+Nusa Tenggara Barat,52.0,province,2022,SMK/MAK,Negeri dan Swasta,337,79031,0,661,7617,1224,3275,3059
+Nusa Tenggara Barat,52.0,province,2022,SMK/MAK,Swasta,238,23881,0,451,2415,183,1091,1157
+Nusa Tenggara Barat,52.0,province,2022,SMP/MTs,Negeri,604,132157,0,206,16610,3282,4992,5931
+Nusa Tenggara Barat,52.0,province,2022,SMP/MTs,Negeri dan Swasta,1026,169585,0,319,20277,3576,6665,7553
+Nusa Tenggara Barat,52.0,province,2022,SMP/MTs,Swasta,422,37428,0,113,3667,294,1673,1622
+Nusa Tenggara Timur,53.0,province,2022,SD/MI,Negeri,3378,417555,0,2303,33146,3567,23660,25593
+Nusa Tenggara Timur,53.0,province,2022,SD/MI,Negeri dan Swasta,5203,669225,0,3463,49363,5354,36621,40218
+Nusa Tenggara Timur,53.0,province,2022,SD/MI,Swasta,1825,251670,0,1160,16217,1787,12961,14625
+Nusa Tenggara Timur,53.0,province,2022,SMA/MA,Negeri,386,143294,0,429,11316,1295,5028,4913
+Nusa Tenggara Timur,53.0,province,2022,SMA/MA,Negeri dan Swasta,598,204238,0,596,15830,1870,7275,7428
+Nusa Tenggara Timur,53.0,province,2022,SMA/MA,Swasta,212,60944,0,167,4514,575,2247,2515
+Nusa Tenggara Timur,53.0,province,2022,SMK/MAK,Negeri,165,60410,0,317,5352,605,2405,2164
+Nusa Tenggara Timur,53.0,province,2022,SMK/MAK,Negeri dan Swasta,322,104036,0,686,8282,880,4135,3839
+Nusa Tenggara Timur,53.0,province,2022,SMK/MAK,Swasta,157,43626,0,369,2930,275,1730,1675
+Nusa Tenggara Timur,53.0,province,2022,SMP/MTs,Negeri,1366,250759,0,671,23290,2879,9398,10418
+Nusa Tenggara Timur,53.0,province,2022,SMP/MTs,Negeri dan Swasta,1804,327112,0,866,28826,3611,12244,13812
+Nusa Tenggara Timur,53.0,province,2022,SMP/MTs,Swasta,438,76353,0,195,5536,732,2846,3394
+Papua,91.0,province,2022,SD/MI,Negeri,1664,288283,0,1738,11097,565,11475,10829
+Papua,91.0,province,2022,SD/MI,Negeri dan Swasta,2642,472552,0,2842,17805,974,18559,17982
+Papua,91.0,province,2022,SD/MI,Swasta,978,184269,0,1104,6708,409,7084,7153
+Papua,91.0,province,2022,SMA/MA,Negeri,144,50184,0,236,3238,354,1589,1588
+Papua,91.0,province,2022,SMA/MA,Negeri dan Swasta,256,71317,0,402,4743,541,2402,2523
+Papua,91.0,province,2022,SMA/MA,Swasta,112,21133,0,166,1505,187,813,935
+Papua,91.0,province,2022,SMK/MAK,Negeri,80,22538,0,122,1975,245,961,1022
+Papua,91.0,province,2022,SMK/MAK,Negeri dan Swasta,141,35309,0,294,2932,389,1526,1614
+Papua,91.0,province,2022,SMK/MAK,Swasta,61,12771,0,172,957,144,565,592
+Papua,91.0,province,2022,SMP/MTs,Negeri,519,111141,0,569,7003,675,3542,3692
+Papua,91.0,province,2022,SMP/MTs,Negeri dan Swasta,743,148981,0,856,9229,893,4817,5184
+Papua,91.0,province,2022,SMP/MTs,Swasta,224,37840,0,287,2226,218,1275,1492
+Papua Barat,92.0,province,2022,SD/MI,Negeri,700,82955,0,342,6038,302,4907,4575
+Papua Barat,92.0,province,2022,SD/MI,Negeri dan Swasta,1104,131171,0,584,8732,497,7647,7319
+Papua Barat,92.0,province,2022,SD/MI,Swasta,404,48216,0,242,2694,195,2740,2744
+Papua Barat,92.0,province,2022,SMA/MA,Negeri,82,23003,0,49,1562,135,835,866
+Papua Barat,92.0,province,2022,SMA/MA,Negeri dan Swasta,131,29920,0,72,2250,212,1164,1238
+Papua Barat,92.0,province,2022,SMA/MA,Swasta,49,6917,0,23,688,77,329,372
+Papua Barat,92.0,province,2022,SMK/MAK,Negeri,33,11434,0,37,879,76,507,477
+Papua Barat,92.0,province,2022,SMK/MAK,Negeri dan Swasta,57,16116,0,75,1276,120,713,666
+Papua Barat,92.0,province,2022,SMK/MAK,Swasta,24,4682,0,38,397,44,206,189
+Papua Barat,92.0,province,2022,SMP/MTs,Negeri,238,37100,0,87,3587,312,1446,1648
+Papua Barat,92.0,province,2022,SMP/MTs,Negeri dan Swasta,334,50189,0,112,4611,409,1970,2253
+Papua Barat,92.0,province,2022,SMP/MTs,Swasta,96,13089,0,25,1024,97,524,605
+Riau,14.0,province,2022,SD/MI,Negeri,3221,634909,0,868,39682,3836,28814,27740
+Riau,14.0,province,2022,SD/MI,Negeri dan Swasta,3791,773526,0,1051,47753,4513,34676,33777
+Riau,14.0,province,2022,SD/MI,Swasta,570,138617,0,183,8071,677,5862,6037
+Riau,14.0,province,2022,SMA/MA,Negeri,303,143617,0,213,9748,1807,4639,4715
+Riau,14.0,province,2022,SMA/MA,Negeri dan Swasta,455,166690,0,232,11665,2049,5559,5899
+Riau,14.0,province,2022,SMA/MA,Swasta,152,23073,0,19,1917,242,920,1184
+Riau,14.0,province,2022,SMK/MAK,Negeri,128,66389,0,112,5076,889,2369,2088
+Riau,14.0,province,2022,SMK/MAK,Negeri dan Swasta,303,104035,0,253,8205,1320,4086,4007
+Riau,14.0,province,2022,SMK/MAK,Swasta,175,37646,0,141,3129,431,1717,1919
+Riau,14.0,province,2022,SMP/MTs,Negeri,863,202483,0,250,15359,2707,7174,8229
+Riau,14.0,province,2022,SMP/MTs,Negeri dan Swasta,1254,258072,0,498,19473,3205,9352,10879
+Riau,14.0,province,2022,SMP/MTs,Swasta,391,55589,0,248,4114,498,2178,2650
+Sekolah Indonesia Luar Negeri,,special,2022,SD/MI,Negeri,87,10972,0,64,348,13,615,539
+Sekolah Indonesia Luar Negeri,,special,2022,SD/MI,Negeri dan Swasta,129,16188,0,73,497,14,885,768
+Sekolah Indonesia Luar Negeri,,special,2022,SD/MI,Swasta,42,5216,0,9,149,1,270,229
+Sekolah Indonesia Luar Negeri,,special,2022,SMA/MA,Negeri,11,827,0,16,80,3,62,62
+Sekolah Indonesia Luar Negeri,,special,2022,SMA/MA,Negeri dan Swasta,12,916,0,16,94,5,68,68
+Sekolah Indonesia Luar Negeri,,special,2022,SMA/MA,Swasta,1,89,0,0,14,2,6,6
+Sekolah Indonesia Luar Negeri,,special,2022,SMK/MAK,Negeri,1,186,0,0,5,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2022,SMK/MAK,Negeri dan Swasta,1,186,0,0,5,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2022,SMK/MAK,Swasta,0,0,0,0,0,0,0,0
+Sekolah Indonesia Luar Negeri,,special,2022,SMP/MTs,Negeri,46,4445,0,6,190,5,211,296
+Sekolah Indonesia Luar Negeri,,special,2022,SMP/MTs,Negeri dan Swasta,58,5813,0,8,245,5,262,378
+Sekolah Indonesia Luar Negeri,,special,2022,SMP/MTs,Swasta,12,1368,0,2,55,0,51,82
+Sulawesi Barat,76.0,province,2022,SD/MI,Negeri,1297,139578,0,399,12200,2211,8723,8594
+Sulawesi Barat,76.0,province,2022,SD/MI,Negeri dan Swasta,1326,143993,0,402,12443,2252,8961,8811
+Sulawesi Barat,76.0,province,2022,SD/MI,Swasta,29,4415,0,3,243,41,238,217
+Sulawesi Barat,76.0,province,2022,SMA/MA,Negeri,77,27994,0,78,2212,610,950,1044
+Sulawesi Barat,76.0,province,2022,SMA/MA,Negeri dan Swasta,91,29148,0,82,2303,626,1006,1114
+Sulawesi Barat,76.0,province,2022,SMA/MA,Swasta,14,1154,0,4,91,16,56,70
+Sulawesi Barat,76.0,province,2022,SMK/MAK,Negeri,60,19023,0,69,1838,620,812,782
+Sulawesi Barat,76.0,province,2022,SMK/MAK,Negeri dan Swasta,131,26023,0,356,2467,758,1192,1202
+Sulawesi Barat,76.0,province,2022,SMK/MAK,Swasta,71,7000,0,287,629,138,380,420
+Sulawesi Barat,76.0,province,2022,SMP/MTs,Negeri,318,47729,0,135,4873,1523,1931,2374
+Sulawesi Barat,76.0,province,2022,SMP/MTs,Negeri dan Swasta,379,52908,0,166,5289,1591,2168,2638
+Sulawesi Barat,76.0,province,2022,SMP/MTs,Swasta,61,5179,0,31,416,68,237,264
+Sulawesi Selatan,73.0,province,2022,SD/MI,Negeri,6082,811242,0,1675,59957,7373,43229,42338
+Sulawesi Selatan,73.0,province,2022,SD/MI,Negeri dan Swasta,6438,880177,0,1811,64343,7727,46389,45632
+Sulawesi Selatan,73.0,province,2022,SD/MI,Swasta,356,68935,0,136,4386,354,3160,3294
+Sulawesi Selatan,73.0,province,2022,SMA/MA,Negeri,335,193752,0,706,12690,2082,6088,6634
+Sulawesi Selatan,73.0,province,2022,SMA/MA,Negeri dan Swasta,599,229375,0,924,15440,2444,7584,8495
+Sulawesi Selatan,73.0,province,2022,SMA/MA,Swasta,264,35623,0,218,2750,362,1496,1861
+Sulawesi Selatan,73.0,province,2022,SMK/MAK,Negeri,168,90493,0,305,7168,1125,3420,3543
+Sulawesi Selatan,73.0,province,2022,SMK/MAK,Negeri dan Swasta,416,124867,0,528,10110,1570,5315,5755
+Sulawesi Selatan,73.0,province,2022,SMK/MAK,Swasta,248,34374,0,223,2942,445,1895,2212
+Sulawesi Selatan,73.0,province,2022,SMP/MTs,Negeri,1268,281298,0,573,24753,5522,10607,13010
+Sulawesi Selatan,73.0,province,2022,SMP/MTs,Negeri dan Swasta,1704,334404,0,717,28675,6078,12804,15719
+Sulawesi Selatan,73.0,province,2022,SMP/MTs,Swasta,436,53106,0,144,3922,556,2197,2709
+Sulawesi Tengah,72.0,province,2022,SD/MI,Negeri,2670,281651,0,926,22424,4052,17320,18075
+Sulawesi Tengah,72.0,province,2022,SD/MI,Negeri dan Swasta,2926,307722,0,1013,24330,4261,19024,19806
+Sulawesi Tengah,72.0,province,2022,SD/MI,Swasta,256,26071,0,87,1906,209,1704,1731
+Sulawesi Tengah,72.0,province,2022,SMA/MA,Negeri,176,72724,0,245,4973,851,2399,2409
+Sulawesi Tengah,72.0,province,2022,SMA/MA,Negeri dan Swasta,232,79267,0,270,5541,942,2707,2768
+Sulawesi Tengah,72.0,province,2022,SMA/MA,Swasta,56,6543,0,25,568,91,308,359
+Sulawesi Tengah,72.0,province,2022,SMK/MAK,Negeri,107,33097,0,51,2893,449,1403,1419
+Sulawesi Tengah,72.0,province,2022,SMK/MAK,Negeri dan Swasta,182,43301,0,199,3779,603,1950,2020
+Sulawesi Tengah,72.0,province,2022,SMK/MAK,Swasta,75,10204,0,148,886,154,547,601
+Sulawesi Tengah,72.0,province,2022,SMP/MTs,Negeri,731,105195,0,389,9966,2234,4302,5270
+Sulawesi Tengah,72.0,province,2022,SMP/MTs,Negeri dan Swasta,868,117017,0,500,10884,2425,4863,5889
+Sulawesi Tengah,72.0,province,2022,SMP/MTs,Swasta,137,11822,0,111,918,191,561,619
+Sulawesi Tenggara,74.0,province,2022,SD/MI,Negeri,2257,279295,0,678,22474,2149,15899,16032
+Sulawesi Tenggara,74.0,province,2022,SD/MI,Negeri dan Swasta,2345,291723,0,730,23256,2232,16547,16645
+Sulawesi Tenggara,74.0,province,2022,SD/MI,Swasta,88,12428,0,52,782,83,648,613
+Sulawesi Tenggara,74.0,province,2022,SMA/MA,Negeri,249,88905,0,178,7028,580,3111,3460
+Sulawesi Tenggara,74.0,province,2022,SMA/MA,Negeri dan Swasta,313,94202,0,211,7551,636,3388,3793
+Sulawesi Tenggara,74.0,province,2022,SMA/MA,Swasta,64,5297,0,33,523,56,277,333
+Sulawesi Tenggara,74.0,province,2022,SMK/MAK,Negeri,102,30018,0,63,2949,207,1390,1407
+Sulawesi Tenggara,74.0,province,2022,SMK/MAK,Negeri dan Swasta,166,36001,0,221,3615,254,1751,1823
+Sulawesi Tenggara,74.0,province,2022,SMK/MAK,Swasta,64,5983,0,158,666,47,361,416
+Sulawesi Tenggara,74.0,province,2022,SMP/MTs,Negeri,694,111979,0,166,12045,1592,4541,5624
+Sulawesi Tenggara,74.0,province,2022,SMP/MTs,Negeri dan Swasta,779,120007,0,230,12803,1672,4908,6011
+Sulawesi Tenggara,74.0,province,2022,SMP/MTs,Swasta,85,8028,0,64,758,80,367,387
+Sulawesi Utara,71.0,province,2022,SD/MI,Negeri,1344,132584,0,294,11378,486,8746,9054
+Sulawesi Utara,71.0,province,2022,SD/MI,Negeri dan Swasta,2203,215237,0,469,16637,674,14232,14766
+Sulawesi Utara,71.0,province,2022,SD/MI,Swasta,859,82653,0,175,5259,188,5486,5712
+Sulawesi Utara,71.0,province,2022,SMA/MA,Negeri,121,48938,0,103,3644,538,1779,1837
+Sulawesi Utara,71.0,province,2022,SMA/MA,Negeri dan Swasta,230,62736,0,154,4640,636,2463,2684
+Sulawesi Utara,71.0,province,2022,SMA/MA,Swasta,109,13798,0,51,996,98,684,847
+Sulawesi Utara,71.0,province,2022,SMK/MAK,Negeri,92,34793,0,126,2948,382,1608,1566
+Sulawesi Utara,71.0,province,2022,SMK/MAK,Negeri dan Swasta,190,48058,0,158,4048,499,2424,2578
+Sulawesi Utara,71.0,province,2022,SMK/MAK,Swasta,98,13265,0,32,1100,117,816,1012
+Sulawesi Utara,71.0,province,2022,SMP/MTs,Negeri,476,76311,0,144,6877,661,3031,3650
+Sulawesi Utara,71.0,province,2022,SMP/MTs,Negeri dan Swasta,733,101829,0,181,8674,802,4161,5040
+Sulawesi Utara,71.0,province,2022,SMP/MTs,Swasta,257,25518,0,37,1797,141,1130,1390
+Sumatera Barat,13.0,province,2022,SD/MI,Negeri,3962,531193,0,730,38468,5563,28254,28612
+Sumatera Barat,13.0,province,2022,SD/MI,Negeri dan Swasta,4260,597218,0,778,42641,6099,31181,31699
+Sumatera Barat,13.0,province,2022,SD/MI,Swasta,298,66025,0,48,4173,536,2927,3087
+Sumatera Barat,13.0,province,2022,SMA/MA,Negeri,236,137874,0,178,9612,1822,4351,4611
+Sumatera Barat,13.0,province,2022,SMA/MA,Negeri dan Swasta,337,151928,0,241,10951,2027,4958,5397
+Sumatera Barat,13.0,province,2022,SMA/MA,Swasta,101,14054,0,63,1339,205,607,786
+Sumatera Barat,13.0,province,2022,SMK/MAK,Negeri,114,75205,0,157,6099,1071,2732,2412
+Sumatera Barat,13.0,province,2022,SMK/MAK,Negeri dan Swasta,212,89299,0,252,7536,1308,3462,3314
+Sumatera Barat,13.0,province,2022,SMK/MAK,Swasta,98,14094,0,95,1437,237,730,902
+Sumatera Barat,13.0,province,2022,SMP/MTs,Negeri,673,177644,0,272,15307,2701,6490,7879
+Sumatera Barat,13.0,province,2022,SMP/MTs,Negeri dan Swasta,853,201410,0,309,17450,3034,7480,9143
+Sumatera Barat,13.0,province,2022,SMP/MTs,Swasta,180,23766,0,37,2143,333,990,1264
+Sumatera Selatan,16.0,province,2022,SD/MI,Negeri,4252,796801,0,1796,50140,5773,36132,33374
+Sumatera Selatan,16.0,province,2022,SD/MI,Negeri dan Swasta,4696,882534,0,1887,55347,6415,40092,37475
+Sumatera Selatan,16.0,province,2022,SD/MI,Swasta,444,85733,0,91,5207,642,3960,4101
+Sumatera Selatan,16.0,province,2022,SMA/MA,Negeri,329,165349,0,249,11520,2317,5109,5137
+Sumatera Selatan,16.0,province,2022,SMA/MA,Negeri dan Swasta,612,212414,0,397,14665,2978,6855,7343
+Sumatera Selatan,16.0,province,2022,SMA/MA,Swasta,283,47065,0,148,3145,661,1746,2206
+Sumatera Selatan,16.0,province,2022,SMK/MAK,Negeri,120,75576,0,133,5487,1161,2496,2004
+Sumatera Selatan,16.0,province,2022,SMK/MAK,Negeri dan Swasta,310,123651,0,274,8388,1704,4359,4031
+Sumatera Selatan,16.0,province,2022,SMK/MAK,Swasta,190,48075,0,141,2901,543,1863,2027
+Sumatera Selatan,16.0,province,2022,SMP/MTs,Negeri,904,284660,0,362,20843,3955,9726,10097
+Sumatera Selatan,16.0,province,2022,SMP/MTs,Negeri dan Swasta,1409,354086,0,524,25394,4789,12419,13381
+Sumatera Selatan,16.0,province,2022,SMP/MTs,Swasta,505,69426,0,162,4551,834,2693,3284
+Sumatera Utara,12.0,province,2022,SD/MI,Negeri,8205,1204565,0,3005,83604,6808,60483,61135
+Sumatera Utara,12.0,province,2022,SD/MI,Negeri dan Swasta,9782,1548652,0,3767,100571,8155,74670,75922
+Sumatera Utara,12.0,province,2022,SD/MI,Swasta,1577,344087,0,762,16967,1347,14187,14787
+Sumatera Utara,12.0,province,2022,SMA/MA,Negeri,428,245383,0,673,15489,2015,7425,7510
+Sumatera Utara,12.0,province,2022,SMA/MA,Negeri dan Swasta,1075,384943,0,1263,23136,2910,12236,13153
+Sumatera Utara,12.0,province,2022,SMA/MA,Swasta,647,139560,0,590,7647,895,4811,5643
+Sumatera Utara,12.0,province,2022,SMK/MAK,Negeri,270,137972,0,432,10321,1142,4794,4615
+Sumatera Utara,12.0,province,2022,SMK/MAK,Negeri dan Swasta,973,308893,0,2283,20231,2269,11457,12495
+Sumatera Utara,12.0,province,2022,SMK/MAK,Swasta,703,170921,0,1851,9910,1127,6663,7880
+Sumatera Utara,12.0,province,2022,SMP/MTs,Negeri,1338,415483,0,802,30759,3551,14432,16373
+Sumatera Utara,12.0,province,2022,SMP/MTs,Negeri dan Swasta,2672,627585,0,1666,43079,4854,22172,25751
+Sumatera Utara,12.0,province,2022,SMP/MTs,Swasta,1334,212102,0,864,12320,1303,7740,9378
+Aceh,11.0,province,2023,SD/MI,Negeri,3335,451761,1376,846,43588,3314,24092,25133
+Aceh,11.0,province,2023,SD/MI,Negeri dan Swasta,3532,489863,1406,905,46150,3560,25829,26942
+Aceh,11.0,province,2023,SD/MI,Swasta,197,38102,30,59,2562,246,1737,1809
+Aceh,11.0,province,2023,SMA/MA,Negeri,394,118487,682,310,12075,2619,4224,5561
+Aceh,11.0,province,2023,SMA/MA,Negeri dan Swasta,539,137657,702,353,13537,2897,5029,6501
+Aceh,11.0,province,2023,SMA/MA,Swasta,145,19170,20,43,1462,278,805,940
+Aceh,11.0,province,2023,SMK/MAK,Negeri,153,46341,452,276,6301,1389,2215,2315
+Aceh,11.0,province,2023,SMK/MAK,Negeri dan Swasta,222,54100,508,301,7046,1550,2612,2779
+Aceh,11.0,province,2023,SMK/MAK,Swasta,69,7759,56,25,745,161,397,464
+Aceh,11.0,province,2023,SMP/MTs,Negeri,903,153398,584,461,19336,3993,5982,8729
+Aceh,11.0,province,2023,SMP/MTs,Negeri dan Swasta,1294,202186,620,597,23022,4527,7955,11019
+Aceh,11.0,province,2023,SMP/MTs,Swasta,391,48788,36,136,3686,534,1973,2290
+Bali,51.0,province,2023,SD/MI,Negeri,2254,342112,178,154,20659,3774,15623,15874
+Bali,51.0,province,2023,SD/MI,Negeri dan Swasta,2409,383616,183,179,23150,4077,17327,17665
+Bali,51.0,province,2023,SD/MI,Swasta,155,41504,5,25,2491,303,1704,1791
+Bali,51.0,province,2023,SMA/MA,Negeri,90,81893,4,18,4670,1715,2290,2198
+Bali,51.0,province,2023,SMA/MA,Negeri dan Swasta,163,95685,4,44,5697,1969,2789,3034
+Bali,51.0,province,2023,SMA/MA,Swasta,73,13792,0,26,1027,254,499,836
+Bali,51.0,province,2023,SMK/MAK,Negeri,57,54131,9,24,3499,1006,1728,1305
+Bali,51.0,province,2023,SMK/MAK,Negeri dan Swasta,170,89129,18,50,5566,1452,3039,2865
+Bali,51.0,province,2023,SMK/MAK,Swasta,113,34998,9,26,2067,446,1311,1560
+Bali,51.0,province,2023,SMP/MTs,Negeri,277,159809,10,48,9124,2473,4873,4698
+Bali,51.0,province,2023,SMP/MTs,Negeri dan Swasta,404,186003,12,69,10768,2875,5785,5947
+Bali,51.0,province,2023,SMP/MTs,Swasta,127,26194,2,21,1644,402,912,1249
+Banten,36.0,province,2023,SD/MI,Negeri,3853,1009060,2389,1584,42576,3042,36073,31740
+Banten,36.0,province,2023,SD/MI,Negeri dan Swasta,4610,1203432,2551,1779,53976,4025,44351,40889
+Banten,36.0,province,2023,SD/MI,Swasta,757,194372,162,195,11400,983,8278,9149
+Banten,36.0,province,2023,SMA/MA,Negeri,161,144431,65,88,6478,1565,3873,3842
+Banten,36.0,province,2023,SMA/MA,Negeri dan Swasta,607,225308,185,217,12175,2650,6879,7549
+Banten,36.0,province,2023,SMA/MA,Swasta,446,80877,120,129,5697,1085,3006,3707
+Banten,36.0,province,2023,SMK/MAK,Negeri,91,91430,104,99,4354,1174,2649,2219
+Banten,36.0,province,2023,SMK/MAK,Negeri dan Swasta,724,251415,362,520,13373,3414,8605,9185
+Banten,36.0,province,2023,SMK/MAK,Swasta,633,159985,258,421,9019,2240,5956,6966
+Banten,36.0,province,2023,SMP/MTs,Negeri,573,277317,209,254,13716,1970,8203,8784
+Banten,36.0,province,2023,SMP/MTs,Negeri dan Swasta,1602,441873,502,517,22892,3231,14224,16447
+Banten,36.0,province,2023,SMP/MTs,Swasta,1029,164556,293,263,9176,1261,6021,7663
+Bengkulu,17.0,province,2023,SD/MI,Negeri,1289,172400,1287,347,13815,1235,9519,10538
+Bengkulu,17.0,province,2023,SD/MI,Negeri dan Swasta,1407,194870,1313,390,15515,1383,10570,11679
+Bengkulu,17.0,province,2023,SD/MI,Swasta,118,22470,26,43,1700,148,1051,1141
+Bengkulu,17.0,province,2023,SMA/MA,Negeri,109,51685,115,89,3827,988,1657,1752
+Bengkulu,17.0,province,2023,SMA/MA,Negeri dan Swasta,151,54694,118,98,4139,1051,1823,1960
+Bengkulu,17.0,province,2023,SMA/MA,Swasta,42,3009,3,9,312,63,166,208
+Bengkulu,17.0,province,2023,SMK/MAK,Negeri,65,25124,28,131,2548,527,1091,1078
+Bengkulu,17.0,province,2023,SMK/MAK,Negeri dan Swasta,103,28542,59,215,2959,609,1297,1346
+Bengkulu,17.0,province,2023,SMK/MAK,Swasta,38,3418,31,84,411,82,206,268
+Bengkulu,17.0,province,2023,SMP/MTs,Negeri,380,76883,308,119,7144,1141,2932,3656
+Bengkulu,17.0,province,2023,SMP/MTs,Negeri dan Swasta,457,85502,332,160,7904,1235,3308,4101
+Bengkulu,17.0,province,2023,SMP/MTs,Swasta,77,8619,24,41,760,94,376,445
+D.I. Yogyakarta,34.0,province,2023,SD/MI,Negeri,1422,186752,308,43,13190,1900,9815,10328
+D.I. Yogyakarta,34.0,province,2023,SD/MI,Negeri dan Swasta,1846,270610,357,75,18361,2701,13719,14470
+D.I. Yogyakarta,34.0,province,2023,SD/MI,Swasta,424,83858,49,32,5171,801,3904,4142
+D.I. Yogyakarta,34.0,province,2023,SMA/MA,Negeri,69,43387,2,13,2575,908,1243,1329
+D.I. Yogyakarta,34.0,province,2023,SMA/MA,Negeri dan Swasta,173,61131,79,15,4176,1330,1999,2300
+D.I. Yogyakarta,34.0,province,2023,SMA/MA,Swasta,104,17744,77,2,1601,422,756,971
+D.I. Yogyakarta,34.0,province,2023,SMK/MAK,Negeri,50,51489,35,2,3111,891,1557,1329
+D.I. Yogyakarta,34.0,province,2023,SMK/MAK,Negeri dan Swasta,206,88842,214,17,6241,1716,3282,3227
+D.I. Yogyakarta,34.0,province,2023,SMK/MAK,Swasta,156,37353,179,15,3130,825,1725,1898
+D.I. Yogyakarta,34.0,province,2023,SMP/MTs,Negeri,214,92471,5,4,5361,1175,2969,3157
+D.I. Yogyakarta,34.0,province,2023,SMP/MTs,Negeri dan Swasta,454,132555,75,22,8418,1962,4550,5021
+D.I. Yogyakarta,34.0,province,2023,SMP/MTs,Swasta,240,40084,70,18,3057,787,1581,1864
+D.K.I. Jakarta,31.0,province,2023,SD/MI,Negeri,1305,540938,915,695,22899,2443,18247,17197
+D.K.I. Jakarta,31.0,province,2023,SD/MI,Negeri dan Swasta,2224,756455,1202,869,37449,4268,27830,28268
+D.K.I. Jakarta,31.0,province,2023,SD/MI,Swasta,919,215517,287,174,14550,1825,9583,11071
+D.K.I. Jakarta,31.0,province,2023,SMA/MA,Negeri,117,88181,88,9,5069,1029,2492,2567
+D.K.I. Jakarta,31.0,province,2023,SMA/MA,Negeri dan Swasta,496,192105,121,32,11580,2314,6089,6879
+D.K.I. Jakarta,31.0,province,2023,SMA/MA,Swasta,379,103924,33,23,6511,1285,3597,4312
+D.K.I. Jakarta,31.0,province,2023,SMK/MAK,Negeri,73,57652,22,7,3427,702,1677,1665
+D.K.I. Jakarta,31.0,province,2023,SMK/MAK,Negeri dan Swasta,561,196648,178,163,11214,2383,6757,8205
+D.K.I. Jakarta,31.0,province,2023,SMK/MAK,Swasta,488,138996,156,156,7787,1681,5080,6540
+D.K.I. Jakarta,31.0,province,2023,SMP/MTs,Negeri,293,212200,179,39,10340,2074,6027,5979
+D.K.I. Jakarta,31.0,province,2023,SMP/MTs,Negeri dan Swasta,1070,347858,469,78,18850,3807,11025,12696
+D.K.I. Jakarta,31.0,province,2023,SMP/MTs,Swasta,777,135658,290,39,8510,1733,4998,6717
+Gorontalo,75.0,province,2023,SD/MI,Negeri,897,103429,1445,443,7408,821,5850,6491
+Gorontalo,75.0,province,2023,SD/MI,Negeri dan Swasta,931,108058,1446,458,7697,854,6090,6740
+Gorontalo,75.0,province,2023,SD/MI,Swasta,34,4629,1,15,289,33,240,249
+Gorontalo,75.0,province,2023,SMA/MA,Negeri,62,30376,126,165,1891,339,970,1046
+Gorontalo,75.0,province,2023,SMA/MA,Negeri dan Swasta,71,31646,141,174,2006,363,1021,1108
+Gorontalo,75.0,province,2023,SMA/MA,Swasta,9,1270,15,9,115,24,51,62
+Gorontalo,75.0,province,2023,SMK/MAK,Negeri,40,14455,98,69,1452,227,715,770
+Gorontalo,75.0,province,2023,SMK/MAK,Negeri dan Swasta,59,16807,102,89,1706,278,853,938
+Gorontalo,75.0,province,2023,SMK/MAK,Swasta,19,2352,4,20,254,51,138,168
+Gorontalo,75.0,province,2023,SMP/MTs,Negeri,313,39019,254,173,3898,603,1707,2234
+Gorontalo,75.0,province,2023,SMP/MTs,Negeri dan Swasta,342,41425,270,183,4103,624,1828,2370
+Gorontalo,75.0,province,2023,SMP/MTs,Swasta,29,2406,16,10,205,21,121,136
+Jambi,15.0,province,2023,SD/MI,Negeri,2304,333373,1907,769,23366,2481,17340,18069
+Jambi,15.0,province,2023,SD/MI,Negeri dan Swasta,2464,368620,2006,835,25443,2678,18911,19722
+Jambi,15.0,province,2023,SD/MI,Swasta,160,35247,99,66,2077,197,1571,1653
+Jambi,15.0,province,2023,SMA/MA,Negeri,163,71000,184,110,5178,1191,2300,2575
+Jambi,15.0,province,2023,SMA/MA,Negeri dan Swasta,247,81429,203,128,5907,1296,2723,3110
+Jambi,15.0,province,2023,SMA/MA,Swasta,84,10429,19,18,729,105,423,535
+Jambi,15.0,province,2023,SMK/MAK,Negeri,107,38401,224,182,3467,796,1578,1568
+Jambi,15.0,province,2023,SMK/MAK,Negeri dan Swasta,181,49229,301,217,4323,946,2097,2170
+Jambi,15.0,province,2023,SMK/MAK,Swasta,74,10828,77,35,856,150,519,602
+Jambi,15.0,province,2023,SMP/MTs,Negeri,558,98709,255,159,9483,1738,3823,5080
+Jambi,15.0,province,2023,SMP/MTs,Negeri dan Swasta,708,119756,298,182,10850,1916,4651,6065
+Jambi,15.0,province,2023,SMP/MTs,Swasta,150,21047,43,23,1367,178,828,985
+Jawa Barat,32.0,province,2023,SD/MI,Negeri,17104,3891806,4563,5080,162220,11771,144349,127023
+Jawa Barat,32.0,province,2023,SD/MI,Negeri dan Swasta,19553,4487262,4778,5675,196874,15420,169704,154427
+Jawa Barat,32.0,province,2023,SD/MI,Swasta,2449,595456,215,595,34654,3649,25355,27404
+Jawa Barat,32.0,province,2023,SMA/MA,Negeri,514,530509,97,109,25291,6578,15205,14112
+Jawa Barat,32.0,province,2023,SMA/MA,Negeri dan Swasta,1768,823771,326,492,41593,9358,25328,25658
+Jawa Barat,32.0,province,2023,SMA/MA,Swasta,1254,293262,229,383,16302,2780,10123,11546
+Jawa Barat,32.0,province,2023,SMK/MAK,Negeri,288,343384,122,70,17479,4930,10463,8808
+Jawa Barat,32.0,province,2023,SMK/MAK,Negeri dan Swasta,2913,1068475,1400,1263,55912,12514,37487,39773
+Jawa Barat,32.0,province,2023,SMK/MAK,Swasta,2625,725091,1278,1193,38433,7584,27024,30965
+Jawa Barat,32.0,province,2023,SMP/MTs,Negeri,1982,1140070,590,601,53507,10662,34002,36851
+Jawa Barat,32.0,province,2023,SMP/MTs,Negeri dan Swasta,5945,1816180,1388,1881,91729,17174,58282,66108
+Jawa Barat,32.0,province,2023,SMP/MTs,Swasta,3963,676108,798,1280,38222,6512,24280,29257
+Jawa Tengah,33.0,province,2023,SD/MI,Negeri,17298,2280299,6696,2166,137177,9996,113671,118675
+Jawa Tengah,33.0,province,2023,SD/MI,Negeri dan Swasta,18618,2595050,6909,2399,153244,11899,127266,133184
+Jawa Tengah,33.0,province,2023,SD/MI,Swasta,1320,314751,213,233,16067,1903,13595,14509
+Jawa Tengah,33.0,province,2023,SMA/MA,Negeri,362,343035,24,44,18034,4198,9723,9788
+Jawa Tengah,33.0,province,2023,SMA/MA,Negeri dan Swasta,861,452954,144,159,25299,5816,13620,14718
+Jawa Tengah,33.0,province,2023,SMA/MA,Swasta,499,109919,120,115,7265,1618,3897,4930
+Jawa Tengah,33.0,province,2023,SMK/MAK,Negeri,239,300562,71,38,16802,3358,8636,7003
+Jawa Tengah,33.0,province,2023,SMK/MAK,Negeri dan Swasta,1541,804419,1027,865,44607,9559,27040,26382
+Jawa Tengah,33.0,province,2023,SMK/MAK,Swasta,1302,503857,956,827,27805,6201,18404,19379
+Jawa Tengah,33.0,province,2023,SMP/MTs,Negeri,1772,926618,475,337,50483,10551,29985,31696
+Jawa Tengah,33.0,province,2023,SMP/MTs,Negeri dan Swasta,3446,1208300,906,692,67369,14249,40728,45134
+Jawa Tengah,33.0,province,2023,SMP/MTs,Swasta,1674,281686,431,355,16886,3698,10743,13438
+Jawa Timur,35.0,province,2023,SD/MI,Negeri,16902,2130520,4172,2579,143558,10282,115931,120304
+Jawa Timur,35.0,province,2023,SD/MI,Negeri dan Swasta,18980,2530849,4694,3327,166440,12467,134724,140182
+Jawa Timur,35.0,province,2023,SD/MI,Swasta,2078,400329,522,748,22882,2185,18793,19878
+Jawa Timur,35.0,province,2023,SMA/MA,Negeri,423,351429,222,219,19559,5271,10343,10724
+Jawa Timur,35.0,province,2023,SMA/MA,Negeri dan Swasta,1517,548681,866,931,33382,7459,17701,19920
+Jawa Timur,35.0,province,2023,SMA/MA,Swasta,1094,197252,644,712,13823,2188,7358,9196
+Jawa Timur,35.0,province,2023,SMK/MAK,Negeri,297,346931,381,264,19863,5011,10761,8845
+Jawa Timur,35.0,province,2023,SMK/MAK,Negeri dan Swasta,2147,774568,2011,1777,47736,9454,28024,27183
+Jawa Timur,35.0,province,2023,SMK/MAK,Swasta,1850,427637,1630,1513,27873,4443,17263,18338
+Jawa Timur,35.0,province,2023,SMP/MTs,Negeri,1737,811528,557,842,47086,10374,26723,30018
+Jawa Timur,35.0,province,2023,SMP/MTs,Negeri dan Swasta,4996,1230420,1894,2878,75697,14204,43679,49711
+Jawa Timur,35.0,province,2023,SMP/MTs,Swasta,3259,418894,1337,2036,28611,3830,16956,19693
+Kalimantan Barat,61.0,province,2023,SD/MI,Negeri,4140,499855,9504,1202,33093,2117,28644,27925
+Kalimantan Barat,61.0,province,2023,SD/MI,Negeri dan Swasta,4447,563178,9801,1324,36353,2420,31317,30748
+Kalimantan Barat,61.0,province,2023,SD/MI,Swasta,307,63323,297,122,3260,303,2673,2823
+Kalimantan Barat,61.0,province,2023,SMA/MA,Negeri,285,102734,225,140,6310,762,3288,3378
+Kalimantan Barat,61.0,province,2023,SMA/MA,Negeri dan Swasta,472,132567,295,251,8159,987,4404,4764
+Kalimantan Barat,61.0,province,2023,SMA/MA,Swasta,187,29833,70,111,1849,225,1116,1386
+Kalimantan Barat,61.0,province,2023,SMK/MAK,Negeri,117,56973,276,162,3361,433,2006,1650
+Kalimantan Barat,61.0,province,2023,SMK/MAK,Negeri dan Swasta,233,75741,382,322,4532,616,2840,2655
+Kalimantan Barat,61.0,province,2023,SMK/MAK,Swasta,116,18768,106,160,1171,183,834,1005
+Kalimantan Barat,61.0,province,2023,SMP/MTs,Negeri,1030,186019,656,315,13207,1472,6916,7795
+Kalimantan Barat,61.0,province,2023,SMP/MTs,Negeri dan Swasta,1377,229930,840,651,15686,1766,8645,9885
+Kalimantan Barat,61.0,province,2023,SMP/MTs,Swasta,347,43911,184,336,2479,294,1729,2090
+Kalimantan Selatan,63.0,province,2023,SD/MI,Negeri,2738,318461,3104,492,25182,2305,19180,20102
+Kalimantan Selatan,63.0,province,2023,SD/MI,Negeri dan Swasta,2920,353174,3201,532,27468,2514,20814,21822
+Kalimantan Selatan,63.0,province,2023,SD/MI,Swasta,182,34713,97,40,2286,209,1634,1720
+Kalimantan Selatan,63.0,province,2023,SMA/MA,Negeri,142,60883,152,66,4155,933,1973,2147
+Kalimantan Selatan,63.0,province,2023,SMA/MA,Negeri dan Swasta,207,68164,172,71,4839,1068,2278,2589
+Kalimantan Selatan,63.0,province,2023,SMA/MA,Swasta,65,7281,20,5,684,135,305,442
+Kalimantan Selatan,63.0,province,2023,SMK/MAK,Negeri,64,42920,83,93,2962,797,1501,1356
+Kalimantan Selatan,63.0,province,2023,SMK/MAK,Negeri dan Swasta,128,55438,116,109,4006,1048,2074,2042
+Kalimantan Selatan,63.0,province,2023,SMK/MAK,Swasta,64,12518,33,16,1044,251,573,686
+Kalimantan Selatan,63.0,province,2023,SMP/MTs,Negeri,522,98906,188,172,7836,1165,3765,4798
+Kalimantan Selatan,63.0,province,2023,SMP/MTs,Negeri dan Swasta,627,112789,201,183,8906,1326,4342,5506
+Kalimantan Selatan,63.0,province,2023,SMP/MTs,Swasta,105,13883,13,11,1070,161,577,708
+Kalimantan Tengah,62.0,province,2023,SD/MI,Negeri,2414,232325,2588,632,21096,969,15778,16449
+Kalimantan Tengah,62.0,province,2023,SD/MI,Negeri dan Swasta,2650,276421,2806,675,23510,1158,17694,18478
+Kalimantan Tengah,62.0,province,2023,SD/MI,Swasta,236,44096,218,43,2414,189,1916,2029
+Kalimantan Tengah,62.0,province,2023,SMA/MA,Negeri,181,56103,186,91,4308,427,1939,2108
+Kalimantan Tengah,62.0,province,2023,SMA/MA,Negeri dan Swasta,245,62671,206,98,4937,492,2266,2478
+Kalimantan Tengah,62.0,province,2023,SMA/MA,Swasta,64,6568,20,7,629,65,327,370
+Kalimantan Tengah,62.0,province,2023,SMK/MAK,Negeri,94,27041,59,97,2467,248,1144,1248
+Kalimantan Tengah,62.0,province,2023,SMK/MAK,Negeri dan Swasta,139,33166,76,107,3050,301,1436,1585
+Kalimantan Tengah,62.0,province,2023,SMK/MAK,Swasta,45,6125,17,10,583,53,292,337
+Kalimantan Tengah,62.0,province,2023,SMP/MTs,Negeri,714,86866,335,170,8337,731,3698,4583
+Kalimantan Tengah,62.0,province,2023,SMP/MTs,Negeri dan Swasta,867,105502,355,198,9614,832,4454,5450
+Kalimantan Tengah,62.0,province,2023,SMP/MTs,Swasta,153,18636,20,28,1277,101,756,867
+Kalimantan Timur,64.0,province,2023,SD/MI,Negeri,1657,351594,1953,587,21058,2877,15718,14886
+Kalimantan Timur,64.0,province,2023,SD/MI,Negeri dan Swasta,1929,419472,2063,669,24595,3307,18585,17932
+Kalimantan Timur,64.0,province,2023,SD/MI,Swasta,272,67878,110,82,3537,430,2867,3046
+Kalimantan Timur,64.0,province,2023,SMA/MA,Negeri,145,68792,122,55,4149,947,2106,2157
+Kalimantan Timur,64.0,province,2023,SMA/MA,Negeri dan Swasta,237,82333,139,62,5173,1160,2631,2837
+Kalimantan Timur,64.0,province,2023,SMA/MA,Swasta,92,13541,17,7,1024,213,525,680
+Kalimantan Timur,64.0,province,2023,SMK/MAK,Negeri,88,54574,208,55,3393,766,1774,1541
+Kalimantan Timur,64.0,province,2023,SMK/MAK,Negeri dan Swasta,217,83110,498,117,5131,1243,3042,2944
+Kalimantan Timur,64.0,province,2023,SMK/MAK,Swasta,129,28536,290,62,1738,477,1268,1403
+Kalimantan Timur,64.0,province,2023,SMP/MTs,Negeri,458,129945,302,149,8244,1631,4436,4865
+Kalimantan Timur,64.0,province,2023,SMP/MTs,Negeri dan Swasta,697,161874,346,193,10301,1984,5722,6514
+Kalimantan Timur,64.0,province,2023,SMP/MTs,Swasta,239,31929,44,44,2057,353,1286,1649
+Kalimantan Utara,65.0,province,2023,SD/MI,Negeri,437,69906,337,169,5162,598,3691,3547
+Kalimantan Utara,65.0,province,2023,SD/MI,Negeri dan Swasta,485,79877,364,188,5751,675,4141,3994
+Kalimantan Utara,65.0,province,2023,SD/MI,Swasta,48,9971,27,19,589,77,450,447
+Kalimantan Utara,65.0,province,2023,SMA/MA,Negeri,46,16080,23,30,1159,246,541,570
+Kalimantan Utara,65.0,province,2023,SMA/MA,Negeri dan Swasta,68,18886,61,41,1389,298,661,727
+Kalimantan Utara,65.0,province,2023,SMA/MA,Swasta,22,2806,38,11,230,52,120,157
+Kalimantan Utara,65.0,province,2023,SMK/MAK,Negeri,22,9519,40,19,757,161,357,377
+Kalimantan Utara,65.0,province,2023,SMK/MAK,Negeri dan Swasta,34,10457,40,20,899,182,408,448
+Kalimantan Utara,65.0,province,2023,SMK/MAK,Swasta,12,938,0,1,142,21,51,71
+Kalimantan Utara,65.0,province,2023,SMP/MTs,Negeri,156,29278,90,37,2379,383,1125,1248
+Kalimantan Utara,65.0,province,2023,SMP/MTs,Negeri dan Swasta,195,33093,93,43,2703,447,1287,1452
+Kalimantan Utara,65.0,province,2023,SMP/MTs,Swasta,39,3815,3,6,324,64,162,204
+Kepulauan Bangka Belitung,19.0,province,2023,SD/MI,Negeri,761,144910,1188,313,8035,1826,6133,6683
+Kepulauan Bangka Belitung,19.0,province,2023,SD/MI,Negeri dan Swasta,833,161703,1202,332,8993,2030,6827,7430
+Kepulauan Bangka Belitung,19.0,province,2023,SD/MI,Swasta,72,16793,14,19,958,204,694,747
+Kepulauan Bangka Belitung,19.0,province,2023,SMA/MA,Negeri,47,27129,6,16,1450,382,830,839
+Kepulauan Bangka Belitung,19.0,province,2023,SMA/MA,Negeri dan Swasta,74,31454,8,23,1759,460,987,1071
+Kepulauan Bangka Belitung,19.0,province,2023,SMA/MA,Swasta,27,4325,2,7,309,78,157,232
+Kepulauan Bangka Belitung,19.0,province,2023,SMK/MAK,Negeri,36,19397,37,24,1318,347,655,706
+Kepulauan Bangka Belitung,19.0,province,2023,SMK/MAK,Negeri dan Swasta,59,24636,43,49,1676,452,869,988
+Kepulauan Bangka Belitung,19.0,province,2023,SMK/MAK,Swasta,23,5239,6,25,358,105,214,282
+Kepulauan Bangka Belitung,19.0,province,2023,SMP/MTs,Negeri,163,53607,91,30,3036,957,1734,1952
+Kepulauan Bangka Belitung,19.0,province,2023,SMP/MTs,Negeri dan Swasta,232,63212,101,40,3664,1116,2106,2439
+Kepulauan Bangka Belitung,19.0,province,2023,SMP/MTs,Swasta,69,9605,10,10,628,159,372,487
+Kepulauan Riau,21.0,province,2023,SD/MI,Negeri,683,154046,602,281,9009,1672,6743,5942
+Kepulauan Riau,21.0,province,2023,SD/MI,Negeri dan Swasta,982,227249,651,385,13511,2063,9871,9462
+Kepulauan Riau,21.0,province,2023,SD/MI,Swasta,299,73203,49,104,4502,391,3128,3520
+Kepulauan Riau,21.0,province,2023,SMA/MA,Negeri,93,49014,43,23,2911,703,1418,1492
+Kepulauan Riau,21.0,province,2023,SMA/MA,Negeri dan Swasta,168,57275,46,26,3630,809,1813,1980
+Kepulauan Riau,21.0,province,2023,SMA/MA,Swasta,75,8261,3,3,719,106,395,488
+Kepulauan Riau,21.0,province,2023,SMK/MAK,Negeri,36,28493,106,5,1752,447,915,654
+Kepulauan Riau,21.0,province,2023,SMK/MAK,Negeri dan Swasta,104,37984,129,31,2499,567,1460,1367
+Kepulauan Riau,21.0,province,2023,SMK/MAK,Swasta,68,9491,23,26,747,120,545,713
+Kepulauan Riau,21.0,province,2023,SMP/MTs,Negeri,236,75301,143,28,4254,960,2318,2432
+Kepulauan Riau,21.0,province,2023,SMP/MTs,Negeri dan Swasta,415,99219,145,38,6084,1195,3278,3570
+Kepulauan Riau,21.0,province,2023,SMP/MTs,Swasta,179,23918,2,10,1830,235,960,1138
+Lampung,18.0,province,2023,SD/MI,Negeri,4297,715542,2328,710,48214,3246,34443,33929
+Lampung,18.0,province,2023,SD/MI,Negeri dan Swasta,4726,798892,2412,833,53351,3705,38340,38028
+Lampung,18.0,province,2023,SD/MI,Swasta,429,83350,84,123,5137,459,3897,4099
+Lampung,18.0,province,2023,SMA/MA,Negeri,239,128161,32,79,8132,1747,3943,4112
+Lampung,18.0,province,2023,SMA/MA,Negeri dan Swasta,527,172818,81,171,11195,2215,5651,6108
+Lampung,18.0,province,2023,SMA/MA,Swasta,288,44657,49,92,3063,468,1708,1996
+Lampung,18.0,province,2023,SMK/MAK,Negeri,111,68999,59,23,4737,1117,2399,2235
+Lampung,18.0,province,2023,SMK/MAK,Negeri dan Swasta,497,150736,151,148,10079,2076,5813,6018
+Lampung,18.0,province,2023,SMK/MAK,Swasta,386,81737,92,125,5342,959,3414,3783
+Lampung,18.0,province,2023,SMP/MTs,Negeri,709,242619,191,141,16575,2685,8227,9055
+Lampung,18.0,province,2023,SMP/MTs,Negeri dan Swasta,1455,336944,253,280,22966,3493,11980,13670
+Lampung,18.0,province,2023,SMP/MTs,Swasta,746,94325,62,139,6391,808,3753,4615
+Maluku,81.0,province,2023,SD/MI,Negeri,1277,148862,1251,716,13074,1021,8520,9082
+Maluku,81.0,province,2023,SD/MI,Negeri dan Swasta,1815,206984,1933,1076,16690,1220,11920,12765
+Maluku,81.0,province,2023,SD/MI,Swasta,538,58122,682,360,3616,199,3400,3683
+Maluku,81.0,province,2023,SMA/MA,Negeri,215,57822,61,237,5293,755,2061,2386
+Maluku,81.0,province,2023,SMA/MA,Negeri dan Swasta,288,69590,103,281,6462,875,2563,2983
+Maluku,81.0,province,2023,SMA/MA,Swasta,73,11768,42,44,1169,120,502,597
+Maluku,81.0,province,2023,SMK/MAK,Negeri,84,15750,30,76,2133,306,846,915
+Maluku,81.0,province,2023,SMK/MAK,Negeri dan Swasta,120,21812,54,84,2676,351,1161,1210
+Maluku,81.0,province,2023,SMK/MAK,Swasta,36,6062,24,8,543,45,315,295
+Maluku,81.0,province,2023,SMP/MTs,Negeri,552,73152,61,157,8487,1057,2963,3734
+Maluku,81.0,province,2023,SMP/MTs,Negeri dan Swasta,696,89436,75,246,9856,1201,3636,4677
+Maluku,81.0,province,2023,SMP/MTs,Swasta,144,16284,14,89,1369,144,673,943
+Maluku Utara,82.0,province,2023,SD/MI,Negeri,1111,118277,1018,567,10225,712,7189,7563
+Maluku Utara,82.0,province,2023,SD/MI,Negeri dan Swasta,1317,141138,1126,630,11392,788,8480,8899
+Maluku Utara,82.0,province,2023,SD/MI,Swasta,206,22861,108,63,1167,76,1291,1336
+Maluku Utara,82.0,province,2023,SMA/MA,Negeri,139,35868,62,127,3062,351,1261,1375
+Maluku Utara,82.0,province,2023,SMA/MA,Negeri dan Swasta,224,44809,71,284,3732,407,1649,1792
+Maluku Utara,82.0,province,2023,SMA/MA,Swasta,85,8941,9,157,670,56,388,417
+Maluku Utara,82.0,province,2023,SMK/MAK,Negeri,63,9677,104,58,1284,155,552,589
+Maluku Utara,82.0,province,2023,SMK/MAK,Negeri dan Swasta,150,19151,203,186,1930,217,1029,1065
+Maluku Utara,82.0,province,2023,SMK/MAK,Swasta,87,9474,99,128,646,62,477,476
+Maluku Utara,82.0,province,2023,SMP/MTs,Negeri,373,46391,166,112,5343,583,1866,2382
+Maluku Utara,82.0,province,2023,SMP/MTs,Negeri dan Swasta,519,59722,178,177,6318,679,2441,3083
+Maluku Utara,82.0,province,2023,SMP/MTs,Swasta,146,13331,12,65,975,96,575,701
+Nusa Tenggara Barat,52.0,province,2023,SD/MI,Negeri,3008,472151,1443,1089,37975,2425,21960,21428
+Nusa Tenggara Barat,52.0,province,2023,SD/MI,Negeri dan Swasta,3330,512620,1501,1235,40716,2630,24116,23510
+Nusa Tenggara Barat,52.0,province,2023,SD/MI,Swasta,322,40469,58,146,2741,205,2156,2082
+Nusa Tenggara Barat,52.0,province,2023,SMA/MA,Negeri,150,96571,146,247,7406,1670,3006,2879
+Nusa Tenggara Barat,52.0,province,2023,SMA/MA,Negeri dan Swasta,365,116920,229,527,9408,1854,3885,3895
+Nusa Tenggara Barat,52.0,province,2023,SMA/MA,Swasta,215,20349,83,280,2002,184,879,1016
+Nusa Tenggara Barat,52.0,province,2023,SMK/MAK,Negeri,99,54577,278,157,5207,1211,2192,1999
+Nusa Tenggara Barat,52.0,province,2023,SMK/MAK,Negeri dan Swasta,329,77712,491,527,7532,1388,3281,3183
+Nusa Tenggara Barat,52.0,province,2023,SMK/MAK,Swasta,230,23135,213,370,2325,177,1089,1184
+Nusa Tenggara Barat,52.0,province,2023,SMP/MTs,Negeri,604,133977,209,235,17013,3181,5013,6041
+Nusa Tenggara Barat,52.0,province,2023,SMP/MTs,Negeri dan Swasta,1063,173957,280,443,20936,3484,6828,7850
+Nusa Tenggara Barat,52.0,province,2023,SMP/MTs,Swasta,459,39980,71,208,3923,303,1815,1809
+Nusa Tenggara Timur,53.0,province,2023,SD/MI,Negeri,3396,414756,5757,1677,35174,3394,24024,26635
+Nusa Tenggara Timur,53.0,province,2023,SD/MI,Negeri dan Swasta,5225,663307,8887,2771,50659,5016,36988,41659
+Nusa Tenggara Timur,53.0,province,2023,SD/MI,Swasta,1829,248551,3130,1094,15485,1622,12964,15024
+Nusa Tenggara Timur,53.0,province,2023,SMA/MA,Negeri,393,145341,168,364,12242,1421,4997,5171
+Nusa Tenggara Timur,53.0,province,2023,SMA/MA,Negeri dan Swasta,611,207039,408,664,16700,1979,7193,7787
+Nusa Tenggara Timur,53.0,province,2023,SMA/MA,Swasta,218,61698,240,300,4458,558,2196,2616
+Nusa Tenggara Timur,53.0,province,2023,SMK/MAK,Negeri,174,60670,169,294,6015,656,2524,2321
+Nusa Tenggara Timur,53.0,province,2023,SMK/MAK,Negeri dan Swasta,343,103874,240,1493,9103,941,4365,4158
+Nusa Tenggara Timur,53.0,province,2023,SMK/MAK,Swasta,169,43204,71,1199,3088,285,1841,1837
+Nusa Tenggara Timur,53.0,province,2023,SMP/MTs,Negeri,1380,241833,403,509,23997,2857,9233,11018
+Nusa Tenggara Timur,53.0,province,2023,SMP/MTs,Negeri dan Swasta,1833,316816,553,842,29462,3575,12074,14626
+Nusa Tenggara Timur,53.0,province,2023,SMP/MTs,Swasta,453,74983,150,333,5465,718,2841,3608
+Papua,91.0,province,2023,SD/MI,Negeri,487,67324,1149,394,4313,243,3580,3471
+Papua,91.0,province,2023,SD/MI,Negeri dan Swasta,831,116836,1605,651,6910,425,6031,6064
+Papua,91.0,province,2023,SD/MI,Swasta,344,49512,456,257,2597,182,2451,2593
+Papua,91.0,province,2023,SMA/MA,Negeri,57,22167,215,68,1413,203,686,728
+Papua,91.0,province,2023,SMA/MA,Negeri dan Swasta,113,33269,440,102,2205,310,1102,1180
+Papua,91.0,province,2023,SMA/MA,Swasta,56,11102,225,34,792,107,416,452
+Papua,91.0,province,2023,SMK/MAK,Negeri,35,9433,255,57,934,153,446,459
+Papua,91.0,province,2023,SMK/MAK,Negeri dan Swasta,49,13363,360,83,1224,203,623,619
+Papua,91.0,province,2023,SMK/MAK,Swasta,14,3930,105,26,290,50,177,160
+Papua,91.0,province,2023,SMP/MTs,Negeri,189,38710,360,175,2926,383,1346,1462
+Papua,91.0,province,2023,SMP/MTs,Negeri dan Swasta,269,51088,438,214,3746,485,1816,2048
+Papua,91.0,province,2023,SMP/MTs,Swasta,80,12378,78,39,820,102,470,586
+Papua Barat,92.0,province,2023,SD/MI,Negeri,406,48434,1228,301,3656,161,2874,2736
+Papua Barat,92.0,province,2023,SD/MI,Negeri dan Swasta,569,71737,2049,474,4916,231,4056,3915
+Papua Barat,92.0,province,2023,SD/MI,Swasta,163,23303,821,173,1260,70,1182,1179
+Papua Barat,92.0,province,2023,SMA/MA,Negeri,43,13327,142,21,914,97,454,486
+Papua Barat,92.0,province,2023,SMA/MA,Negeri dan Swasta,64,16881,285,26,1224,141,599,667
+Papua Barat,92.0,province,2023,SMA/MA,Swasta,21,3554,143,5,310,44,145,181
+Papua Barat,92.0,province,2023,SMK/MAK,Negeri,16,5287,69,13,505,39,252,234
+Papua Barat,92.0,province,2023,SMK/MAK,Negeri dan Swasta,21,6736,129,48,621,53,312,284
+Papua Barat,92.0,province,2023,SMK/MAK,Swasta,5,1449,60,35,116,14,60,50
+Papua Barat,92.0,province,2023,SMP/MTs,Negeri,124,20785,262,54,1836,181,782,876
+Papua Barat,92.0,province,2023,SMP/MTs,Negeri dan Swasta,164,27469,404,102,2327,243,1037,1174
+Papua Barat,92.0,province,2023,SMP/MTs,Swasta,40,6684,142,48,491,62,255,298
+Papua Barat Daya,96.0,province,2023,SD/MI,Negeri,302,35284,925,222,3216,88,2208,2065
+Papua Barat Daya,96.0,province,2023,SD/MI,Negeri dan Swasta,547,60227,1347,334,4676,181,3815,3711
+Papua Barat Daya,96.0,province,2023,SD/MI,Swasta,245,24943,422,112,1460,93,1607,1646
+Papua Barat Daya,96.0,province,2023,SMA/MA,Negeri,43,10660,16,27,931,70,408,448
+Papua Barat Daya,96.0,province,2023,SMA/MA,Negeri dan Swasta,72,14260,50,45,1292,112,584,649
+Papua Barat Daya,96.0,province,2023,SMA/MA,Swasta,29,3600,34,18,361,42,176,201
+Papua Barat Daya,96.0,province,2023,SMK/MAK,Negeri,16,5570,102,33,514,44,270,275
+Papua Barat Daya,96.0,province,2023,SMK/MAK,Negeri dan Swasta,38,8985,160,49,795,77,431,429
+Papua Barat Daya,96.0,province,2023,SMK/MAK,Swasta,22,3415,58,16,281,33,161,154
+Papua Barat Daya,96.0,province,2023,SMP/MTs,Negeri,123,17856,77,35,1937,124,707,829
+Papua Barat Daya,96.0,province,2023,SMP/MTs,Negeri dan Swasta,181,24650,125,84,2472,165,990,1162
+Papua Barat Daya,96.0,province,2023,SMP/MTs,Swasta,58,6794,48,49,535,41,283,333
+Papua Pegunungan,95.0,province,2023,SD/MI,Negeri,513,109443,3573,708,2609,53,3898,3273
+Papua Pegunungan,95.0,province,2023,SD/MI,Negeri dan Swasta,665,140165,3978,928,3514,86,5003,4316
+Papua Pegunungan,95.0,province,2023,SD/MI,Swasta,152,30722,405,220,905,33,1105,1043
+Papua Pegunungan,95.0,province,2023,SMA/MA,Negeri,44,9944,31,137,564,10,313,297
+Papua Pegunungan,95.0,province,2023,SMA/MA,Negeri dan Swasta,62,13843,52,160,787,16,451,440
+Papua Pegunungan,95.0,province,2023,SMA/MA,Swasta,18,3899,21,23,223,6,138,143
+Papua Pegunungan,95.0,province,2023,SMK/MAK,Negeri,10,1726,2,50,112,1,58,67
+Papua Pegunungan,95.0,province,2023,SMK/MAK,Negeri dan Swasta,19,4425,112,70,232,12,145,160
+Papua Pegunungan,95.0,province,2023,SMK/MAK,Swasta,9,2699,110,20,120,11,87,93
+Papua Pegunungan,95.0,province,2023,SMP/MTs,Negeri,152,32795,232,347,1505,25,964,894
+Papua Pegunungan,95.0,province,2023,SMP/MTs,Negeri dan Swasta,197,41813,311,489,1830,41,1236,1142
+Papua Pegunungan,95.0,province,2023,SMP/MTs,Swasta,45,9018,79,142,325,16,272,248
+Papua Selatan,93.0,province,2023,SD/MI,Negeri,372,56014,2834,580,2431,82,2610,2327
+Papua Selatan,93.0,province,2023,SD/MI,Negeri dan Swasta,606,94976,5003,936,3880,148,4346,4006
+Papua Selatan,93.0,province,2023,SD/MI,Swasta,234,38962,2169,356,1449,66,1736,1679
+Papua Selatan,93.0,province,2023,SMA/MA,Negeri,22,9966,498,55,689,63,324,324
+Papua Selatan,93.0,province,2023,SMA/MA,Negeri dan Swasta,37,12884,621,77,888,101,435,456
+Papua Selatan,93.0,province,2023,SMA/MA,Swasta,15,2918,123,22,199,38,111,132
+Papua Selatan,93.0,province,2023,SMK/MAK,Negeri,21,6300,237,25,565,38,269,266
+Papua Selatan,93.0,province,2023,SMK/MAK,Negeri dan Swasta,25,7007,243,26,623,48,309,315
+Papua Selatan,93.0,province,2023,SMK/MAK,Swasta,4,707,6,1,58,10,40,49
+Papua Selatan,93.0,province,2023,SMP/MTs,Negeri,94,20959,825,69,1503,93,725,767
+Papua Selatan,93.0,province,2023,SMP/MTs,Negeri dan Swasta,130,27592,1175,73,1932,147,958,1026
+Papua Selatan,93.0,province,2023,SMP/MTs,Swasta,36,6633,350,4,429,54,233,259
+Papua Tengah,94.0,province,2023,SD/MI,Negeri,291,70019,1783,470,2615,78,2596,2282
+Papua Tengah,94.0,province,2023,SD/MI,Negeri dan Swasta,553,143052,3741,1106,4605,138,5095,4474
+Papua Tengah,94.0,province,2023,SD/MI,Swasta,262,73033,1958,636,1990,60,2499,2192
+Papua Tengah,94.0,province,2023,SMA/MA,Negeri,28,10862,40,19,657,52,344,337
+Papua Tengah,94.0,province,2023,SMA/MA,Negeri dan Swasta,56,16214,49,61,994,99,540,565
+Papua Tengah,94.0,province,2023,SMA/MA,Swasta,28,5352,9,42,337,47,196,228
+Papua Tengah,94.0,province,2023,SMK/MAK,Negeri,16,5253,23,11,470,30,224,249
+Papua Tengah,94.0,province,2023,SMK/MAK,Negeri dan Swasta,51,11181,72,90,947,93,509,543
+Papua Tengah,94.0,province,2023,SMK/MAK,Swasta,35,5928,49,79,477,63,285,294
+Papua Tengah,94.0,province,2023,SMP/MTs,Negeri,101,27354,325,264,1518,119,895,845
+Papua Tengah,94.0,province,2023,SMP/MTs,Negeri dan Swasta,171,40604,484,327,2219,168,1344,1344
+Papua Tengah,94.0,province,2023,SMP/MTs,Swasta,70,13250,159,63,701,49,449,499
+Riau,14.0,province,2023,SD/MI,Negeri,3230,633978,4092,1096,40524,3624,29051,28435
+Riau,14.0,province,2023,SD/MI,Negeri dan Swasta,3815,776574,4446,1388,48949,4315,35120,34857
+Riau,14.0,province,2023,SD/MI,Swasta,585,142596,354,292,8425,691,6069,6422
+Riau,14.0,province,2023,SMA/MA,Negeri,313,148011,155,164,9982,1873,4681,4979
+Riau,14.0,province,2023,SMA/MA,Negeri dan Swasta,467,172295,209,190,11938,2121,5616,6210
+Riau,14.0,province,2023,SMA/MA,Swasta,154,24284,54,26,1956,248,935,1231
+Riau,14.0,province,2023,SMK/MAK,Negeri,138,68528,84,76,5228,921,2523,2220
+Riau,14.0,province,2023,SMK/MAK,Negeri dan Swasta,306,105325,225,142,8174,1335,4208,4191
+Riau,14.0,province,2023,SMK/MAK,Swasta,168,36797,141,66,2946,414,1685,1971
+Riau,14.0,province,2023,SMP/MTs,Negeri,874,204418,394,238,15638,2613,7246,8548
+Riau,14.0,province,2023,SMP/MTs,Negeri dan Swasta,1269,261370,440,350,19830,3115,9495,11316
+Riau,14.0,province,2023,SMP/MTs,Swasta,395,56952,46,112,4192,502,2249,2768
+Sekolah Indonesia Luar Negeri,,special,2023,SD/MI,Negeri,83,11918,47,81,349,10,625,544
+Sekolah Indonesia Luar Negeri,,special,2023,SD/MI,Negeri dan Swasta,124,17789,56,89,497,10,913,777
+Sekolah Indonesia Luar Negeri,,special,2023,SD/MI,Swasta,41,5871,9,8,148,0,288,233
+Sekolah Indonesia Luar Negeri,,special,2023,SMA/MA,Negeri,11,959,0,0,88,3,60,64
+Sekolah Indonesia Luar Negeri,,special,2023,SMA/MA,Negeri dan Swasta,12,1057,0,1,102,5,65,70
+Sekolah Indonesia Luar Negeri,,special,2023,SMA/MA,Swasta,1,98,0,1,14,2,5,6
+Sekolah Indonesia Luar Negeri,,special,2023,SMK/MAK,Negeri,1,197,0,0,6,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2023,SMK/MAK,Negeri dan Swasta,1,197,0,0,6,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2023,SMK/MAK,Swasta,0,0,0,0,0,0,0,0
+Sekolah Indonesia Luar Negeri,,special,2023,SMP/MTs,Negeri,43,4692,1,6,178,8,209,284
+Sekolah Indonesia Luar Negeri,,special,2023,SMP/MTs,Negeri dan Swasta,55,6162,1,11,239,8,267,367
+Sekolah Indonesia Luar Negeri,,special,2023,SMP/MTs,Swasta,12,1470,0,5,61,0,58,83
+Sulawesi Barat,76.0,province,2023,SD/MI,Negeri,1297,138490,1089,443,12513,2082,8782,8968
+Sulawesi Barat,76.0,province,2023,SD/MI,Negeri dan Swasta,1329,143300,1092,511,12804,2126,9037,9223
+Sulawesi Barat,76.0,province,2023,SD/MI,Swasta,32,4810,3,68,291,44,255,255
+Sulawesi Barat,76.0,province,2023,SMA/MA,Negeri,77,28370,125,19,2301,604,942,1083
+Sulawesi Barat,76.0,province,2023,SMA/MA,Negeri dan Swasta,92,29665,135,26,2382,619,1006,1157
+Sulawesi Barat,76.0,province,2023,SMA/MA,Swasta,15,1295,10,7,81,15,64,74
+Sulawesi Barat,76.0,province,2023,SMK/MAK,Negeri,60,18604,67,145,1896,579,837,956
+Sulawesi Barat,76.0,province,2023,SMK/MAK,Negeri dan Swasta,130,25073,127,246,2519,726,1206,1369
+Sulawesi Barat,76.0,province,2023,SMK/MAK,Swasta,70,6469,60,101,623,147,369,413
+Sulawesi Barat,76.0,province,2023,SMP/MTs,Negeri,319,46261,262,195,4975,1443,1887,2418
+Sulawesi Barat,76.0,province,2023,SMP/MTs,Negeri dan Swasta,378,51222,263,222,5369,1504,2116,2692
+Sulawesi Barat,76.0,province,2023,SMP/MTs,Swasta,59,4961,1,27,394,61,229,274
+Sulawesi Selatan,73.0,province,2023,SD/MI,Negeri,6070,809775,3239,1530,59968,6638,43438,43624
+Sulawesi Selatan,73.0,province,2023,SD/MI,Negeri dan Swasta,6434,883153,3300,1613,64640,6983,46819,47175
+Sulawesi Selatan,73.0,province,2023,SD/MI,Swasta,364,73378,61,83,4672,345,3381,3551
+Sulawesi Selatan,73.0,province,2023,SMA/MA,Negeri,337,193254,267,525,13059,1939,6036,6835
+Sulawesi Selatan,73.0,province,2023,SMA/MA,Negeri dan Swasta,607,230017,451,747,15630,2295,7524,8740
+Sulawesi Selatan,73.0,province,2023,SMA/MA,Swasta,270,36763,184,222,2571,356,1488,1905
+Sulawesi Selatan,73.0,province,2023,SMK/MAK,Negeri,168,87122,417,442,7495,1061,3390,3663
+Sulawesi Selatan,73.0,province,2023,SMK/MAK,Negeri dan Swasta,406,120300,862,849,9998,1491,5216,5853
+Sulawesi Selatan,73.0,province,2023,SMK/MAK,Swasta,238,33178,445,407,2503,430,1826,2190
+Sulawesi Selatan,73.0,province,2023,SMP/MTs,Negeri,1269,278068,850,727,24753,5108,10457,13279
+Sulawesi Selatan,73.0,province,2023,SMP/MTs,Negeri dan Swasta,1713,331150,1060,880,28613,5661,12665,16088
+Sulawesi Selatan,73.0,province,2023,SMP/MTs,Swasta,444,53082,210,153,3860,553,2208,2809
+Sulawesi Tengah,72.0,province,2023,SD/MI,Negeri,2675,284498,2835,966,23648,3726,17524,18768
+Sulawesi Tengah,72.0,province,2023,SD/MI,Negeri dan Swasta,2944,312352,3004,1033,25591,3932,19335,20614
+Sulawesi Tengah,72.0,province,2023,SD/MI,Swasta,269,27854,169,67,1943,206,1811,1846
+Sulawesi Tengah,72.0,province,2023,SMA/MA,Negeri,176,73086,139,169,4902,803,2411,2514
+Sulawesi Tengah,72.0,province,2023,SMA/MA,Negeri dan Swasta,234,79866,211,215,5453,888,2722,2901
+Sulawesi Tengah,72.0,province,2023,SMA/MA,Swasta,58,6780,72,46,551,85,311,387
+Sulawesi Tengah,72.0,province,2023,SMK/MAK,Negeri,107,32054,162,144,2857,416,1412,1450
+Sulawesi Tengah,72.0,province,2023,SMK/MAK,Negeri dan Swasta,182,41943,300,178,3669,559,1947,2054
+Sulawesi Tengah,72.0,province,2023,SMK/MAK,Swasta,75,9889,138,34,812,143,535,604
+Sulawesi Tengah,72.0,province,2023,SMP/MTs,Negeri,734,101706,420,466,10401,2052,4277,5474
+Sulawesi Tengah,72.0,province,2023,SMP/MTs,Negeri dan Swasta,877,113233,475,505,11292,2240,4846,6129
+Sulawesi Tengah,72.0,province,2023,SMP/MTs,Swasta,143,11527,55,39,891,188,569,655
+Sulawesi Tenggara,74.0,province,2023,SD/MI,Negeri,2256,280639,1622,748,24440,1879,16182,16460
+Sulawesi Tenggara,74.0,province,2023,SD/MI,Negeri dan Swasta,2347,294170,1643,784,25278,1949,16878,17137
+Sulawesi Tenggara,74.0,province,2023,SD/MI,Swasta,91,13531,21,36,838,70,696,677
+Sulawesi Tenggara,74.0,province,2023,SMA/MA,Negeri,251,89328,303,249,7718,804,3075,3526
+Sulawesi Tenggara,74.0,province,2023,SMA/MA,Negeri dan Swasta,315,94537,333,303,8232,861,3351,3863
+Sulawesi Tenggara,74.0,province,2023,SMA/MA,Swasta,64,5209,30,54,514,57,276,337
+Sulawesi Tenggara,74.0,province,2023,SMK/MAK,Negeri,102,29223,281,90,3280,303,1406,1497
+Sulawesi Tenggara,74.0,province,2023,SMK/MAK,Negeri dan Swasta,168,34736,294,292,3912,354,1781,1914
+Sulawesi Tenggara,74.0,province,2023,SMK/MAK,Swasta,66,5513,13,202,632,51,375,417
+Sulawesi Tenggara,74.0,province,2023,SMP/MTs,Negeri,694,108768,509,210,12815,1522,4474,5804
+Sulawesi Tenggara,74.0,province,2023,SMP/MTs,Negeri dan Swasta,789,116802,535,259,13538,1602,4860,6238
+Sulawesi Tenggara,74.0,province,2023,SMP/MTs,Swasta,95,8034,26,49,723,80,386,434
+Sulawesi Utara,71.0,province,2023,SD/MI,Negeri,1347,135222,466,273,12627,354,8871,9218
+Sulawesi Utara,71.0,province,2023,SD/MI,Negeri dan Swasta,2209,218823,728,435,17590,500,14384,15012
+Sulawesi Utara,71.0,province,2023,SD/MI,Swasta,862,83601,262,162,4963,146,5513,5794
+Sulawesi Utara,71.0,province,2023,SMA/MA,Negeri,121,50115,213,60,3639,513,1689,1921
+Sulawesi Utara,71.0,province,2023,SMA/MA,Negeri dan Swasta,229,63567,329,114,4576,605,2326,2765
+Sulawesi Utara,71.0,province,2023,SMA/MA,Swasta,108,13452,116,54,937,92,637,844
+Sulawesi Utara,71.0,province,2023,SMK/MAK,Negeri,92,33142,630,81,2990,364,1629,1629
+Sulawesi Utara,71.0,province,2023,SMK/MAK,Negeri dan Swasta,192,45766,816,250,3996,477,2427,2656
+Sulawesi Utara,71.0,province,2023,SMK/MAK,Swasta,100,12624,186,169,1006,113,798,1027
+Sulawesi Utara,71.0,province,2023,SMP/MTs,Negeri,478,74181,232,120,7377,619,2989,3703
+Sulawesi Utara,71.0,province,2023,SMP/MTs,Negeri dan Swasta,733,98340,371,219,9042,754,4100,5097
+Sulawesi Utara,71.0,province,2023,SMP/MTs,Swasta,255,24159,139,99,1665,135,1111,1394
+Sumatera Barat,13.0,province,2023,SD/MI,Negeri,3892,521822,4534,781,39668,5045,28326,29424
+Sumatera Barat,13.0,province,2023,SD/MI,Negeri dan Swasta,4206,592365,4643,858,44164,5605,31481,32789
+Sumatera Barat,13.0,province,2023,SD/MI,Swasta,314,70543,109,77,4496,560,3155,3365
+Sumatera Barat,13.0,province,2023,SMA/MA,Negeri,236,138979,594,128,9566,1750,4326,4703
+Sumatera Barat,13.0,province,2023,SMA/MA,Negeri dan Swasta,338,153535,648,204,10810,1953,4925,5522
+Sumatera Barat,13.0,province,2023,SMA/MA,Swasta,102,14556,54,76,1244,203,599,819
+Sumatera Barat,13.0,province,2023,SMK/MAK,Negeri,115,75274,421,268,5903,1062,2788,2486
+Sumatera Barat,13.0,province,2023,SMK/MAK,Negeri dan Swasta,212,88282,653,315,7263,1294,3502,3389
+Sumatera Barat,13.0,province,2023,SMK/MAK,Swasta,97,13008,232,47,1360,232,714,903
+Sumatera Barat,13.0,province,2023,SMP/MTs,Negeri,675,177358,1246,351,14991,2563,6427,8094
+Sumatera Barat,13.0,province,2023,SMP/MTs,Negeri dan Swasta,858,201502,1307,372,17133,2900,7428,9417
+Sumatera Barat,13.0,province,2023,SMP/MTs,Swasta,183,24144,61,21,2142,337,1001,1323
+Sumatera Selatan,16.0,province,2023,SD/MI,Negeri,4249,792830,6311,1838,51531,5072,36547,34016
+Sumatera Selatan,16.0,province,2023,SD/MI,Negeri dan Swasta,4719,882011,6469,1976,56954,5710,40713,38384
+Sumatera Selatan,16.0,province,2023,SD/MI,Swasta,470,89181,158,138,5423,638,4166,4368
+Sumatera Selatan,16.0,province,2023,SMA/MA,Negeri,330,171193,239,238,11851,2345,5210,5287
+Sumatera Selatan,16.0,province,2023,SMA/MA,Negeri dan Swasta,613,220114,416,523,14887,3005,6976,7527
+Sumatera Selatan,16.0,province,2023,SMA/MA,Swasta,283,48921,177,285,3036,660,1766,2240
+Sumatera Selatan,16.0,province,2023,SMK/MAK,Negeri,121,78601,142,226,5734,1224,2619,2162
+Sumatera Selatan,16.0,province,2023,SMK/MAK,Negeri dan Swasta,314,125925,292,320,8549,1776,4466,4279
+Sumatera Selatan,16.0,province,2023,SMK/MAK,Swasta,193,47324,150,94,2815,552,1847,2117
+Sumatera Selatan,16.0,province,2023,SMP/MTs,Negeri,908,287347,683,406,20650,3793,9789,10382
+Sumatera Selatan,16.0,province,2023,SMP/MTs,Negeri dan Swasta,1438,356480,922,585,25189,4652,12535,13783
+Sumatera Selatan,16.0,province,2023,SMP/MTs,Swasta,530,69133,239,179,4539,859,2746,3401
+Sumatera Utara,12.0,province,2023,SD/MI,Negeri,8167,1177930,4182,3509,85601,5807,60500,63853
+Sumatera Utara,12.0,province,2023,SD/MI,Negeri dan Swasta,9751,1524481,4896,4390,103006,7086,74970,79180
+Sumatera Utara,12.0,province,2023,SD/MI,Swasta,1584,346551,714,881,17405,1279,14470,15327
+Sumatera Utara,12.0,province,2023,SMA/MA,Negeri,432,248734,176,801,15834,2055,7509,7719
+Sumatera Utara,12.0,province,2023,SMA/MA,Negeri dan Swasta,1067,389899,363,1721,23388,2975,12277,13488
+Sumatera Utara,12.0,province,2023,SMA/MA,Swasta,635,141165,187,920,7554,920,4768,5769
+Sumatera Utara,12.0,province,2023,SMK/MAK,Negeri,274,138169,172,544,10564,1208,4832,4808
+Sumatera Utara,12.0,province,2023,SMK/MAK,Negeri dan Swasta,959,304565,608,2290,20090,2333,11387,12708
+Sumatera Utara,12.0,province,2023,SMK/MAK,Swasta,685,166396,436,1746,9526,1125,6555,7900
+Sumatera Utara,12.0,province,2023,SMP/MTs,Negeri,1339,411355,580,1091,30905,3270,14283,17278
+Sumatera Utara,12.0,province,2023,SMP/MTs,Negeri dan Swasta,2687,622082,1082,2039,43229,4570,22001,26915
+Sumatera Utara,12.0,province,2023,SMP/MTs,Swasta,1348,210727,502,948,12324,1300,7718,9637
+Aceh,11.0,province,2024,SD/MI,Negeri,3336,453928,881,695,44062,4135,24398,25759
+Aceh,11.0,province,2024,SD/MI,Negeri dan Swasta,3543,494082,918,782,46676,4422,26235,27711
+Aceh,11.0,province,2024,SD/MI,Swasta,207,40154,37,87,2614,287,1837,1952
+Aceh,11.0,province,2024,SMA/MA,Negeri,395,122127,584,124,12456,2720,4151,5709
+Aceh,11.0,province,2024,SMA/MA,Negeri dan Swasta,543,141690,610,193,13790,2999,4937,6685
+Aceh,11.0,province,2024,SMA/MA,Swasta,148,19563,26,69,1334,279,786,976
+Aceh,11.0,province,2024,SMK/MAK,Negeri,154,47064,458,128,6426,1403,2256,2362
+Aceh,11.0,province,2024,SMK/MAK,Negeri dan Swasta,224,54723,500,156,7090,1568,2657,2842
+Aceh,11.0,province,2024,SMK/MAK,Swasta,70,7659,42,28,664,165,401,480
+Aceh,11.0,province,2024,SMP/MTs,Negeri,906,158212,371,294,19548,4234,6169,8895
+Aceh,11.0,province,2024,SMP/MTs,Negeri dan Swasta,1328,207964,412,398,23083,4799,8251,11367
+Aceh,11.0,province,2024,SMP/MTs,Swasta,422,49752,41,104,3535,565,2082,2472
+Bali,51.0,province,2024,SD/MI,Negeri,2251,338502,94,107,21108,3693,15645,15999
+Bali,51.0,province,2024,SD/MI,Negeri dan Swasta,2407,382494,103,136,23712,4016,17444,17894
+Bali,51.0,province,2024,SD/MI,Swasta,156,43992,9,29,2604,323,1799,1895
+Bali,51.0,province,2024,SMA/MA,Negeri,90,78094,1,9,4798,1704,2193,2333
+Bali,51.0,province,2024,SMA/MA,Negeri dan Swasta,161,92205,1,11,5751,1943,2683,3135
+Bali,51.0,province,2024,SMA/MA,Swasta,71,14111,0,2,953,239,490,802
+Bali,51.0,province,2024,SMK/MAK,Negeri,58,55988,5,11,3583,984,1859,1334
+Bali,51.0,province,2024,SMK/MAK,Negeri dan Swasta,169,94633,12,16,5498,1431,3260,2893
+Bali,51.0,province,2024,SMK/MAK,Swasta,111,38645,7,5,1915,447,1401,1559
+Bali,51.0,province,2024,SMP/MTs,Negeri,277,161975,11,30,9203,2385,4904,4765
+Bali,51.0,province,2024,SMP/MTs,Negeri dan Swasta,402,188999,13,43,10753,2779,5825,6041
+Bali,51.0,province,2024,SMP/MTs,Swasta,125,27024,2,13,1550,394,921,1276
+Banten,36.0,province,2024,SD/MI,Negeri,3853,1020399,1550,1552,42610,3472,36367,32438
+Banten,36.0,province,2024,SD/MI,Negeri dan Swasta,4652,1222771,1649,1774,54320,4535,45109,42109
+Banten,36.0,province,2024,SD/MI,Swasta,799,202372,99,222,11710,1063,8742,9671
+Banten,36.0,province,2024,SMA/MA,Negeri,161,147612,49,94,6442,1484,3916,3968
+Banten,36.0,province,2024,SMA/MA,Negeri dan Swasta,610,228932,130,177,12164,2707,6873,7757
+Banten,36.0,province,2024,SMA/MA,Swasta,449,81320,81,83,5722,1223,2957,3789
+Banten,36.0,province,2024,SMK/MAK,Negeri,98,94428,42,44,4509,1181,2746,2386
+Banten,36.0,province,2024,SMK/MAK,Negeri dan Swasta,737,255907,316,237,13413,3589,8728,9405
+Banten,36.0,province,2024,SMK/MAK,Swasta,639,161479,274,193,8904,2408,5982,7019
+Banten,36.0,province,2024,SMP/MTs,Negeri,576,287975,158,129,13627,1962,8472,9145
+Banten,36.0,province,2024,SMP/MTs,Negeri dan Swasta,1622,454206,365,275,22518,3283,14644,16979
+Banten,36.0,province,2024,SMP/MTs,Swasta,1046,166231,207,146,8891,1321,6172,7834
+Bengkulu,17.0,province,2024,SD/MI,Negeri,1289,171467,875,336,14710,1589,9622,10691
+Bengkulu,17.0,province,2024,SD/MI,Negeri dan Swasta,1408,194713,881,361,16368,1751,10719,11882
+Bengkulu,17.0,province,2024,SD/MI,Swasta,119,23246,6,25,1658,162,1097,1191
+Bengkulu,17.0,province,2024,SMA/MA,Negeri,110,53559,59,48,3964,1047,1678,1827
+Bengkulu,17.0,province,2024,SMA/MA,Negeri dan Swasta,153,56495,66,52,4257,1105,1844,2045
+Bengkulu,17.0,province,2024,SMA/MA,Swasta,43,2936,7,4,293,58,166,218
+Bengkulu,17.0,province,2024,SMK/MAK,Negeri,65,24368,16,76,2591,567,1085,1105
+Bengkulu,17.0,province,2024,SMK/MAK,Negeri dan Swasta,103,27575,64,80,2939,642,1281,1341
+Bengkulu,17.0,province,2024,SMK/MAK,Swasta,38,3207,48,4,348,75,196,236
+Bengkulu,17.0,province,2024,SMP/MTs,Negeri,380,76752,232,104,7617,1256,2920,3721
+Bengkulu,17.0,province,2024,SMP/MTs,Negeri dan Swasta,460,85551,242,121,8362,1363,3312,4189
+Bengkulu,17.0,province,2024,SMP/MTs,Swasta,80,8799,10,17,745,107,392,468
+D.I. Yogyakarta,34.0,province,2024,SD/MI,Negeri,1418,182927,166,28,13389,1869,9778,10330
+D.I. Yogyakarta,34.0,province,2024,SD/MI,Negeri dan Swasta,1841,266274,192,54,18476,2692,13695,14527
+D.I. Yogyakarta,34.0,province,2024,SD/MI,Swasta,423,83347,26,26,5087,823,3917,4197
+D.I. Yogyakarta,34.0,province,2024,SMA/MA,Negeri,69,44057,4,0,2504,851,1245,1337
+D.I. Yogyakarta,34.0,province,2024,SMA/MA,Negeri dan Swasta,175,62739,44,0,3962,1267,1986,2328
+D.I. Yogyakarta,34.0,province,2024,SMA/MA,Swasta,106,18682,40,0,1458,416,741,991
+D.I. Yogyakarta,34.0,province,2024,SMK/MAK,Negeri,50,52370,28,0,3149,892,1559,1384
+D.I. Yogyakarta,34.0,province,2024,SMK/MAK,Negeri dan Swasta,207,90460,230,9,5963,1668,3286,3324
+D.I. Yogyakarta,34.0,province,2024,SMK/MAK,Swasta,157,38090,202,9,2814,776,1727,1940
+D.I. Yogyakarta,34.0,province,2024,SMP/MTs,Negeri,214,92562,9,3,5369,1113,2974,3156
+D.I. Yogyakarta,34.0,province,2024,SMP/MTs,Negeri dan Swasta,453,131191,87,5,8306,1896,4523,5050
+D.I. Yogyakarta,34.0,province,2024,SMP/MTs,Swasta,239,38629,78,2,2937,783,1549,1894
+D.K.I. Jakarta,31.0,province,2024,SD/MI,Negeri,1305,534084,911,277,22331,2348,17965,17283
+D.K.I. Jakarta,31.0,province,2024,SD/MI,Negeri dan Swasta,2223,746219,1241,442,36928,4163,27489,28425
+D.K.I. Jakarta,31.0,province,2024,SD/MI,Swasta,918,212135,330,165,14597,1815,9524,11142
+D.K.I. Jakarta,31.0,province,2024,SMA/MA,Negeri,117,88259,97,2,4944,956,2497,2584
+D.K.I. Jakarta,31.0,province,2024,SMA/MA,Negeri dan Swasta,504,190143,121,13,11653,2284,5973,7007
+D.K.I. Jakarta,31.0,province,2024,SMA/MA,Swasta,387,101884,24,11,6709,1328,3476,4423
+D.K.I. Jakarta,31.0,province,2024,SMK/MAK,Negeri,73,58159,12,0,3420,677,1680,1655
+D.K.I. Jakarta,31.0,province,2024,SMK/MAK,Negeri dan Swasta,556,196259,176,87,11083,2343,6729,8245
+D.K.I. Jakarta,31.0,province,2024,SMK/MAK,Swasta,483,138100,164,87,7663,1666,5049,6590
+D.K.I. Jakarta,31.0,province,2024,SMP/MTs,Negeri,293,211760,189,3,9935,1873,6026,5995
+D.K.I. Jakarta,31.0,province,2024,SMP/MTs,Negeri dan Swasta,1068,354754,555,42,18482,3617,11251,12818
+D.K.I. Jakarta,31.0,province,2024,SMP/MTs,Swasta,775,142994,366,39,8547,1744,5225,6823
+Gorontalo,75.0,province,2024,SD/MI,Negeri,897,103294,962,392,7538,922,5865,6563
+Gorontalo,75.0,province,2024,SD/MI,Negeri dan Swasta,933,108371,963,403,7836,956,6126,6834
+Gorontalo,75.0,province,2024,SD/MI,Swasta,36,5077,1,11,298,34,261,271
+Gorontalo,75.0,province,2024,SMA/MA,Negeri,62,30073,87,138,1855,330,928,1092
+Gorontalo,75.0,province,2024,SMA/MA,Negeri dan Swasta,71,31284,98,147,1956,352,978,1156
+Gorontalo,75.0,province,2024,SMA/MA,Swasta,9,1211,11,9,101,22,50,64
+Gorontalo,75.0,province,2024,SMK/MAK,Negeri,40,13092,93,137,1427,220,691,791
+Gorontalo,75.0,province,2024,SMK/MAK,Negeri dan Swasta,59,15189,121,147,1679,273,821,970
+Gorontalo,75.0,province,2024,SMK/MAK,Swasta,19,2097,28,10,252,53,130,179
+Gorontalo,75.0,province,2024,SMP/MTs,Negeri,313,38500,245,130,3920,605,1693,2284
+Gorontalo,75.0,province,2024,SMP/MTs,Negeri dan Swasta,344,40840,264,136,4128,631,1818,2436
+Gorontalo,75.0,province,2024,SMP/MTs,Swasta,31,2340,19,6,208,26,125,152
+Jambi,15.0,province,2024,SD/MI,Negeri,2302,331425,1303,739,25005,2964,17515,18721
+Jambi,15.0,province,2024,SD/MI,Negeri dan Swasta,2474,367826,1362,781,27048,3161,19174,20470
+Jambi,15.0,province,2024,SD/MI,Swasta,172,36401,59,42,2043,197,1659,1749
+Jambi,15.0,province,2024,SMA/MA,Negeri,163,73129,118,77,5046,1205,2296,2655
+Jambi,15.0,province,2024,SMA/MA,Negeri dan Swasta,252,83894,143,81,5763,1316,2725,3201
+Jambi,15.0,province,2024,SMA/MA,Swasta,89,10765,25,4,717,111,429,546
+Jambi,15.0,province,2024,SMK/MAK,Negeri,108,37809,270,34,3426,811,1584,1604
+Jambi,15.0,province,2024,SMK/MAK,Negeri dan Swasta,183,48359,332,65,4258,965,2105,2215
+Jambi,15.0,province,2024,SMK/MAK,Swasta,75,10550,62,31,832,154,521,611
+Jambi,15.0,province,2024,SMP/MTs,Negeri,559,100620,206,150,9672,1803,3915,5222
+Jambi,15.0,province,2024,SMP/MTs,Negeri dan Swasta,720,121809,219,169,11055,1999,4774,6277
+Jambi,15.0,province,2024,SMP/MTs,Swasta,161,21189,13,19,1383,196,859,1055
+Jawa Barat,32.0,province,2024,SD/MI,Negeri,16980,3892560,3221,4681,161501,12468,145289,128473
+Jawa Barat,32.0,province,2024,SD/MI,Negeri dan Swasta,19538,4512957,3436,5189,197578,16497,171876,157338
+Jawa Barat,32.0,province,2024,SD/MI,Swasta,2558,620397,215,508,36077,4029,26587,28865
+Jawa Barat,32.0,province,2024,SMA/MA,Negeri,514,541246,66,60,26448,6307,15494,14244
+Jawa Barat,32.0,province,2024,SMA/MA,Negeri dan Swasta,1820,842760,232,286,42895,9269,25737,26332
+Jawa Barat,32.0,province,2024,SMA/MA,Swasta,1306,301514,166,226,16447,2962,10243,12088
+Jawa Barat,32.0,province,2024,SMK/MAK,Negeri,288,349760,91,28,18090,4767,10620,8766
+Jawa Barat,32.0,province,2024,SMK/MAK,Negeri dan Swasta,2922,1058622,1312,785,54548,12737,37288,40219
+Jawa Barat,32.0,province,2024,SMK/MAK,Swasta,2634,708862,1221,757,36458,7970,26668,31453
+Jawa Barat,32.0,province,2024,SMP/MTs,Negeri,1993,1175710,470,241,53305,10377,34997,38027
+Jawa Barat,32.0,province,2024,SMP/MTs,Negeri dan Swasta,6051,1860760,1184,1276,91603,17198,59803,68306
+Jawa Barat,32.0,province,2024,SMP/MTs,Swasta,4058,685056,714,1035,38298,6821,24806,30279
+Jawa Tengah,33.0,province,2024,SD/MI,Negeri,17254,2259455,4511,1185,134731,9797,113405,120181
+Jawa Tengah,33.0,province,2024,SD/MI,Negeri dan Swasta,18597,2578683,4621,1353,151161,11731,127295,135132
+Jawa Tengah,33.0,province,2024,SD/MI,Swasta,1343,319228,110,168,16430,1934,13890,14951
+Jawa Tengah,33.0,province,2024,SMA/MA,Negeri,362,347588,21,61,18072,4097,9852,9954
+Jawa Tengah,33.0,province,2024,SMA/MA,Negeri dan Swasta,868,463548,110,226,25282,5731,13775,15088
+Jawa Tengah,33.0,province,2024,SMA/MA,Swasta,506,115960,89,165,7210,1634,3923,5134
+Jawa Tengah,33.0,province,2024,SMK/MAK,Negeri,239,303453,70,95,16791,3324,8737,7029
+Jawa Tengah,33.0,province,2024,SMK/MAK,Negeri dan Swasta,1547,823030,903,716,44241,9659,27576,26848
+Jawa Tengah,33.0,province,2024,SMK/MAK,Swasta,1308,519577,833,621,27450,6335,18839,19819
+Jawa Tengah,33.0,province,2024,SMP/MTs,Negeri,1771,936459,335,158,49976,9928,30278,32228
+Jawa Tengah,33.0,province,2024,SMP/MTs,Negeri dan Swasta,3456,1218860,756,387,66473,13606,41150,46068
+Jawa Tengah,33.0,province,2024,SMP/MTs,Swasta,1685,282405,421,229,16497,3678,10872,13840
+Jawa Timur,35.0,province,2024,SD/MI,Negeri,16864,2097016,2976,1618,142338,9840,115820,121366
+Jawa Timur,35.0,province,2024,SD/MI,Negeri dan Swasta,18975,2501792,3375,2141,165581,12124,135035,141814
+Jawa Timur,35.0,province,2024,SD/MI,Swasta,2111,404776,399,523,23243,2284,19215,20448
+Jawa Timur,35.0,province,2024,SMA/MA,Negeri,421,358942,172,173,20964,5066,10390,10946
+Jawa Timur,35.0,province,2024,SMA/MA,Negeri dan Swasta,1516,559314,923,737,33585,7208,17576,20295
+Jawa Timur,35.0,province,2024,SMA/MA,Swasta,1095,200372,751,564,12621,2142,7186,9349
+Jawa Timur,35.0,province,2024,SMK/MAK,Negeri,299,352073,403,261,21025,4945,10870,8925
+Jawa Timur,35.0,province,2024,SMK/MAK,Negeri dan Swasta,2160,785987,2015,1263,46613,9256,28374,27627
+Jawa Timur,35.0,province,2024,SMK/MAK,Swasta,1861,433914,1612,1002,25588,4311,17504,18702
+Jawa Timur,35.0,province,2024,SMP/MTs,Negeri,1737,820294,505,415,46656,9682,26856,30516
+Jawa Timur,35.0,province,2024,SMP/MTs,Negeri dan Swasta,5048,1242210,1598,1780,75205,13674,44188,50773
+Jawa Timur,35.0,province,2024,SMP/MTs,Swasta,3311,421917,1093,1365,28549,3992,17332,20257
+Kalimantan Barat,61.0,province,2024,SD/MI,Negeri,4139,493992,6421,982,34383,2985,28731,28482
+Kalimantan Barat,61.0,province,2024,SD/MI,Negeri dan Swasta,4455,558189,6670,1043,37676,3302,31477,31449
+Kalimantan Barat,61.0,province,2024,SD/MI,Swasta,316,64197,249,61,3293,317,2746,2967
+Kalimantan Barat,61.0,province,2024,SMA/MA,Negeri,292,104524,195,133,6846,827,3321,3483
+Kalimantan Barat,61.0,province,2024,SMA/MA,Negeri dan Swasta,483,134647,299,211,8550,1040,4424,4888
+Kalimantan Barat,61.0,province,2024,SMA/MA,Swasta,191,30123,104,78,1704,213,1103,1405
+Kalimantan Barat,61.0,province,2024,SMK/MAK,Negeri,120,57640,281,156,3721,483,2071,1708
+Kalimantan Barat,61.0,province,2024,SMK/MAK,Negeri dan Swasta,235,75464,384,252,4750,677,2884,2710
+Kalimantan Barat,61.0,province,2024,SMK/MAK,Swasta,115,17824,103,96,1029,194,813,1002
+Kalimantan Barat,61.0,province,2024,SMP/MTs,Negeri,1037,190808,669,269,13496,1579,7067,8147
+Kalimantan Barat,61.0,province,2024,SMP/MTs,Negeri dan Swasta,1388,235434,842,402,15948,1890,8831,10330
+Kalimantan Barat,61.0,province,2024,SMP/MTs,Swasta,351,44626,173,133,2452,311,1764,2183
+Kalimantan Selatan,63.0,province,2024,SD/MI,Negeri,2737,315349,1690,346,25592,2512,19243,20433
+Kalimantan Selatan,63.0,province,2024,SD/MI,Negeri dan Swasta,2923,351065,1745,376,27837,2741,20935,22239
+Kalimantan Selatan,63.0,province,2024,SD/MI,Swasta,186,35716,55,30,2245,229,1692,1806
+Kalimantan Selatan,63.0,province,2024,SMA/MA,Negeri,143,62605,93,20,4167,1094,1967,2230
+Kalimantan Selatan,63.0,province,2024,SMA/MA,Negeri dan Swasta,210,70031,110,34,4855,1249,2275,2696
+Kalimantan Selatan,63.0,province,2024,SMA/MA,Swasta,67,7426,17,14,688,155,308,466
+Kalimantan Selatan,63.0,province,2024,SMK/MAK,Negeri,64,44019,52,21,3026,849,1545,1352
+Kalimantan Selatan,63.0,province,2024,SMK/MAK,Negeri dan Swasta,126,57082,88,35,4033,1094,2127,2071
+Kalimantan Selatan,63.0,province,2024,SMK/MAK,Swasta,62,13063,36,14,1007,245,582,719
+Kalimantan Selatan,63.0,province,2024,SMP/MTs,Negeri,522,101088,213,121,8014,1144,3836,4987
+Kalimantan Selatan,63.0,province,2024,SMP/MTs,Negeri dan Swasta,633,114931,222,131,9078,1316,4416,5774
+Kalimantan Selatan,63.0,province,2024,SMP/MTs,Swasta,111,13843,9,10,1064,172,580,787
+Kalimantan Tengah,62.0,province,2024,SD/MI,Negeri,2412,231066,1859,370,22340,1163,15863,16665
+Kalimantan Tengah,62.0,province,2024,SD/MI,Negeri dan Swasta,2653,276425,1991,433,24750,1369,17838,18776
+Kalimantan Tengah,62.0,province,2024,SD/MI,Swasta,241,45359,132,63,2410,206,1975,2111
+Kalimantan Tengah,62.0,province,2024,SMA/MA,Negeri,182,57290,167,83,4411,430,1913,2233
+Kalimantan Tengah,62.0,province,2024,SMA/MA,Negeri dan Swasta,248,63946,191,98,5046,495,2229,2621
+Kalimantan Tengah,62.0,province,2024,SMA/MA,Swasta,66,6656,24,15,635,65,316,388
+Kalimantan Tengah,62.0,province,2024,SMK/MAK,Negeri,94,26818,90,32,2517,256,1152,1252
+Kalimantan Tengah,62.0,province,2024,SMK/MAK,Negeri dan Swasta,139,32828,115,34,3066,313,1443,1582
+Kalimantan Tengah,62.0,province,2024,SMK/MAK,Swasta,45,6010,25,2,549,57,291,330
+Kalimantan Tengah,62.0,province,2024,SMP/MTs,Negeri,719,87795,229,163,8788,757,3758,4703
+Kalimantan Tengah,62.0,province,2024,SMP/MTs,Negeri dan Swasta,877,107163,262,190,10073,887,4544,5604
+Kalimantan Tengah,62.0,province,2024,SMP/MTs,Swasta,158,19368,33,27,1285,130,786,901
+Kalimantan Timur,64.0,province,2024,SD/MI,Negeri,1664,352693,1113,489,21718,3055,15870,15023
+Kalimantan Timur,64.0,province,2024,SD/MI,Negeri dan Swasta,1944,423089,1191,550,25414,3532,18855,18186
+Kalimantan Timur,64.0,province,2024,SD/MI,Swasta,280,70396,78,61,3696,477,2985,3163
+Kalimantan Timur,64.0,province,2024,SMA/MA,Negeri,146,71034,106,32,4295,957,2129,2243
+Kalimantan Timur,64.0,province,2024,SMA/MA,Negeri dan Swasta,241,84600,123,57,5364,1187,2645,2936
+Kalimantan Timur,64.0,province,2024,SMA/MA,Swasta,95,13566,17,25,1069,230,516,693
+Kalimantan Timur,64.0,province,2024,SMK/MAK,Negeri,88,55536,240,28,3524,785,1798,1647
+Kalimantan Timur,64.0,province,2024,SMK/MAK,Negeri dan Swasta,216,84618,445,55,5222,1267,3079,3074
+Kalimantan Timur,64.0,province,2024,SMK/MAK,Swasta,128,29082,205,27,1698,482,1281,1427
+Kalimantan Timur,64.0,province,2024,SMP/MTs,Negeri,459,132865,228,109,8530,1664,4518,5105
+Kalimantan Timur,64.0,province,2024,SMP/MTs,Negeri dan Swasta,717,165482,270,132,10653,2055,5846,6867
+Kalimantan Timur,64.0,province,2024,SMP/MTs,Swasta,258,32617,42,23,2123,391,1328,1762
+Kalimantan Utara,65.0,province,2024,SD/MI,Negeri,437,70242,211,114,5138,647,3729,3587
+Kalimantan Utara,65.0,province,2024,SD/MI,Negeri dan Swasta,486,80728,237,148,5740,732,4206,4046
+Kalimantan Utara,65.0,province,2024,SD/MI,Swasta,49,10486,26,34,602,85,477,459
+Kalimantan Utara,65.0,province,2024,SMA/MA,Negeri,49,17242,13,17,1189,257,553,588
+Kalimantan Utara,65.0,province,2024,SMA/MA,Negeri dan Swasta,71,19873,26,39,1430,314,661,745
+Kalimantan Utara,65.0,province,2024,SMA/MA,Swasta,22,2631,13,22,241,57,108,157
+Kalimantan Utara,65.0,province,2024,SMK/MAK,Negeri,22,9644,6,14,751,165,367,377
+Kalimantan Utara,65.0,province,2024,SMK/MAK,Negeri dan Swasta,34,10561,8,17,875,185,420,447
+Kalimantan Utara,65.0,province,2024,SMK/MAK,Swasta,12,917,2,3,124,20,53,70
+Kalimantan Utara,65.0,province,2024,SMP/MTs,Negeri,157,29610,90,31,2451,388,1136,1272
+Kalimantan Utara,65.0,province,2024,SMP/MTs,Negeri dan Swasta,198,33477,93,34,2782,456,1309,1491
+Kalimantan Utara,65.0,province,2024,SMP/MTs,Swasta,41,3867,3,3,331,68,173,219
+Kepulauan Bangka Belitung,19.0,province,2024,SD/MI,Negeri,761,142879,597,209,8146,1842,6151,6759
+Kepulauan Bangka Belitung,19.0,province,2024,SD/MI,Negeri dan Swasta,832,159654,600,215,9084,2057,6845,7549
+Kepulauan Bangka Belitung,19.0,province,2024,SD/MI,Swasta,71,16775,3,6,938,215,694,790
+Kepulauan Bangka Belitung,19.0,province,2024,SMA/MA,Negeri,47,28276,96,12,1489,367,840,882
+Kepulauan Bangka Belitung,19.0,province,2024,SMA/MA,Negeri dan Swasta,77,33268,101,12,1831,446,1015,1129
+Kepulauan Bangka Belitung,19.0,province,2024,SMA/MA,Swasta,30,4992,5,0,342,79,175,247
+Kepulauan Bangka Belitung,19.0,province,2024,SMK/MAK,Negeri,36,19604,23,19,1317,342,661,747
+Kepulauan Bangka Belitung,19.0,province,2024,SMK/MAK,Negeri dan Swasta,59,24779,27,28,1659,445,878,1057
+Kepulauan Bangka Belitung,19.0,province,2024,SMK/MAK,Swasta,23,5175,4,9,342,103,217,310
+Kepulauan Bangka Belitung,19.0,province,2024,SMP/MTs,Negeri,164,55038,48,25,3051,922,1769,1983
+Kepulauan Bangka Belitung,19.0,province,2024,SMP/MTs,Negeri dan Swasta,238,64771,50,32,3675,1090,2154,2506
+Kepulauan Bangka Belitung,19.0,province,2024,SMP/MTs,Swasta,74,9733,2,7,624,168,385,523
+Kepulauan Riau,21.0,province,2024,SD/MI,Negeri,683,153988,369,154,8923,1797,6749,6030
+Kepulauan Riau,21.0,province,2024,SD/MI,Negeri dan Swasta,988,227824,421,224,13508,2183,9901,9585
+Kepulauan Riau,21.0,province,2024,SD/MI,Swasta,305,73836,52,70,4585,386,3152,3555
+Kepulauan Riau,21.0,province,2024,SMA/MA,Negeri,96,50817,88,17,3024,762,1462,1533
+Kepulauan Riau,21.0,province,2024,SMA/MA,Negeri dan Swasta,178,59762,103,23,3772,873,1861,2064
+Kepulauan Riau,21.0,province,2024,SMA/MA,Swasta,82,8945,15,6,748,111,399,531
+Kepulauan Riau,21.0,province,2024,SMK/MAK,Negeri,38,30822,10,0,1773,481,977,732
+Kepulauan Riau,21.0,province,2024,SMK/MAK,Negeri dan Swasta,106,39889,31,20,2486,608,1484,1396
+Kepulauan Riau,21.0,province,2024,SMK/MAK,Swasta,68,9067,21,20,713,127,507,664
+Kepulauan Riau,21.0,province,2024,SMP/MTs,Negeri,236,76953,82,8,4267,949,2324,2452
+Kepulauan Riau,21.0,province,2024,SMP/MTs,Negeri dan Swasta,424,102428,85,15,6177,1191,3346,3660
+Kepulauan Riau,21.0,province,2024,SMP/MTs,Swasta,188,25475,3,7,1910,242,1022,1208
+Lampung,18.0,province,2024,SD/MI,Negeri,4295,711692,1411,696,48513,3555,34675,36876
+Lampung,18.0,province,2024,SD/MI,Negeri dan Swasta,4742,797968,1480,762,53751,4032,38761,41423
+Lampung,18.0,province,2024,SD/MI,Swasta,447,86276,69,66,5238,477,4086,4547
+Lampung,18.0,province,2024,SMA/MA,Negeri,240,133517,42,30,9105,1759,4048,4191
+Lampung,18.0,province,2024,SMA/MA,Negeri dan Swasta,538,181714,61,118,12020,2266,5824,6306
+Lampung,18.0,province,2024,SMA/MA,Swasta,298,48197,19,88,2915,507,1776,2115
+Lampung,18.0,province,2024,SMK/MAK,Negeri,112,71535,31,4,5381,1188,2479,2284
+Lampung,18.0,province,2024,SMK/MAK,Negeri dan Swasta,492,154152,101,51,10196,2175,5850,6091
+Lampung,18.0,province,2024,SMK/MAK,Swasta,380,82617,70,47,4815,987,3371,3807
+Lampung,18.0,province,2024,SMP/MTs,Negeri,710,246512,174,108,16666,2672,8376,9528
+Lampung,18.0,province,2024,SMP/MTs,Negeri dan Swasta,1483,342821,272,166,23000,3544,12256,14611
+Lampung,18.0,province,2024,SMP/MTs,Swasta,773,96309,98,58,6334,872,3880,5083
+Maluku,81.0,province,2024,SD/MI,Negeri,1299,148643,822,905,14642,1794,8677,9508
+Maluku,81.0,province,2024,SD/MI,Negeri dan Swasta,1836,204195,1149,1269,17538,1968,12065,13335
+Maluku,81.0,province,2024,SD/MI,Swasta,537,55552,327,364,2896,174,3388,3827
+Maluku,81.0,province,2024,SMA/MA,Negeri,216,57642,33,143,5346,776,2009,2460
+Maluku,81.0,province,2024,SMA/MA,Negeri dan Swasta,292,68779,58,186,6387,896,2472,3071
+Maluku,81.0,province,2024,SMA/MA,Swasta,76,11137,25,43,1041,120,463,611
+Maluku,81.0,province,2024,SMK/MAK,Negeri,84,15089,43,34,2171,324,862,938
+Maluku,81.0,province,2024,SMK/MAK,Negeri dan Swasta,121,20767,57,49,2651,378,1169,1286
+Maluku,81.0,province,2024,SMK/MAK,Swasta,37,5678,14,15,480,54,307,348
+Maluku,81.0,province,2024,SMP/MTs,Negeri,561,74258,98,183,9799,1468,3050,3929
+Maluku,81.0,province,2024,SMP/MTs,Negeri dan Swasta,705,89840,113,213,10799,1599,3722,4868
+Maluku,81.0,province,2024,SMP/MTs,Swasta,144,15582,15,30,1000,131,672,939
+Maluku Utara,82.0,province,2024,SD/MI,Negeri,1116,118093,715,610,11413,1162,7305,7720
+Maluku Utara,82.0,province,2024,SD/MI,Negeri dan Swasta,1318,140691,785,695,12400,1229,8588,9059
+Maluku Utara,82.0,province,2024,SD/MI,Swasta,202,22598,70,85,987,67,1283,1339
+Maluku Utara,82.0,province,2024,SMA/MA,Negeri,139,36392,38,117,3309,468,1226,1482
+Maluku Utara,82.0,province,2024,SMA/MA,Negeri dan Swasta,225,45583,101,141,3827,528,1609,1914
+Maluku Utara,82.0,province,2024,SMA/MA,Swasta,86,9191,63,24,518,60,383,432
+Maluku Utara,82.0,province,2024,SMK/MAK,Negeri,63,9251,81,51,1389,188,556,590
+Maluku Utara,82.0,province,2024,SMK/MAK,Negeri dan Swasta,151,18404,133,105,1940,266,1039,1095
+Maluku Utara,82.0,province,2024,SMK/MAK,Swasta,88,9153,52,54,551,78,483,505
+Maluku Utara,82.0,province,2024,SMP/MTs,Negeri,380,46495,166,111,6061,741,1903,2462
+Maluku Utara,82.0,province,2024,SMP/MTs,Negeri dan Swasta,523,58940,184,178,6831,826,2463,3157
+Maluku Utara,82.0,province,2024,SMP/MTs,Swasta,143,12445,18,67,770,85,560,695
+Nusa Tenggara Barat,52.0,province,2024,SD/MI,Negeri,3008,474323,875,944,40096,2689,22317,21788
+Nusa Tenggara Barat,52.0,province,2024,SD/MI,Negeri dan Swasta,3352,517585,924,1068,43048,2929,24663,23997
+Nusa Tenggara Barat,52.0,province,2024,SD/MI,Swasta,344,43262,49,124,2952,240,2346,2209
+Nusa Tenggara Barat,52.0,province,2024,SMA/MA,Negeri,150,101205,136,230,7898,1648,3091,3255
+Nusa Tenggara Barat,52.0,province,2024,SMA/MA,Negeri dan Swasta,378,121665,236,385,9821,1840,3995,4322
+Nusa Tenggara Barat,52.0,province,2024,SMA/MA,Swasta,228,20460,100,155,1923,192,904,1067
+Nusa Tenggara Barat,52.0,province,2024,SMK/MAK,Negeri,100,56212,390,119,5701,1220,2278,2061
+Nusa Tenggara Barat,52.0,province,2024,SMK/MAK,Negeri dan Swasta,341,78404,503,410,7925,1398,3391,3284
+Nusa Tenggara Barat,52.0,province,2024,SMK/MAK,Swasta,241,22192,113,291,2224,178,1113,1223
+Nusa Tenggara Barat,52.0,province,2024,SMP/MTs,Negeri,606,139505,139,199,18059,3233,5096,6233
+Nusa Tenggara Barat,52.0,province,2024,SMP/MTs,Negeri dan Swasta,1093,180567,241,387,22007,3540,7008,8252
+Nusa Tenggara Barat,52.0,province,2024,SMP/MTs,Swasta,487,41062,102,188,3948,307,1912,2019
+Nusa Tenggara Timur,53.0,province,2024,SD/MI,Negeri,3415,411297,3635,1737,38048,4112,24308,27768
+Nusa Tenggara Timur,53.0,province,2024,SD/MI,Negeri dan Swasta,5247,653369,5857,2765,52098,5791,37181,43297
+Nusa Tenggara Timur,53.0,province,2024,SD/MI,Swasta,1832,242072,2222,1028,14050,1679,12873,15529
+Nusa Tenggara Timur,53.0,province,2024,SMA/MA,Negeri,397,142570,164,350,12453,1445,4782,5398
+Nusa Tenggara Timur,53.0,province,2024,SMA/MA,Negeri dan Swasta,618,200800,349,548,16493,2003,6822,8128
+Nusa Tenggara Timur,53.0,province,2024,SMA/MA,Swasta,221,58230,185,198,4040,558,2040,2730
+Nusa Tenggara Timur,53.0,province,2024,SMK/MAK,Negeri,178,57309,160,248,6192,679,2556,2475
+Nusa Tenggara Timur,53.0,province,2024,SMK/MAK,Negeri dan Swasta,355,97217,223,677,9166,996,4403,4377
+Nusa Tenggara Timur,53.0,province,2024,SMK/MAK,Swasta,177,39908,63,429,2974,317,1847,1902
+Nusa Tenggara Timur,53.0,province,2024,SMP/MTs,Negeri,1396,234939,398,514,25659,3009,9149,11360
+Nusa Tenggara Timur,53.0,province,2024,SMP/MTs,Negeri dan Swasta,1858,307979,503,686,30656,3732,11987,15055
+Nusa Tenggara Timur,53.0,province,2024,SMP/MTs,Swasta,462,73040,105,172,4997,723,2838,3695
+Papua,91.0,province,2024,SD/MI,Negeri,515,70293,870,372,4722,291,3772,3729
+Papua,91.0,province,2024,SD/MI,Negeri dan Swasta,850,117912,1295,669,7103,464,6169,6284
+Papua,91.0,province,2024,SD/MI,Swasta,335,47619,425,297,2381,173,2397,2555
+Papua,91.0,province,2024,SMA/MA,Negeri,62,23108,158,14,1570,229,705,764
+Papua,91.0,province,2024,SMA/MA,Negeri dan Swasta,118,34054,400,33,2282,360,1100,1212
+Papua,91.0,province,2024,SMA/MA,Swasta,56,10946,242,19,712,131,395,448
+Papua,91.0,province,2024,SMK/MAK,Negeri,35,9364,234,44,959,153,448,486
+Papua,91.0,province,2024,SMK/MAK,Negeri dan Swasta,49,13340,312,57,1244,202,625,649
+Papua,91.0,province,2024,SMK/MAK,Swasta,14,3976,78,13,285,49,177,163
+Papua,91.0,province,2024,SMP/MTs,Negeri,196,39424,394,101,3000,401,1409,1533
+Papua,91.0,province,2024,SMP/MTs,Negeri dan Swasta,276,51648,450,129,3753,497,1882,2137
+Papua,91.0,province,2024,SMP/MTs,Swasta,80,12224,56,28,753,96,473,604
+Papua Barat,92.0,province,2024,SD/MI,Negeri,412,48552,1010,164,3917,171,2956,2820
+Papua Barat,92.0,province,2024,SD/MI,Negeri dan Swasta,574,71311,1712,256,5173,242,4145,4002
+Papua Barat,92.0,province,2024,SD/MI,Swasta,162,22759,702,92,1256,71,1189,1182
+Papua Barat,92.0,province,2024,SMA/MA,Negeri,45,13742,127,40,1019,95,458,528
+Papua Barat,92.0,province,2024,SMA/MA,Negeri dan Swasta,66,17241,256,51,1314,139,595,709
+Papua Barat,92.0,province,2024,SMA/MA,Swasta,21,3499,129,11,295,44,137,181
+Papua Barat,92.0,province,2024,SMK/MAK,Negeri,16,5193,162,24,536,43,254,236
+Papua Barat,92.0,province,2024,SMK/MAK,Negeri dan Swasta,21,6619,183,25,636,52,316,294
+Papua Barat,92.0,province,2024,SMK/MAK,Swasta,5,1426,21,1,100,9,62,58
+Papua Barat,92.0,province,2024,SMP/MTs,Negeri,126,21791,275,28,1864,181,826,899
+Papua Barat,92.0,province,2024,SMP/MTs,Negeri dan Swasta,165,28625,444,39,2318,243,1085,1211
+Papua Barat,92.0,province,2024,SMP/MTs,Swasta,39,6834,169,11,454,62,259,312
+Papua Barat Daya,96.0,province,2024,SD/MI,Negeri,305,36044,898,205,3564,108,2269,2136
+Papua Barat Daya,96.0,province,2024,SD/MI,Negeri dan Swasta,554,60608,1252,272,4949,204,3910,3841
+Papua Barat Daya,96.0,province,2024,SD/MI,Swasta,249,24564,354,67,1385,96,1641,1705
+Papua Barat Daya,96.0,province,2024,SMA/MA,Negeri,50,11106,22,89,1061,76,425,492
+Papua Barat Daya,96.0,province,2024,SMA/MA,Negeri dan Swasta,81,14647,44,95,1384,109,590,708
+Papua Barat Daya,96.0,province,2024,SMA/MA,Swasta,31,3541,22,6,323,33,165,216
+Papua Barat Daya,96.0,province,2024,SMK/MAK,Negeri,16,5441,101,3,541,51,270,286
+Papua Barat Daya,96.0,province,2024,SMK/MAK,Negeri dan Swasta,39,8931,155,12,781,87,439,452
+Papua Barat Daya,96.0,province,2024,SMK/MAK,Swasta,23,3490,54,9,240,36,169,166
+Papua Barat Daya,96.0,province,2024,SMP/MTs,Negeri,125,18518,80,21,1998,132,741,881
+Papua Barat Daya,96.0,province,2024,SMP/MTs,Negeri dan Swasta,186,25115,117,45,2462,176,1023,1223
+Papua Barat Daya,96.0,province,2024,SMP/MTs,Swasta,61,6597,37,24,464,44,282,342
+Papua Pegunungan,95.0,province,2024,SD/MI,Negeri,518,112406,5358,988,3095,59,4111,3344
+Papua Pegunungan,95.0,province,2024,SD/MI,Negeri dan Swasta,678,146769,5472,1204,3976,92,5363,4446
+Papua Pegunungan,95.0,province,2024,SD/MI,Swasta,160,34363,114,216,881,33,1252,1102
+Papua Pegunungan,95.0,province,2024,SMA/MA,Negeri,47,10860,5,101,612,15,352,324
+Papua Pegunungan,95.0,province,2024,SMA/MA,Negeri dan Swasta,68,14893,72,158,828,23,494,479
+Papua Pegunungan,95.0,province,2024,SMA/MA,Swasta,21,4033,67,57,216,8,142,155
+Papua Pegunungan,95.0,province,2024,SMK/MAK,Negeri,12,2235,0,25,141,2,74,81
+Papua Pegunungan,95.0,province,2024,SMK/MAK,Negeri dan Swasta,22,4761,78,33,257,11,158,176
+Papua Pegunungan,95.0,province,2024,SMK/MAK,Swasta,10,2526,78,8,116,9,84,95
+Papua Pegunungan,95.0,province,2024,SMP/MTs,Negeri,157,35236,192,306,1593,26,1097,957
+Papua Pegunungan,95.0,province,2024,SMP/MTs,Negeri dan Swasta,208,45176,464,342,1905,46,1401,1233
+Papua Pegunungan,95.0,province,2024,SMP/MTs,Swasta,51,9940,272,36,312,20,304,276
+Papua Selatan,93.0,province,2024,SD/MI,Negeri,377,57447,2501,486,2732,127,2714,2481
+Papua Selatan,93.0,province,2024,SD/MI,Negeri dan Swasta,618,96839,5051,776,4063,207,4502,4283
+Papua Selatan,93.0,province,2024,SD/MI,Swasta,241,39392,2550,290,1331,80,1788,1802
+Papua Selatan,93.0,province,2024,SMA/MA,Negeri,24,10463,508,23,700,71,337,340
+Papua Selatan,93.0,province,2024,SMA/MA,Negeri dan Swasta,40,13821,750,23,887,107,461,476
+Papua Selatan,93.0,province,2024,SMA/MA,Swasta,16,3358,242,0,187,36,124,136
+Papua Selatan,93.0,province,2024,SMK/MAK,Negeri,21,6343,310,14,612,50,269,283
+Papua Selatan,93.0,province,2024,SMK/MAK,Negeri dan Swasta,25,6982,314,60,670,57,307,345
+Papua Selatan,93.0,province,2024,SMK/MAK,Swasta,4,639,4,46,58,7,38,62
+Papua Selatan,93.0,province,2024,SMP/MTs,Negeri,95,22148,832,132,1597,102,790,853
+Papua Selatan,93.0,province,2024,SMP/MTs,Negeri dan Swasta,132,29093,971,164,1964,161,1038,1127
+Papua Selatan,93.0,province,2024,SMP/MTs,Swasta,37,6945,139,32,367,59,248,274
+Papua Tengah,94.0,province,2024,SD/MI,Negeri,295,71294,1292,420,2949,99,2701,2423
+Papua Tengah,94.0,province,2024,SD/MI,Negeri dan Swasta,560,144567,3025,1012,5005,166,5315,4684
+Papua Tengah,94.0,province,2024,SD/MI,Swasta,265,73273,1733,592,2056,67,2614,2261
+Papua Tengah,94.0,province,2024,SMA/MA,Negeri,31,12244,32,34,693,49,378,358
+Papua Tengah,94.0,province,2024,SMA/MA,Negeri dan Swasta,60,17624,112,151,1030,97,572,589
+Papua Tengah,94.0,province,2024,SMA/MA,Swasta,29,5380,80,117,337,48,194,231
+Papua Tengah,94.0,province,2024,SMK/MAK,Negeri,17,5457,59,72,495,36,228,260
+Papua Tengah,94.0,province,2024,SMK/MAK,Negeri dan Swasta,54,11222,142,116,961,93,515,568
+Papua Tengah,94.0,province,2024,SMK/MAK,Swasta,37,5765,83,44,466,57,287,308
+Papua Tengah,94.0,province,2024,SMP/MTs,Negeri,101,28369,366,211,1618,128,959,903
+Papua Tengah,94.0,province,2024,SMP/MTs,Negeri dan Swasta,171,42782,483,235,2323,181,1440,1428
+Papua Tengah,94.0,province,2024,SMP/MTs,Swasta,70,14413,117,24,705,53,481,525
+Riau,14.0,province,2024,SD/MI,Negeri,3232,626689,2733,824,42205,4229,29355,29088
+Riau,14.0,province,2024,SD/MI,Negeri dan Swasta,3837,772873,2996,955,50807,4934,35620,35798
+Riau,14.0,province,2024,SD/MI,Swasta,605,146184,263,131,8602,705,6265,6710
+Riau,14.0,province,2024,SMA/MA,Negeri,321,154469,168,90,10285,1966,4733,5140
+Riau,14.0,province,2024,SMA/MA,Negeri dan Swasta,481,179701,217,125,12211,2215,5677,6421
+Riau,14.0,province,2024,SMA/MA,Swasta,160,25232,49,35,1926,249,944,1281
+Riau,14.0,province,2024,SMK/MAK,Negeri,139,71023,84,49,5468,931,2665,2411
+Riau,14.0,province,2024,SMK/MAK,Negeri dan Swasta,310,106669,287,148,8255,1368,4338,4456
+Riau,14.0,province,2024,SMK/MAK,Swasta,171,35646,203,99,2787,437,1673,2045
+Riau,14.0,province,2024,SMP/MTs,Negeri,889,210790,249,175,16572,2712,7468,8892
+Riau,14.0,province,2024,SMP/MTs,Negeri dan Swasta,1309,269138,327,270,20695,3247,9804,11832
+Riau,14.0,province,2024,SMP/MTs,Swasta,420,58348,78,95,4123,535,2336,2940
+Sekolah Indonesia Luar Negeri,,special,2024,SD/MI,Negeri,83,12536,51,35,332,10,640,555
+Sekolah Indonesia Luar Negeri,,special,2024,SD/MI,Negeri dan Swasta,124,18789,70,42,471,10,941,790
+Sekolah Indonesia Luar Negeri,,special,2024,SD/MI,Swasta,41,6253,19,7,139,0,301,235
+Sekolah Indonesia Luar Negeri,,special,2024,SMA/MA,Negeri,11,1020,1,0,90,3,54,66
+Sekolah Indonesia Luar Negeri,,special,2024,SMA/MA,Negeri dan Swasta,12,1127,1,0,106,5,58,72
+Sekolah Indonesia Luar Negeri,,special,2024,SMA/MA,Swasta,1,107,0,0,16,2,4,6
+Sekolah Indonesia Luar Negeri,,special,2024,SMK/MAK,Negeri,1,237,0,0,7,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2024,SMK/MAK,Negeri dan Swasta,1,237,0,0,7,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2024,SMK/MAK,Swasta,0,0,0,0,0,0,0,0
+Sekolah Indonesia Luar Negeri,,special,2024,SMP/MTs,Negeri,43,5230,0,21,173,9,234,288
+Sekolah Indonesia Luar Negeri,,special,2024,SMP/MTs,Negeri dan Swasta,55,6713,0,30,227,9,293,371
+Sekolah Indonesia Luar Negeri,,special,2024,SMP/MTs,Swasta,12,1483,0,9,54,0,59,83
+Sulawesi Barat,76.0,province,2024,SD/MI,Negeri,1296,138333,650,293,13587,2390,8956,9128
+Sulawesi Barat,76.0,province,2024,SD/MI,Negeri dan Swasta,1328,143447,653,294,13892,2442,9227,9385
+Sulawesi Barat,76.0,province,2024,SD/MI,Swasta,32,5114,3,1,305,52,271,257
+Sulawesi Barat,76.0,province,2024,SMA/MA,Negeri,77,28967,105,69,2318,599,940,1128
+Sulawesi Barat,76.0,province,2024,SMA/MA,Negeri dan Swasta,93,30354,105,90,2397,620,1002,1212
+Sulawesi Barat,76.0,province,2024,SMA/MA,Swasta,16,1387,0,21,79,21,62,84
+Sulawesi Barat,76.0,province,2024,SMK/MAK,Negeri,60,17736,130,79,1952,565,837,1016
+Sulawesi Barat,76.0,province,2024,SMK/MAK,Negeri dan Swasta,128,23546,148,140,2444,704,1171,1412
+Sulawesi Barat,76.0,province,2024,SMK/MAK,Swasta,68,5810,18,61,492,139,334,396
+Sulawesi Barat,76.0,province,2024,SMP/MTs,Negeri,319,46691,199,159,5182,1503,1920,2463
+Sulawesi Barat,76.0,province,2024,SMP/MTs,Negeri dan Swasta,382,51538,207,184,5556,1559,2158,2757
+Sulawesi Barat,76.0,province,2024,SMP/MTs,Swasta,63,4847,8,25,374,56,238,294
+Sulawesi Selatan,73.0,province,2024,SD/MI,Negeri,6071,802533,1989,1411,60428,6992,43781,44256
+Sulawesi Selatan,73.0,province,2024,SD/MI,Negeri dan Swasta,6452,879256,2054,1508,65349,7366,47374,48115
+Sulawesi Selatan,73.0,province,2024,SD/MI,Swasta,381,76723,65,97,4921,374,3593,3859
+Sulawesi Selatan,73.0,province,2024,SMA/MA,Negeri,337,193112,298,195,12972,1894,5936,7169
+Sulawesi Selatan,73.0,province,2024,SMA/MA,Negeri dan Swasta,611,228582,421,409,15470,2259,7361,9104
+Sulawesi Selatan,73.0,province,2024,SMA/MA,Swasta,274,35470,123,214,2498,365,1425,1935
+Sulawesi Selatan,73.0,province,2024,SMK/MAK,Negeri,168,86042,361,207,7657,1068,3401,3959
+Sulawesi Selatan,73.0,province,2024,SMK/MAK,Negeri dan Swasta,406,116025,637,545,9858,1460,5141,6116
+Sulawesi Selatan,73.0,province,2024,SMK/MAK,Swasta,238,29983,276,338,2201,392,1740,2157
+Sulawesi Selatan,73.0,province,2024,SMP/MTs,Negeri,1269,283404,676,584,24699,5127,10653,13490
+Sulawesi Selatan,73.0,province,2024,SMP/MTs,Negeri dan Swasta,1731,336598,845,729,28540,5720,12889,16369
+Sulawesi Selatan,73.0,province,2024,SMP/MTs,Swasta,462,53194,169,145,3841,593,2236,2879
+Sulawesi Tengah,72.0,province,2024,SD/MI,Negeri,2676,287380,1691,812,25427,6047,17789,19300
+Sulawesi Tengah,72.0,province,2024,SD/MI,Negeri dan Swasta,2949,316120,1735,865,27291,6272,19636,21167
+Sulawesi Tengah,72.0,province,2024,SD/MI,Swasta,273,28740,44,53,1864,225,1847,1867
+Sulawesi Tengah,72.0,province,2024,SMA/MA,Negeri,177,72634,97,137,5152,911,2368,2536
+Sulawesi Tengah,72.0,province,2024,SMA/MA,Negeri dan Swasta,238,79583,161,159,5678,1034,2673,2933
+Sulawesi Tengah,72.0,province,2024,SMA/MA,Swasta,61,6949,64,22,526,123,305,397
+Sulawesi Tengah,72.0,province,2024,SMK/MAK,Negeri,107,31647,174,65,3164,497,1438,1534
+Sulawesi Tengah,72.0,province,2024,SMK/MAK,Negeri dan Swasta,183,40857,273,117,3820,706,1958,2158
+Sulawesi Tengah,72.0,province,2024,SMK/MAK,Swasta,76,9210,99,52,656,209,520,624
+Sulawesi Tengah,72.0,province,2024,SMP/MTs,Negeri,735,101269,342,327,10902,2584,4281,5595
+Sulawesi Tengah,72.0,province,2024,SMP/MTs,Negeri dan Swasta,883,112565,348,356,11742,2776,4863,6293
+Sulawesi Tengah,72.0,province,2024,SMP/MTs,Swasta,148,11296,6,29,840,192,582,698
+Sulawesi Tenggara,74.0,province,2024,SD/MI,Negeri,2265,282647,1131,637,26516,2624,16469,16972
+Sulawesi Tenggara,74.0,province,2024,SD/MI,Negeri dan Swasta,2352,296736,1137,665,27301,2706,17184,17658
+Sulawesi Tenggara,74.0,province,2024,SD/MI,Swasta,87,14089,6,28,785,82,715,686
+Sulawesi Tenggara,74.0,province,2024,SMA/MA,Negeri,254,88188,296,137,8571,1218,2962,3594
+Sulawesi Tenggara,74.0,province,2024,SMA/MA,Negeri dan Swasta,318,92959,327,154,9035,1277,3225,3947
+Sulawesi Tenggara,74.0,province,2024,SMA/MA,Swasta,64,4771,31,17,464,59,263,353
+Sulawesi Tenggara,74.0,province,2024,SMK/MAK,Negeri,103,27916,144,75,3802,466,1452,1540
+Sulawesi Tenggara,74.0,province,2024,SMK/MAK,Negeri dan Swasta,170,32740,171,133,4375,543,1828,1969
+Sulawesi Tenggara,74.0,province,2024,SMK/MAK,Swasta,67,4824,27,58,573,77,376,429
+Sulawesi Tenggara,74.0,province,2024,SMP/MTs,Negeri,699,107257,404,146,13660,1830,4470,5948
+Sulawesi Tenggara,74.0,province,2024,SMP/MTs,Negeri dan Swasta,795,114968,439,164,14332,1912,4852,6393
+Sulawesi Tenggara,74.0,province,2024,SMP/MTs,Swasta,96,7711,35,18,672,82,382,445
+Sulawesi Utara,71.0,province,2024,SD/MI,Negeri,1349,137150,437,283,13628,511,8956,9458
+Sulawesi Utara,71.0,province,2024,SD/MI,Negeri dan Swasta,2210,219779,658,445,18343,684,14466,15308
+Sulawesi Utara,71.0,province,2024,SD/MI,Swasta,861,82629,221,162,4715,173,5510,5850
+Sulawesi Utara,71.0,province,2024,SMA/MA,Negeri,121,49737,237,15,3559,492,1575,1989
+Sulawesi Utara,71.0,province,2024,SMA/MA,Negeri dan Swasta,229,62663,335,24,4373,576,2149,2827
+Sulawesi Utara,71.0,province,2024,SMA/MA,Swasta,108,12926,98,9,814,84,574,838
+Sulawesi Utara,71.0,province,2024,SMK/MAK,Negeri,94,31186,694,20,2978,374,1643,1719
+Sulawesi Utara,71.0,province,2024,SMK/MAK,Negeri dan Swasta,192,42335,809,103,3839,481,2394,2697
+Sulawesi Utara,71.0,province,2024,SMK/MAK,Swasta,98,11149,115,83,861,107,751,978
+Sulawesi Utara,71.0,province,2024,SMP/MTs,Negeri,478,72985,209,130,8037,662,2967,3755
+Sulawesi Utara,71.0,province,2024,SMP/MTs,Negeri dan Swasta,734,96640,306,185,9623,806,4087,5178
+Sulawesi Utara,71.0,province,2024,SMP/MTs,Swasta,256,23655,97,55,1586,144,1120,1423
+Sumatera Barat,13.0,province,2024,SD/MI,Negeri,3892,512533,2949,668,40852,5469,28401,29931
+Sumatera Barat,13.0,province,2024,SD/MI,Negeri dan Swasta,4219,585597,3066,706,45474,6061,31712,33530
+Sumatera Barat,13.0,province,2024,SD/MI,Swasta,327,73064,117,38,4622,592,3311,3599
+Sumatera Barat,13.0,province,2024,SMA/MA,Negeri,238,142600,529,161,9427,1725,4314,4819
+Sumatera Barat,13.0,province,2024,SMA/MA,Negeri dan Swasta,345,157273,539,208,10563,1931,4905,5667
+Sumatera Barat,13.0,province,2024,SMA/MA,Swasta,107,14673,10,47,1136,206,591,848
+Sumatera Barat,13.0,province,2024,SMK/MAK,Negeri,116,73840,451,86,5781,1030,2807,2536
+Sumatera Barat,13.0,province,2024,SMK/MAK,Negeri dan Swasta,216,85619,736,218,6950,1252,3492,3459
+Sumatera Barat,13.0,province,2024,SMK/MAK,Swasta,100,11779,285,132,1169,222,685,923
+Sumatera Barat,13.0,province,2024,SMP/MTs,Negeri,676,180460,1206,229,15279,2540,6532,8240
+Sumatera Barat,13.0,province,2024,SMP/MTs,Negeri dan Swasta,865,204214,1249,246,17346,2877,7538,9616
+Sumatera Barat,13.0,province,2024,SMP/MTs,Swasta,189,23754,43,17,2067,337,1006,1376
+Sumatera Selatan,16.0,province,2024,SD/MI,Negeri,4250,790920,4199,1767,51751,6054,36991,34962
+Sumatera Selatan,16.0,province,2024,SD/MI,Negeri dan Swasta,4739,883181,4327,1922,57371,6753,41382,39591
+Sumatera Selatan,16.0,province,2024,SD/MI,Swasta,489,92261,128,155,5620,699,4391,4629
+Sumatera Selatan,16.0,province,2024,SMA/MA,Negeri,330,173505,248,97,11827,2349,5225,5423
+Sumatera Selatan,16.0,province,2024,SMA/MA,Negeri dan Swasta,620,224907,423,281,14916,3019,7049,7746
+Sumatera Selatan,16.0,province,2024,SMA/MA,Swasta,290,51402,175,184,3089,670,1824,2323
+Sumatera Selatan,16.0,province,2024,SMK/MAK,Negeri,121,80225,309,173,5812,1262,2696,2232
+Sumatera Selatan,16.0,province,2024,SMK/MAK,Negeri dan Swasta,315,127553,501,391,8563,1843,4548,4347
+Sumatera Selatan,16.0,province,2024,SMK/MAK,Swasta,194,47328,192,218,2751,581,1852,2115
+Sumatera Selatan,16.0,province,2024,SMP/MTs,Negeri,905,290936,408,287,20545,3894,9882,10851
+Sumatera Selatan,16.0,province,2024,SMP/MTs,Negeri dan Swasta,1463,359282,615,458,25006,4814,12682,14421
+Sumatera Selatan,16.0,province,2024,SMP/MTs,Swasta,558,68346,207,171,4461,920,2800,3570
+Sumatera Utara,12.0,province,2024,SD/MI,Negeri,8116,1149616,2722,3030,86968,6662,60586,64341
+Sumatera Utara,12.0,province,2024,SD/MI,Negeri dan Swasta,9747,1496473,3284,3985,104794,8012,75342,80180
+Sumatera Utara,12.0,province,2024,SD/MI,Swasta,1631,346857,562,955,17826,1350,14756,15839
+Sumatera Utara,12.0,province,2024,SMA/MA,Negeri,438,252462,108,378,16130,2155,7546,7927
+Sumatera Utara,12.0,province,2024,SMA/MA,Negeri dan Swasta,1075,394193,283,980,23660,3104,12279,13792
+Sumatera Utara,12.0,province,2024,SMA/MA,Swasta,637,141731,175,602,7530,949,4733,5865
+Sumatera Utara,12.0,province,2024,SMK/MAK,Negeri,279,137491,111,367,10937,1296,4849,5013
+Sumatera Utara,12.0,province,2024,SMK/MAK,Negeri dan Swasta,953,294316,619,1999,20071,2433,11151,12860
+Sumatera Utara,12.0,province,2024,SMK/MAK,Swasta,674,156825,508,1632,9134,1137,6302,7847
+Sumatera Utara,12.0,province,2024,SMP/MTs,Negeri,1340,414206,448,666,31306,3278,14375,17580
+Sumatera Utara,12.0,province,2024,SMP/MTs,Negeri dan Swasta,2709,625135,988,1445,43407,4565,22193,27461
+Sumatera Utara,12.0,province,2024,SMP/MTs,Swasta,1369,210929,540,779,12101,1287,7818,9881
+Aceh,11.0,province,2025,SD/MI,Negeri,3336,456582,1041,360,47413,4579,24885,26236
+Aceh,11.0,province,2025,SD/MI,Negeri dan Swasta,3557,499056,1091,380,50771,4891,26871,28352
+Aceh,11.0,province,2025,SD/MI,Swasta,221,42474,50,20,3358,312,1986,2116
+Aceh,11.0,province,2025,SMA/MA,Negeri,398,123499,605,175,12639,2610,4073,5809
+Aceh,11.0,province,2025,SMA/MA,Negeri dan Swasta,553,142827,693,217,14407,2873,4831,6851
+Aceh,11.0,province,2025,SMA/MA,Swasta,155,19328,88,42,1768,263,758,1042
+Aceh,11.0,province,2025,SMK/MAK,Negeri,154,49448,562,113,6577,1275,2345,2429
+Aceh,11.0,province,2025,SMK/MAK,Negeri dan Swasta,225,57264,598,150,7412,1429,2758,2924
+Aceh,11.0,province,2025,SMK/MAK,Swasta,71,7816,36,37,835,154,413,495
+Aceh,11.0,province,2025,SMP/MTs,Negeri,910,162047,548,212,19983,4160,6320,9008
+Aceh,11.0,province,2025,SMP/MTs,Negeri dan Swasta,1358,212038,591,290,24725,4790,8483,11695
+Aceh,11.0,province,2025,SMP/MTs,Swasta,448,49991,43,78,4742,630,2163,2687
+Bali,51.0,province,2025,SD/MI,Negeri,2250,335446,330,62,22012,3535,15608,16142
+Bali,51.0,province,2025,SD/MI,Negeri dan Swasta,2410,381624,342,74,24935,3864,17505,18148
+Bali,51.0,province,2025,SD/MI,Swasta,160,46178,12,12,2923,329,1897,2006
+Bali,51.0,province,2025,SMA/MA,Negeri,90,72836,0,15,4776,1689,2073,2371
+Bali,51.0,province,2025,SMA/MA,Negeri dan Swasta,158,87283,1,18,5831,1922,2564,3135
+Bali,51.0,province,2025,SMA/MA,Swasta,68,14447,1,3,1055,233,491,764
+Bali,51.0,province,2025,SMK/MAK,Negeri,58,55738,14,19,3618,956,1878,1361
+Bali,51.0,province,2025,SMK/MAK,Negeri dan Swasta,165,99607,21,25,5749,1372,3384,2922
+Bali,51.0,province,2025,SMK/MAK,Swasta,107,43869,7,6,2131,416,1506,1561
+Bali,51.0,province,2025,SMP/MTs,Negeri,279,161282,17,22,9011,2270,4899,4859
+Bali,51.0,province,2025,SMP/MTs,Negeri dan Swasta,406,189674,18,25,10799,2663,5868,6170
+Bali,51.0,province,2025,SMP/MTs,Swasta,127,28392,1,3,1788,393,969,1311
+Banten,36.0,province,2025,SD/MI,Negeri,3852,1029801,1544,896,46294,3647,37029,32855
+Banten,36.0,province,2025,SD/MI,Negeri dan Swasta,4670,1239544,1657,1022,59704,4768,46090,42933
+Banten,36.0,province,2025,SD/MI,Swasta,818,209743,113,126,13410,1121,9061,10078
+Banten,36.0,province,2025,SMA/MA,Negeri,163,144162,55,28,7060,1571,3916,3958
+Banten,36.0,province,2025,SMA/MA,Negeri dan Swasta,618,228323,134,165,13342,2844,6888,7874
+Banten,36.0,province,2025,SMA/MA,Swasta,455,84161,79,137,6282,1273,2972,3916
+Banten,36.0,province,2025,SMK/MAK,Negeri,99,94780,59,57,5085,1272,2770,2446
+Banten,36.0,province,2025,SMK/MAK,Negeri dan Swasta,732,264259,376,229,14582,3702,8981,9616
+Banten,36.0,province,2025,SMK/MAK,Swasta,633,169479,317,172,9497,2430,6211,7170
+Banten,36.0,province,2025,SMP/MTs,Negeri,576,293716,205,100,14205,1864,8631,9282
+Banten,36.0,province,2025,SMP/MTs,Negeri dan Swasta,1629,462343,341,452,24616,3204,14908,17368
+Banten,36.0,province,2025,SMP/MTs,Swasta,1053,168627,136,352,10411,1340,6277,8086
+Bengkulu,17.0,province,2025,SD/MI,Negeri,1285,170787,1092,201,15852,1544,9668,10791
+Bengkulu,17.0,province,2025,SD/MI,Negeri dan Swasta,1408,194755,1098,216,17873,1715,10819,12073
+Bengkulu,17.0,province,2025,SD/MI,Swasta,123,23968,6,15,2021,171,1151,1282
+Bengkulu,17.0,province,2025,SMA/MA,Negeri,111,53774,59,83,4017,1013,1654,1850
+Bengkulu,17.0,province,2025,SMA/MA,Negeri dan Swasta,153,56769,59,88,4375,1064,1813,2069
+Bengkulu,17.0,province,2025,SMA/MA,Swasta,42,2995,0,5,358,51,159,219
+Bengkulu,17.0,province,2025,SMK/MAK,Negeri,65,24875,37,37,2660,553,1113,1127
+Bengkulu,17.0,province,2025,SMK/MAK,Negeri dan Swasta,100,27742,53,51,3041,616,1295,1367
+Bengkulu,17.0,province,2025,SMK/MAK,Swasta,35,2867,16,14,381,63,182,240
+Bengkulu,17.0,province,2025,SMP/MTs,Negeri,381,75592,286,53,7717,1197,2910,3783
+Bengkulu,17.0,province,2025,SMP/MTs,Negeri dan Swasta,464,84653,297,62,8652,1299,3323,4281
+Bengkulu,17.0,province,2025,SMP/MTs,Swasta,83,9061,11,9,935,102,413,498
+D.I. Yogyakarta,34.0,province,2025,SD/MI,Negeri,1414,179962,233,4,14295,1669,9749,10383
+D.I. Yogyakarta,34.0,province,2025,SD/MI,Negeri dan Swasta,1838,263055,260,12,20151,2508,13704,14645
+D.I. Yogyakarta,34.0,province,2025,SD/MI,Swasta,424,83093,27,8,5856,839,3955,4262
+D.I. Yogyakarta,34.0,province,2025,SMA/MA,Negeri,71,44539,4,0,2442,857,1254,1357
+D.I. Yogyakarta,34.0,province,2025,SMA/MA,Negeri dan Swasta,179,63238,60,6,4076,1282,1956,2387
+D.I. Yogyakarta,34.0,province,2025,SMA/MA,Swasta,108,18699,56,6,1634,425,702,1030
+D.I. Yogyakarta,34.0,province,2025,SMK/MAK,Negeri,50,53048,17,0,3054,923,1554,1385
+D.I. Yogyakarta,34.0,province,2025,SMK/MAK,Negeri dan Swasta,206,90234,265,15,6027,1652,3274,3326
+D.I. Yogyakarta,34.0,province,2025,SMK/MAK,Swasta,156,37186,248,15,2973,729,1720,1941
+D.I. Yogyakarta,34.0,province,2025,SMP/MTs,Negeri,214,92450,9,0,5413,1106,2969,3168
+D.I. Yogyakarta,34.0,province,2025,SMP/MTs,Negeri dan Swasta,456,129692,71,3,8744,1882,4488,5100
+D.I. Yogyakarta,34.0,province,2025,SMP/MTs,Swasta,242,37242,62,3,3331,776,1519,1932
+D.K.I. Jakarta,31.0,province,2025,SD/MI,Negeri,1305,527062,1336,192,22974,2518,17692,17371
+D.K.I. Jakarta,31.0,province,2025,SD/MI,Negeri dan Swasta,2223,738781,1587,320,38671,4379,27271,28698
+D.K.I. Jakarta,31.0,province,2025,SD/MI,Swasta,918,211719,251,128,15697,1861,9579,11327
+D.K.I. Jakarta,31.0,province,2025,SMA/MA,Negeri,121,89034,97,3,4650,961,2511,2610
+D.K.I. Jakarta,31.0,province,2025,SMA/MA,Negeri dan Swasta,510,186461,143,10,11983,2330,5821,7143
+D.K.I. Jakarta,31.0,province,2025,SMA/MA,Swasta,389,97427,46,7,7333,1369,3310,4533
+D.K.I. Jakarta,31.0,province,2025,SMK/MAK,Negeri,74,58582,11,0,3295,707,1679,1655
+D.K.I. Jakarta,31.0,province,2025,SMK/MAK,Negeri dan Swasta,553,194178,168,58,11519,2338,6672,8336
+D.K.I. Jakarta,31.0,province,2025,SMK/MAK,Swasta,479,135596,157,58,8224,1631,4993,6681
+D.K.I. Jakarta,31.0,province,2025,SMP/MTs,Negeri,299,213215,208,0,9401,2020,6056,6109
+D.K.I. Jakarta,31.0,province,2025,SMP/MTs,Negeri dan Swasta,1074,363002,520,21,19050,3726,11496,13121
+D.K.I. Jakarta,31.0,province,2025,SMP/MTs,Swasta,775,149787,312,21,9649,1706,5440,7012
+Gorontalo,75.0,province,2025,SD/MI,Negeri,896,103371,1029,294,8415,953,5889,6573
+Gorontalo,75.0,province,2025,SD/MI,Negeri dan Swasta,932,108748,1031,295,8841,988,6169,6867
+Gorontalo,75.0,province,2025,SD/MI,Swasta,36,5377,2,1,426,35,280,294
+Gorontalo,75.0,province,2025,SMA/MA,Negeri,62,28976,168,89,1880,326,893,1097
+Gorontalo,75.0,province,2025,SMA/MA,Negeri dan Swasta,71,30225,187,93,2003,351,940,1161
+Gorontalo,75.0,province,2025,SMA/MA,Swasta,9,1249,19,4,123,25,47,64
+Gorontalo,75.0,province,2025,SMK/MAK,Negeri,40,11982,126,96,1424,214,665,815
+Gorontalo,75.0,province,2025,SMK/MAK,Negeri dan Swasta,60,13818,127,102,1715,270,795,1001
+Gorontalo,75.0,province,2025,SMK/MAK,Swasta,20,1836,1,6,291,56,130,186
+Gorontalo,75.0,province,2025,SMP/MTs,Negeri,314,38839,171,114,4127,537,1701,2309
+Gorontalo,75.0,province,2025,SMP/MTs,Negeri dan Swasta,347,41160,178,120,4407,565,1830,2475
+Gorontalo,75.0,province,2025,SMP/MTs,Swasta,33,2321,7,6,280,28,129,166
+Jambi,15.0,province,2025,SD/MI,Negeri,2302,330014,1490,504,27371,3409,17598,19109
+Jambi,15.0,province,2025,SD/MI,Negeri dan Swasta,2486,367872,1599,539,29977,3632,19364,21018
+Jambi,15.0,province,2025,SD/MI,Swasta,184,37858,109,35,2606,223,1766,1909
+Jambi,15.0,province,2025,SMA/MA,Negeri,165,74255,200,41,5068,1176,2283,2721
+Jambi,15.0,province,2025,SMA/MA,Negeri dan Swasta,257,85441,268,47,5951,1295,2730,3289
+Jambi,15.0,province,2025,SMA/MA,Swasta,92,11186,68,6,883,119,447,568
+Jambi,15.0,province,2025,SMK/MAK,Negeri,108,38068,174,177,3550,830,1607,1696
+Jambi,15.0,province,2025,SMK/MAK,Negeri dan Swasta,181,48257,252,194,4487,978,2117,2303
+Jambi,15.0,province,2025,SMK/MAK,Swasta,73,10189,78,17,937,148,510,607
+Jambi,15.0,province,2025,SMP/MTs,Negeri,559,102423,258,139,9906,1783,3973,5292
+Jambi,15.0,province,2025,SMP/MTs,Negeri dan Swasta,726,123949,297,155,11584,1983,4850,6418
+Jambi,15.0,province,2025,SMP/MTs,Swasta,167,21526,39,16,1678,200,877,1126
+Jawa Barat,32.0,province,2025,SD/MI,Negeri,16936,3902286,4127,2693,174913,13076,147505,130926
+Jawa Barat,32.0,province,2025,SD/MI,Negeri dan Swasta,19570,4548282,4353,2958,216612,17186,175348,161423
+Jawa Barat,32.0,province,2025,SD/MI,Swasta,2634,645996,226,265,41699,4110,27843,30497
+Jawa Barat,32.0,province,2025,SMA/MA,Negeri,521,577942,408,53,26503,6010,15526,14479
+Jawa Barat,32.0,province,2025,SMA/MA,Negeri dan Swasta,1858,870358,662,240,45496,9046,25375,27060
+Jawa Barat,32.0,province,2025,SMA/MA,Swasta,1337,292416,254,187,18993,3036,9849,12581
+Jawa Barat,32.0,province,2025,SMK/MAK,Negeri,289,366888,78,39,18767,4592,10695,8961
+Jawa Barat,32.0,province,2025,SMK/MAK,Negeri dan Swasta,2891,1031586,1310,603,59176,12379,36237,40790
+Jawa Barat,32.0,province,2025,SMK/MAK,Swasta,2602,664698,1232,564,40409,7787,25542,31829
+Jawa Barat,32.0,province,2025,SMP/MTs,Negeri,2013,1200260,469,192,53546,9886,35460,38847
+Jawa Barat,32.0,province,2025,SMP/MTs,Negeri dan Swasta,6147,1888030,1256,644,98279,16851,60540,70282
+Jawa Barat,32.0,province,2025,SMP/MTs,Swasta,4134,687771,787,452,44733,6965,25080,31435
+Jawa Tengah,33.0,province,2025,SD/MI,Negeri,17140,2253391,6121,703,148125,10048,113519,121234
+Jawa Tengah,33.0,province,2025,SD/MI,Negeri dan Swasta,18506,2578244,6292,797,167559,12033,127826,136781
+Jawa Tengah,33.0,province,2025,SD/MI,Swasta,1366,324853,171,94,19434,1985,14307,15547
+Jawa Tengah,33.0,province,2025,SMA/MA,Negeri,365,350208,12,9,18277,3760,9932,10057
+Jawa Tengah,33.0,province,2025,SMA/MA,Negeri dan Swasta,874,467905,133,89,26293,5340,13882,15374
+Jawa Tengah,33.0,province,2025,SMA/MA,Swasta,509,117697,121,80,8016,1580,3950,5317
+Jawa Tengah,33.0,province,2025,SMK/MAK,Negeri,239,305800,47,9,16886,3099,8803,7101
+Jawa Tengah,33.0,province,2025,SMK/MAK,Negeri dan Swasta,1527,841006,1161,392,46573,9393,27953,27271
+Jawa Tengah,33.0,province,2025,SMK/MAK,Swasta,1288,535206,1114,383,29687,6294,19150,20170
+Jawa Tengah,33.0,province,2025,SMP/MTs,Negeri,1773,937212,292,102,50044,9111,30370,32775
+Jawa Tengah,33.0,province,2025,SMP/MTs,Negeri dan Swasta,3472,1213940,794,258,69502,12737,41171,47065
+Jawa Tengah,33.0,province,2025,SMP/MTs,Swasta,1699,276730,502,156,19458,3626,10801,14290
+Jawa Timur,35.0,province,2025,SD/MI,Negeri,16790,2079218,3079,900,153548,10256,115790,122029
+Jawa Timur,35.0,province,2025,SD/MI,Negeri dan Swasta,18923,2488748,3546,1257,180313,12578,135454,143190
+Jawa Timur,35.0,province,2025,SD/MI,Swasta,2133,409530,467,357,26765,2322,19664,21161
+Jawa Timur,35.0,province,2025,SMA/MA,Negeri,429,361805,226,150,20359,4965,10413,11402
+Jawa Timur,35.0,province,2025,SMA/MA,Negeri dan Swasta,1511,559378,1095,715,34645,7103,17428,20938
+Jawa Timur,35.0,province,2025,SMA/MA,Swasta,1082,197573,869,565,14286,2138,7015,9536
+Jawa Timur,35.0,province,2025,SMK/MAK,Negeri,299,355992,384,170,20471,4872,10922,9157
+Jawa Timur,35.0,province,2025,SMK/MAK,Negeri dan Swasta,2150,794902,2721,1268,49798,9028,28732,28208
+Jawa Timur,35.0,province,2025,SMK/MAK,Swasta,1851,438910,2337,1098,29327,4156,17810,19051
+Jawa Timur,35.0,province,2025,SMP/MTs,Negeri,1746,816534,532,255,46326,9130,26780,30784
+Jawa Timur,35.0,province,2025,SMP/MTs,Negeri dan Swasta,5087,1233900,1817,1584,79928,13158,44260,51640
+Jawa Timur,35.0,province,2025,SMP/MTs,Swasta,3341,417363,1285,1329,33602,4028,17480,20856
+Kalimantan Barat,61.0,province,2025,SD/MI,Negeri,4138,487662,7419,649,37167,3207,28779,29084
+Kalimantan Barat,61.0,province,2025,SD/MI,Negeri dan Swasta,4456,552663,7588,689,41002,3523,31620,32149
+Kalimantan Barat,61.0,province,2025,SD/MI,Swasta,318,65001,169,40,3835,316,2841,3065
+Kalimantan Barat,61.0,province,2025,SMA/MA,Negeri,291,106263,211,46,6987,796,3345,3539
+Kalimantan Barat,61.0,province,2025,SMA/MA,Negeri dan Swasta,477,135912,280,105,8985,1007,4415,4937
+Kalimantan Barat,61.0,province,2025,SMA/MA,Swasta,186,29649,69,59,1998,211,1070,1398
+Kalimantan Barat,61.0,province,2025,SMK/MAK,Negeri,120,58271,210,86,3779,483,2130,1780
+Kalimantan Barat,61.0,province,2025,SMK/MAK,Negeri dan Swasta,233,75496,357,150,4980,682,2924,2771
+Kalimantan Barat,61.0,province,2025,SMK/MAK,Swasta,113,17225,147,64,1201,199,794,991
+Kalimantan Barat,61.0,province,2025,SMP/MTs,Negeri,1038,191882,699,199,14215,1590,7095,8270
+Kalimantan Barat,61.0,province,2025,SMP/MTs,Negeri dan Swasta,1392,236921,827,247,17128,1917,8888,10506
+Kalimantan Barat,61.0,province,2025,SMP/MTs,Swasta,354,45039,128,48,2913,327,1793,2236
+Kalimantan Selatan,63.0,province,2025,SD/MI,Negeri,2739,312010,2057,248,27329,2671,19276,20690
+Kalimantan Selatan,63.0,province,2025,SD/MI,Negeri dan Swasta,2932,349088,2143,286,29876,2911,21045,22599
+Kalimantan Selatan,63.0,province,2025,SD/MI,Swasta,193,37078,86,38,2547,240,1769,1909
+Kalimantan Selatan,63.0,province,2025,SMA/MA,Negeri,144,63895,136,22,4367,1182,1977,2269
+Kalimantan Selatan,63.0,province,2025,SMA/MA,Negeri dan Swasta,212,71349,145,23,5201,1351,2285,2738
+Kalimantan Selatan,63.0,province,2025,SMA/MA,Swasta,68,7454,9,1,834,169,308,469
+Kalimantan Selatan,63.0,province,2025,SMK/MAK,Negeri,65,46001,84,23,3127,969,1596,1366
+Kalimantan Selatan,63.0,province,2025,SMK/MAK,Negeri dan Swasta,128,59857,155,45,4238,1217,2210,2161
+Kalimantan Selatan,63.0,province,2025,SMK/MAK,Swasta,63,13856,71,22,1111,248,614,795
+Kalimantan Selatan,63.0,province,2025,SMP/MTs,Negeri,527,102792,219,62,8385,1114,3887,5073
+Kalimantan Selatan,63.0,province,2025,SMP/MTs,Negeri dan Swasta,646,117198,226,64,9652,1295,4501,5910
+Kalimantan Selatan,63.0,province,2025,SMP/MTs,Swasta,119,14406,7,2,1267,181,614,837
+Kalimantan Tengah,62.0,province,2025,SD/MI,Negeri,2410,230892,1996,316,23654,1353,15878,16869
+Kalimantan Tengah,62.0,province,2025,SD/MI,Negeri dan Swasta,2652,277088,2205,345,26512,1547,17921,19036
+Kalimantan Tengah,62.0,province,2025,SD/MI,Swasta,242,46196,209,29,2858,194,2043,2167
+Kalimantan Tengah,62.0,province,2025,SMA/MA,Negeri,183,57939,227,80,4530,431,1880,2256
+Kalimantan Tengah,62.0,province,2025,SMA/MA,Negeri dan Swasta,252,64519,266,92,5261,495,2179,2677
+Kalimantan Tengah,62.0,province,2025,SMA/MA,Swasta,69,6580,39,12,731,64,299,421
+Kalimantan Tengah,62.0,province,2025,SMK/MAK,Negeri,95,27408,94,71,2588,277,1186,1316
+Kalimantan Tengah,62.0,province,2025,SMK/MAK,Negeri dan Swasta,141,33267,114,78,3170,337,1471,1654
+Kalimantan Tengah,62.0,province,2025,SMK/MAK,Swasta,46,5859,20,7,582,60,285,338
+Kalimantan Tengah,62.0,province,2025,SMP/MTs,Negeri,722,89113,332,157,9212,733,3808,4817
+Kalimantan Tengah,62.0,province,2025,SMP/MTs,Negeri dan Swasta,887,109261,375,161,10714,870,4637,5773
+Kalimantan Tengah,62.0,province,2025,SMP/MTs,Swasta,165,20148,43,4,1502,137,829,956
+Kalimantan Timur,64.0,province,2025,SD/MI,Negeri,1668,352800,1591,341,23251,3349,15959,15546
+Kalimantan Timur,64.0,province,2025,SD/MI,Negeri dan Swasta,1955,425573,1693,388,27597,3864,19070,18884
+Kalimantan Timur,64.0,province,2025,SD/MI,Swasta,287,72773,102,47,4346,515,3111,3338
+Kalimantan Timur,64.0,province,2025,SMA/MA,Negeri,148,73352,140,15,4589,939,2169,2328
+Kalimantan Timur,64.0,province,2025,SMA/MA,Negeri dan Swasta,240,87058,169,25,5786,1171,2674,3033
+Kalimantan Timur,64.0,province,2025,SMA/MA,Swasta,92,13706,29,10,1197,232,505,705
+Kalimantan Timur,64.0,province,2025,SMK/MAK,Negeri,89,56211,205,15,3630,757,1815,1706
+Kalimantan Timur,64.0,province,2025,SMK/MAK,Negeri dan Swasta,212,85491,551,56,5515,1229,3094,3098
+Kalimantan Timur,64.0,province,2025,SMK/MAK,Swasta,123,29280,346,41,1885,472,1279,1392
+Kalimantan Timur,64.0,province,2025,SMP/MTs,Negeri,464,136945,226,43,9117,1637,4616,5309
+Kalimantan Timur,64.0,province,2025,SMP/MTs,Negeri dan Swasta,719,170499,277,73,11663,2046,5980,7166
+Kalimantan Timur,64.0,province,2025,SMP/MTs,Swasta,255,33554,51,30,2546,409,1364,1857
+Kalimantan Utara,65.0,province,2025,SD/MI,Negeri,437,70049,389,151,5457,687,3740,3647
+Kalimantan Utara,65.0,province,2025,SD/MI,Negeri dan Swasta,490,80836,414,170,6170,773,4234,4151
+Kalimantan Utara,65.0,province,2025,SD/MI,Swasta,53,10787,25,19,713,86,494,504
+Kalimantan Utara,65.0,province,2025,SMA/MA,Negeri,49,18300,27,7,1233,250,571,613
+Kalimantan Utara,65.0,province,2025,SMA/MA,Negeri dan Swasta,73,20546,67,14,1511,305,672,768
+Kalimantan Utara,65.0,province,2025,SMA/MA,Swasta,24,2246,40,7,278,55,101,155
+Kalimantan Utara,65.0,province,2025,SMK/MAK,Negeri,22,9737,15,5,774,156,377,378
+Kalimantan Utara,65.0,province,2025,SMK/MAK,Negeri dan Swasta,34,10564,18,7,915,179,431,446
+Kalimantan Utara,65.0,province,2025,SMK/MAK,Swasta,12,827,3,2,141,23,54,68
+Kalimantan Utara,65.0,province,2025,SMP/MTs,Negeri,157,29891,50,35,2559,367,1137,1328
+Kalimantan Utara,65.0,province,2025,SMP/MTs,Negeri dan Swasta,200,33934,55,37,2963,432,1322,1558
+Kalimantan Utara,65.0,province,2025,SMP/MTs,Swasta,43,4043,5,2,404,65,185,230
+Kepulauan Bangka Belitung,19.0,province,2025,SD/MI,Negeri,761,140903,1025,92,8489,1824,6115,6896
+Kepulauan Bangka Belitung,19.0,province,2025,SD/MI,Negeri dan Swasta,833,157575,1034,95,9555,2021,6818,7705
+Kepulauan Bangka Belitung,19.0,province,2025,SD/MI,Swasta,72,16672,9,3,1066,197,703,809
+Kepulauan Bangka Belitung,19.0,province,2025,SMA/MA,Negeri,47,28783,9,8,1526,342,848,908
+Kepulauan Bangka Belitung,19.0,province,2025,SMA/MA,Negeri dan Swasta,83,34268,24,11,1962,423,1040,1193
+Kepulauan Bangka Belitung,19.0,province,2025,SMA/MA,Swasta,36,5485,15,3,436,81,192,285
+Kepulauan Bangka Belitung,19.0,province,2025,SMK/MAK,Negeri,36,19892,49,23,1323,317,666,745
+Kepulauan Bangka Belitung,19.0,province,2025,SMK/MAK,Negeri dan Swasta,58,24700,61,31,1691,415,874,1069
+Kepulauan Bangka Belitung,19.0,province,2025,SMK/MAK,Swasta,22,4808,12,8,368,98,208,324
+Kepulauan Bangka Belitung,19.0,province,2025,SMP/MTs,Negeri,164,56150,89,15,3159,849,1795,2033
+Kepulauan Bangka Belitung,19.0,province,2025,SMP/MTs,Negeri dan Swasta,241,66509,95,25,3918,1022,2204,2588
+Kepulauan Bangka Belitung,19.0,province,2025,SMP/MTs,Swasta,77,10359,6,10,759,173,409,555
+Kepulauan Riau,21.0,province,2025,SD/MI,Negeri,683,153243,481,90,9119,1804,6707,6191
+Kepulauan Riau,21.0,province,2025,SD/MI,Negeri dan Swasta,984,228204,514,122,14177,2178,9935,9899
+Kepulauan Riau,21.0,province,2025,SD/MI,Swasta,301,74961,33,32,5058,374,3228,3708
+Kepulauan Riau,21.0,province,2025,SMA/MA,Negeri,96,50726,101,15,3057,756,1433,1535
+Kepulauan Riau,21.0,province,2025,SMA/MA,Negeri dan Swasta,175,60034,104,15,3905,878,1821,2097
+Kepulauan Riau,21.0,province,2025,SMA/MA,Swasta,79,9308,3,0,848,122,388,562
+Kepulauan Riau,21.0,province,2025,SMK/MAK,Negeri,39,34768,38,2,1781,461,1047,760
+Kepulauan Riau,21.0,province,2025,SMK/MAK,Negeri dan Swasta,100,42932,78,15,2517,580,1525,1392
+Kepulauan Riau,21.0,province,2025,SMK/MAK,Swasta,61,8164,40,13,736,119,478,632
+Kepulauan Riau,21.0,province,2025,SMP/MTs,Negeri,237,77576,155,7,4326,828,2320,2548
+Kepulauan Riau,21.0,province,2025,SMP/MTs,Negeri dan Swasta,427,104597,162,8,6517,1069,3393,3844
+Kepulauan Riau,21.0,province,2025,SMP/MTs,Swasta,190,27021,7,1,2191,241,1073,1296
+Lampung,18.0,province,2025,SD/MI,Negeri,4282,709223,1833,472,51247,3766,34858,36824
+Lampung,18.0,province,2025,SD/MI,Negeri dan Swasta,4744,797865,1910,513,57470,4265,39141,41585
+Lampung,18.0,province,2025,SD/MI,Swasta,462,88642,77,41,6223,499,4283,4761
+Lampung,18.0,province,2025,SMA/MA,Negeri,243,136259,66,20,9259,1709,4092,4338
+Lampung,18.0,province,2025,SMA/MA,Negeri dan Swasta,536,185714,117,98,12727,2221,5860,6542
+Lampung,18.0,province,2025,SMA/MA,Swasta,293,49455,51,78,3468,512,1768,2204
+Lampung,18.0,province,2025,SMK/MAK,Negeri,112,74571,54,30,5445,1112,2563,2391
+Lampung,18.0,province,2025,SMK/MAK,Negeri dan Swasta,488,158143,248,110,10987,2098,5972,6241
+Lampung,18.0,province,2025,SMK/MAK,Swasta,376,83572,194,80,5542,986,3409,3850
+Lampung,18.0,province,2025,SMP/MTs,Negeri,709,247113,203,66,16739,2542,8413,9675
+Lampung,18.0,province,2025,SMP/MTs,Negeri dan Swasta,1506,343606,253,143,24555,3478,12366,14960
+Lampung,18.0,province,2025,SMP/MTs,Swasta,797,96493,50,77,7816,936,3953,5285
+Maluku,81.0,province,2025,SD/MI,Negeri,1311,148432,900,660,15402,1893,8837,9726
+Maluku,81.0,province,2025,SD/MI,Negeri dan Swasta,1844,202214,1378,844,18970,2094,12218,13611
+Maluku,81.0,province,2025,SD/MI,Swasta,533,53782,478,184,3568,201,3381,3885
+Maluku,81.0,province,2025,SMA/MA,Negeri,218,57733,92,176,5549,788,1928,2555
+Maluku,81.0,province,2025,SMA/MA,Negeri dan Swasta,295,68503,110,204,6650,906,2355,3210
+Maluku,81.0,province,2025,SMA/MA,Swasta,77,10770,18,28,1101,118,427,655
+Maluku,81.0,province,2025,SMK/MAK,Negeri,84,14809,51,48,2252,334,884,956
+Maluku,81.0,province,2025,SMK/MAK,Negeri dan Swasta,123,20391,71,55,2785,393,1203,1338
+Maluku,81.0,province,2025,SMK/MAK,Swasta,39,5582,20,7,533,59,319,382
+Maluku,81.0,province,2025,SMP/MTs,Negeri,576,74135,123,130,10083,1581,3068,4107
+Maluku,81.0,province,2025,SMP/MTs,Negeri dan Swasta,718,89276,136,154,11349,1722,3727,5076
+Maluku,81.0,province,2025,SMP/MTs,Swasta,142,15141,13,24,1266,141,659,969
+Maluku Utara,82.0,province,2025,SD/MI,Negeri,1133,116699,663,831,12447,1321,7418,8182
+Maluku Utara,82.0,province,2025,SD/MI,Negeri dan Swasta,1332,138498,727,967,13770,1399,8705,9544
+Maluku Utara,82.0,province,2025,SD/MI,Swasta,199,21799,64,136,1323,78,1287,1362
+Maluku Utara,82.0,province,2025,SMA/MA,Negeri,140,35467,109,123,3276,474,1171,1523
+Maluku Utara,82.0,province,2025,SMA/MA,Negeri dan Swasta,219,43460,187,160,3940,535,1511,1937
+Maluku Utara,82.0,province,2025,SMA/MA,Swasta,79,7993,78,37,664,61,340,414
+Maluku Utara,82.0,province,2025,SMK/MAK,Negeri,63,9018,52,140,1317,191,560,602
+Maluku Utara,82.0,province,2025,SMK/MAK,Negeri dan Swasta,149,17107,174,199,2013,265,1033,1115
+Maluku Utara,82.0,province,2025,SMK/MAK,Swasta,86,8089,122,59,696,74,473,513
+Maluku Utara,82.0,province,2025,SMP/MTs,Negeri,384,45911,135,168,6167,768,1929,2587
+Maluku Utara,82.0,province,2025,SMP/MTs,Negeri dan Swasta,530,58043,179,214,7152,859,2497,3311
+Maluku Utara,82.0,province,2025,SMP/MTs,Swasta,146,12132,44,46,985,91,568,724
+Nusa Tenggara Barat,52.0,province,2025,SD/MI,Negeri,3008,478528,1064,951,43403,2862,23025,22384
+Nusa Tenggara Barat,52.0,province,2025,SD/MI,Negeri dan Swasta,3374,525033,1125,1104,47427,3108,25601,24921
+Nusa Tenggara Barat,52.0,province,2025,SD/MI,Swasta,366,46505,61,153,4024,246,2576,2537
+Nusa Tenggara Barat,52.0,province,2025,SMA/MA,Negeri,150,104451,343,147,7975,1595,3057,3302
+Nusa Tenggara Barat,52.0,province,2025,SMA/MA,Negeri dan Swasta,389,124856,587,272,10551,1809,3987,4417
+Nusa Tenggara Barat,52.0,province,2025,SMA/MA,Swasta,239,20405,244,125,2576,214,930,1115
+Nusa Tenggara Barat,52.0,province,2025,SMK/MAK,Negeri,100,61074,659,111,5802,1197,2432,2163
+Nusa Tenggara Barat,52.0,province,2025,SMK/MAK,Negeri dan Swasta,337,82924,901,499,8670,1376,3593,3475
+Nusa Tenggara Barat,52.0,province,2025,SMK/MAK,Swasta,237,21850,242,388,2868,179,1161,1312
+Nusa Tenggara Barat,52.0,province,2025,SMP/MTs,Negeri,606,143215,230,215,18364,3181,5216,6376
+Nusa Tenggara Barat,52.0,province,2025,SMP/MTs,Negeri dan Swasta,1127,184270,326,312,23688,3521,7245,8705
+Nusa Tenggara Barat,52.0,province,2025,SMP/MTs,Swasta,521,41055,96,97,5324,340,2029,2329
+Nusa Tenggara Timur,53.0,province,2025,SD/MI,Negeri,3431,406044,4240,1619,39885,4372,24453,28365
+Nusa Tenggara Timur,53.0,province,2025,SD/MI,Negeri dan Swasta,5256,641344,6599,2505,57006,6088,37359,44052
+Nusa Tenggara Timur,53.0,province,2025,SD/MI,Swasta,1825,235300,2359,886,17121,1716,12906,15687
+Nusa Tenggara Timur,53.0,province,2025,SMA/MA,Negeri,400,138418,187,378,12718,1514,4508,5678
+Nusa Tenggara Timur,53.0,province,2025,SMA/MA,Negeri dan Swasta,624,195689,520,489,17167,2035,6448,8546
+Nusa Tenggara Timur,53.0,province,2025,SMA/MA,Swasta,224,57271,333,111,4449,521,1940,2868
+Nusa Tenggara Timur,53.0,province,2025,SMK/MAK,Negeri,181,53512,146,237,6419,733,2548,2628
+Nusa Tenggara Timur,53.0,province,2025,SMK/MAK,Negeri dan Swasta,361,90925,240,621,9600,1035,4369,4597
+Nusa Tenggara Timur,53.0,province,2025,SMK/MAK,Swasta,180,37413,94,384,3181,302,1821,1969
+Nusa Tenggara Timur,53.0,province,2025,SMP/MTs,Negeri,1413,230200,293,539,26689,3048,9087,11744
+Nusa Tenggara Timur,53.0,province,2025,SMP/MTs,Negeri dan Swasta,1881,303609,363,637,32717,3753,11981,15548
+Nusa Tenggara Timur,53.0,province,2025,SMP/MTs,Swasta,468,73409,70,98,6028,705,2894,3804
+Papua,91.0,province,2025,SD/MI,Negeri,500,68799,892,595,5051,349,3736,3705
+Papua,91.0,province,2025,SD/MI,Negeri dan Swasta,853,117710,1325,989,7876,545,6275,6427
+Papua,91.0,province,2025,SD/MI,Swasta,353,48911,433,394,2825,196,2539,2722
+Papua,91.0,province,2025,SMA/MA,Negeri,65,24337,199,40,1612,231,717,805
+Papua,91.0,province,2025,SMA/MA,Negeri dan Swasta,119,35622,422,81,2382,359,1105,1262
+Papua,91.0,province,2025,SMA/MA,Swasta,54,11285,223,41,770,128,388,457
+Papua,91.0,province,2025,SMK/MAK,Negeri,35,9511,373,94,980,157,447,509
+Papua,91.0,province,2025,SMK/MAK,Negeri dan Swasta,49,13553,448,113,1276,207,623,673
+Papua,91.0,province,2025,SMK/MAK,Swasta,14,4042,75,19,296,50,176,164
+Papua,91.0,province,2025,SMP/MTs,Negeri,195,39328,504,167,3096,423,1411,1586
+Papua,91.0,province,2025,SMP/MTs,Negeri dan Swasta,283,51865,595,205,3962,523,1906,2239
+Papua,91.0,province,2025,SMP/MTs,Swasta,88,12537,91,38,866,100,495,653
+Papua Barat,92.0,province,2025,SD/MI,Negeri,407,46967,934,529,4322,168,2961,2837
+Papua Barat,92.0,province,2025,SD/MI,Negeri dan Swasta,584,70183,1588,849,5822,242,4237,4129
+Papua Barat,92.0,province,2025,SD/MI,Swasta,177,23216,654,320,1500,74,1276,1292
+Papua Barat,92.0,province,2025,SMA/MA,Negeri,48,14504,233,14,1078,94,479,557
+Papua Barat,92.0,province,2025,SMA/MA,Negeri dan Swasta,71,18017,406,22,1410,138,614,750
+Papua Barat,92.0,province,2025,SMA/MA,Swasta,23,3513,173,8,332,44,135,193
+Papua Barat,92.0,province,2025,SMK/MAK,Negeri,16,5144,118,16,545,41,256,238
+Papua Barat,92.0,province,2025,SMK/MAK,Negeri dan Swasta,21,6483,265,35,644,50,318,297
+Papua Barat,92.0,province,2025,SMK/MAK,Swasta,5,1339,147,19,99,9,62,59
+Papua Barat,92.0,province,2025,SMP/MTs,Negeri,126,22425,273,58,1975,173,848,918
+Papua Barat,92.0,province,2025,SMP/MTs,Negeri dan Swasta,167,29195,466,65,2487,232,1114,1227
+Papua Barat,92.0,province,2025,SMP/MTs,Swasta,41,6770,193,7,512,59,266,309
+Papua Barat Daya,96.0,province,2025,SD/MI,Negeri,313,37066,537,150,3823,105,2337,2216
+Papua Barat Daya,96.0,province,2025,SD/MI,Negeri dan Swasta,564,61397,927,271,5488,193,4010,3999
+Papua Barat Daya,96.0,province,2025,SD/MI,Swasta,251,24331,390,121,1665,88,1673,1783
+Papua Barat Daya,96.0,province,2025,SMA/MA,Negeri,50,11559,37,18,1131,78,425,506
+Papua Barat Daya,96.0,province,2025,SMA/MA,Negeri dan Swasta,82,14945,80,38,1501,110,584,733
+Papua Barat Daya,96.0,province,2025,SMA/MA,Swasta,32,3386,43,20,370,32,159,227
+Papua Barat Daya,96.0,province,2025,SMK/MAK,Negeri,16,5624,47,4,564,48,277,272
+Papua Barat Daya,96.0,province,2025,SMK/MAK,Negeri dan Swasta,38,8844,73,27,831,88,450,441
+Papua Barat Daya,96.0,province,2025,SMK/MAK,Swasta,22,3220,26,23,267,40,173,169
+Papua Barat Daya,96.0,province,2025,SMP/MTs,Negeri,132,19161,116,24,2030,109,773,933
+Papua Barat Daya,96.0,province,2025,SMP/MTs,Negeri dan Swasta,195,25753,134,35,2567,158,1062,1295
+Papua Barat Daya,96.0,province,2025,SMP/MTs,Swasta,63,6592,18,11,537,49,289,362
+Papua Pegunungan,95.0,province,2025,SD/MI,Negeri,516,109588,4627,1797,3604,54,4299,3445
+Papua Pegunungan,95.0,province,2025,SD/MI,Negeri dan Swasta,679,143990,5028,2376,4699,87,5642,4595
+Papua Pegunungan,95.0,province,2025,SD/MI,Swasta,163,34402,401,579,1095,33,1343,1150
+Papua Pegunungan,95.0,province,2025,SMA/MA,Negeri,50,11305,158,78,658,16,355,360
+Papua Pegunungan,95.0,province,2025,SMA/MA,Negeri dan Swasta,72,15633,201,198,907,27,499,521
+Papua Pegunungan,95.0,province,2025,SMA/MA,Swasta,22,4328,43,120,249,11,144,161
+Papua Pegunungan,95.0,province,2025,SMK/MAK,Negeri,12,2194,8,66,148,1,79,85
+Papua Pegunungan,95.0,province,2025,SMK/MAK,Negeri dan Swasta,25,4815,92,108,277,12,176,200
+Papua Pegunungan,95.0,province,2025,SMK/MAK,Swasta,13,2621,84,42,129,11,97,115
+Papua Pegunungan,95.0,province,2025,SMP/MTs,Negeri,160,34149,313,307,1698,32,1092,1014
+Papua Pegunungan,95.0,province,2025,SMP/MTs,Negeri dan Swasta,215,43912,393,473,2081,54,1420,1308
+Papua Pegunungan,95.0,province,2025,SMP/MTs,Swasta,55,9763,80,166,383,22,328,294
+Papua Selatan,93.0,province,2025,SD/MI,Negeri,381,57928,2727,1095,3139,132,2845,2608
+Papua Selatan,93.0,province,2025,SD/MI,Negeri dan Swasta,616,96008,4880,1662,4776,213,4632,4407
+Papua Selatan,93.0,province,2025,SD/MI,Swasta,235,38080,2153,567,1637,81,1787,1799
+Papua Selatan,93.0,province,2025,SMA/MA,Negeri,25,10885,495,7,714,64,339,367
+Papua Selatan,93.0,province,2025,SMA/MA,Negeri dan Swasta,40,14432,828,12,932,98,460,509
+Papua Selatan,93.0,province,2025,SMA/MA,Swasta,15,3547,333,5,218,34,121,142
+Papua Selatan,93.0,province,2025,SMK/MAK,Negeri,21,6603,291,29,619,48,276,290
+Papua Selatan,93.0,province,2025,SMK/MAK,Negeri dan Swasta,25,7397,291,32,684,55,313,352
+Papua Selatan,93.0,province,2025,SMK/MAK,Swasta,4,794,0,3,65,7,37,62
+Papua Selatan,93.0,province,2025,SMP/MTs,Negeri,99,22093,1009,76,1652,102,800,888
+Papua Selatan,93.0,province,2025,SMP/MTs,Negeri dan Swasta,137,29293,1192,138,2081,160,1053,1166
+Papua Selatan,93.0,province,2025,SMP/MTs,Swasta,38,7200,183,62,429,58,253,278
+Papua Tengah,94.0,province,2025,SD/MI,Negeri,292,72584,1834,759,3370,80,2862,2631
+Papua Tengah,94.0,province,2025,SD/MI,Negeri dan Swasta,560,145970,3814,1629,5702,150,5596,4962
+Papua Tengah,94.0,province,2025,SD/MI,Swasta,268,73386,1980,870,2332,70,2734,2331
+Papua Tengah,94.0,province,2025,SMA/MA,Negeri,31,12956,29,3,792,51,377,399
+Papua Tengah,94.0,province,2025,SMA/MA,Negeri dan Swasta,60,18577,47,7,1162,93,562,632
+Papua Tengah,94.0,province,2025,SMA/MA,Swasta,29,5621,18,4,370,42,185,233
+Papua Tengah,94.0,province,2025,SMK/MAK,Negeri,17,5759,39,22,530,40,238,278
+Papua Tengah,94.0,province,2025,SMK/MAK,Negeri dan Swasta,54,11812,73,51,1002,93,529,606
+Papua Tengah,94.0,province,2025,SMK/MAK,Swasta,37,6053,34,29,472,53,291,328
+Papua Tengah,94.0,province,2025,SMP/MTs,Negeri,102,28168,268,148,1783,116,938,985
+Papua Tengah,94.0,province,2025,SMP/MTs,Negeri dan Swasta,173,42313,453,252,2538,168,1426,1538
+Papua Tengah,94.0,province,2025,SMP/MTs,Swasta,71,14145,185,104,755,52,488,553
+Riau,14.0,province,2025,SD/MI,Negeri,3239,620356,3167,588,44459,4296,29482,29825
+Riau,14.0,province,2025,SD/MI,Negeri dan Swasta,3854,768441,3499,739,54424,5015,35935,36858
+Riau,14.0,province,2025,SD/MI,Swasta,615,148085,332,151,9965,719,6453,7033
+Riau,14.0,province,2025,SMA/MA,Negeri,326,158611,183,96,10417,1910,4777,5225
+Riau,14.0,province,2025,SMA/MA,Negeri dan Swasta,496,183820,244,122,12643,2172,5722,6609
+Riau,14.0,province,2025,SMA/MA,Swasta,170,25209,61,26,2226,262,945,1384
+Riau,14.0,province,2025,SMK/MAK,Negeri,139,72884,71,84,5493,916,2770,2482
+Riau,14.0,province,2025,SMK/MAK,Negeri dan Swasta,307,107327,234,208,8518,1337,4454,4560
+Riau,14.0,province,2025,SMK/MAK,Swasta,168,34443,163,124,3025,421,1684,2078
+Riau,14.0,province,2025,SMP/MTs,Negeri,893,217776,389,136,17021,2602,7647,9087
+Riau,14.0,province,2025,SMP/MTs,Negeri dan Swasta,1328,277585,452,176,22009,3148,10055,12151
+Riau,14.0,province,2025,SMP/MTs,Swasta,435,59809,63,40,4988,546,2408,3064
+Sekolah Indonesia Luar Negeri,,special,2025,SD/MI,Negeri,96,14638,53,8,381,12,754,654
+Sekolah Indonesia Luar Negeri,,special,2025,SD/MI,Negeri dan Swasta,124,19433,56,13,500,12,975,821
+Sekolah Indonesia Luar Negeri,,special,2025,SD/MI,Swasta,28,4795,3,5,119,0,221,167
+Sekolah Indonesia Luar Negeri,,special,2025,SMA/MA,Negeri,11,1034,1,0,93,4,51,66
+Sekolah Indonesia Luar Negeri,,special,2025,SMA/MA,Negeri dan Swasta,12,1149,1,0,109,6,56,72
+Sekolah Indonesia Luar Negeri,,special,2025,SMA/MA,Swasta,1,115,0,0,16,2,5,6
+Sekolah Indonesia Luar Negeri,,special,2025,SMK/MAK,Negeri,1,243,0,0,6,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2025,SMK/MAK,Negeri dan Swasta,1,243,0,0,6,1,9,9
+Sekolah Indonesia Luar Negeri,,special,2025,SMK/MAK,Swasta,0,0,0,0,0,0,0,0
+Sekolah Indonesia Luar Negeri,,special,2025,SMP/MTs,Negeri,45,5794,0,2,172,10,240,301
+Sekolah Indonesia Luar Negeri,,special,2025,SMP/MTs,Negeri dan Swasta,55,7246,1,4,220,10,290,371
+Sekolah Indonesia Luar Negeri,,special,2025,SMP/MTs,Swasta,10,1452,1,2,48,0,50,70
+Sulawesi Barat,76.0,province,2025,SD/MI,Negeri,1297,138755,814,240,15059,2444,9003,9306
+Sulawesi Barat,76.0,province,2025,SD/MI,Negeri dan Swasta,1330,144069,820,248,15448,2500,9295,9593
+Sulawesi Barat,76.0,province,2025,SD/MI,Swasta,33,5314,6,8,389,56,292,287
+Sulawesi Barat,76.0,province,2025,SMA/MA,Negeri,80,28643,148,29,2367,582,915,1146
+Sulawesi Barat,76.0,province,2025,SMA/MA,Negeri dan Swasta,95,30120,155,29,2478,602,978,1226
+Sulawesi Barat,76.0,province,2025,SMA/MA,Swasta,15,1477,7,0,111,20,63,80
+Sulawesi Barat,76.0,province,2025,SMK/MAK,Negeri,60,17095,74,147,1955,551,838,1024
+Sulawesi Barat,76.0,province,2025,SMK/MAK,Negeri dan Swasta,124,22369,125,174,2563,690,1155,1408
+Sulawesi Barat,76.0,province,2025,SMK/MAK,Swasta,64,5274,51,27,608,139,317,384
+Sulawesi Barat,76.0,province,2025,SMP/MTs,Negeri,321,47054,389,150,5392,1452,1950,2492
+Sulawesi Barat,76.0,province,2025,SMP/MTs,Negeri dan Swasta,384,51769,427,166,5937,1515,2189,2804
+Sulawesi Barat,76.0,province,2025,SMP/MTs,Swasta,63,4715,38,16,545,63,239,312
+Sulawesi Selatan,73.0,province,2025,SD/MI,Negeri,6067,800828,2824,1047,65370,7186,44132,45106
+Sulawesi Selatan,73.0,province,2025,SD/MI,Negeri dan Swasta,6468,880865,2872,1081,71288,7591,47932,49266
+Sulawesi Selatan,73.0,province,2025,SD/MI,Swasta,401,80037,48,34,5918,405,3800,4160
+Sulawesi Selatan,73.0,province,2025,SMA/MA,Negeri,340,190864,207,309,12950,1902,5800,7206
+Sulawesi Selatan,73.0,province,2025,SMA/MA,Negeri dan Swasta,617,225822,368,416,16035,2272,7171,9190
+Sulawesi Selatan,73.0,province,2025,SMA/MA,Swasta,277,34958,161,107,3085,370,1371,1984
+Sulawesi Selatan,73.0,province,2025,SMK/MAK,Negeri,168,85742,329,232,7604,1079,3413,3929
+Sulawesi Selatan,73.0,province,2025,SMK/MAK,Negeri dan Swasta,395,115179,829,393,10260,1488,5118,6072
+Sulawesi Selatan,73.0,province,2025,SMK/MAK,Swasta,227,29437,500,161,2656,409,1705,2143
+Sulawesi Selatan,73.0,province,2025,SMP/MTs,Negeri,1276,286657,1041,392,24896,4941,10725,13710
+Sulawesi Selatan,73.0,province,2025,SMP/MTs,Negeri dan Swasta,1762,341520,1221,453,29630,5544,13067,16773
+Sulawesi Selatan,73.0,province,2025,SMP/MTs,Swasta,486,54863,180,61,4734,603,2342,3063
+Sulawesi Tengah,72.0,province,2025,SD/MI,Negeri,2675,289530,2091,580,27325,6351,17915,19633
+Sulawesi Tengah,72.0,province,2025,SD/MI,Negeri dan Swasta,2951,318721,2214,619,29633,6597,19784,21534
+Sulawesi Tengah,72.0,province,2025,SD/MI,Swasta,276,29191,123,39,2308,246,1869,1901
+Sulawesi Tengah,72.0,province,2025,SMA/MA,Negeri,178,70844,207,109,5273,788,2271,2589
+Sulawesi Tengah,72.0,province,2025,SMA/MA,Negeri dan Swasta,239,77820,254,154,5918,905,2561,2985
+Sulawesi Tengah,72.0,province,2025,SMA/MA,Swasta,61,6976,47,45,645,117,290,396
+Sulawesi Tengah,72.0,province,2025,SMK/MAK,Negeri,107,30793,157,182,3244,423,1461,1562
+Sulawesi Tengah,72.0,province,2025,SMK/MAK,Negeri dan Swasta,185,39259,308,203,4059,609,1973,2196
+Sulawesi Tengah,72.0,province,2025,SMK/MAK,Swasta,78,8466,151,21,815,186,512,634
+Sulawesi Tengah,72.0,province,2025,SMP/MTs,Negeri,741,102436,311,244,11224,2558,4328,5734
+Sulawesi Tengah,72.0,province,2025,SMP/MTs,Negeri dan Swasta,889,113852,323,257,12267,2747,4920,6447
+Sulawesi Tengah,72.0,province,2025,SMP/MTs,Swasta,148,11416,12,13,1043,189,592,713
+Sulawesi Tenggara,74.0,province,2025,SD/MI,Negeri,2266,284912,1415,735,28777,2759,16706,17388
+Sulawesi Tenggara,74.0,province,2025,SD/MI,Negeri dan Swasta,2357,300022,1425,777,29866,2850,17461,18127
+Sulawesi Tenggara,74.0,province,2025,SD/MI,Swasta,91,15110,10,42,1089,91,755,739
+Sulawesi Tenggara,74.0,province,2025,SMA/MA,Negeri,255,87380,398,123,8794,1321,2860,3645
+Sulawesi Tenggara,74.0,province,2025,SMA/MA,Negeri dan Swasta,318,92004,474,142,9395,1380,3111,3997
+Sulawesi Tenggara,74.0,province,2025,SMA/MA,Swasta,63,4624,76,19,601,59,251,352
+Sulawesi Tenggara,74.0,province,2025,SMK/MAK,Negeri,103,27774,378,78,3903,518,1505,1569
+Sulawesi Tenggara,74.0,province,2025,SMK/MAK,Negeri dan Swasta,164,32070,410,108,4677,614,1862,1975
+Sulawesi Tenggara,74.0,province,2025,SMK/MAK,Swasta,61,4296,32,30,774,96,357,406
+Sulawesi Tenggara,74.0,province,2025,SMP/MTs,Negeri,701,106766,471,245,14002,1814,4442,6085
+Sulawesi Tenggara,74.0,province,2025,SMP/MTs,Negeri dan Swasta,802,114292,485,324,14874,1896,4835,6562
+Sulawesi Tenggara,74.0,province,2025,SMP/MTs,Swasta,101,7526,14,79,872,82,393,477
+Sulawesi Utara,71.0,province,2025,SD/MI,Negeri,1350,136974,531,210,14623,542,8980,9541
+Sulawesi Utara,71.0,province,2025,SD/MI,Negeri dan Swasta,2211,219150,734,333,20524,756,14532,15433
+Sulawesi Utara,71.0,province,2025,SD/MI,Swasta,861,82176,203,123,5901,214,5552,5892
+Sulawesi Utara,71.0,province,2025,SMA/MA,Negeri,122,48355,319,3,3540,596,1505,2023
+Sulawesi Utara,71.0,province,2025,SMA/MA,Negeri dan Swasta,227,61282,414,12,4467,686,2055,2856
+Sulawesi Utara,71.0,province,2025,SMA/MA,Swasta,105,12927,95,9,927,90,550,833
+Sulawesi Utara,71.0,province,2025,SMK/MAK,Negeri,94,29440,711,17,3026,489,1657,1778
+Sulawesi Utara,71.0,province,2025,SMK/MAK,Negeri dan Swasta,191,39440,857,47,3972,607,2403,2779
+Sulawesi Utara,71.0,province,2025,SMK/MAK,Swasta,97,10000,146,30,946,118,746,1001
+Sulawesi Utara,71.0,province,2025,SMP/MTs,Negeri,480,73014,268,106,8330,656,2980,3829
+Sulawesi Utara,71.0,province,2025,SMP/MTs,Negeri dan Swasta,735,97119,366,145,10237,817,4104,5259
+Sulawesi Utara,71.0,province,2025,SMP/MTs,Swasta,255,24105,98,39,1907,161,1124,1430
+Sumatera Barat,13.0,province,2025,SD/MI,Negeri,3894,506442,4508,491,43390,5313,28292,30275
+Sumatera Barat,13.0,province,2025,SD/MI,Negeri dan Swasta,4247,582233,4681,515,48997,5946,31813,34151
+Sumatera Barat,13.0,province,2025,SD/MI,Swasta,353,75791,173,24,5607,633,3521,3876
+Sumatera Barat,13.0,province,2025,SMA/MA,Negeri,243,146759,656,448,9420,1699,4282,4954
+Sumatera Barat,13.0,province,2025,SMA/MA,Negeri dan Swasta,359,161181,768,472,10804,1916,4855,5831
+Sumatera Barat,13.0,province,2025,SMA/MA,Swasta,116,14422,112,24,1384,217,573,877
+Sumatera Barat,13.0,province,2025,SMK/MAK,Negeri,117,74733,514,60,5843,1027,2824,2588
+Sumatera Barat,13.0,province,2025,SMK/MAK,Negeri dan Swasta,212,86340,804,125,7117,1227,3497,3494
+Sumatera Barat,13.0,province,2025,SMK/MAK,Swasta,95,11607,290,65,1274,200,673,906
+Sumatera Barat,13.0,province,2025,SMP/MTs,Negeri,678,181650,1235,99,15210,2319,6536,8400
+Sumatera Barat,13.0,province,2025,SMP/MTs,Negeri dan Swasta,875,205685,1294,114,17704,2660,7577,9857
+Sumatera Barat,13.0,province,2025,SMP/MTs,Swasta,197,24035,59,15,2494,341,1041,1457
+Sumatera Selatan,16.0,province,2025,SD/MI,Negeri,4247,788108,4799,1088,54307,7451,37023,35658
+Sumatera Selatan,16.0,province,2025,SD/MI,Negeri dan Swasta,4744,884020,5005,1161,61065,8179,41586,40519
+Sumatera Selatan,16.0,province,2025,SD/MI,Swasta,497,95912,206,73,6758,728,4563,4861
+Sumatera Selatan,16.0,province,2025,SMA/MA,Negeri,333,174134,185,162,11935,2342,5159,5528
+Sumatera Selatan,16.0,province,2025,SMA/MA,Negeri dan Swasta,620,226406,470,327,15587,3013,6991,7913
+Sumatera Selatan,16.0,province,2025,SMA/MA,Swasta,287,52272,285,165,3652,671,1832,2385
+Sumatera Selatan,16.0,province,2025,SMK/MAK,Negeri,121,82107,259,162,5842,1198,2762,2230
+Sumatera Selatan,16.0,province,2025,SMK/MAK,Negeri dan Swasta,304,129320,410,299,8996,1791,4618,4354
+Sumatera Selatan,16.0,province,2025,SMK/MAK,Swasta,183,47213,151,137,3154,593,1856,2124
+Sumatera Selatan,16.0,province,2025,SMP/MTs,Negeri,906,292664,569,210,21349,3773,9928,11098
+Sumatera Selatan,16.0,province,2025,SMP/MTs,Negeri dan Swasta,1484,361146,715,334,26905,4703,12773,14824
+Sumatera Selatan,16.0,province,2025,SMP/MTs,Swasta,578,68482,146,124,5556,930,2845,3726
+Sumatera Utara,12.0,province,2025,SD/MI,Negeri,7982,1117437,2878,2790,92179,6770,60110,64970
+Sumatera Utara,12.0,province,2025,SD/MI,Negeri dan Swasta,9635,1466596,3567,3689,113124,8124,75273,81497
+Sumatera Utara,12.0,province,2025,SD/MI,Swasta,1653,349159,689,899,20945,1354,15163,16527
+Sumatera Utara,12.0,province,2025,SMA/MA,Negeri,440,253008,138,475,16123,2094,7489,8151
+Sumatera Utara,12.0,province,2025,SMA/MA,Negeri dan Swasta,1078,391554,385,1045,24581,2986,12081,14123
+Sumatera Utara,12.0,province,2025,SMA/MA,Swasta,638,138546,247,570,8458,892,4592,5972
+Sumatera Utara,12.0,province,2025,SMK/MAK,Negeri,281,137444,169,494,11051,1267,4881,5665
+Sumatera Utara,12.0,province,2025,SMK/MAK,Negeri dan Swasta,937,290367,615,1931,21097,2335,11081,13623
+Sumatera Utara,12.0,province,2025,SMK/MAK,Swasta,656,152923,446,1437,10046,1068,6200,7958
+Sumatera Utara,12.0,province,2025,SMP/MTs,Negeri,1346,407393,470,706,31842,3161,14280,17943
+Sumatera Utara,12.0,province,2025,SMP/MTs,Negeri dan Swasta,2724,616153,1103,1258,46215,4438,22169,28116
+Sumatera Utara,12.0,province,2025,SMP/MTs,Swasta,1378,208760,633,552,14373,1277,7889,10173
