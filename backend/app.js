@@ -6,6 +6,7 @@ const indicatorRoutes = require("./routes/indicatorRoutes");
 const regionRoutes = require("./routes/regionRoutes");
 const mapRoutes = require("./routes/mapRoutes");
 const insightsRoutes = require("./routes/insightsRoutes");
+const comparisonRoutes = require("./routes/comparisonRoutes");
 
 const errorHandler = require("./middleware/errorHandler");
 
@@ -31,6 +32,7 @@ app.use("/api/indicators", indicatorRoutes);
 app.use("/api/regions", regionRoutes);
 app.use("/api/map", mapRoutes);
 app.use("/api/insights", insightsRoutes);
+app.use("/api/compare", comparisonRoutes);
 
 // Error Handler
 app.use(errorHandler);
