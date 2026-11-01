@@ -10,6 +10,7 @@
 Teknologi yang digunakan dalam pengembangan EduGap:
 
 - **Frontend:** React.js
+- **Backend:** Node.js & Express.js
 - **Build Tool:** Vite
 - **Programming Language:** JavaScript
 - **Styling:** CSS
@@ -24,6 +25,7 @@ Pastikan perangkat telah memiliki:
 - Node.js
 - npm
 - Git
+- PostgreSQL
 
 ### 1. Clone Repository
 
@@ -39,39 +41,90 @@ Masuk ke direktori project:
 cd REPOSITORY
 ```
 
-### 2. Install Dependencies
+### 2. Persiapan Database
 
-Jalankan perintah berikut untuk menginstal seluruh dependencies:
+1. Pastikan PostgreSQL telah terinstal dan berjalan.
+2. Buat database dengan nama edugap_db.
+3. Jalankan file skema database yang tersedia di database/sql/schema.sql.
+4. Siapkan dan masukkan data pendidikan ke dalam database sesuai struktur tabel yang tersedia.
+Sesuaikan konfigurasi koneksi database dengan pengaturan PostgreSQL lokal.
 
-```bash
+### 3. Menjalankan Backend
+
+Masuk ke direktori backend:
+
+```
+cd backend
+```
+
+Install dependencies:
+
+```
 npm install
 ```
 
-### 3. Konfigurasi Environment
+Buat file .env berdasarkan template .env.example.
 
-Jika project menggunakan environment variables, buat file `.env` berdasarkan konfigurasi yang dibutuhkan.
+Contoh konfigurasi:
 
-Contoh:
+```
+PORT=5000
 
-```env
-VITE_API_URL=URL_BACKEND_API
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=edugap_db
+DB_USER=postgres
+DB_PASSWORD=your_password
 ```
 
-Sesuaikan URL API dengan alamat backend yang digunakan.
+Sesuaikan nilai konfigurasi dengan database PostgreSQL yang digunakan. Pastikan nama variabel sesuai dengan implementasi pada **backend/config/database.js**.
 
-### 4. Jalankan Project
+Jalankan backend:
 
-Jalankan development server menggunakan perintah:
+```
+npm start
+```
+Jika berhasil, server backend berjalan pada:
 
-```bash
+```
+http://localhost:5000
+```
+
+### 4. Menjalankan Frontend
+
+Buka terminal baru, kemudian masuk ke direktori frontend:
+
+```
+cd frontend
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Jika diperlukan, buat file .env untuk konfigurasi alamat API:
+
+```
+VITE_API_URL=http://localhost:5000/api
+```
+
+Sesuaikan konfigurasi tersebut dengan implementasi API pada frontend.
+
+Jalankan development server:
+
+```
 npm run dev
 ```
 
 Buka alamat yang ditampilkan pada terminal, biasanya:
 
-```text
+```
 http://localhost:5173
 ```
+
+Catatan: Backend dan frontend harus dijalankan secara bersamaan agar frontend dapat mengambil data dari API lokal.
 
 ## Progress Pengembangan
 
