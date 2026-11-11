@@ -52,17 +52,18 @@ import {
   Cell,
   Legend,
 } from "recharts";
-import { 
+import {
   getDashboardSummary,
-  getMapData, 
-  getIndicators, 
+  getMapData,
+  getIndicators,
   getRegions,
   getRegionObservations,
   compareRegions,
   getInsights,
   getDashboardTrends,
 } from "./services/api";
-
+import { MapContainer, GeoJSON } from "react-leaflet";
+import "leaflet/dist/leaflet.css";
 
 export const nav = [
   { label: "Beranda", icon: Home },
@@ -75,6 +76,7 @@ export const nav = [
   { label: "Detail Wilayah", icon: Compass },
   { label: "Tentang", icon: Info },
 ];
+
 export const provinces = [
   {
     name: "DKI Jakarta",
@@ -185,20 +187,7 @@ export const provinces = [
     aps: 71.2,
   },
 ];
-export const trend = [
-  { year: "2019", sma: 79, smk: 77, smp: 86 },
-  { year: "2020", sma: 80, smk: 78, smp: 87 },
-  { year: "2021", sma: 82, smk: 79, smp: 88 },
-  { year: "2022", sma: 83, smk: 81, smp: 89 },
-  { year: "2023", sma: 84, smk: 82, smp: 90 },
-  { year: "2024", sma: 85, sma2: 84, smk: 83, smp: 91 },
-];
-export const distribution = [
-  { name: "SD", value: 45.2 },
-  { name: "SMP", value: 28.3 },
-  { name: "SMA", value: 18.1 },
-  { name: "SMK", value: 8.4 },
-];
+
 export const colors = ["#0878f9", "#4aa5ff", "#7cc4ff", "#b8e2ff"];
 
 export function Brand() {
@@ -348,93 +337,291 @@ export function Panel({ title, subtitle, action, children, className = "" }) {
     </section>
   );
 }
-export function IndonesiaMap({ large = false }) {
+// Mengambil seluruh file GeoJSON provinsi secara otomatis
+const provinceFiles = import.meta.glob(
+  "./assets/Provinsi/*.json",
+  {
+    eager: true,
+    import: "default",
+  }
+);
+
+// Menggabungkan seluruh fitur provinsi
+const indonesiaProvinceGeoJSON = {
+  type: "FeatureCollection",
+  features: Object.entries(provinceFiles).flatMap(
+    ([filePath, geoJSON]) => {
+      const provinceName = filePath
+        .split("/")
+        .pop()
+        .replace(".json", "");
+
+      return (geoJSON.features || []).map((feature) => ({
+        ...feature,
+        properties: {
+          ...feature.properties,
+          provinceName,
+        },
+      }));
+    }
+  ),
+};
+
+export function IndonesiaMap({
+  large = false,
+  data = [],
+  indicatorName = "",
+  indicatorCode = "",
+  year = 2024,
+  category = "",
+  regionLevel = "province",
+}) {
+  // Normalisasi nama agar "Kabupaten Aceh Barat"
+  // dan "Aceh Barat" bisa dicocokkan.
+  const normalizeName = (name) =>
+    String(name || "")
+      .toLowerCase()
+      .trim()
+      .replace(/^(kabupaten|kab\.?|kota)\s+/i, "")
+      .replace(/[.,]/g, "")
+      .replace(/\s+/g, " ");
+
+  const isRegencyOrCity = (type) => {
+    const value = String(type || "").toLowerCase();
+
+    return (
+      value.includes("regency") ||
+      value.includes("kabupaten") ||
+      value.includes("city") ||
+      value.includes("kota") ||
+      value.includes("district")
+    );
+  };
+
+  // Pilih data sesuai tingkat wilayah.
+  const regionData = data.filter((item) => {
+    const type = String(item.region_type || "").toLowerCase();
+
+    const matchesLevel =
+      regionLevel === "province"
+        ? type.includes("province")
+        : isRegencyOrCity(type);
+
+    const matchesCategory =
+      !category || item.category === category;
+
+    return matchesLevel && matchesCategory;
+  });
+
+  // Siapkan pencocokan data berdasarkan nama wilayah.
+  const dataByName = {};
+
+  regionData.forEach((item) => {
+    const name = normalizeName(item.region);
+
+    const provinceName = normalizeName(
+      item.province ||
+      item.province_name ||
+      item.provinceName ||
+      item.parent_region ||
+      ""
+    );
+
+    if (name) {
+      const key = `${provinceName}|${name}`;
+      dataByName[key] = item;
+
+      // Fallback jika API tidak menyediakan nama provinsi.
+      if (!dataByName[name]) {
+        dataByName[name] = item;
+      }
+    }
+  });
+
+  // Pencocokan kode provinsi tetap dipertahankan.
+  const dataByCode = Object.fromEntries(
+    regionData.map((item) => [
+      String(item.region_code).padStart(2, "0"),
+      item,
+    ])
+  );
+
+  const values = regionData
+    .map((item) => Number(item.value))
+    .filter(Number.isFinite)
+    .sort((a, b) => a - b);
+
+  const getColor = (value) => {
+    if (value === undefined || !Number.isFinite(value)) {
+      return "#d1d5db";
+    }
+
+    if (!values.length) return "#d1d5db";
+
+    const position =
+      values.filter((v) => v <= value).length / values.length;
+
+    if (position <= 0.2) return "#dbeafe";
+    if (position <= 0.4) return "#93c5fd";
+    if (position <= 0.6) return "#60a5fa";
+    if (position <= 0.8) return "#2563eb";
+
+    return "#1e3a8a";
+  };
+
+  // Ambil data yang sesuai dengan setiap fitur GeoJSON.
+  const getRegionItem = (feature) => {
+    if (regionLevel === "province") {
+      const code = String(
+        feature.properties?.KODE_PROV || ""
+      ).padStart(2, "0");
+
+      return dataByCode[code];
+    }
+
+    const properties = feature.properties || {};
+
+    const regionName = normalizeName(properties.WADMKK);
+    const provinceName = normalizeName(properties.WADMPR);
+
+    return (
+      dataByName[`${provinceName}|${regionName}`] ||
+      dataByName[regionName]
+    );
+  };
+
+  const provinceStyle = (feature) => {
+    const item = getRegionItem(feature);
+
+    return {
+      color: "#ffffff",
+      weight: regionLevel === "province" ? 1 : 0.6,
+      fillColor: getColor(
+        item ? Number(item.value) : undefined
+      ),
+      fillOpacity: 0.9,
+    };
+  };
+
+  const onEachProvince = (feature, layer) => {
+    const item = getRegionItem(feature);
+    const properties = feature.properties || {};
+
+    const regionName =
+      item?.region ||
+      (regionLevel === "province"
+        ? properties.PROVINSI || properties.provinceName
+        : properties.WADMKK) ||
+      "Wilayah";
+
+    const formattedValue = item
+      ? Number(item.value).toLocaleString("id-ID", {
+          maximumFractionDigits: 2,
+        })
+      : "Data tidak tersedia";
+
+    const tooltip = document.createElement("div");
+
+    const title = document.createElement("strong");
+    title.textContent = regionName;
+
+    const details = document.createElement("div");
+    details.textContent =
+      `${indicatorName} | Tahun: ${year} | ` +
+      `Kategori: ${category || "-"} | ` +
+      `Nilai: ${formattedValue} ${item?.unit || ""}`;
+
+    tooltip.appendChild(title);
+    tooltip.appendChild(details);
+
+    layer.bindTooltip(tooltip, {
+      sticky: true,
+      direction: "top",
+    });
+  };
+
+  const selectedGeoJSON = indonesiaProvinceGeoJSON;
+
   return (
     <div className={`map-visual ${large ? "map-large" : ""}`}>
-      <div className="map-grid" />
-      <svg
-        viewBox="0 0 700 300"
-        role="img"
-        aria-label="Ilustrasi peta kepulauan Indonesia"
+      <MapContainer
+        key={`${regionLevel}-${indicatorCode}-${year}-${category}-${data.length}`}
+        center={[-2.5, 118]}
+        zoom={regionLevel === "province" ? 4 : 4}
+        scrollWheelZoom={false}
+        zoomControl={true}
+        style={{
+          height: large ? "460px" : "350px",
+          minHeight: large ? "460px" : "350px",
+          width: "100%",
+          background: "#f4f8ff",
+          borderRadius: "14px",
+        }}
       >
-        <defs>
-          <linearGradient id="island" x1="0" x2="1" y1="0" y2="1">
-            <stop offset="0" stopColor="#6db9ff" />
-            <stop offset="1" stopColor="#0878f9" />
-          </linearGradient>
-        </defs>
-        <g
-          fill="url(#island)"
-          stroke="#fff"
-          strokeWidth="2.5"
-          strokeLinejoin="round"
-        >
-          <path d="M48 95l30-12 28 7 13 16-15 12-26-5-14 13-19-9-12 8-8-13z" />
-          <path d="M105 138l23-9 22 9 14 16-13 15-18-3-11 13-13-9-7-17z" />
-          <path d="M183 95l27-11 21 7 18 19-14 12-20-4-10 11-17-6-11-13z" />
-          <path d="M226 138l18-8 20 8 12 14-14 11-17-3-10 8-12-10z" />
-          <path d="M291 98l20-12 16 4 8 14-9 13-19-3-11 8-9-12z" />
-          <path d="M327 125l14-7 12 9 3 14-10 9-13-6-7-10z" />
-          <path d="M365 92l22-13 18 6 16 16-8 13-19-1-10 10-17-7-8-13z" />
-          <path d="M405 135l22-9 17 8 7 15-13 12-19-4-10 8-12-11z" />
-          <path d="M457 101l20-11 19 8 8 13-13 10-17-3-8 8-12-9z" />
-          <path d="M506 119l18-8 17 9 8 13-13 10-15-5-11 6-9-12z" />
-          <path d="M552 91l25-10 17 8 10 15-15 13-20-4-9 9-13-10z" />
-          <path d="M585 142l15-9 16 8 6 13-12 11-14-4-8 7-9-11z" />
-          <path d="M635 110l15-6 12 9-5 13-14 3-8-8z" />
-          <path d="M155 190l18-7 19 7 10 13-12 10-17-2-11 6-9-11z" />
-          <path d="M247 192l20-8 18 9 6 12-15 11-15-4-8 7-12-12z" />
-          <path d="M355 188l16-8 15 9 4 12-12 10-13-3-8 5-8-11z" />
-          <path d="M472 190l19-8 15 8 4 13-13 9-15-4-8 5-7-11z" />
-        </g>
-        <g fill="#dbeeff" stroke="#fff" strokeWidth="1">
-          <circle cx="116" cy="104" r="5" />
-          <circle cx="250" cy="146" r="5" />
-          <circle cx="391" cy="100" r="5" />
-          <circle cx="522" cy="127" r="5" />
-          <circle cx="591" cy="148" r="5" />
-        </g>
-      </svg>
+        <GeoJSON
+          data={selectedGeoJSON}
+          style={provinceStyle}
+          onEachFeature={onEachProvince}
+        />
+      </MapContainer>
+
       <div className="map-legend">
         <span>
-          <i className="legend-blue" />
-          Kesenjangan rendah
+          <i style={{ background: "#dbeafe" }} />
+          Sangat rendah
         </span>
         <span>
-          <i className="legend-mid" />
+          <i style={{ background: "#93c5fd" }} />
+          Rendah
+        </span>
+        <span>
+          <i style={{ background: "#60a5fa" }} />
           Sedang
         </span>
         <span>
-          <i className="legend-high" />
+          <i style={{ background: "#2563eb" }} />
           Tinggi
         </span>
+        <span>
+          <i style={{ background: "#1e3a8a" }} />
+          Sangat tinggi
+        </span>
+        <span>
+          <i style={{ background: "#d1d5db" }} />
+          Tidak tersedia
+        </span>
       </div>
-      {large && (
-        <div className="map-tooltip">
-          <b>Kalimantan Barat</b>
-          <span>
-            Rasio Siswa-Guru <strong>19,2</strong>
-          </span>
-          <span>
-            Rata-rata Nasional <strong>16,8</strong>
-            <a> Lihat detail →</a>
-          </span>
-        </div>
-      )}
     </div>
   );
 }
-export function MiniBars({ data }) {
+
+export function MiniBars({ data = [], unit = "" }) {
+  const maxValue = Math.max(
+    ...data.map((item) => Number(item.value) || 0),
+    1
+  );
+
   return (
     <div className="mini-bars">
       {data.map((d, i) => (
-        <div className="mini-bar-row" key={d.name}>
+        <div className="mini-bar-row" key={`${d.name}-${i}`}>
           <span className="rank">{i + 1}</span>
           <span className="bar-name">{d.name}</span>
+
           <div className="bar-track">
-            <i style={{ width: `${d.value}%` }} />
+            <i
+              style={{
+                width: `${(Number(d.value) / maxValue) * 100}%`,
+              }}
+            />
           </div>
-          <b>{d.value.toFixed(1)}%</b>
+
+          <b>
+            {Number(d.value).toLocaleString("id-ID", {
+              maximumFractionDigits: 2,
+            })}
+            {unit === "persen" ? "%" : ` ${unit}`}
+          </b>
         </div>
       ))}
     </div>
@@ -641,6 +828,17 @@ export function DashboardPage({ setPage }) {
 
   const [lowestAPS, setLowestAPS] = React.useState([]);
 
+  const [educationDistribution, setEducationDistribution] = React.useState([]);
+  const [distributionTotal, setDistributionTotal] = React.useState(0);
+  const [loadingDistribution, setLoadingDistribution] = React.useState(true);
+  const [distributionError, setDistributionError] = React.useState("");
+
+  const [dashboardMapData, setDashboardMapData] = React.useState([]);
+  const [dashboardMapCategory, setDashboardMapCategory] = React.useState("");
+  const [dashboardMapError, setDashboardMapError] = React.useState("");
+
+  const [distributionYear, setDistributionYear] = React.useState("2024");
+
   // Mengambil ringkasan dashboard
   React.useEffect(() => {
     let cancelled = false;
@@ -674,6 +872,53 @@ export function DashboardPage({ setPage }) {
     };
   }, []);
 
+  // Mengambil data provinsi untuk peta dashboard
+  React.useEffect(() => {
+    let cancelled = false;
+
+    const loadDashboardMap = async () => {
+      try {
+        const result = await getMapData("APS", "2024");
+
+        if (!result.success) {
+          throw new Error("Gagal mengambil data peta dashboard.");
+        }
+
+        const provinceData = (result.data || []).filter(
+          (item) => item.region_type === "province"
+        );
+
+        const categories = [
+          ...new Set(
+            provinceData
+              .map((item) => item.category)
+              .filter(Boolean)
+          ),
+        ];
+
+        if (!cancelled) {
+          setDashboardMapData(provinceData);
+
+          setDashboardMapCategory(
+            categories.includes("16-18")
+              ? "16-18"
+              : categories[0] || ""
+          );
+        }
+      } catch (err) {
+        if (!cancelled) {
+          setDashboardMapError(err.message);
+        }
+      }
+    };
+
+    loadDashboardMap();
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
   // Mengambil dan mengolah tren APS
   React.useEffect(() => {
     let cancelled = false;
@@ -690,7 +935,7 @@ export function DashboardPage({ setPage }) {
         }
 
         const observations = (result.data || []).filter(
-          (item) => item.region_type === "province"
+          (item) => item.region_type === "province",
         );
 
         const grouped = {};
@@ -778,6 +1023,107 @@ export function DashboardPage({ setPage }) {
     };
   }, []);
 
+  // Mengambil distribusi peserta didik berdasarkan jenjang
+  React.useEffect(() => {
+    let cancelled = false;
+
+    const loadEducationDistribution = async () => {
+      setLoadingDistribution(true);
+      setDistributionError("");
+
+      try {
+        const result = await getMapData(
+          "STUDENT_COUNT",
+          distributionYear
+        );
+
+        if (!result.success) {
+          throw new Error("Gagal mengambil distribusi peserta didik.");
+        }
+
+        const provinceData = (result.data || []).filter(
+          (item) =>
+            item.region_type === "province" &&
+            Number.isFinite(Number(item.value))
+        );
+
+        const grouped = {
+          "SD/MI": 0,
+          "SMP/MTs": 0,
+          "SMA/MA": 0,
+          SMK: 0,
+        };
+
+        provinceData.forEach((item) => {
+          const category = String(item.category || "")
+            .split("|")[0]
+            .trim()
+            .toUpperCase();
+
+          const value = Number(item.value);
+
+          if (category.startsWith("SD/MI") || category === "SD") {
+            grouped["SD/MI"] += value;
+          } else if (
+            category.startsWith("SMP/MTs") ||
+            category === "SMP"
+          ) {
+            grouped["SMP/MTs"] += value;
+          } else if (
+            category.startsWith("SMA/MA") ||
+            category === "SMA"
+          ) {
+            grouped["SMA/MA"] += value;
+          } else if (category.startsWith("SMK")) {
+            grouped.SMK += value;
+          }
+        });
+
+        const total = Object.values(grouped).reduce(
+          (sum, value) => sum + value,
+          0
+        );
+
+        const colorsByLevel = {
+          "SD/MI": "#0878f9",
+          "SMP/MTs": "#4aa5ff",
+          "SMA/MA": "#7cc4ff",
+          SMK: "#b8e2ff",
+        };
+
+        const distributionResult = Object.entries(grouped)
+          .filter(([, value]) => value > 0)
+          .map(([name, value]) => ({
+            name,
+            value: Number(((value / total) * 100).toFixed(2)),
+            total: value,
+            color: colorsByLevel[name],
+          }));
+
+        if (!cancelled) {
+          setEducationDistribution(distributionResult);
+          setDistributionTotal(total);
+        }
+      } catch (err) {
+        if (!cancelled) {
+          setDistributionError(err.message);
+          setEducationDistribution([]);
+          setDistributionTotal(0);
+        }
+      } finally {
+        if (!cancelled) {
+          setLoadingDistribution(false);
+        }
+      }
+    };
+
+    loadEducationDistribution();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [distributionYear]);
+
   const formatNumber = (value) => {
     if (value === null || value === undefined) return "—";
     return Number(value).toLocaleString("id-ID");
@@ -813,7 +1159,11 @@ export function DashboardPage({ setPage }) {
           icon={School}
           label="Jumlah Indikator"
           value={
-            loading ? "Memuat..." : error ? "—" : formatNumber(summary?.total_indicators)
+            loading
+              ? "Memuat..."
+              : error
+                ? "—"
+                : formatNumber(summary?.total_indicators)
           }
           sub="Indikator pendidikan tersedia"
         />
@@ -822,7 +1172,11 @@ export function DashboardPage({ setPage }) {
           icon={Users}
           label="Cakupan Provinsi"
           value={
-            loading ? "Memuat..." : error ? "—" : formatNumber(summary?.total_provinces)
+            loading
+              ? "Memuat..."
+              : error
+                ? "—"
+                : formatNumber(summary?.total_provinces)
           }
           sub="Wilayah dalam database"
           accent="cyan"
@@ -832,7 +1186,11 @@ export function DashboardPage({ setPage }) {
           icon={GraduationCap}
           label="Total Observasi"
           value={
-            loading ? "Memuat..." : error ? "—" : formatNumber(summary?.total_observations)
+            loading
+              ? "Memuat..."
+              : error
+                ? "—"
+                : formatNumber(summary?.total_observations)
           }
           sub="Data observasi tersimpan"
           accent="orange"
@@ -866,50 +1224,95 @@ export function DashboardPage({ setPage }) {
             </button>
           }
         >
-          <IndonesiaMap />
+          <IndonesiaMap
+            data={dashboardMapData}
+            indicatorName="Angka Partisipasi Sekolah"
+            indicatorCode="APS"
+            year={2024}
+            category={dashboardMapCategory}
+          />
+
+          {dashboardMapError && (
+            <p style={{ color: "red" }}>
+              {dashboardMapError}
+            </p>
+          )}
         </Panel>
 
         <Panel
-          title="Distribusi Kondisi Pendidikan"
-          subtitle="Proporsi peserta didik berdasarkan jenjang"
+          title="Distribusi Peserta Didik"
+          subtitle={`Proporsi peserta didik berdasarkan jenjang · ${distributionYear}`}
         >
-          <div className="donut-wrap">
-            <ResponsiveContainer width="56%" height={190}>
-              <PieChart>
-                <Pie
-                  data={distribution}
-                  dataKey="value"
-                  nameKey="name"
-                  innerRadius={52}
-                  outerRadius={76}
-                  paddingAngle={3}
-                  stroke="none"
-                >
-                  {distribution.map((d, i) => (
-                    <Cell key={d.name} fill={colors[i]} />
-                  ))}
-                </Pie>
-                <Tooltip formatter={(v) => `${v}%`} />
-              </PieChart>
-            </ResponsiveContainer>
+          <div className="filter-field" style={{ marginBottom: "16px" }}>
+          <label htmlFor="distribution-year">Tahun Data</label>
+          <select
+            id="distribution-year"
+            value={distributionYear}
+            onChange={(e) => setDistributionYear(e.target.value)}
+          >
+            <option value="2025">2025</option>
+            <option value="2024">2024</option>
+            <option value="2023">2023</option>
+            <option value="2022">2022</option>
+            <option value="2021">2021</option>
+          </select>
+        </div>
+          {loadingDistribution ? (
+            <p>Memuat distribusi peserta didik...</p>
+          ) : distributionError ? (
+            <p style={{ color: "red" }}>{distributionError}</p>
+          ) : educationDistribution.length === 0 ? (
+            <p>Belum ada data distribusi peserta didik.</p>
+          ) : (
+            <div className="donut-wrap">
+              <ResponsiveContainer width="56%" height={190}>
+                <PieChart>
+                  <Pie
+                    data={educationDistribution}
+                    dataKey="value"
+                    nameKey="name"
+                    innerRadius={52}
+                    outerRadius={76}
+                    paddingAngle={3}
+                    stroke="none"
+                  >
+                    {educationDistribution.map((item) => (
+                      <Cell
+                        key={item.name}
+                        fill={item.color}
+                      />
+                    ))}
+                  </Pie>
 
-            <div className="donut-center">
-              <b>438.987</b>
-              <span>Sekolah</span>
-            </div>
+                  <Tooltip
+                    formatter={(value, name) => [
+                      `${value}%`,
+                      name,
+                    ]}
+                  />
+                </PieChart>
+              </ResponsiveContainer>
 
-            <div className="legend-list">
-              {distribution.map((d, i) => (
-                <div key={d.name}>
-                  <span>
-                    <i style={{ background: colors[i] }} />
-                    {d.name}
-                  </span>
-                  <b>{d.value}%</b>
-                </div>
-              ))}
+              <div className="donut-center">
+                <b>
+                  {distributionTotal.toLocaleString("id-ID")}
+                </b>
+                <span>Peserta Didik</span>
+              </div>
+
+              <div className="legend-list">
+                {educationDistribution.map((item) => (
+                  <div key={item.name}>
+                    <span>
+                      <i style={{ background: item.color }} />
+                      {item.name}
+                    </span>
+                    <b>{item.value}%</b>
+                  </div>
+                ))}
+              </div>
             </div>
-          </div>
+          )}
         </Panel>
 
         <Panel
@@ -963,9 +1366,7 @@ export function DashboardPage({ setPage }) {
                     domain={[0, 100]}
                   />
 
-                  <Tooltip
-                    formatter={(value) => [`${value}%`, "APS"]}
-                  />
+                  <Tooltip formatter={(value) => [`${value}%`, "APS"]} />
 
                   <Line
                     type="monotone"
@@ -1036,15 +1437,15 @@ export function DashboardPage({ setPage }) {
 }
 export function MapPage({ setPage }) {
   const [indicators, setIndicators] = useState([]);
-  const [mapData, setMapData] = useState([]);
-
-  const [indicator, setIndicator] = useState("APS");
+  const [indicator, setIndicator] = useState("STUDENT_COUNT");
   const [year, setYear] = useState("2024");
   const [region, setRegion] = useState("province");
+  const [mapData, setMapData] = useState([]);
   const [category, setCategory] = useState("");
-
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+
+  console.log("Region state MapPage:", region);
 
   // Mengambil daftar indikator dari database
   React.useEffect(() => {
@@ -1097,11 +1498,7 @@ export function MapPage({ setPage }) {
 
   // Pilihan kategori berdasarkan data API
   const categories = [
-    ...new Set(
-      mapData
-        .map((item) => item.category)
-        .filter(Boolean)
-    ),
+    ...new Set(mapData.map((item) => item.category).filter(Boolean)),
   ];
 
   // Pilih kategori pertama jika kategori belum dipilih
@@ -1116,23 +1513,26 @@ export function MapPage({ setPage }) {
     const type = String(item.region_type || "").toLowerCase();
 
     const matchesRegion =
-      region === "all" ||
-      (region === "province" && type.includes("province")) ||
-      (region === "regency" &&
-        (type.includes("regency") ||
+    region === "province"
+      ? type.includes("province")
+      : (
+          type.includes("regency") ||
           type.includes("kabupaten") ||
           type.includes("city") ||
-          type.includes("kota")));
+          type.includes("kota") ||
+          type.includes("district")
+        );
 
-    const matchesCategory =
-      !category || item.category === category;
+    const matchesCategory = !category || item.category === category;
 
     return matchesRegion && matchesCategory;
   });
 
+  const mapRegionData = filteredData;
+
   // Urutkan nilai untuk mendapatkan Top 5
   const sortedData = [...filteredData].sort(
-    (a, b) => Number(b.value) - Number(a.value)
+    (a, b) => Number(b.value) - Number(a.value),
   );
 
   const highestData = sortedData.slice(0, 5).map((item) => ({
@@ -1148,10 +1548,25 @@ export function MapPage({ setPage }) {
       value: Number(item.value),
     }));
 
-  const selectedIndicator = indicators.find(
-    (item) => item.code === indicator
-  );
+  const selectedIndicator = indicators.find((item) => item.code === indicator);
 
+  console.log(
+  "JUMLAH DATA KABUPATEN:",
+  mapData.filter((item) =>
+    ["regency", "city", "kabupaten", "kota"].some(
+      (type) => String(item.region_type).toLowerCase().includes(type)
+    )
+  ).length
+);
+
+console.log(
+  "CONTOH DATA KABUPATEN API:",
+  mapData.filter((item) =>
+    ["regency", "city", "kabupaten", "kota"].some(
+      (type) => String(item.region_type).toLowerCase().includes(type)
+    )
+  ).slice(0, 5)
+);
   return (
     <>
       <PageHeading
@@ -1176,10 +1591,7 @@ export function MapPage({ setPage }) {
 
         <div className="filter-field">
           <label>Tahun</label>
-          <select
-            value={year}
-            onChange={(e) => setYear(e.target.value)}
-          >
+          <select value={year} onChange={(e) => setYear(e.target.value)}>
             <option value="2025">2025</option>
             <option value="2024">2024</option>
             <option value="2023">2023</option>
@@ -1190,13 +1602,27 @@ export function MapPage({ setPage }) {
 
         <div className="filter-field">
           <label>Tingkat Wilayah</label>
-          <select
-            value={region}
-            onChange={(e) => setRegion(e.target.value)}
-          >
+          <select value={region} onChange={(e) => setRegion(e.target.value)}>
             <option value="province">Provinsi</option>
-            <option value="regency">Kabupaten/Kota</option>
-            <option value="all">Semua Wilayah</option>
+          </select>
+        </div>
+        
+        <div className="filter-field">
+          <label>Kategori Data</label>
+          <select
+            value={category}
+            onChange={(e) => setCategory(e.target.value)}
+            disabled={categories.length === 0}
+          >
+            {categories.length > 0 ? (
+              categories.map((item) => (
+                <option key={item} value={item}>
+                  {item}
+                </option>
+              ))
+            ) : (
+              <option value="">Tidak ada kategori</option>
+            )}
           </select>
         </div>
 
@@ -1217,15 +1643,17 @@ export function MapPage({ setPage }) {
 
       <Panel
         title={`${selectedIndicator?.name || indicator} · ${year}`}
-        subtitle={`Tingkat wilayah: ${
-          region === "province"
-            ? "Provinsi"
-            : region === "regency"
-              ? "Kabupaten/Kota"
-              : "Semua Wilayah"
-        }`}
+        subtitle="Tingkat wilayah: Provinsi"
       >
-        <IndonesiaMap large />
+        <IndonesiaMap
+          large
+          data={mapRegionData}
+          indicatorName={selectedIndicator?.name || indicator}
+          indicatorCode={indicator}
+          year={year}
+          category={category}
+          regionLevel={region}
+        />
 
         <div className="map-footnote">
           <span>
@@ -1244,24 +1672,6 @@ export function MapPage({ setPage }) {
         </div>
       </Panel>
 
-      {categories.length > 0 && (
-        <div className="filter-panel top-gap">
-          <div className="filter-field">
-            <label>Kategori Data</label>
-            <select
-              value={category}
-              onChange={(e) => setCategory(e.target.value)}
-            >
-              {categories.map((item) => (
-                <option key={item} value={item}>
-                  {item}
-                </option>
-              ))}
-            </select>
-          </div>
-        </div>
-      )}
-
       <div className="two-col top-gap">
         <Panel
           title="Top 5 Wilayah dengan Nilai Tertinggi"
@@ -1270,7 +1680,7 @@ export function MapPage({ setPage }) {
           {loading ? (
             <p>Memuat data...</p>
           ) : highestData.length > 0 ? (
-            <MiniBars data={highestData} />
+            <MiniBars data={highestData} unit={selectedIndicator?.unit || ""} />
           ) : (
             <p>Belum ada data untuk filter yang dipilih.</p>
           )}
@@ -1283,7 +1693,7 @@ export function MapPage({ setPage }) {
           {loading ? (
             <p>Memuat data...</p>
           ) : lowestData.length > 0 ? (
-            <MiniBars data={lowestData} />
+            <MiniBars data={lowestData} unit={selectedIndicator?.unit || ""} />
           ) : (
             <p>Belum ada data untuk filter yang dipilih.</p>
           )}
@@ -1360,7 +1770,7 @@ export function ExplorePage() {
   // Daftar kategori yang tersedia dari database
   const categories = useMemo(
     () => [...new Set(data.map((item) => item.category).filter(Boolean))],
-    [data]
+    [data],
   );
 
   // Filter data
@@ -1380,16 +1790,13 @@ export function ExplorePage() {
             type.includes("city") ||
             type.includes("kota")));
 
-      const matchesCategory =
-        category === "all" || item.category === category;
+      const matchesCategory = category === "all" || item.category === category;
 
       return matchesQuery && matchesLevel && matchesCategory;
     });
   }, [data, query, regionLevel, category]);
 
-  const selectedIndicator = indicators.find(
-    (item) => item.code === indicator
-  );
+  const selectedIndicator = indicators.find((item) => item.code === indicator);
 
   // Ekspor data yang sedang ditampilkan ke CSV
   const exportCsv = () => {
@@ -1415,14 +1822,11 @@ export function ExplorePage() {
       item.unit,
     ]);
 
-    const csvContent = [
-      headers,
-      ...rows,
-    ]
+    const csvContent = [headers, ...rows]
       .map((row) =>
         row
           .map((value) => `"${String(value ?? "").replace(/"/g, '""')}"`)
-          .join(",")
+          .join(","),
       )
       .join("\n");
 
@@ -1497,10 +1901,7 @@ export function ExplorePage() {
 
         <div className="filter-field">
           <label>Tahun</label>
-          <select
-            value={year}
-            onChange={(e) => setYear(e.target.value)}
-          >
+          <select value={year} onChange={(e) => setYear(e.target.value)}>
             <option value="2025">2025</option>
             <option value="2024">2024</option>
             <option value="2023">2023</option>
@@ -1512,12 +1913,13 @@ export function ExplorePage() {
         <div className="filter-field">
           <label>Tingkat Wilayah</label>
           <select
-            value={regionLevel}
-            onChange={(e) => setRegionLevel(e.target.value)}
+            value={region}
+            onChange={(e) => {
+              console.log("Tingkat wilayah dipilih:", e.target.value);
+              setRegion(e.target.value);
+            }}
           >
             <option value="province">Provinsi</option>
-            <option value="regency">Kabupaten/Kota</option>
-            <option value="all">Semua wilayah</option>
           </select>
         </div>
 
@@ -1547,11 +1949,7 @@ export function ExplorePage() {
         </span>
       </div>
 
-      {error && (
-        <div className="empty-state">
-          Gagal memuat data: {error}
-        </div>
-      )}
+      {error && <div className="empty-state">Gagal memuat data: {error}</div>}
 
       <div className="table-wrap">
         <table>
@@ -1615,8 +2013,8 @@ export function ExplorePage() {
 
       <div className="table-footer">
         <span>
-          Menampilkan {Math.min(show, filtered.length)} dari{" "}
-          {filtered.length} data
+          Menampilkan {Math.min(show, filtered.length)} dari {filtered.length}{" "}
+          data
         </span>
 
         <div>
@@ -1658,12 +2056,13 @@ export function ComparePage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
+  const [mapData, setMapData] = useState([]);
+  const [mapLoading, setMapLoading] = useState(false);
+  const [mapError, setMapError] = useState("");
+
   // Ambil daftar wilayah dan indikator
   React.useEffect(() => {
-    Promise.all([
-      getRegions("province"),
-      getIndicators(),
-    ])
+    Promise.all([getRegions("province"), getIndicators()])
       .then(([regionResult, indicatorResult]) => {
         if (!regionResult.success || !indicatorResult.success) {
           throw new Error("Gagal mengambil data wilayah atau indikator.");
@@ -1675,9 +2074,7 @@ export function ComparePage() {
         setIndicators(indicatorResult.data || []);
 
         // Pilih dua wilayah awal jika tersedia
-        setSelected(
-          provinceList.slice(0, 2).map((item) => item.id)
-        );
+        setSelected(provinceList.slice(0, 2).map((item) => item.id));
       })
       .catch((err) => setError(err.message));
   }, []);
@@ -1696,11 +2093,7 @@ export function ComparePage() {
       setError("");
 
       try {
-        const result = await compareRegions(
-          indicator,
-          year,
-          selected
-        );
+        const result = await compareRegions(indicator, year, selected);
 
         if (!result.success) {
           throw new Error("Gagal mengambil data perbandingan.");
@@ -1736,17 +2129,54 @@ export function ComparePage() {
     };
   }, [selected, indicator, year]);
 
+  // Mengambil data peta berdasarkan indikator dan tahun
+React.useEffect(() => {
+  let cancelled = false;
+
+  const loadComparisonMap = async () => {
+    setMapLoading(true);
+    setMapError("");
+
+    try {
+      const result = await getMapData(indicator, year);
+
+      if (!result.success) {
+        throw new Error("Gagal mengambil data peta perbandingan.");
+      }
+
+      const provinceData = (result.data || []).filter(
+        (item) => item.region_type === "province"
+      );
+
+      if (!cancelled) {
+        setMapData(provinceData);
+      }
+    } catch (err) {
+      if (!cancelled) {
+        setMapData([]);
+        setMapError(err.message);
+      }
+    } finally {
+      if (!cancelled) {
+        setMapLoading(false);
+      }
+    }
+  };
+
+  loadComparisonMap();
+
+  return () => {
+    cancelled = true;
+  };
+}, [indicator, year]);
+
   // Kategori yang tersedia
   const categories = [
-    ...new Set(
-      data.map((item) => item.category).filter(Boolean)
-    ),
+    ...new Set(data.map((item) => item.category).filter(Boolean)),
   ];
 
   const activeCategory =
-    category && categories.includes(category)
-      ? category
-      : categories[0] || "";
+    category && categories.includes(category) ? category : categories[0] || "";
 
   // Ubah ID wilayah menjadi nama wilayah
   const comparisonData = data
@@ -1755,7 +2185,7 @@ export function ComparePage() {
     })
     .map((item) => {
       const region = regions.find(
-        (r) => Number(r.id) === Number(item.region_id)
+        (r) => Number(r.id) === Number(item.region_id),
       );
 
       return {
@@ -1770,8 +2200,12 @@ export function ComparePage() {
       };
     });
 
-  const selectedIndicator = indicators.find(
-    (item) => item.code === indicator
+  const selectedIndicator = indicators.find((item) => item.code === indicator);
+
+  const selectedMapData = mapData.filter((item) =>
+    selected.some(
+      (id) => Number(id) === Number(item.region_id)
+    )
   );
 
   const formatValue = (value) =>
@@ -1797,7 +2231,7 @@ export function ComparePage() {
           <div className="chips">
             {selected.map((id) => {
               const region = regions.find(
-                (item) => Number(item.id) === Number(id)
+                (item) => Number(item.id) === Number(id),
               );
 
               if (!region) return null;
@@ -1819,10 +2253,7 @@ export function ComparePage() {
               onChange={(e) => {
                 const id = Number(e.target.value);
 
-                if (
-                  id &&
-                  !selected.includes(id)
-                ) {
+                if (id && !selected.includes(id)) {
                   setSelected((prev) => [...prev, id]);
                 }
               }}
@@ -1830,9 +2261,7 @@ export function ComparePage() {
               <option value="">+ Tambah wilayah</option>
 
               {regions
-                .filter(
-                  (item) => !selected.includes(Number(item.id))
-                )
+                .filter((item) => !selected.includes(Number(item.id)))
                 .map((item) => (
                   <option key={item.id} value={item.id}>
                     {item.name}
@@ -1858,10 +2287,7 @@ export function ComparePage() {
 
         <div className="filter-field">
           <label>Tahun</label>
-          <select
-            value={year}
-            onChange={(e) => setYear(e.target.value)}
-          >
+          <select value={year} onChange={(e) => setYear(e.target.value)}>
             <option value="2025">2025</option>
             <option value="2024">2024</option>
             <option value="2023">2023</option>
@@ -1913,8 +2339,8 @@ export function ComparePage() {
           <p>Pilih minimal dua wilayah untuk melakukan perbandingan.</p>
         ) : comparisonData.length === 0 ? (
           <p>
-            Belum tersedia data untuk kombinasi wilayah, indikator,
-            tahun, dan kategori yang dipilih.
+            Belum tersedia data untuk kombinasi wilayah, indikator, tahun, dan
+            kategori yang dipilih.
           </p>
         ) : tab === "Grafik" ? (
           <ResponsiveContainer width="100%" height={280}>
@@ -1977,19 +2403,35 @@ export function ComparePage() {
                 <span>{item.name}</span>
                 <b>{formatValue(item.value)}</b>
                 <small>
-                  {item.category || selectedIndicator?.unit || "Nilai observasi"}
+                  {item.category ||
+                    selectedIndicator?.unit ||
+                    "Nilai observasi"}
                 </small>
               </div>
             ))}
           </div>
         ) : (
           <>
-            <IndonesiaMap />
-            <p className="map-footnote">
-              Peta mini merupakan ilustrasi. Nilai perbandingan aktual
-              ditampilkan pada grafik dan tabel.
-            </p>
-          </>
+        {mapLoading ? (
+          <p>Memuat peta perbandingan...</p>
+        ) : mapError ? (
+          <p style={{ color: "red" }}>{mapError}</p>
+        ) : (
+          <IndonesiaMap
+            large
+            data={selectedMapData}
+            indicatorName={selectedIndicator?.name || indicator}
+            indicatorCode={indicator}
+            year={year}
+            category={activeCategory}
+          />
+        )}
+
+        <p className="map-footnote">
+          Peta menampilkan nilai indikator pada provinsi yang dipilih
+          untuk dibandingkan.
+        </p>
+      </>
         )}
       </Panel>
     </>
@@ -2227,9 +2669,8 @@ export function DetailPage() {
         setRegions(provinceList);
 
         const defaultRegion =
-          provinceList.find(
-            (item) => item.name === "Nusa Tenggara Timur"
-          ) || provinceList[0];
+          provinceList.find((item) => item.name === "Nusa Tenggara Timur") ||
+          provinceList[0];
 
         if (defaultRegion) {
           setRegionId(String(defaultRegion.id));
@@ -2286,21 +2727,15 @@ export function DetailPage() {
   }, [regionId]);
 
   const selectedRegion = regions.find(
-    (item) => String(item.id) === String(regionId)
+    (item) => String(item.id) === String(regionId),
   );
 
   const categories = [
-    ...new Set(
-      observations
-        .map((item) => item.category)
-        .filter(Boolean)
-    ),
+    ...new Set(observations.map((item) => item.category).filter(Boolean)),
   ];
 
   const activeCategory =
-    category && categories.includes(category)
-      ? category
-      : categories[0] || "";
+    category && categories.includes(category) ? category : categories[0] || "";
 
   const selectedObservations = observations
     .filter((item) => item.category === activeCategory)
@@ -2498,12 +2933,8 @@ export function DetailPage() {
 
                 <div>
                   <b>Angka Partisipasi Sekolah</b>
-                  <p>
-                    Kategori umur {latestObservation.category}
-                  </p>
-                  <span>
-                    Tahun {latestObservation.year}
-                  </span>
+                  <p>Kategori umur {latestObservation.category}</p>
+                  <span>Tahun {latestObservation.year}</span>
                 </div>
               </div>
 
@@ -2515,7 +2946,7 @@ export function DetailPage() {
                     style={{
                       width: `${Math.min(
                         100,
-                        Math.max(0, Number(latestObservation.value))
+                        Math.max(0, Number(latestObservation.value)),
                       )}%`,
                     }}
                   />
@@ -2618,9 +3049,7 @@ export function InsightsPage({ setPage }) {
     });
 
   // Mengurutkan wilayah berdasarkan perubahan indikator
-  const sortedData = [...data].sort(
-    (a, b) => a.value_change - b.value_change
-  );
+  const sortedData = [...data].sort((a, b) => a.value_change - b.value_change);
 
   const decliningRegions = sortedData
     .filter((item) => item.value_change < 0)
@@ -2659,14 +3088,11 @@ export function InsightsPage({ setPage }) {
       item.percentage_change,
     ]);
 
-    const csvContent = [
-      headers,
-      ...rows,
-    ]
+    const csvContent = [headers, ...rows]
       .map((row) =>
         row
           .map((value) => `"${String(value ?? "").replace(/"/g, '""')}"`)
-          .join(",")
+          .join(","),
       )
       .join("\n");
 
@@ -2738,9 +3164,7 @@ export function InsightsPage({ setPage }) {
             </div>
 
             <div>
-              <span>
-                INSIGHT UTAMA · {indicator}
-              </span>
+              <span>INSIGHT UTAMA · {indicator}</span>
 
               <h2>
                 {largestDecline
@@ -2755,10 +3179,7 @@ export function InsightsPage({ setPage }) {
               </p>
             </div>
 
-            <button
-              className="primary-btn"
-              onClick={() => setPage("Simulasi")}
-            >
+            <button className="primary-btn" onClick={() => setPage("Simulasi")}>
               Coba simulasi <ArrowRight size={15} />
             </button>
           </div>
@@ -2780,9 +3201,7 @@ export function InsightsPage({ setPage }) {
 
                       <b>{item.region}</b>
 
-                      <span>
-                        {formatNumber(item.value_change)}
-                      </span>
+                      <span>{formatNumber(item.value_change)}</span>
 
                       <span className="severity high">
                         {formatNumber(item.percentage_change)}%
@@ -2809,7 +3228,10 @@ export function InsightsPage({ setPage }) {
               <div className="factor-list">
                 {increasingRegions.length > 0 ? (
                   increasingRegions.map((item, index) => (
-                    <div className="factor" key={`${item.region_id}-${item.category}`}>
+                    <div
+                      className="factor"
+                      key={`${item.region_id}-${item.category}`}
+                    >
                       <div>
                         <span>
                           {index + 1}. {item.region} ({item.category})
@@ -2823,7 +3245,7 @@ export function InsightsPage({ setPage }) {
                           style={{
                             width: `${Math.min(
                               Math.abs(item.percentage_change),
-                              100
+                              100,
                             )}%`,
                           }}
                         />
@@ -2849,9 +3271,8 @@ export function InsightsPage({ setPage }) {
               <h3>Evaluasi pemerataan tenaga pendidik</h3>
 
               <p>
-                Bandingkan data tenaga pendidik dan jumlah siswa
-                untuk mengidentifikasi wilayah yang membutuhkan
-                pemerataan guru.
+                Bandingkan data tenaga pendidik dan jumlah siswa untuk
+                mengidentifikasi wilayah yang membutuhkan pemerataan guru.
               </p>
 
               <button onClick={() => setPage("Jelajahi Data")}>
@@ -2869,9 +3290,8 @@ export function InsightsPage({ setPage }) {
               <h3>Periksa kondisi fasilitas pendidikan</h3>
 
               <p>
-                Gunakan data kondisi sekolah untuk melihat
-                kebutuhan fasilitas dasar dan sarana pembelajaran
-                di setiap wilayah.
+                Gunakan data kondisi sekolah untuk melihat kebutuhan fasilitas
+                dasar dan sarana pembelajaran di setiap wilayah.
               </p>
 
               <button onClick={() => setPage("Jelajahi Data")}>
@@ -2889,9 +3309,8 @@ export function InsightsPage({ setPage }) {
               <h3>Prioritaskan akses pendidikan</h3>
 
               <p>
-                Perhatikan kategori usia dengan perubahan indikator
-                terbesar sebagai bahan evaluasi program pemerataan
-                akses pendidikan.
+                Perhatikan kategori usia dengan perubahan indikator terbesar
+                sebagai bahan evaluasi program pemerataan akses pendidikan.
               </p>
 
               <button onClick={() => setPage("Peta Kesenjangan")}>

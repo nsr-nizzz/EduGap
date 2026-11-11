@@ -18,6 +18,14 @@ Teknologi yang digunakan dalam pengembangan EduGap:
 - **Version Control:** Git & GitHub
 - **Database:** PostgreSQL
 
+## Kredit dan Atribusi
+
+Visualisasi peta geografis Indonesia pada project EduGap menggunakan data GeoJSON yang bersumber dari repository berikut:
+
+Indonesia GeoJSON 2026 – [mashadinoor/Indonesia-Geojson-2026](https://github.com/mashadinoor/Indonesia-Geojson-2026)
+
+Terima kasih kepada mashadinoor atas penyediaan data GeoJSON yang digunakan sebagai referensi dalam pengembangan visualisasi peta Indonesia pada EduGap.
+
 ## Cara Menjalankan Project
 
 Pastikan perangkat telah memiliki:
